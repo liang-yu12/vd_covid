@@ -1,0 +1,24 @@
+code,description,type
+XaCKc,Down's Screening Blood Test Abnormal,CTV3
+PJ0..,(Down's Trisom 21) Or (Mongol) Or (Trisom 21) Or (Trisom 22),CTV3
+PJ00.,Trisomy 21- Meiotic Nondisjunction,CTV3
+PJ01.,Trisomy 21- Mitotic Nondisjunction Mosaicism,CTV3
+PJ01.,Trisomy 21- Mitotic Nondisjunction Mosaicism,CTV3
+X78Ek,Down's Syndrome Nos,CTV3
+X78Ek,Down's Syndrome Nos,CTV3
+X78El,Partial Trisomy 21 In Down's Syndrome,CTV3
+X78El,Partial Trisomy 21 In Down's Syndrome,CTV3
+XE1MZ,Down's Syndrome,CTV3
+XE1MZ,Down's Syndrome,CTV3
+Q90,Q90 Down's Syndrome,ICD-10
+Q900,"Q90.0 Trisomy 21, Meiotic Nondisjunction",ICD-10
+Q901,"Q90.1 Trisomy 21, Mosaicism (Mitotic Nondisjunction)",ICD-10
+Q902,"Q90.2 Trisomy 21, Translocation",ICD-10
+Q909,"Q90.9 Down's Syndrome, Unspecified",ICD-10
+709469005,Periodontitis Co-Occurrent With Down Syndrome,SNOMED-CT
+41040004,Complete Trisomy 21 Syndrome,SNOMED-CT
+254264002,Partial Trisomy 21 In Down's Syndrome,SNOMED-CT
+248199009,Down's Facies (Finding),SNOMED-CT
+228050004,21q Partial Trisomy Syndrome (Disorder),SNOMED-CT
+227035005,21q Partial Distal Trisomy Syndrome,SNOMED-CT
+205615000,Trisomy 21- Meiotic Nondisjunction (Disorder),SNOMED-CT

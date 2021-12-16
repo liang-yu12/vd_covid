@@ -1,0 +1,2236 @@
+code,description,type
+4C53.,Bone Marrow: Myeloma Cells,CTV3
+A7896,Hiv Disease Resulting In Burkitt's Lymphoma,CTV3
+A7897,Hiv Dis Resulting Oth Types Of Non-Hodgkin's Lymphoma,CTV3
+AyuC6,[X]Hiv Disease Resulting In Other Non-Hodgkin's Lymphoma,CTV3
+B6...,Malig Neoplasm Lympha & Haemopoiet Tiss (& [Histiocyt Tiss]),CTV3
+B60..,Lymphosarcoma And Reticulosarcoma,CTV3
+B600.,Reticulosarcoma,CTV3
+B6000,Reticulosarcoma Of Unspecified Site,CTV3
+B6001,"Reticulosarcoma Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6002,Reticulosarcoma Of Intrathoracic Lymph Nodes,CTV3
+B6003,Reticulosarcoma Of Intra-Abdominal Lymph Nodes,CTV3
+B6004,Reticulosarcoma Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6005,Reticulosarcoma Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6006,Reticulosarcoma Of Intrapelvic Lymph Nodes,CTV3
+B6007,Reticulosarcoma Of Spleen,CTV3
+B6008,Reticulosarcoma Of Lymph Nodes Of Multiple Sites,CTV3
+B600z,Reticulosarcoma Nos,CTV3
+B601.,Lymphosarcoma,CTV3
+B6010,Lymphosarcoma Of Unspecified Site,CTV3
+B6011,"Lymphosarcoma Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6012,Lymphosarcoma Of Intrathoracic Lymph Nodes,CTV3
+B6013,Lymphosarcoma Of Intra-Abdominal Lymph Nodes,CTV3
+B6014,Lymphosarcoma Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6015,Lymphosarcoma Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6016,Lymphosarcoma Of Intrapelvic Lymph Nodes,CTV3
+B6017,Lymphosarcoma Of Spleen,CTV3
+B6018,Lymphosarcoma Of Lymph Nodes Of Multiple Sites,CTV3
+B601z,Lymphosarcoma Nos,CTV3
+B602.,Burkitt's Lymphoma - Disorder,CTV3
+B6020,Burkitt's Lymphoma Of Unspecified Site,CTV3
+B6021,"Burkitt's Lymphoma Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6022,Burkitt's Lymphoma Of Intrathoracic Lymph Nodes,CTV3
+B6023,Burkitt's Lymphoma Of Intra-Abdominal Lymph Nodes,CTV3
+B6024,Burkitt's Lymphoma Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6025,Burkitt's Lymphoma Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6026,Burkitt's Lymphoma Of Intrapelvic Lymph Nodes,CTV3
+B6027,Burkitt's Lymphoma Of Spleen,CTV3
+B6028,Burkitt's Lymphoma Of Lymph Nodes Of Multiple Sites,CTV3
+B602z,Burkitt's Lymphoma Nos,CTV3
+B60y.,Other Specified Reticulosarcoma Or Lymphosarcoma,CTV3
+B60z.,Reticulosarcoma Or Lymphosarcoma Nos,CTV3
+B61..,Hodgkin's Disease,CTV3
+B611.,Hodgkin's Granuloma,CTV3
+B6110,Hodgkin's Granuloma Of Unspecified Site,CTV3
+B6111,"Hodgkin's Granuloma Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6112,Hodgkin's Granuloma Of Intrathoracic Lymph Nodes,CTV3
+B6113,Hodgkin's Granuloma Of Intra-Abdominal Lymph Nodes,CTV3
+B6114,Hodgkin's Granuloma Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6115,Hodgkin's Granuloma Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6116,Hodgkin's Granuloma Of Intrapelvic Lymph Nodes,CTV3
+B6117,Hodgkin's Granuloma Of Spleen,CTV3
+B6118,Hodgkin's Granuloma Of Lymph Nodes Of Multiple Sites,CTV3
+B611z,Hodgkin's Granuloma Nos,CTV3
+B612.,Hodgkin's Sarcoma,CTV3
+B6120,Hodgkin's Sarcoma Of Unspecified Site,CTV3
+B6121,"Hodgkin's Sarcoma Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6122,Hodgkin's Sarcoma Of Intrathoracic Lymph Nodes,CTV3
+B6123,Hodgkin's Sarcoma Of Intra-Abdominal Lymph Nodes,CTV3
+B6124,Hodgkin's Sarcoma Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6125,Hodgkin's Sarcoma Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6126,Hodgkin's Sarcoma Of Intrapelvic Lymph Nodes,CTV3
+B6127,Hodgkin's Sarcoma Of Spleen,CTV3
+B6128,Hodgkin's Sarcoma Of Lymph Nodes Of Multiple Sites,CTV3
+B612z,Hodgkin's Sarcoma Nos,CTV3
+B613.,Lymphocyte-Rich Classical Hodgkin Lymphoma,CTV3
+B6130,"Hodgkin's, Lymphocytic-Histiocytic Predominance Unspec Site",CTV3
+B6131,"Hodgkin's, Lymphocytic-Histiocytic Pred Of Head, Face, Neck",CTV3
+B6132,"Hodgkin's, Lymphocytic-Histiocytic Pred Intrathoracic Nodes",CTV3
+B6133,"Hodgkin's, Lymphocytic-Histiocytic Pred Intra-Abdominal Node",CTV3
+B6134,"Hodgkin's, Lymphocytic-Histiocytic Pred Axilla And Arm",CTV3
+B6135,"Hodgkin's, Lymphocytic-Histiocytic Pred Inguinal And Leg",CTV3
+B6136,"Hodgkin's, Lymphocytic-Histiocytic Pred Intrapelvic Nodes",CTV3
+B6137,"Hodgkin's, Lymphocytic-Histiocytic Predominance Of Spleen",CTV3
+B6138,"Hodgkin's, Lymphocytic-Histiocytic Pred Of Multiple Sites",CTV3
+B613z,"Hodgkin's, Lymphocytic-Histiocytic Predominance Nos",CTV3
+B614.,"Hodgkin's Disease, Nodular Sclerosis",CTV3
+B6140,"Hodgkin's Disease, Nodular Sclerosis Of Unspecified Site",CTV3
+B6141,"Hodgkin's Nodular Sclerosis Of Head, Face And Neck",CTV3
+B6142,Hodgkin's Nodular Sclerosis Of Intrathoracic Lymph Nodes,CTV3
+B6143,Hodgkin's Nodular Sclerosis Of Intra-Abdominal Lymph Nodes,CTV3
+B6144,Hodgkin's Nodular Sclerosis Of Lymph Nodes Of Axilla And Arm,CTV3
+B6145,Hodgkin's Nodular Sclerosis Of Inguinal Region And Leg,CTV3
+B6146,Hodgkin's Nodular Sclerosis Of Intrapelvic Lymph Nodes,CTV3
+B6147,"Hodgkin's Disease, Nodular Sclerosis Of Spleen",CTV3
+B6148,Hodgkin's Nodular Sclerosis Of Lymph Nodes Of Multiple Sites,CTV3
+B614z,"Hodgkin's Disease, Nodular Sclerosis Nos",CTV3
+B615.,"Hodgkin's Disease, Mixed Cellularity",CTV3
+B6150,"Hodgkin's Disease, Mixed Cellularity Of Unspecified Site",CTV3
+B6151,"Hodgkin's Mixed Cellularity Of Lymph Nodes Head, Face, Neck",CTV3
+B6152,Hodgkin's Mixed Cellularity Of Intrathoracic Lymph Nodes,CTV3
+B6153,Hodgkin's Mixed Cellularity Of Intra-Abdominal Lymph Nodes,CTV3
+B6154,Hodgkin's Mixed Cellularity Of Lymph Nodes Of Axilla And Arm,CTV3
+B6155,Hodgkin's Mixed Cellularity Of Lymph Nodes Inguinal And Leg,CTV3
+B6156,Hodgkin's Mixed Cellularity Of Intrapelvic Lymph Nodes,CTV3
+B6157,"Hodgkin's Disease, Mixed Cellularity Of Spleen",CTV3
+B6158,Hodgkin's Mixed Cellularity Of Lymph Nodes Of Multiple Sites,CTV3
+B615z,"Hodgkin's Disease, Mixed Cellularity Nos",CTV3
+B616.,"Hodgkin's Disease, Lymphocytic Depletion",CTV3
+B6160,Hodgkin's Lymphocytic Depletion Of Unspecified Site,CTV3
+B6161,"Hodgkin's Lymphocytic Depletion Of Head, Face And Neck",CTV3
+B6162,Hodgkin's Lymphocytic Depletion Of Intrathoracic Lymph Nodes,CTV3
+B6163,Hodgkin's Lymphocytic Depletion Intra-Abdominal Lymph Nodes,CTV3
+B6164,Hodgkin's Lymphocytic Depletion Lymph Nodes Axilla And Arm,CTV3
+B6165,Hodgkin's Lymphocytic Depletion Lymph Nodes Inguinal And Leg,CTV3
+B6166,Hodgkin's Lymphocytic Depletion Of Intrapelvic Lymph Nodes,CTV3
+B6167,"Hodgkin's Disease, Lymphocytic Depletion Of Spleen",CTV3
+B6168,Hodgkin's Lymphocytic Depletion Lymph Nodes Multiple Sites,CTV3
+B616z,"Hodgkin's Disease, Lymphocytic Depletion Nos",CTV3
+B61z.,Hodgkin's Disease Nos,CTV3
+B61z0,"Hodgkin's Disease Nos, Unspecified Site",CTV3
+B61z1,"Hodgkin's Disease Nos Of Lymph Nodes Of Head, Face And Neck",CTV3
+B61z2,Hodgkin's Disease Nos Of Intrathoracic Lymph Nodes,CTV3
+B61z3,Hodgkin's Disease Nos Of Intra-Abdominal Lymph Nodes,CTV3
+B61z4,Hodgkin's Disease Nos Of Lymph Nodes Of Axilla And Arm,CTV3
+B61z5,Hodgkin's Disease Nos Of Lymph Nodes Inguinal Region And Leg,CTV3
+B61z6,Hodgkin's Disease Nos Of Intrapelvic Lymph Nodes,CTV3
+B61z7,Hodgkin's Disease Nos Of Spleen,CTV3
+B61z8,Hodgkin's Disease Nos Of Lymph Nodes Of Multiple Sites,CTV3
+B61zz,Hodgkin's Disease Nos,CTV3
+B62..,Other Malignant Neoplasm Of Lymphoid And Histiocytic Tissue,CTV3
+B620.,(Nodular Lymphoma: Brill-Symmers) Or (Reticulosarc Foll/Nod),CTV3
+B6200,Nodular Lymphoma Of Unspecified Site,CTV3
+B6201,"Nodular Lymphoma Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6202,Nodular Lymphoma Of Intrathoracic Lymph Nodes,CTV3
+B6203,Nodular Lymphoma Of Intra-Abdominal Lymph Nodes,CTV3
+B6204,Nodular Lymphoma Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6205,Nodular Lymphoma Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6206,Nodular Lymphoma Of Intrapelvic Lymph Nodes,CTV3
+B6207,Nodular Lymphoma Of Spleen,CTV3
+B6208,Nodular Lymphoma Of Lymph Nodes Of Multiple Sites,CTV3
+B620z,Nodular Lymphoma Nos,CTV3
+B621.,Mycosis Fungoides,CTV3
+B6210,Mycosis Fungoides Of Unspecified Site,CTV3
+B6211,"Mycosis Fungoides Of The Lymph Nodes Of Head, Face And Neck",CTV3
+B6212,Mycosis Fungoides Of Intrathoracic Lymph Nodes,CTV3
+B6213,Mycosis Fungoides Of Intra-Abdominal Lymph Nodes,CTV3
+B6214,Mycosis Fungoides Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6215,Mycosis Fungoides Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6216,Mycosis Fungoides Of Intrapelvic Lymph Nodes,CTV3
+B6217,Mycosis Fungoides Of Spleen,CTV3
+B6218,Mycosis Fungoides Of Lymph Nodes Of Multiple Sites,CTV3
+B621z,Mycosis Fungoides Nos,CTV3
+B622.,Sezary's Disease,CTV3
+B6220,Sezary's Disease Of Unspecified Site,CTV3
+B6221,"Sezary's Disease Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6222,Sezary's Disease Of Intrathoracic Lymph Nodes,CTV3
+B6223,Sezary's Disease Of Intra-Abdominal Lymph Nodes,CTV3
+B6224,Sezary's Disease Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6225,Sezary's Disease Of Lymph Nodes Of Inguinal Region And Leg,CTV3
+B6226,Sezary's Disease Of Intrapelvic Lymph Nodes,CTV3
+B6227,Sezary's Disease Of Spleen,CTV3
+B6228,Sezary's Disease Of Lymph Nodes Of Multiple Sites,CTV3
+B622z,Sezary's Disease Nos,CTV3
+B623.,Malignant Histiocytosis,CTV3
+B6230,Malignant Histiocytosis Of Unspecified Site,CTV3
+B6231,"Malignant Histiocytosis Of Lymph Nodes Head, Face And Neck",CTV3
+B6232,Malignant Histiocytosis Of Intrathoracic Lymph Nodes,CTV3
+B6233,Malignant Histiocytosis Of Intra-Abdominal Lymph Nodes,CTV3
+B6234,Malignant Histiocytosis Of Lymph Nodes Of Axilla And Arm,CTV3
+B6235,Malignant Histiocytosis Of Lymph Nodes Inguinal And Leg,CTV3
+B6236,Malignant Histiocytosis Of Intrapelvic Lymph Nodes,CTV3
+B6237,Malignant Histiocytosis Of Spleen,CTV3
+B6238,Malignant Histiocytosis Of Lymph Nodes Of Multiple Sites,CTV3
+B623z,Malignant Histiocytosis Nos,CTV3
+B624.,Hairy Cell Leukaemia,CTV3
+B6240,Leukaemic Reticuloendotheliosis Of Unspecified Sites,CTV3
+B6241,"Leukaemic Reticuloend Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6242,Leukaemic Reticuloendotheliosis Of Intrathoracic Lymph Nodes,CTV3
+B6243,Leukaemic Reticuloend Of Intra-Abdominal Lymph Nodes,CTV3
+B6244,Leukaemic Reticuloend Of Lymph Nodes Of Axilla And Arm,CTV3
+B6245,Leukaemic Reticuloend Of Lymph Nodes Inguinal Region And Leg,CTV3
+B6246,Leukaemic Reticuloendotheliosis Of Intrapelvic Lymph Nodes,CTV3
+B6247,Leukaemic Reticuloendotheliosis Of Spleen,CTV3
+B6248,Leukaemic Reticuloend Of Lymph Nodes Of Multiple Sites,CTV3
+B624z,Leukaemic Reticuloendotheliosis Nos,CTV3
+B625.,Letterer-Siwe Disease,CTV3
+B6250,Letterer-Siwe Disease Of Unspecified Sites,CTV3
+B6251,"Letterer-Siwe Disease Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6252,Letterer-Siwe Disease Of Intrathoracic Lymph Nodes,CTV3
+B6253,Letterer-Siwe Disease Of Intra-Abdominal Lymph Nodes,CTV3
+B6254,Letterer-Siwe Disease Of Lymph Nodes Of Axilla And Arm,CTV3
+B6255,Letterer-Siwe Disease Of Lymph Nodes Inguinal Region And Leg,CTV3
+B6256,Letterer-Siwe Disease Of Intrapelvic Lymph Nodes,CTV3
+B6257,Letterer-Siwe Disease Of Spleen,CTV3
+B6258,Letterer-Siwe Disease Of Lymph Nodes Of Multiple Sites,CTV3
+B625z,Letterer-Siwe Disease Nos,CTV3
+B626.,Malignant Mast Cell Tumours,CTV3
+B6260,Mast Cell Malignancy Of Unspecified Site,CTV3
+B6261,"Mast Cell Malignancy Of Lymph Nodes Of Head, Face And Neck",CTV3
+B6262,Mast Cell Malignancy Of Intrathoracic Lymph Nodes,CTV3
+B6263,Mast Cell Malignancy Of Intra-Abdominal Lymph Nodes,CTV3
+B6264,Mast Cell Malignancy Of Lymph Nodes Of Axilla And Upper Limb,CTV3
+B6265,Mast Cell Malignancy Of Lymph Nodes Inguinal Region And Leg,CTV3
+B6266,Mast Cell Malignancy Of Intrapelvic Lymph Nodes,CTV3
+B6267,Mast Cell Malignancy Of Spleen,CTV3
+B6268,Mast Cell Malignancy Of Lymph Nodes Of Multiple Sites,CTV3
+B626z,Malignant Mast Cell Tumour Nos,CTV3
+B627.,Non-Hodgkin's Lymphoma - Disorder,CTV3
+B6271,Follicular Non-Hodg Mixed Sml Cleavd & Lge Cell Lymphoma,CTV3
+B6273,Diffuse Malignant Lymphoma - Small Non-Cleaved Cell,CTV3
+B6274,Malignant Lymphoma - Small Cleaved Cell,CTV3
+B6275,Malignant Lymphoma - Mixed Small And Large Cell,CTV3
+B6276,Diffuse Non-Hodgkin's Immunoblastic (Diffuse) Lymphoma,CTV3
+B6277,Diffuse Non-Hodgkin's Lymphoblastic (Diffuse) Lymphoma,CTV3
+B6278,Diffuse Non-Hodgkin's Lymphoma Undifferentiated (Diffuse),CTV3
+B627B,Other Types Of Follicular Non-Hodgkin's Lymphoma,CTV3
+B627C,Follicular Lymphoma: [Non-Hodgkin's] Or [Nos],CTV3
+B62x.,Malignant Lymphoma Otherwise Specified,CTV3
+B62x5,Malignant Immunoproliferative Small Intestinal Disease,CTV3
+B62y.,Malignant Lymphoma Nos,CTV3
+B62y0,Malignant Lymphoma Nos Of Unspecified Site,CTV3
+B62y1,"Malignant Lymphoma Nos Of Lymph Nodes Of Head, Face And Neck",CTV3
+B62y2,Malignant Lymphoma Nos Of Intrathoracic Lymph Nodes,CTV3
+B62y3,Malignant Lymphoma Nos Of Intra-Abdominal Lymph Nodes,CTV3
+B62y4,Malignant Lymphoma Nos Of Lymph Nodes Of Axilla And Arm,CTV3
+B62y5,Malignant Lymphoma Nos Of Lymph Node Inguinal Region And Leg,CTV3
+B62y6,Malignant Lymphoma Nos Of Intrapelvic Lymph Nodes,CTV3
+B62y7,Malignant Lymphoma Nos Of Spleen,CTV3
+B62y8,Malignant Lymphoma Nos Of Lymph Nodes Of Multiple Sites,CTV3
+B62z.,Malignant Neoplasms Of Lymphoid And Histiocytic Tissue Nos,CTV3
+B62z0,Unspec Malig Neop Lymphoid/Histiocytic Of Unspecified Site,CTV3
+B62z1,Unspec Malig Neop Lymphoid/Histiocytic Lymph Node Head/Neck,CTV3
+B62z2,Unspec Malig Neop Lymphoid/Histiocytic Of Intrathoracic Node,CTV3
+B62z3,Unspec Malig Neop Lymphoid/Histiocytic Intra-Abdominal Nodes,CTV3
+B62z4,Unspec Malig Neop Lymphoid/Histiocytic Lymph Node Axilla/Arm,CTV3
+B62z5,Unspec Malig Neop Lymphoid/Histiocytic Nodes Inguinal/Leg,CTV3
+B62z6,Unspec Malig Neop Lymphoid/Histiocytic Of Intrapelvic Nodes,CTV3
+B62z7,Unspec Malig Neop Lymphoid/Histiocytic Of Spleen,CTV3
+B62z8,Unspec Malig Neop Lymphoid/Histiocytic Of Multiple Sites,CTV3
+B62zz,(Lymphoid & Histiocytic Malign Nos) Or (Immunoprolif Neopl),CTV3
+B63..,Multiple Myeloma And Immunoproliferative Disease,CTV3
+B630.,Myeloma,CTV3
+B6300,"Malignant Plasma Cell Neoplasm, Extramedullary Plasmacytoma",CTV3
+B6302,Plasmacytoma Nos,CTV3
+B63y.,Other Immunoproliferative Neoplasms,CTV3
+B63z.,Immunoproliferative Neoplasm Or Myeloma Nos,CTV3
+B64..,Lymphoid Leukaemia,CTV3
+B640.,Acute Lymphoid Leukaemia,CTV3
+B641.,Chronic Lymphoid Leukaemia,CTV3
+B642.,Subacute Lymphoid Leukaemia,CTV3
+B64y.,Other Lymphoid Leukaemia,CTV3
+B64y0,Aleukaemic Lymphoid Leukaemia,CTV3
+B64y1,Prolymphocytic Leukaemia,CTV3
+B64y2,Adult T-Cell Leukaemia,CTV3
+B64yz,Other Lymphoid Leukaemia Nos,CTV3
+B64z.,Lymphoid Leukaemia Nos,CTV3
+B65..,Myeloid Leukaemia,CTV3
+B650.,Acute Myeloid Leukaemia,CTV3
+B651.,Chronic Myeloid Leukaemia,CTV3
+B6510,Chronic Eosinophilic Leukaemia,CTV3
+B6512,Chronic Neutrophilic Leukaemia,CTV3
+B651z,Chronic Myeloid Leukaemia Nos,CTV3
+B652.,Subacute Myeloid Leukaemia,CTV3
+B653.,Myeloid Sarcoma,CTV3
+B6530,Chloroma,CTV3
+B6531,Granulocytic Sarcoma,CTV3
+B653z,Myeloid Sarcoma Nos,CTV3
+B65y.,Other Myeloid Leukaemia,CTV3
+B65y0,Aleukaemic Myeloid Leukaemia,CTV3
+B65y1,Acute Promyelocytic Leukaemia,CTV3
+B65yz,Other Myeloid Leukaemia Nos,CTV3
+B65z.,Myeloid Leukaemia Nos,CTV3
+B66..,Monocytic Leukaemia,CTV3
+B660.,Acute Monocytic Leukaemia,CTV3
+B661.,Chronic Monocytic Leukaemia,CTV3
+B662.,Subacute Monocytic Leukaemia,CTV3
+B66y.,Other Monocytic Leukaemia,CTV3
+B66y0,Aleukaemic Monocytic Leukaemia,CTV3
+B66yz,Other Monocytic Leukaemia Nos,CTV3
+B66z.,Monocytic Leukaemia Nos,CTV3
+B67..,Other Specified Leukaemia,CTV3
+B670.,(Acute Erythraemia+Erythroleukaemia) Or( Di Guglielmo's Dis),CTV3
+B671.,(Chronic Erythraemia) Or (Heilmeyer - Schoner Disease),CTV3
+B672.,Megakaryocytic Leukaemia,CTV3
+B673.,Mast Cell Leukaemia,CTV3
+B674.,Acute Panmyelosis,CTV3
+B675.,Acute Myelofibrosis,CTV3
+B67y.,Other And Unspecified Leukaemia,CTV3
+B67y0,Lymphosarcoma Cell Leukaemia,CTV3
+B67yz,Other And Unspecified Leukaemia Nos,CTV3
+B67z.,Other Specified Leukaemia Nos,CTV3
+B68..,Leukaemia Of Unspecified Cell Type,CTV3
+B680.,Acute Leukaemia Nos,CTV3
+B681.,Chronic Leukaemia Nos,CTV3
+B682.,Subacute Leukaemia Nos,CTV3
+B68y.,Other Leukaemia Of Unspecified Cell Type,CTV3
+B68z.,Leukaemia Nos,CTV3
+B69..,Myelomonocytic Leukaemia,CTV3
+B690.,Acute Myelomonocytic Leukaemia,CTV3
+B691.,Chronic Myelomonocytic Leukaemia,CTV3
+B692.,Subacute Myelomonocytic Leukaemia,CTV3
+B6y..,Malignant Neoplasm Lymphatic Or Haematopoietic Tissue Os,CTV3
+B6z..,Malignant Neoplasm Lymphatic Or Haematopoietic Tissue Nos,CTV3
+BBg1.,[M]Malignant Lymphoma Nos,CTV3
+BBg10,"[M]Malignant Lymphoma, Diffuse Nos",CTV3
+BBg2.,"[M]Malignant Lymphoma, Non-Hodgkin's Type",CTV3
+BBg3.,"[M]Malignant Lymphoma, Undifferentiated Cell Type Nos",CTV3
+BBg4.,"Malignant Lymphoma, Stem Cell Type",CTV3
+BBg5.,"[M]Malignant Lymphoma, Convoluted Cell Type Nos",CTV3
+BBg6.,[M]Lymphosarcoma Nos,CTV3
+BBg7.,"[M]Malignant Lymphoma, Lymphoplasmacytoid Type",CTV3
+BBg8.,"[M]Malignant Lymphoma, Immunoblastic Type",CTV3
+BBg9.,"[M]Mal Lymphoma, Mix Lymph-Hist Nos (& [Diff Reticulosarc])",CTV3
+BBgA.,"[M]Malignant Lymphoma, Centroblastic-Centrocytic, Diffuse",CTV3
+BBgB.,"[M]Malignant Lymphoma, Follicular Centre Cell Nos",CTV3
+BBgC.,"[M]Malignant Lymphoma, Lymphocytic, Well Differentiated Nos",CTV3
+BBgD.,"[M]Malig Lymphoma, Lymphocytic, Intermediate Different Nos",CTV3
+BBgE.,"[M]Malignant Lymphoma, Centrocytic",CTV3
+BBgF.,"[M]Malignant Lymphoma, Follicular Centre Cell, Cleaved Nos",CTV3
+BBgG.,"[M]Malignant Lymphoma, Lymphocytic, Poorly Different Nos",CTV3
+BBgH.,[M]Prolymphocytic Lymphosarcoma,CTV3
+BBgJ.,"[M]Malignant Lymphoma, Centroblastic Type Nos",CTV3
+BBgK.,"[M]Malig Lymphoma, Follicular Centre Cell, Non-Cleaved Nos",CTV3
+BBgL.,"[M]Malignant Lymphoma, Small Lymphocytic Nos",CTV3
+BBgM.,"[M]Malignant Lymphoma, Small Cleaved Cell, Diffuse",CTV3
+BBgN.,"[M]Malign Lymphoma,Lymphocytic,Intermediate Differn, Diffuse",CTV3
+BBgP.,"[M]Malignant Lymphoma, Mixed Small And Large Cell, Diffuse",CTV3
+BBgQ.,[M]Malignant Lymphomatous Polyposis,CTV3
+BBgR.,"[M]Malignant Lymphoma, Large Cell, Diffuse Nos",CTV3
+BBgS.,"[M]Malignant Lymphoma, Large Cell, Cleaved, Diffuse",CTV3
+BBgT.,"[M]Malignant Lymphoma, Large Cell, Non-Cleaved, Diffuse",CTV3
+BBgV.,"[M]Malignant Lymphoma, Small Cell, Non-Cleaved, Diffuse",CTV3
+BBgz.,"[M]Lymphoma, Diffuse Or Nos",CTV3
+BBh..,Reticulosarcoma Morphology,CTV3
+BBh1.,"Reticulosarcoma, Pleomorphic Cell Type",CTV3
+BBh2.,"Reticulosarcoma, Nodular",CTV3
+BBj..,[M]Hodgkin's Disease,CTV3
+BBj0.,[M]Hodgkin's Disease Nos (& [Lymphogranuloma Malignant]),CTV3
+BBj1.,"[M]Hodgkin's Disease, Lymphocytic Predominance",CTV3
+BBj10,"[M]Hodgkin,S Disease, Lymphocytic Predominance, Diffuse",CTV3
+BBj11,"[M]Hodgkin,S Disease, Lymphocytic Predominance, Nodular",CTV3
+BBj2.,"[M]Hodgkin's Disease, Mixed Cellularity",CTV3
+BBj3.,"[M]Hodgkin's Disease, Lymphocytic Depletion Nos",CTV3
+BBj4.,"[M]Hodgkin's Disease,Lymphocytic Depletion,Diffuse Fibrosis",CTV3
+BBj5.,"[M]Hodgkin's Disease, Lymphocytic Depletion, Reticular Type",CTV3
+BBj6.,"[M]Hodgkin's Disease, Nodular Sclerosis Nos",CTV3
+BBj60,"[M]Hodgkin,S Disease, Nodular Sclerosis, Lymphocytic Predom",CTV3
+BBj61,"[M]Hodgkin,S Disease, Nodular Sclerosis, Mixed Cellularity",CTV3
+BBj62,"[M]Hodgkin's Disease, Nodular Sclerosis, Lymphocytic Deplet",CTV3
+BBj7.,"[M]Hodgkin's Disease, Nodular Sclerosis, Cellular Phase",CTV3
+BBj9.,[M]Hodgkin's Granuloma,CTV3
+BBjA.,[M]Hodgkin's Sarcoma,CTV3
+BBk..,"Lymphoma, Nodular Or Follicular",CTV3
+BBk0.,"[M]Malignant Lymphoma, Nodular Nos (& [Brill-Symmers Dis])",CTV3
+BBk1.,"[M]Malig Lymphoma, Mixed Lymphocytic-Histiocytic, Nodular",CTV3
+BBk2.,"[M]Malignant Lymphoma, Centroblastic-Centrocytic, Follicular",CTV3
+BBk3.,"Malign Lymphoma, Lymphocytic, Well Differentiated, Nodular",CTV3
+BBk4.,"Malig Lymphoma,Lymphocytic,Intermed Differentiation,Nodular",CTV3
+BBk5.,"Malig Lymphoma, Follicular Centre Cell, Cleaved, Follicular",CTV3
+BBk6.,"Malig Lymphoma, Lymphocytic, Poorly Differentiated, Nodular",CTV3
+BBk7.,"[M]Malignant Lymphoma, Centroblastic Type, Follicular",CTV3
+BBk8.,"[M]Mal Lymphoma, Follic Centre Cell, Non-Cleaved, Follicular",CTV3
+BBkz.,"[M]Lymphoma, Nodular Or Follicular Nos",CTV3
+BBl..,[M]Mycosis Fungoides,CTV3
+BBl1.,[M]Sezary's Disease,CTV3
+BBlz.,[M]Mycosis Fungoides Nos,CTV3
+BBm1.,[M]Malignant Histiocytosis,CTV3
+BBm2.,[M]Histiocytic Medullary Reticulosis,CTV3
+BBm3.,[M]Letterer - Siwe Disease,CTV3
+BBm4.,[M]True Histiocytic Lymphoma,CTV3
+BBm5.,[M] Peripheral T-Cell Lymphoma Nos,CTV3
+BBm6.,[M] Alpha Heavy Chain Disease,CTV3
+BBm8.,[M] Angioimmunoblastic Lymphadenopathy,CTV3
+BBmD.,[M] Cutaneous Lymphoma,CTV3
+BBmE.,[M] Gamma Heavy Chain Disease,CTV3
+BBmH.,[M] Large Cell Lymphoma,CTV3
+BBn..,[M]Plasma Cell Tumours,CTV3
+BBn0.,[M]Plasma Cell Myeloma,CTV3
+BBn2.,[M]Plasmacytoma Nos,CTV3
+BBn3.,"Plasma Cell Tumour, Malignant",CTV3
+BBnz.,[M]Plasma Cell Tumour Nos,CTV3
+BBp1.,Mast Cell Sarcoma,CTV3
+BBp2.,[M]Malignant Mastocytosis,CTV3
+BBq..,[M]Burkitt's Tumours,CTV3
+BBq0.,[M]Burkitt's Tumour,CTV3
+BBqz.,[M]Burkitt's Tumour Nos,CTV3
+BBr..,Leukaemia Morphology,CTV3
+BBr0.,[M]Leukaemias Unspecified,CTV3
+BBr00,[M]Leukaemia Nos,CTV3
+BBr01,[M]Acute Leukaemia Nos,CTV3
+BBr02,[M]Subacute Leukaemia Nos,CTV3
+BBr03,[M]Chronic Leukaemia Nos,CTV3
+BBr04,[M]Aleukaemic Leukaemia Nos,CTV3
+BBr0z,"[M]Leukaemia Unspecified, Nos",CTV3
+BBr1.,Compound Leukaemias,CTV3
+BBr10,[M]Compound Leukaemia,CTV3
+BBr1z,[M]Compound Leukaemia Nos,CTV3
+BBr2.,[M]Lymphoid Leukaemias,CTV3
+BBr20,[M]Lymphoid Leukaemia Nos,CTV3
+BBr21,[M]Acute Lymphoid Leukaemia,CTV3
+BBr22,[M]Subacute Lymphoid Leukaemia,CTV3
+BBr23,[M]Chronic Lymphoid Leukaemia,CTV3
+BBr24,[M]Aleukaemic Lymphoid Leukaemia,CTV3
+BBr25,[M]Prolymphocytic Leukaemia,CTV3
+BBr26,Burkitt's Cell Leukaemia,CTV3
+BBr27,[M]Adult T-Cell Leukaemia/Lymphoma,CTV3
+BBr2z,[M]Other Lymphoid Leukaemia Nos,CTV3
+BBr3.,[M]Plasma Cell Leukaemias,CTV3
+BBr30,[M]Plasma Cell Leukaemia,CTV3
+BBr3z,[M]Plasma Cell Leukaemia Nos,CTV3
+BBr4.,[M]Erythroleukaemias,CTV3
+BBr40,[M]Erythroleukaemia,CTV3
+BBr41,Acute Erythraemia,CTV3
+BBr42,[M]Chronic Erythraemia,CTV3
+BBr4z,[M]Erythroleukaemia Nos,CTV3
+BBr50,[M]Lymphosarcoma Cell Leukaemia,CTV3
+BBr5z,[M]Lymphosarcoma Cell Leukaemia Nos,CTV3
+BBr6.,[M]Myeloid Leukaemias,CTV3
+BBr60,[M]Myeloid Leukaemia Nos,CTV3
+BBr61,[M]Acute Myeloid Leukaemia,CTV3
+BBr62,[M]Subacute Myeloid Leukaemia,CTV3
+BBr63,[M]Chronic Myeloid Leukaemia,CTV3
+BBr64,[M]Aleukaemic Myeloid Leukaemia,CTV3
+BBr65,[M]Neutrophilic Leukaemia,CTV3
+BBr66,[M]Acute Promyelocytic Leukaemia,CTV3
+BBr67,[M]Acute Myelomonocytic Leukaemia,CTV3
+BBr68,[M]Chronic Myelomonocytic Leukaemia,CTV3
+BBr6z,[M]Other Myeloid Leukaemia Nos,CTV3
+BBr7.,[M]Basophilic Leukaemias,CTV3
+BBr70,[M]Basophilic Leukaemia,CTV3
+BBr7z,[M]Basophilic Leukaemia Nos,CTV3
+BBr8.,[M]Eosinophilic Leukaemias,CTV3
+BBr80,Eosinophilic Leukaemia,CTV3
+BBr8z,[M]Eosinophilic Leukaemia Nos,CTV3
+BBr9.,[M]Monocytic Leukaemias,CTV3
+BBr90,[M]Monocytic Leukaemia Nos,CTV3
+BBr91,[M]Acute Monocytic Leukaemia,CTV3
+BBr92,[M]Subacute Monocytic Leukaemia,CTV3
+BBr93,[M]Chronic Monocytic Leukaemia,CTV3
+BBr94,[M]Aleukaemic Monocytic Leukaemia,CTV3
+BBr9z,[M]Other Monocytic Leukaemia Nos,CTV3
+BBrA.,[M]Miscellaneous Leukaemias,CTV3
+BBrA0,[M]Mast Cell Leukaemia,CTV3
+BBrA1,[M]Megakaryocytic Leukaemia,CTV3
+BBrA2,Megakaryocytic Myelosis,CTV3
+BBrA3,[M]Myeloid Sarcoma,CTV3
+BBrA5,[M]Acute Megakaryoblastic Leukaemia,CTV3
+BBrA7,[M]Acute Myelofibrosis,CTV3
+BBrA8,[M]Leukaemic Reticuloendotheliosis,CTV3
+BBrAz,[M]Miscellaneous Leukaemia Nos,CTV3
+BBs..,[M]Misc Myeloproliferative And Lymphoproliferative Disorders,CTV3
+BBs1.,[M]Acute Panmyelosis,CTV3
+BBv0.,[M]Monocytoid B-Cell Lymphoma,CTV3
+BBv2.,[M]Angiocentrict-Cell Lymphoma,CTV3
+ByuD.,"[X]Malignant Neoplasms Of Lymphoid, Haematopoietic And Rela",CTV3
+ByuD0,[X]Other Hodgkin's Disease,CTV3
+ByuD1,[X]Other Types Of Follicular Non-Hodgkin's Lymphoma,CTV3
+ByuD2,[X]Other Types Of Diffuse Non-Hodgkin's Lymphoma,CTV3
+ByuD3,[X]Other Specified Types Of Non-Hodgkin's Lymphoma,CTV3
+ByuD4,[X]Other Malignant Immunoproliferative Diseases,CTV3
+ByuD5,[X]Other Lymphoid Leukaemia,CTV3
+ByuD6,[X]Other Myeloid Leukaemia,CTV3
+ByuD7,[X]Other Monocytic Leukaemia,CTV3
+ByuD8,[X]Other Specified Leukaemias,CTV3
+ByuD9,[X]Other Leukaemia Of Unspecified Cell Type,CTV3
+ByuDA,"[X]Oth Spcf Mal Neoplsm/Lymphoid,Haematopoietic+Rltd Tissue",CTV3
+ByuDB,"[X]Mal Neoplasm/Lymphoid,Haematopoietic+Related Tissu,Unspcf",CTV3
+ByuDC,"[X]Diffuse Non-Hodgkin's Lymphoma, Unspecified",CTV3
+ByuDE,[X]Unspecified B-Cell Non-Hodgkin's Lymphoma,CTV3
+ByuH6,[X]Neoplasm/Uncertn+Unknwn Behavior/Oth Myelodysplastic Synd,CTV3
+C333.,Macroglobulinaemia,CTV3
+C3330,Waldenstrom's Macroglobulinaemia,CTV3
+C3331,Alpha Heavy Chain Disease,CTV3
+C3332,Gamma Heavy Chain Disease,CTV3
+C333z,Macroglobulinaemia Nos,CTV3
+C37y0,Schuller-Christian Syndrome,CTV3
+C37y1,Eosinophilic Granuloma,CTV3
+C37y5,Histiocytosis X Syndrome,CTV3
+C37y6,"Histiocytosis X , Unspecified",CTV3
+C37y7,"Histiocytosis, Unspecified",CTV3
+N3309,Osteoporosis In Multiple Myelomatosis,CTV3
+X00eT,Lymphoma Of Retina,CTV3
+X102I,Pulmonary Histiocytosis X,CTV3
+X20E9,Langerhans' Cell Histiocytosis,CTV3
+X20HV,Lipochrome Histiocytosis - Familial,CTV3
+X30L7,Leukaemic Infiltrate Of Kidney,CTV3
+X30L8,Lymphoma Of Kidney,CTV3
+X50BR,Lymphomatoid Papulosis,CTV3
+X70LK,African Burkitt's Lymphoma,CTV3
+X78e2,Leukaemia,CTV3
+X78hl,Cutaneous Lymphoma,CTV3
+X78hm,Mycosis Fungoides Of Skin,CTV3
+X78hn,Sezary's Disease Of Skin,CTV3
+XE13I,(Plasma Prot Met Dis: & [Hyper/Hypo Prot]) Or (Wald Macrogl),CTV3
+XE1vo,Malignant Tumour Of Lymphoid Haemopoietic And Related Tissue,CTV3
+XE1vp,Nodular Lymphoma,CTV3
+XE1vq,Lymphoid And Histiocytic Malignancy Nos,CTV3
+XE1vr,Chronic Erythraemia,CTV3
+XE1wd,"[M]Malignant Lymphoma, Mixed Lymphocytic-Histiocytic Nos",CTV3
+XE1we,"[M]Lymphogranuloma, Malignant",CTV3
+XE1wf,"[M]Malignant Lymphoma, Nodular Nos",CTV3
+XE20J,(Lymphatic Tissue Carcinoma) Or (Lymphoma),CTV3
+XE20N,Multiple Myeloma Etc.,CTV3
+XE20P,(Plasma Cell Leukaemia) Or (Immunoprolif Neoplasm Nos),CTV3
+XE20R,Leukaemia: [Lymphoid][Monocytic][Myeloid][Specif Cell Type],CTV3
+XE20T,Leukaemia - Specif. Cell Nos,CTV3
+XE20V,(Aleukaemic Leukaemia) Or (Leukaemia - Unspec Cell Nos),CTV3
+XE2bV,Malignant Lymphoma - Immunoblastic,CTV3
+XE2t9,"[X]Non-Hodgkin's Lymphoma, Unspecified Type",CTV3
+XE2vi,Acute Erythraemia And Erythroleukaemia,CTV3
+XM1FM,"Malign Lymphoma - Lymphocytic, Intermediate Differentiation",CTV3
+XS5X2,Enteropathy Associated T-Cell Lymphoma,CTV3
+Xa0DX,Gastric Lymphoma,CTV3
+Xa0Dd,Lymphoma Of Intestine,CTV3
+Xa0E1,Primary Cerebral Lymphoma,CTV3
+Xa0QP,B-Cell Chronic Lymphocytic Leukaemia,CTV3
+Xa0QQ,B-Cell Chronic Lymphocytic Leukaemia Variant,CTV3
+Xa0Ri,Malignant White Blood Cell Disorder,CTV3
+Xa0Rk,T-Cell Chronic Lymphocytic Leukaemia,CTV3
+Xa0Rn,Chronic Lymphocytic Prolymphocytic Leukaemia Syndrome,CTV3
+Xa0Ro,Richter's Syndrome,CTV3
+Xa0Rp,Splenic Lymphoma With Villous Lymphocytes,CTV3
+Xa0S9,T-Cell Prolymphocytic Leukaemia,CTV3
+Xa0SA,Hairy Cell Leukaemia Variant,CTV3
+Xa0SB,Large Granular Lymphocytic Leukaemia,CTV3
+Xa0SC,Lymphoma With Spill,CTV3
+Xa0SD,B-Cell Acute Lymphoblastic Leukaemia,CTV3
+Xa0SE,Pre B-Cell Acute Lymphoblastic Leukaemia,CTV3
+Xa0SF,Common Acute Lymphoblastic Leukaemia,CTV3
+Xa0SG,Null Cell Acute Lymphoblastic Leukaemia,CTV3
+Xa0SH,T-Cell Acute Lymphoblastic Leukaemia,CTV3
+Xa0SL,Light Chain Myeloma,CTV3
+Xa0SM,Heavy Chain Disease,CTV3
+Xa0SN,Non-Secretory Myeloma,CTV3
+Xa0SV,Juvenile Chronic Myeloid Leukaemia,CTV3
+Xa0SX,Atypical Chronic Myeloid Leukaemia,CTV3
+Xa0Sk,Acute Myeloblastic Leukaemia,CTV3
+Xa0Sl,Acute Monoblastic Leukaemia,CTV3
+Xa0Sm,Acute Megakaryoblastic Leukaemia,CTV3
+Xa0Sn,Acute Eosinophilic Leukaemia,CTV3
+Xa0So,Acute Myelofibrosis,CTV3
+Xa0St,"Hodgkin's Disease, Lymphocytic Predominance - Nodular",CTV3
+Xa0Su,"Hodgkin's Disease, Lymphocytic Predominance - Diffuse",CTV3
+Xa0Sv,"Hodgkin's Disease,Nodular Sclerosis-Lymphocytic Predominance",CTV3
+Xa0Sw,"Hodgkin's Disease, Nodular Sclerosis - Mixed Cellularity",CTV3
+Xa0Sx,"Hodgkin's Disease, Nodular Sclerosis - Lymphocytic Depletion",CTV3
+Xa0Sy,B-Cell Lymphoma,CTV3
+Xa0Sz,Cutaneous/Peripheral T-Cell Lymphoma,CTV3
+Xa0T0,Prethymic And Thymic T-Cell Lymphoma/Leukaemia,CTV3
+Xa0T1,Low Grade B-Cell Lymphoma,CTV3
+Xa0T2,Diffuse Low Grade B-Cell Lymphoma,CTV3
+Xa0T3,High Grade B-Cell Lymphoma,CTV3
+Xa0T4,Follicular Low Grade B-Cell Lymphoma,CTV3
+Xa0T5,B-Cell Prolymphocytic Leukaemia,CTV3
+Xa0T7,Malignant Lymphomatous Polyposis,CTV3
+Xa0T8,Mucosa-Associated Lymphoma,CTV3
+Xa0T9,Monocytoid B-Cell Lymphoma,CTV3
+Xa0TA,Follicular Malignant Lymphoma - Mixed Cell Type,CTV3
+Xa0TD,Follicular Malignant Lymphoma - Small Cleaved Cell,CTV3
+Xa0TE,Diffuse High Grade B-Cell Lymphoma,CTV3
+Xa0TF,Nodular High Grade B-Cell Lymphoma,CTV3
+Xa0TG,Diffuse Malignant Lymphoma - Large Cell,CTV3
+Xa0TH,Diffuse Malignant Lymphoma - Large Cleaved Cell,CTV3
+Xa0TI,Diffuse Malignant Lymphoma - Large Non-Cleaved Cell,CTV3
+Xa0TM,Diffuse Malignant Lymphoma - Centroblastic Polymorphic,CTV3
+Xa0TP,Malignant Lymphoma - Lymphoblastic,CTV3
+Xa0TS,Large Cell Anaplastic Lymphoma,CTV3
+Xa0TX,Follicular Malignant Lymphoma - Large Cell,CTV3
+Xa0TY,Low Grade T-Cell Lymphoma,CTV3
+Xa0TZ,High Grade T-Cell Lymphoma,CTV3
+Xa0Th,Peripheral T-Cell Lymphoma,CTV3
+Xa0Ti,T-Zone Lymphoma,CTV3
+Xa0Tj,Lymphoepithelioid Lymphoma,CTV3
+Xa0Tk,Angioimmunoblastic Lymphadenopathy With Dysproteinaemia,CTV3
+Xa0To,Angiocentric T-Cell Lymphoma,CTV3
+Xa0Tr,Peripheral T-Cell Lymphoma - Pleomorphic Small Cell,CTV3
+Xa0Tt,Peripheral T-Cell Lymphoma-Pleomorphic Medium And Large Cell,CTV3
+Xa0Tu,Enteropathy-Associated T-Cell Lymphoma,CTV3
+Xa0Ty,True Histiocytic Lymphoma,CTV3
+Xa0U5,Malignant Lymphoma Of Testis,CTV3
+Xa0bR,Malignant Lymphoma Of Thyroid Gland,CTV3
+Xa0bS,Malignant Lymphoma Of Breast,CTV3
+Xa0eB,Hypergranular Promyelocytic Leukaemia,CTV3
+Xa0eC,Erythraemia,CTV3
+Xa0jn,Acute Biphenotypic Leukaemia,CTV3
+Xa36a,Iga Myeloma,CTV3
+Xa36b,Igg Myeloma,CTV3
+Xa36c,Igd Myeloma,CTV3
+Xa3EW,Acute Myeloblastic Leukaemia - Undifferentiated,CTV3
+Xa3Ea,Acute Myeloblastic Leukaemia Without Maturation,CTV3
+Xa3Ec,Acute Myeloblastic Leukaemia With Maturation,CTV3
+Xa3Ee,Acute Promyelocytic Leukaemia - Hypogranular Variant,CTV3
+Xa3En,Intermediate Grade B-Cell Lymphoma,CTV3
+Xa3HG,Acute Myelomonocytic Leukaemia - Eosinophilic Variant,CTV3
+Xa8Jb,T-Cell Lymphoma,CTV3
+Xa99k,Malignant Lymphoma,CTV3
+Xa99l,Malignant Lymphoma - Small Lymphocytic,CTV3
+Xa99n,Diffuse Malignant Lymphoma - Centroblastic,CTV3
+Xa99w,"Nodular Malignant Lymphoma, Lymphocytic - Well Diffrentiated",CTV3
+Xa99z,"Nodul Malig Lymphoma, Lymphocytic - Intermed Differentiation",CTV3
+Xa9AA,Plasmacytoma - Disorder,CTV3
+Xa9AM,Acute Leukaemia,CTV3
+Xa9AN,Subacute Leukaemia,CTV3
+Xa9AO,Chronic Leukaemia,CTV3
+Xa9AP,Aleukaemic Leukaemia,CTV3
+Xa9EH,"Malignant Lymphoma, Convoluted Cell Type",CTV3
+Xa9FC,"Malignant Lymphoma, Follicular Centre Cell",CTV3
+Xa9FD,"Malignant Lymphoma, Follicular Centre Cell, Cleaved",CTV3
+Xa9FE,"Malignant Lymphoma, Follicular Centre Cell, Non-Cleaved",CTV3
+Xa9FF,"Malignant Lymphoma, Nodular",CTV3
+XaB47,Atypical Hairy Cell Leukaemia,CTV3
+XaBAk,Malignant Mastocytosis,CTV3
+XaBAl,Erythroleukaemia,CTV3
+XaBAm,Basophilic Leukaemia,CTV3
+XaBB3,Plasma Cell Leukaemia,CTV3
+XaBBC,Neutrophilic Leukaemia,CTV3
+XaBBM,Prolymphocytic Lymphosarcoma,CTV3
+XaBBN,Malignant Lymphoma - Lymphoplasmacytic,CTV3
+XaBBO,Diffuse Malignant Lymphoma - Centroblastic-Centrocytic,CTV3
+XaBBP,Malignant Lymphoma - Centrocytic,CTV3
+XaBBZ,"Hodgkin's Disease, Lymphocytic Depletion, Diffuse Fibrosis",CTV3
+XaBBb,"Hodgkin's Disease, Lymphocytic Depletion, Reticular Type",CTV3
+XaBBc,"Hodgkin's Disease, Nodular Sclerosis - Cellular Phase",CTV3
+XaBBd,"Malignant Lymphoma, Mixed Lymphocytic-Histiocytic, Nodular",CTV3
+XaBBf,"Malignant Lymphoma, Centroblastic-Centrocytic, Follicular",CTV3
+XaBBo,"Malign Lymphoma, Lymphocytic, Poorly Differentiated, Nodular",CTV3
+XaBBp,"Malignant Lymphoma, Centroblastic Type, Follicular",CTV3
+XaBBs,Histiocytic Medullary Reticulosis,CTV3
+XaBLw,Follicular Non-Hodgkin's Lymphoma,CTV3
+XaBLx,Plasmacytoma Nos,CTV3
+XaBLz,[M]Waldenstrom's Macroglobulinaemia,CTV3
+XaC2n,[M]Hodgkin's Disease Nos,CTV3
+XaE68,Ocular Lymphoma,CTV3
+XaELI,Lambda Light Chain Myeloma,CTV3
+XaFpR,B-Cell Lymphoma Morphology,CTV3
+XaFpS,Low Grade B-Cell Lymphoma Morphology,CTV3
+XaFpT,Follicular Low Grade B-Cell Lymphoma Morphology,CTV3
+XaFpU,High Grade B-Cell Lymphoma Morphology,CTV3
+XaFpV,T-Cell Lymphoma Morphology,CTV3
+XaFpW,High Grade T-Cell Lymphoma Morphology,CTV3
+XaFpy,Diffuse Low Grade B-Cell Lymphoma Morphology,CTV3
+XaFpz,Low Grade T-Cell Lymphoma Morphology,CTV3
+XaFqH,Nodular High Grade B-Cell Lymphoma Morphology,CTV3
+XaFqN,Diffuse High Grade B-Cell Lymphoma Morphology,CTV3
+XaImp,Lymphoma Stage I,CTV3
+XaImq,Lymphoma Stage Ii,CTV3
+XaImr,Lymphoma Stage Iii,CTV3
+XaIms,Lymphoma Stage Iv,CTV3
+XaPQD,Mantle Cell Lymphoma,CTV3
+XaYdL,Juvenile Myelomonocytic Leukaemia,CTV3
+XaYgm,Primary Mediastinal (Thymic) Large B-Cell Lymphoma,CTV3
+XaYi5,Diffuse Follicle Centre Lymphoma,CTV3
+XaYiI,Anaplastic Lymphoma Kinase Negative Anaplastic Lg Cell Lymph,CTV3
+XaYiL,Alk Positive Anaplastic Large Cell Lymphoma,CTV3
+XaYiN,Hepatosplenic T-Cell Lymphoma,CTV3
+XaYii,Extranod Marg Zone B-Cell Lymphom Mucosa-Assoc Lymphoid Tiss,CTV3
+XaYij,Follicular Lymphoma Grade 1,CTV3
+XaYil,Follicular Lymphoma Grade 3a,CTV3
+XaYim,Follicular Lymphoma Grade 3b,CTV3
+XaYin,Cutaneous Follicle Centre Lymphoma,CTV3
+XaYip,Sarcoma Of Dendritic Cells,CTV3
+XaYis,"Atypical Chronic Myeloid Leukaemia, Bcr/Abl Negative",CTV3
+XaYj0,"Chronic Myelogenous Leukaemia, Bcr/Abl Positive",CTV3
+XaYj4,Acute Myeloid Leukaemia With Myelodysplasia-Related Changes,CTV3
+XaYj9,Acute Myeloid Leukaemia With 11q23 Abnormality,CTV3
+XaYjI,Primary Cutaneous Cd30 Antigen Positive Large T-Cell Lymphom,CTV3
+XaYje,"Extranodal Natural Killer/T-Cell Lymphoma, Nasal Type",CTV3
+XaYjf,Subcutaneous Panniculitic T-Cell Lymphoma,CTV3
+XaYk0,Blastic Plasmacytoid Dendritic Cell Neoplasm,CTV3
+XaYv2,Refractory Anaemia With Multilineage Dysplasia,CTV3
+XaZdD,Follicular Lymphoma Grade 3,CTV3
+XaZdF,Follicular Lymphoma Grade 2,CTV3
+XaZdn,Diffuse Large B-Cell Lymphoma,CTV3
+XaZfR,Adult T-Cell Leukaemia/Lymphoma,CTV3
+Xaa1N,Clinical Stage A Chronic Lymphocytic Leukaemia,CTV3
+Xaa1O,Clinical Stage B Chronic Lymphocytic Leukaemia,CTV3
+Xaa1P,Clinical Stage C Chronic Lymphocytic Leukaemia,CTV3
+Xaa8z,[M]Juvenile Myelomonocytic Leukaemia,CTV3
+Y1b23,Solitary Osseous Myeloma,CTV3
+B211,Hiv Disease Resulting In Burkitt Lymphoma,ICD-10
+B212,Hiv Disease Resulting In Other Types Of Non-Hodgkin Lymphoma,ICD-10
+B213,"Hiv Disease Resulting In Other Malignant Neoplasms Of Lymphoid, Haematopoietic And Related Tissue",ICD-10
+C81,Hodgkin Lymphoma,ICD-10
+C810,Nodular Lymphocyte Predominant Hodgkin Lymphoma,ICD-10
+C811,Nodular Sclerosis (Classical) Hodgkin Lymphoma,ICD-10
+C812,Mixed Cellularity (Classical) Hodgkin Lymphoma,ICD-10
+C813,Lymphocyte Depleted (Classical) Hodgkin Lymphoma,ICD-10
+C814,Lymphocyte-Rich (Classical) Hodgkin Lymphoma,ICD-10
+C817,Other (Classical) Hodgkin Lymphoma,ICD-10
+C819,"Hodgkin Lymphoma, Unspecified",ICD-10
+C82,Follicular Lymphoma,ICD-10
+C820,Follicular Lymphoma Grade I,ICD-10
+C821,Follicular Lymphoma Grade Ii,ICD-10
+C822,"Follicular Lymphoma Grade Iii, Unspecified",ICD-10
+C823,Follicular Lymphoma Grade Iiia,ICD-10
+C824,Follicular Lymphoma Grade Iiib,ICD-10
+C825,Diffuse Follicle Centre Lymphoma,ICD-10
+C826,Cutaneous Follicle Centre Lymphoma,ICD-10
+C827,Other Types Of Follicular Lymphoma,ICD-10
+C829,"Follicular Lymphoma, Unspecified",ICD-10
+C83,Non-Follicular Lymphoma,ICD-10
+C830,Small Cell B-Cell Lymphoma,ICD-10
+C831,Mantle Cell Lymphoma,ICD-10
+C833,Diffuse Large B-Cell Lymphoma,ICD-10
+C835,Lymphoblastic (Diffuse) Lymphoma,ICD-10
+C837,Burkitt Lymphoma,ICD-10
+C838,Other Non-Follicular Lymphoma,ICD-10
+C839,"Non-Follicular (Diffuse) Lymphoma, Unspecified",ICD-10
+C84,Mature T/Nk-Cell Lymphomas,ICD-10
+C840,Mycosis Fungoides,ICD-10
+C841,S?Zary Disease,ICD-10
+C844,"Peripheral T-Cell Lymphoma, Not Elsewhere Classified",ICD-10
+C845,Other Mature T/Nk-Cell Lymphomas,ICD-10
+C846,"Anaplastic Large Cell Lymphoma, Alk-Positive",ICD-10
+C847,"Anaplastic Large Cell Lymphoma, Alk-Negative",ICD-10
+C848,"Cutaneous T-Cell Lymphoma, Unspecified",ICD-10
+C849,"Mature T/Nk-Cell Lymphoma, Unspecified",ICD-10
+C85,Other And Unspecified Types Of Non-Hodgkin Lymphoma,ICD-10
+C851,"B-Cell Lymphoma, Unspecified",ICD-10
+C852,Mediastinal (Thymic) Large B-Cell Lymphoma,ICD-10
+C857,Other Specified Types Of Non-Hodgkin Lymphoma,ICD-10
+C859,"Non-Hodgkin Lymphoma, Unspecified",ICD-10
+C86,Other Specified Types Of T/Nk-Cell Lymphoma,ICD-10
+C860,"Extranodal Nk/T-Cell Lymphoma, Nasal Type",ICD-10
+C861,Hepatosplenic T-Cell Lymphoma,ICD-10
+C862,Enteropathy-Type (Intestinal) T-Cell Lymphoma,ICD-10
+C863,Subcutaneous Panniculitis-Like T-Cell Lymphoma,ICD-10
+C864,Blastic Nk-Cell Lymphoma,ICD-10
+C865,Angioimmunoblastic T-Cell Lymphoma,ICD-10
+C866,Primary Cutaneous Cd30-Positive T-Cell Proliferations,ICD-10
+C88,Malignant Immunoproliferative Diseases,ICD-10
+C880,Waldenstr?M Macroglobulinaemia,ICD-10
+C882,Other Heavy Chain Disease,ICD-10
+C883,Immunoproliferative Small Intestinal Disease,ICD-10
+C884,Extranodal Marginal Zone B-Cell Lymphoma Of Mucosa-Associated Lymphoid Tissue [Malt-Lymphoma],ICD-10
+C887,Other Malignant Immunoproliferative Diseases,ICD-10
+C889,"Malignant Immunoproliferative Disease, Unspecified",ICD-10
+C90,Multiple Myeloma And Malignant Plasma Cell Neoplasms,ICD-10
+C900,Multiple Myeloma,ICD-10
+C901,Plasma Cell Leukaemia,ICD-10
+C902,Extramedullary Plasmacytoma,ICD-10
+C903,Solitary Plasmacytoma,ICD-10
+C91,Lymphoid Leukaemia,ICD-10
+C910,Acute Lymphoblastic Leukaemia [All],ICD-10
+C911,Chronic Lymphocytic Leukaemia Of B-Cell Type,ICD-10
+C913,Prolymphocytic Leukaemia Of B-Cell Type,ICD-10
+C914,Hairy-Cell Leukaemia,ICD-10
+C915,Adult T-Cell Lymphoma/Leukaemia [Htlv-1-Associated],ICD-10
+C916,Prolymphocytic Leukaemia Of T-Cell Type,ICD-10
+C917,Other Lymphoid Leukaemia,ICD-10
+C918,Mature B-Cell Leukaemia Burkitt-Type,ICD-10
+C919,"Lymphoid Leukaemia, Unspecified",ICD-10
+C92,Myeloid Leukaemia,ICD-10
+C920,Acute Myeloblastic Leukaemia [Aml],ICD-10
+C921,"Chronic Myeloid Leukaemia [Cml], Bcr/Abl-Positive",ICD-10
+C922,"Atypical Chronic Myeloid Leukaemia, Bcr/Abl-Negative",ICD-10
+C923,Myeloid Sarcoma,ICD-10
+C924,Acute Promyelocytic Leukaemia [Pml],ICD-10
+C925,Acute Myelomonocytic Leukaemia,ICD-10
+C926,Acute Myeloid Leukaemia With 11q23-Abnormality,ICD-10
+C927,Other Myeloid Leukaemia,ICD-10
+C928,Acute Myeloid Leukaemia With Multilineage Dysplasia,ICD-10
+C929,"Myeloid Leukaemia, Unspecified",ICD-10
+C93,Monocytic Leukaemia,ICD-10
+C930,Acute Monoblastic/Monocytic Leukaemia,ICD-10
+C931,Chronic Myelomonocytic Leukaemia,ICD-10
+C933,Juvenile Myelomonocytic Leukaemia,ICD-10
+C937,Other Monocytic Leukaemia,ICD-10
+C939,"Monocytic Leukaemia, Unspecified",ICD-10
+C94,Other Leukaemias Of Specified Cell Type,ICD-10
+C940,Acute Erythroid Leukaemia,ICD-10
+C942,Acute Megakaryoblastic Leukaemia,ICD-10
+C943,Mast Cell Leukaemia,ICD-10
+C944,Acute Panmyelosis With Myelofibrosis,ICD-10
+C946,"Myelodysplastic And Myeloproliferative Disease, Not Elsewhere Classified",ICD-10
+C947,Other Specified Leukaemias,ICD-10
+C95,Leukaemia Of Unspecified Cell Type,ICD-10
+C950,Acute Leukaemia Of Unspecified Cell Type,ICD-10
+C951,Chronic Leukaemia Of Unspecified Cell Type,ICD-10
+C957,Other Leukaemia Of Unspecified Cell Type,ICD-10
+C959,"Leukaemia, Unspecified",ICD-10
+C96,"Other And Unspecified Malignant Neoplasms Of Lymphoid, Haematopoietic And Related Tissue",ICD-10
+C960,Multifocal And Multisystemic (Disseminated) Langerhans-Cell Histiocytosis [Letterer-Siwe Disease],ICD-10
+C962,Malignant Mast Cell Tumour,ICD-10
+C964,Sarcoma Of Dendritic Cells (Accessory Cells),ICD-10
+C965,Multifocal And Unisystemic Langerhans-Cell Histiocytosis,ICD-10
+C966,Unifocal Langerhans-Cell Histiocytosis,ICD-10
+C967,"Other Specified Malignant Neoplasms Of Lymphoid, Haematopoietic And Related Tissue",ICD-10
+C968,Histiocytic Sarcoma,ICD-10
+C969,"Malignant Neoplasm Of Lymphoid, Haematopoietic And Related Tissue, Unspecified",ICD-10
+D466,Myelodysplastic Syndrome With Isolated Del(5q) Chromosomal Abnormality,ICD-10
+D467,Other Myelodysplastic Syndromes,ICD-10
+D469,"Myelodysplastic Syndrome, Unspecified",ICD-10
+D47,"Other Neoplasms Of Uncertain Or Unknown Behaviour Of Lymphoid, Haematopoietic And Related Tissue",ICD-10
+D470,Histiocytic And Mast Cell Tumours Of Uncertain And Unknown Behaviour,ICD-10
+D471,Chronic Myeloproliferative Disease,ICD-10
+D474,Osteomyelofibrosis,ICD-10
+D475,Chronic Eosinophilic Leukaemia [Hypereosinophilic Syndrome],ICD-10
+D477,"Other Specified Neoplasms Of Uncertain Or Unknown Behaviour Of Lymphoid, Haematopoietic And Related Tissue",ICD-10
+D479,"Neoplasm Of Uncertain Or Unknown Behaviour Of Lymphoid, Haematopoietic And Related Tissue, Unspecified",ICD-10
+D595,Paroxysmal Nocturnal Haemoglobinuria [Marchiafava-Micheli],ICD-10
+D70,Agranulocytosis,ICD-10
+D71,Functional Disorders Of Polymorphonuclear Neutrophils,ICD-10
+D760,"Langerhans' Cell Histiocytosis, Not Elsewhere Classified",ICD-10
+D761,Haemophagocytic Lymphohistiocytosis,ICD-10
+D898,"Other Specified Disorders Involving The Immune Mechanism, Not Elsewhere Classified",ICD-10
+D899,"Disorder Involving The Immune Mechanism, Unspecified",ICD-10
+128933000,Chronic leukemia - category (morphologic abnormality),SNOMED-CT
+277610002,"Hodgkin's disease, nodular sclerosis - lymphocytic predominance (disorder)",SNOMED-CT
+847481000000109,Follicular lymphoma grade 1 (disorder),SNOMED-CT
+188733003,Chronic eosinophilic leukemia (disorder),SNOMED-CT
+188612002,Nodular lymphoma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+277643003,High grade T-cell lymphoma (disorder),SNOMED-CT
+188732008,Myeloid leukemia (disorder),SNOMED-CT
+10639003,Solitary plasmacytoma of bone (morphologic abnormality),SNOMED-CT
+188510001,"Burkitt's lymphoma of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+188517003,Burkitt's lymphoma of lymph nodes of multiple sites (disorder),SNOMED-CT
+65399007,Langerhans cell histiocytosis (disorder),SNOMED-CT
+188746008,Subacute monocytic leukemia (disorder),SNOMED-CT
+93521006,Hodgkin's disease of intrapelvic lymph nodes (disorder),SNOMED-CT
+189962004,"Malignant lymphoma, stem cell type (morphologic abnormality)",SNOMED-CT
+314930007,Low grade T-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+188514005,Burkitt's lymphoma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+93183001,Malignant histiocytosis of intrapelvic lymph nodes (disorder),SNOMED-CT
+93134000,Letterer-Siwe disease of intrapelvic lymph nodes (disorder),SNOMED-CT
+128799007,"Hodgkin lymphoma, lymphocyte-rich (morphologic abnormality)",SNOMED-CT
+278052009,Malignant lymphoma of breast (disorder),SNOMED-CT
+277567002,T-cell prolymphocytic leukemia (disorder),SNOMED-CT
+45572000,"Hodgkin lymphoma, nodular sclerosis, grade 1 (morphologic abnormality)",SNOMED-CT
+302845006,"Nodular malignant lymphoma, lymphocytic - well differentiated (disorder)",SNOMED-CT
+93509007,"Hodgkin's disease, mixed cellularity of spleen (disorder)",SNOMED-CT
+269476000,Nodular lymphoma (disorder),SNOMED-CT
+41529000,"Hodgkin lymphoma, mixed cellularity (morphologic abnormality)",SNOMED-CT
+1091921000000103,B-cell non-Hodgkin's lymphoma (disorder),SNOMED-CT
+236512004,Leukemic infiltrate of kidney (disorder),SNOMED-CT
+307650006,Histiocytic medullary reticulosis (disorder),SNOMED-CT
+400001003,Primary cutaneous lymphoma (disorder),SNOMED-CT
+118605002,"Hodgkin lymphoma, nodular lymphocyte predominance (disorder)",SNOMED-CT
+127580003,Plasma cell neoplasm (morphologic abnormality),SNOMED-CT
+277623009,Monocytoid B-cell lymphoma (disorder),SNOMED-CT
+307634003,"Hodgkin's disease, lymphocytic depletion, reticular type (disorder)",SNOMED-CT
+93150008,Leukemic reticuloendotheliosis of lymph nodes of multiple sites (disorder),SNOMED-CT
+93197009,Malignant lymphoma of lymph nodes of multiple sites (disorder),SNOMED-CT
+277642008,Low grade T-cell lymphoma (disorder),SNOMED-CT
+713897006,Burkitt lymphoma co-occurrent with human immunodeficiency virus infection (disorder),SNOMED-CT
+118600007,Malignant lymphoma (disorder),SNOMED-CT
+93145002,Leukemic reticuloendotheliosis of intrapelvic lymph nodes (disorder),SNOMED-CT
+64575004,"Malignant lymphoma, small lymphocytic (morphologic abnormality)",SNOMED-CT
+847741000000106,Diffuse large B-cell lymphoma (disorder),SNOMED-CT
+188500005,"Lymphosarcoma of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+277618009,Follicular low grade B-cell lymphoma (disorder),SNOMED-CT
+277632006,Diffuse malignant lymphoma - centroblastic polymorphic (disorder),SNOMED-CT
+56944001,Lymphoma stage III (finding),SNOMED-CT
+118599009,Hodgkin's disease (disorder),SNOMED-CT
+109965004,"Diffuse non-Hodgkin's lymphoma, lymphoblastic (disorder)",SNOMED-CT
+277637000,Large cell anaplastic lymphoma (disorder),SNOMED-CT
+128831004,Chronic myelomonocytic leukemia (morphologic abnormality),SNOMED-CT
+188580008,"Hodgkin's disease, mixed cellularity of intrapelvic lymph nodes (disorder)",SNOMED-CT
+118614007,"Langerhans cell histiocytosis, disseminated (disorder)",SNOMED-CT
+314927000,High grade T-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+188565002,"Hodgkin's disease, nodular sclerosis of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+95224004,Reticulosarcoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+277625002,Follicular malignant lymphoma - small cleaved cell (disorder),SNOMED-CT
+314929002,Diffuse low grade B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+188613007,Nodular lymphoma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+188679001,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse) (disorder),SNOMED-CT
+277473004,B-cell chronic lymphocytic leukemia (disorder),SNOMED-CT
+188770007,Subacute myelomonocytic leukemia (disorder),SNOMED-CT
+110002002,Mast cell leukemia (disorder),SNOMED-CT
+847651000000100,Follicular lymphoma grade 3 (disorder),SNOMED-CT
+43985008,"Hodgkin lymphoma, nodular sclerosis, grade 2 (morphologic abnormality)",SNOMED-CT
+110007008,Adult T-cell leukemia/lymphoma (disorder),SNOMED-CT
+93494007,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrapelvic lymph nodes (disorder)",SNOMED-CT
+71109004,"Hodgkin lymphoma, lymphocyte depletion, reticular (morphologic abnormality)",SNOMED-CT
+815361000000107,Acute myeloid leukaemia with 11q23 abnormality (disorder),SNOMED-CT
+109982002,Alpha heavy chain disease (disorder),SNOMED-CT
+93554008,Hodgkin's sarcoma of spleen (disorder),SNOMED-CT
+94708009,Mycosis fungoides of intrapelvic lymph nodes (disorder),SNOMED-CT
+277653002,Peripheral T-cell lymphoma - pleomorphic medium and large cell (disorder),SNOMED-CT
+93139005,Letterer-Siwe disease of lymph nodes of multiple sites (disorder),SNOMED-CT
+93525002,Hodgkin's disease of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+190955000,Histiocytosis X syndrome (disorder),SNOMED-CT
+188567005,"Hodgkin's disease, nodular sclerosis of intra-abdominal lymph nodes (disorder)",SNOMED-CT
+93146001,Leukemic reticuloendotheliosis of intrathoracic lymph nodes (disorder),SNOMED-CT
+413441006,"Acute monocytic leukemia, FAB M5b (disorder)",SNOMED-CT
+277549009,Chronic lymphocytic prolymphocytic leukemia syndrome (disorder),SNOMED-CT
+93526001,Hodgkin's disease of lymph nodes of multiple sites (disorder),SNOMED-CT
+277622004,Mucosa-associated lymphoma (disorder),SNOMED-CT
+94712003,Mycosis fungoides of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+188632001,Sézary's disease of intra-abdominal lymph nodes (disorder),SNOMED-CT
+188487008,Lymphosarcoma and reticulosarcoma (disorder),SNOMED-CT
+240531002,African Burkitt's lymphoma (disorder),SNOMED-CT
+255101006,Sézary disease of skin (disorder),SNOMED-CT
+274905008,"Malignant lymphoma - lymphocytic, intermediate differentiation (disorder)",SNOMED-CT
+285769009,Acute promyelocytic leukemia - hypogranular variant (disorder),SNOMED-CT
+95230004,Reticulosarcoma of lymph nodes of multiple sites (disorder),SNOMED-CT
+188590000,"Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region and lower limb (disorder)",SNOMED-CT
+277616008,Diffuse low grade B-cell lymphoma (disorder),SNOMED-CT
+188493000,Reticulosarcoma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+188592008,"Hodgkin's disease, lymphocytic depletion of spleen (disorder)",SNOMED-CT
+4950009,Sézary's disease (morphologic abnormality),SNOMED-CT
+188737002,Chloroma (disorder),SNOMED-CT
+52220008,"Acute megakaryoblastic leukemia, morphology (morphologic abnormality)",SNOMED-CT
+188503007,Lymphosarcoma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+277589003,Atypical chronic myeloid leukemia (disorder),SNOMED-CT
+93135004,Letterer-Siwe disease of intrathoracic lymph nodes (disorder),SNOMED-CT
+188718006,"Malignant plasma cell neoplasm, extramedullary plasmacytoma (disorder)",SNOMED-CT
+189982000,Reticulosarcoma morphology (morphologic abnormality),SNOMED-CT
+277611003,"Hodgkin's disease, nodular sclerosis - mixed cellularity (disorder)",SNOMED-CT
+277619001,B-cell prolymphocytic leukemia (disorder),SNOMED-CT
+109977009,Peripheral T-cell lymphoma (disorder),SNOMED-CT
+188663002,Mast cell malignancy of intrathoracic lymph nodes (disorder),SNOMED-CT
+314931006,Nodular high grade B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+359631009,"Acute myeloid leukemia, minimal differentiation, FAB M0 (disorder)",SNOMED-CT
+93196000,Malignant lymphoma of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+55020008,"Follicular lymphoma, grade 2 (morphologic abnormality)",SNOMED-CT
+109995007,Myelodysplastic syndrome (disorder),SNOMED-CT
+35287006,"Myeloid sarcoma, morphology (morphologic abnormality)",SNOMED-CT
+188512009,Burkitt's lymphoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+188648000,Leukemic reticuloendotheliosis of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+863741000000108,Clinical stage A chronic lymphocytic leukaemia (disorder),SNOMED-CT
+109976000,Lymphoepithelioid lymphoma (disorder),SNOMED-CT
+188744006,Monocytic leukemia (disorder),SNOMED-CT
+127225006,Chronic myelomonocytic leukemia (disorder),SNOMED-CT
+188569008,"Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region and lower limb (disorder)",SNOMED-CT
+847701000000108,Follicular lymphoma grade 3b (disorder),SNOMED-CT
+93493001,"Hodgkin's disease, lymphocytic-histiocytic predominance of intra-abdominal lymph nodes (disorder)",SNOMED-CT
+188745007,Chronic monocytic leukemia (disorder),SNOMED-CT
+373168002,Reticulosarcoma (disorder),SNOMED-CT
+426336007,Solitary osseous myeloma (disorder),SNOMED-CT
+109980005,Malignant immunoproliferative disease (disorder),SNOMED-CT
+188729005,Adult T-cell leukemia (disorder),SNOMED-CT
+188589009,"Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla and upper limb (disorder)",SNOMED-CT
+269475001,"Malignant tumor of lymphoid, hemopoietic AND/OR related tissue (disorder)",SNOMED-CT
+303056000,"Malignant lymphoma, follicular center cell, cleaved (disorder)",SNOMED-CT
+109978004,T-cell lymphoma (disorder),SNOMED-CT
+188725004,Lymphoid leukemia (disorder),SNOMED-CT
+91857003,"Acute lymphoid leukemia, disease (disorder)",SNOMED-CT
+93495008,"Hodgkin's disease, lymphocytic-histiocytic predominance of intrathoracic lymph nodes (disorder)",SNOMED-CT
+93140007,Letterer-Siwe disease of spleen (disorder),SNOMED-CT
+188631008,Sézary's disease of intrathoracic lymph nodes (disorder),SNOMED-CT
+128924002,Mast cell leukemia (morphologic abnormality),SNOMED-CT
+188559002,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region and lower limb (disorder)",SNOMED-CT
+112687003,"Hodgkin lymphoma, lymphocyte depletion (morphologic abnormality)",SNOMED-CT
+188554007,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+110006004,Prolymphocytic leukemia (disorder),SNOMED-CT
+739301006,Osteoporosis co-occurrent and due to multiple myeloma (disorder),SNOMED-CT
+359648001,"Acute myeloid leukemia with maturation, FAB M2 (disorder)",SNOMED-CT
+115245001,"Malignant lymphoma, follicular AND/OR nodular (morphologic abnormality)",SNOMED-CT
+188748009,Aleukemic monocytic leukemia (disorder),SNOMED-CT
+76422004,Lymphoma stage II (finding),SNOMED-CT
+95225003,Reticulosarcoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+118608000,"Hodgkin's disease, nodular sclerosis (disorder)",SNOMED-CT
+118617000,Burkitt's lymphoma (disorder),SNOMED-CT
+74654000,Mantle cell lymphoma (morphologic abnormality),SNOMED-CT
+188642004,Malignant histiocytosis of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+93530003,Hodgkin's granuloma of intrapelvic lymph nodes (disorder),SNOMED-CT
+190818004,Waldenström macroglobulinemia (disorder),SNOMED-CT
+277609007,"Hodgkin's disease, lymphocytic predominance - diffuse (disorder)",SNOMED-CT
+277626001,Diffuse high grade B-cell lymphoma (disorder),SNOMED-CT
+400122007,Primary cutaneous T-cell lymphoma (disorder),SNOMED-CT
+188585003,"Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+277550009,Richter's syndrome (disorder),SNOMED-CT
+314922006,B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+188502002,Lymphosarcoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+188541000,Hodgkin's granuloma of lymph nodes of multiple sites (disorder),SNOMED-CT
+95193005,Nodular lymphoma of spleen (disorder),SNOMED-CT
+94714002,Mycosis fungoides of spleen (disorder),SNOMED-CT
+188754005,Megakaryocytic leukemia (disorder),SNOMED-CT
+188489006,"Reticulosarcoma of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+8900005,Hypoproteinemia (disorder),SNOMED-CT
+307633009,"Hodgkin's disease, lymphocytic depletion, diffuse fibrosis (disorder)",SNOMED-CT
+277629008,Diffuse malignant lymphoma - large non-cleaved cell (disorder),SNOMED-CT
+188691005,Malignant immunoproliferative small intestinal disease (disorder),SNOMED-CT
+277474005,B-cell chronic lymphocytic leukemia variant (disorder),SNOMED-CT
+303057009,"Malignant lymphoma, follicular center cell, non-cleaved (disorder)",SNOMED-CT
+128841001,Polycythemia vera (morphologic abnormality),SNOMED-CT
+94709001,Mycosis fungoides of intrathoracic lymph nodes (disorder),SNOMED-CT
+109979007,B-cell lymphoma (disorder),SNOMED-CT
+39795003,Hand-Schüller-Christian disease (disorder),SNOMED-CT
+93549004,Hodgkin's sarcoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+13583002,Mast cell sarcoma (morphologic abnormality),SNOMED-CT
+95210003,"Plasma cell leukemia, disease (disorder)",SNOMED-CT
+91855006,"Acute leukemia, disease (disorder)",SNOMED-CT
+93198004,Malignant lymphoma of spleen (disorder),SNOMED-CT
+40411000,"Follicular lymphoma, grade 3 (morphologic abnormality)",SNOMED-CT
+420788006,Intraocular non-Hodgkin malignant lymphoma (disorder),SNOMED-CT
+445105005,Blastic plasmacytoid dendritic cell neoplasm (disorder),SNOMED-CT
+93133006,Letterer-Siwe disease of intra-abdominal lymph nodes (disorder),SNOMED-CT
+30440004,Lymphoma stage I (finding),SNOMED-CT
+188506004,Lymphosarcoma of spleen (disorder),SNOMED-CT
+30962008,Acute myelomonocytic leukemia (morphologic abnormality),SNOMED-CT
+35562000,Waldenstrom's macroglobulinemia (morphologic abnormality),SNOMED-CT
+443487006,Mantle cell lymphoma (disorder),SNOMED-CT
+397009000,Mast cell malignancy (disorder),SNOMED-CT
+93151007,Hairy cell leukemia of spleen (disorder),SNOMED-CT
+307635002,"Hodgkin's disease, nodular sclerosis - cellular phase (disorder)",SNOMED-CT
+277617004,High grade B-cell lymphoma (disorder),SNOMED-CT
+188669003,Mast cell malignancy of lymph nodes of multiple sites (disorder),SNOMED-CT
+188501009,Lymphosarcoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+277601005,Acute monoblastic leukemia (disorder),SNOMED-CT
+118610003,"Hodgkin's disease, lymphocytic depletion (disorder)",SNOMED-CT
+93527005,Hodgkin's disease of spleen (disorder),SNOMED-CT
+314924007,Follicular low grade B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+188515006,Burkitt's lymphoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+50102004,"Malignant lymphoma, mixed small and large cell, diffuse (morphologic abnormality)",SNOMED-CT
+93188005,Malignant histiocytosis of lymph nodes of multiple sites (disorder),SNOMED-CT
+445448008,Acute myeloid leukemia with myelodysplasia-related changes (disorder),SNOMED-CT
+93138002,Letterer-Siwe disease of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+14537002,"Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+307647008,"Malignant lymphoma, centroblastic type, follicular (disorder)",SNOMED-CT
+109984001,Gamma heavy chain disease (disorder),SNOMED-CT
+95188007,Nodular lymphoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+95187002,Nodular lymphoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+109991003,Acute myelofibrosis (disorder),SNOMED-CT
+307592006,Basophilic leukemia (disorder),SNOMED-CT
+14317002,"Acute myeloid leukemia, M6 type (morphologic abnormality)",SNOMED-CT
+277575008,T-cell acute lymphoblastic leukemia (disorder),SNOMED-CT
+109988003,Histiocytic sarcoma (disorder),SNOMED-CT
+188736006,Subacute myeloid leukemia (disorder),SNOMED-CT
+188641006,Malignant histiocytosis of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+21964009,"Malignant lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+278189009,Hypergranular promyelocytic leukemia (disorder),SNOMED-CT
+188768003,Myelomonocytic leukemia (disorder),SNOMED-CT
+188538009,Hodgkin's granuloma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+278453007,Acute biphenotypic leukemia (disorder),SNOMED-CT
+128923008,"Prolymphocytic leukemia, no ICD-O subtype (morphologic abnormality)",SNOMED-CT
+277614006,Prethymic and thymic T-cell lymphoma/leukemia (disorder),SNOMED-CT
+1090241000000107,Angioimmunoblastic T-cell lymphoma with dysproteinaemia (disorder),SNOMED-CT
+109989006,Multiple myeloma (disorder),SNOMED-CT
+449220000,Diffuse follicle center lymphoma (disorder),SNOMED-CT
+276836002,Primary cerebral lymphoma (disorder),SNOMED-CT
+39086001,"Hodgkin lymphoma, nodular sclerosis, cellular phase (morphologic abnormality)",SNOMED-CT
+95226002,Reticulosarcoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+308121000,Follicular non-Hodgkin's lymphoma (disorder),SNOMED-CT
+118618005,Mycosis fungoides (disorder),SNOMED-CT
+307617006,Neutrophilic leukemia (disorder),SNOMED-CT
+847691000000108,Follicular lymphoma grade 3a (disorder),SNOMED-CT
+449386007,Philadelphia chromosome negative chronic myelogenous leukemia (disorder),SNOMED-CT
+302841002,Malignant lymphoma - small lymphocytic (disorder),SNOMED-CT
+285839005,Acute myelomonocytic leukemia - eosinophilic variant (disorder),SNOMED-CT
+414655002,Mature (peripheral) T-cell neoplasm (morphologic abnormality),SNOMED-CT
+302848008,"Nodular malignant lymphoma, lymphocytic - intermediate differentiation (disorder)",SNOMED-CT
+232075002,Lymphoma of retina (disorder),SNOMED-CT
+31047003,Lymphomatoid papulosis (disorder),SNOMED-CT
+302855005,Subacute leukemia (disorder),SNOMED-CT
+118601006,Non-Hodgkin's lymphoma (disorder),SNOMED-CT
+188504001,Lymphosarcoma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+188672005,Follicular non-Hodgkin's mixed small cleaved and large cell lymphoma (disorder),SNOMED-CT
+445406001,Hepatosplenic T-cell lymphoma (disorder),SNOMED-CT
+128812005,"Langerhans cell histiocytosis, disseminated (morphologic abnormality)",SNOMED-CT
+314923001,Low grade B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+110004001,"Acute promyelocytic leukemia, FAB M3 (disorder)",SNOMED-CT
+93143009,"Leukemia, disease (disorder)",SNOMED-CT
+307637005,"Malignant lymphoma, centroblastic-centrocytic, follicular (disorder)",SNOMED-CT
+188591001,"Hodgkin's disease, lymphocytic depletion of intrapelvic lymph nodes (disorder)",SNOMED-CT
+93547002,Hodgkin's sarcoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+277580004,Non-secretory myeloma (disorder),SNOMED-CT
+68979007,Heavy chain disease (disorder),SNOMED-CT
+188726003,Subacute lymphoid leukemia (disorder),SNOMED-CT
+93193008,Malignant lymphoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+93182006,Malignant histiocytosis of intra-abdominal lymph nodes (disorder),SNOMED-CT
+285776004,Intermediate grade B-cell lymphoma (disorder),SNOMED-CT
+307623001,Malignant lymphoma - lymphoplasmacytic (disorder),SNOMED-CT
+188738007,Granulocytic sarcoma (disorder),SNOMED-CT
+277545003,T-cell chronic lymphocytic leukemia (disorder),SNOMED-CT
+275524009,Immunoproliferative neoplasm (disorder),SNOMED-CT
+446643000,Sarcoma of dendritic cells (accessory cells) (disorder),SNOMED-CT
+74189002,Hodgkin granuloma [obs] (morphologic abnormality),SNOMED-CT
+277587001,Juvenile chronic myeloid leukemia (disorder),SNOMED-CT
+51092000,B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma (morphologic abnormality),SNOMED-CT
+109975001,T-zone lymphoma (disorder),SNOMED-CT
+103686008,Intestinal T-cell lymphoma (morphologic abnormality),SNOMED-CT
+54087003,Hairy cell leukemia (morphologic abnormality),SNOMED-CT
+92812005,"Chronic leukemia, disease (disorder)",SNOMED-CT
+128832006,Juvenile myelomonocytic leukemia (morphologic abnormality),SNOMED-CT
+118607005,"Hodgkin lymphoma, lymphocyte-rich (disorder)",SNOMED-CT
+188662007,"Mast cell malignancy of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+188665009,Mast cell malignancy of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+277570003,Lymphoma with spill (disorder),SNOMED-CT
+188728002,Aleukemic lymphoid leukemia (disorder),SNOMED-CT
+188634000,Sézary's disease of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+302842009,Diffuse malignant lymphoma - centroblastic (disorder),SNOMED-CT
+188544008,"Hodgkin's sarcoma of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+276811008,Gastric lymphoma (disorder),SNOMED-CT
+46923007,Hodgkin sarcoma [obs] (morphologic abnormality),SNOMED-CT
+863781000000100,Clinical stage C chronic lymphocytic leukaemia (disorder),SNOMED-CT
+50150000,Malignant mastocytosis (morphologic abnormality),SNOMED-CT
+277573001,Common acute lymphoblastic leukemia (disorder),SNOMED-CT
+188660004,Malignant mast cell tumors (disorder),SNOMED-CT
+95186006,Nodular lymphoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+448212009,Anaplastic lymphoma kinase negative anaplastic large cell lymphoma (disorder),SNOMED-CT
+93194002,Malignant lymphoma of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+19340000,"Malignant lymphoma, lymphoplasmacytic (morphologic abnormality)",SNOMED-CT
+188537004,Hodgkin's granuloma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+95263006,Sézary's disease of spleen (disorder),SNOMED-CT
+277604002,Acute eosinophilic leukemia (disorder),SNOMED-CT
+52248008,"Hodgkin lymphoma, nodular sclerosis (morphologic abnormality)",SNOMED-CT
+55150002,Follicular lymphoma (morphologic abnormality),SNOMED-CT
+188548006,Hodgkin's sarcoma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+188630009,"Sézary's disease of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+93191005,Malignant lymphoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+738770003,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma (disorder),SNOMED-CT
+93531004,Hodgkin's granuloma of intrathoracic lymph nodes (disorder),SNOMED-CT
+314926009,T-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+188640007,"Malignant histiocytosis of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+22197008,Burkitt cell leukemia (morphologic abnormality),SNOMED-CT
+188575004,"Hodgkin's disease, mixed cellularity of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+188566001,"Hodgkin's disease, nodular sclerosis of intrathoracic lymph nodes (disorder)",SNOMED-CT
+16893006,"Hodgkin lymphoma, lymphocyte depletion, diffuse fibrosis (morphologic abnormality)",SNOMED-CT
+188568000,"Hodgkin's disease, nodular sclerosis of lymph nodes of axilla and upper limb (disorder)",SNOMED-CT
+404133000,Subcutaneous panniculitic cutaneous T-cell lymphoma (disorder),SNOMED-CT
+109969005,"Diffuse non-Hodgkin's lymphoma, large cell (disorder)",SNOMED-CT
+1091861000000100,"Follicular lymphoma, cutaneous follicle centre (disorder)",SNOMED-CT
+109966003,"Diffuse non-Hodgkin's lymphoma, immunoblastic (disorder)",SNOMED-CT
+277569004,Large granular lymphocytic leukemia (disorder),SNOMED-CT
+93144003,Leukemic reticuloendotheliosis of intra-abdominal lymph nodes (disorder),SNOMED-CT
+167934009,Bone marrow: myeloma cells (finding),SNOMED-CT
+188578002,"Hodgkin's disease, mixed cellularity of lymph nodes of axilla and upper limb (disorder)",SNOMED-CT
+93189002,Malignant histiocytosis of spleen (disorder),SNOMED-CT
+277571004,B-cell acute lymphoblastic leukemia (disorder),SNOMED-CT
+188734009,Chronic neutrophilic leukemia (disorder),SNOMED-CT
+28054005,"Cutaneous T-cell lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+277551008,Splenic lymphoma with villous lymphocytes (disorder),SNOMED-CT
+188577007,"Hodgkin's disease, mixed cellularity of intra-abdominal lymph nodes (disorder)",SNOMED-CT
+307625008,Malignant lymphoma - centrocytic (disorder),SNOMED-CT
+188741003,Aleukemic myeloid leukemia (disorder),SNOMED-CT
+359640008,"Acute myeloid leukemia without maturation, FAB M1 (disorder)",SNOMED-CT
+91861009,"Acute myeloid leukemia, disease (disorder)",SNOMED-CT
+277624003,Follicular malignant lymphoma - mixed cell type (disorder),SNOMED-CT
+128813000,Histiocytic sarcoma (morphologic abnormality),SNOMED-CT
+277568007,Hairy cell leukemia variant (disorder),SNOMED-CT
+118609008,"Hodgkin's disease, mixed cellularity (disorder)",SNOMED-CT
+1929004,"Non-Hodgkin lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+188593003,"Hodgkin's disease, lymphocytic depletion of lymph nodes of multiple sites (disorder)",SNOMED-CT
+189984004,"Reticulosarcoma, pleomorphic cell type (morphologic abnormality)",SNOMED-CT
+90120004,Mycosis fungoides (morphologic abnormality),SNOMED-CT
+188511002,Burkitt's lymphoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+94719007,"Myeloid sarcoma, disease (disorder)",SNOMED-CT
+93195001,"Malignant lymphoma of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+66445009,Lymphoma stage IV (finding),SNOMED-CT
+188637007,Sézary's disease of lymph nodes of multiple sites (disorder),SNOMED-CT
+93500006,"Hodgkin's disease, lymphocytic-histiocytic predominance of spleen (disorder)",SNOMED-CT
+188667001,Mast cell malignancy of intrapelvic lymph nodes (disorder),SNOMED-CT
+285422003,Immunoglobulin D myeloma (disorder),SNOMED-CT
+94710006,Mycosis fungoides of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+445269007,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (disorder),SNOMED-CT
+188534006,"Hodgkin's granuloma of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+188576003,"Hodgkin's disease, mixed cellularity of intrathoracic lymph nodes (disorder)",SNOMED-CT
+95231000,Reticulosarcoma of spleen (disorder),SNOMED-CT
+188587006,"Hodgkin's disease, lymphocytic depletion of intra-abdominal lymph nodes (disorder)",SNOMED-CT
+276815004,Lymphoma of intestine (disorder),SNOMED-CT
+93518009,"Hodgkin's disease, nodular sclerosis of spleen (disorder)",SNOMED-CT
+93192003,Malignant lymphoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+307636001,"Malignant lymphoma, mixed lymphocytic-histiocytic, nodular (disorder)",SNOMED-CT
+277615007,Low grade B-cell lymphoma (disorder),SNOMED-CT
+24072005,"Acute leukemia, morphology, including blast cell OR undifferentiated leukemia (morphologic abnormality)",SNOMED-CT
+190817009,Macroglobulinemia (disorder),SNOMED-CT
+444910004,Primary mediastinal (thymic) large B-cell lymphoma (disorder),SNOMED-CT
+93520007,Hodgkin's disease of intra-abdominal lymph nodes (disorder),SNOMED-CT
+128805001,"Natural killer-/T-cell lymphoma, nasal and nasal-type (morphologic abnormality)",SNOMED-CT
+93548007,Hodgkin's sarcoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+92814006,"Chronic lymphoid leukemia, disease (disorder)",SNOMED-CT
+277654008,Enteropathy-associated T-cell lymphoma (disorder),SNOMED-CT
+188582000,"Hodgkin's disease, mixed cellularity of lymph nodes of multiple sites (disorder)",SNOMED-CT
+77430005,Adult T-cell leukemia/lymphoma (morphologic abnormality),SNOMED-CT
+277579002,Light chain myeloma (disorder),SNOMED-CT
+32280000,"Lymphoid leukemia, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+277628000,Diffuse malignant lymphoma - large cleaved cell (disorder),SNOMED-CT
+314925008,High grade B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+449108003,Philadelphia chromosome positive chronic myelogenous leukemia (disorder),SNOMED-CT
+128922003,"Plasma cell leukemia, morphology (morphologic abnormality)",SNOMED-CT
+70600005,"Hodgkin lymphoma, nodular lymphocyte predominance (morphologic abnormality)",SNOMED-CT
+188570009,"Hodgkin's disease, nodular sclerosis of intrapelvic lymph nodes (disorder)",SNOMED-CT
+94707004,Mycosis fungoides of intra-abdominal lymph nodes (disorder),SNOMED-CT
+307646004,"Malignant lymphoma, lymphocytic, poorly differentiated, nodular (disorder)",SNOMED-CT
+93184007,Malignant histiocytosis of intrathoracic lymph nodes (disorder),SNOMED-CT
+413440007,Acute lymphoblastic leukemia - category (morphologic abnormality),SNOMED-CT
+188586002,"Hodgkin's disease, lymphocytic depletion of intrathoracic lymph nodes (disorder)",SNOMED-CT
+415112005,Plasmacytoma (disorder),SNOMED-CT
+277651000,Peripheral T-cell lymphoma - pleomorphic small cell (disorder),SNOMED-CT
+118615008,Malignant mast cell tumor (disorder),SNOMED-CT
+190055003,Eosinophilic leukemia (morphologic abnormality),SNOMED-CT
+445227008,Juvenile myelomonocytic leukemia (disorder),SNOMED-CT
+77381001,Burkitt lymphoma (morphologic abnormality),SNOMED-CT
+87163000,"Leukemia, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+188609000,"Nodular lymphoma of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+188558005,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla and upper limb (disorder)",SNOMED-CT
+128931003,Leukemia - category (morphologic abnormality),SNOMED-CT
+847631000000107,Follicular lymphoma grade 2 (disorder),SNOMED-CT
+303055001,"Malignant lymphoma, follicular center cell (disorder)",SNOMED-CT
+128920006,Malignant histiocytosis (morphologic abnormality),SNOMED-CT
+128803008,Marginal zone B-cell lymphoma (morphologic abnormality),SNOMED-CT
+188536008,Hodgkin's granuloma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+277664004,Malignant lymphoma of testis (disorder),SNOMED-CT
+314934003,Diffuse high grade B-cell lymphoma morphology (morphologic abnormality),SNOMED-CT
+63364005,"Chronic myelogenous leukemia, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+277613000,Cutaneous/peripheral T-cell lymphoma (disorder),SNOMED-CT
+835009,Angioimmunoblastic T-cell lymphoma (morphologic abnormality),SNOMED-CT
+188513004,Burkitt's lymphoma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+28950004,"Acute promyelocytic leukemia, t(15;17)(q22;q11-12) (morphologic abnormality)",SNOMED-CT
+93523009,Hodgkin's disease of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+17788007,"Acute myeloid leukemia, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+92818009,"Chronic myeloid leukemia, disease (disorder)",SNOMED-CT
+189985003,"Reticulosarcoma, nodular (morphologic abnormality)",SNOMED-CT
+188668006,Mast cell malignancy of spleen (disorder),SNOMED-CT
+95192000,Nodular lymphoma of lymph nodes of multiple sites (disorder),SNOMED-CT
+277572006,Pre B-cell acute lymphoblastic leukemia (disorder),SNOMED-CT
+109962001,Diffuse non-Hodgkin's lymphoma (disorder),SNOMED-CT
+37064009,Hyperproteinemia (disorder),SNOMED-CT
+302856006,Aleukemic leukemia (disorder),SNOMED-CT
+22331004,"Acute monocytic leukemia, morphology (morphologic abnormality)",SNOMED-CT
+307622006,Prolymphocytic lymphosarcoma (disorder),SNOMED-CT
+128929007,Non-Hodgkin lymphoma - category (morphologic abnormality),SNOMED-CT
+188633006,Sézary's disease of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+277543005,Malignant white blood cell disorder (disorder),SNOMED-CT
+118602004,Hodgkin's granuloma (disorder),SNOMED-CT
+188674006,Diffuse malignant lymphoma - small non-cleaved cell (disorder),SNOMED-CT
+188498009,Lymphosarcoma (disorder),SNOMED-CT
+188664008,Mast cell malignancy of intra-abdominal lymph nodes (disorder),SNOMED-CT
+277627005,Nodular high grade B-cell lymphoma (disorder),SNOMED-CT
+820601000000103,Refractory anaemia with multilineage dysplasia (disorder),SNOMED-CT
+188579005,"Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region and lower limb (disorder)",SNOMED-CT
+414166008,"Extranodal natural killer/T-cell lymphoma, nasal type (disorder)",SNOMED-CT
+118606001,Hodgkin's sarcoma (disorder),SNOMED-CT
+285421005,Immunoglobulin G myeloma (disorder),SNOMED-CT
+863761000000109,Clinical stage B chronic lymphocytic leukaemia (disorder),SNOMED-CT
+128875000,Primary cutaneous CD30 antigen positive large T-cell lymphoma (disorder),SNOMED-CT
+118611004,Sézary's disease (disorder),SNOMED-CT
+307341004,Atypical hairy cell leukemia (disorder),SNOMED-CT
+188666005,Mast cell malignancy of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+46732000,"Malignant lymphoma, large B-cell, diffuse, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+188645002,"Leukemic reticuloendotheliosis of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+188551004,Hodgkin's sarcoma of lymph nodes of multiple sites (disorder),SNOMED-CT
+93136003,Letterer-Siwe disease of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+93524003,"Hodgkin's disease of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+188676008,Malignant lymphoma - mixed small and large cell (disorder),SNOMED-CT
+307624007,Diffuse malignant lymphoma - centroblastic-centrocytic (disorder),SNOMED-CT
+277602003,Acute megakaryoblastic leukemia (disorder),SNOMED-CT
+118612006,Malignant histiocytosis (disorder),SNOMED-CT
+93451002,"Erythroleukemia, FAB M6 (disorder)",SNOMED-CT
+236513009,Lymphoma of kidney (disorder),SNOMED-CT
+188675007,Malignant lymphoma - small cleaved cell (disorder),SNOMED-CT
+69077002,Acute basophilic leukemia (morphologic abnormality),SNOMED-CT
+188649008,Leukemic reticuloendotheliosis of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+188516007,Burkitt's lymphoma of spleen (disorder),SNOMED-CT
+93536009,Hodgkin's granuloma of spleen (disorder),SNOMED-CT
+188507008,Lymphosarcoma of lymph nodes of multiple sites (disorder),SNOMED-CT
+118613001,Hairy cell leukemia (disorder),SNOMED-CT
+188547001,Hodgkin's sarcoma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+109992005,Polycythemia vera (disorder),SNOMED-CT
+442537007,Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection (disorder),SNOMED-CT
+188572001,"Hodgkin's disease, nodular sclerosis of lymph nodes of multiple sites (disorder)",SNOMED-CT
+37810007,"Myeloid leukemia, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+303017006,"Malignant lymphoma, convoluted cell type (disorder)",SNOMED-CT
+414628006,Lymphoid neoplasm (morphologic abnormality),SNOMED-CT
+188635004,Sézary's disease of intrapelvic lymph nodes (disorder),SNOMED-CT
+188627002,Mycosis fungoides of lymph nodes of multiple sites (disorder),SNOMED-CT
+285420006,Immunoglobulin A myeloma (disorder),SNOMED-CT
+277641001,Follicular malignant lymphoma - large cell (disorder),SNOMED-CT
+55921005,"Multiple myeloma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+277612005,"Hodgkin's disease, nodular sclerosis - lymphocytic depletion (disorder)",SNOMED-CT
+234577004,Lipochrome histiocytosis - familial (disorder),SNOMED-CT
+278051002,Malignant lymphoma of thyroid gland (disorder),SNOMED-CT
+110005000,"Acute myelomonocytic leukemia, FAB M4 (disorder)",SNOMED-CT
+188492005,Reticulosarcoma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+188562004,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of multiple sites (disorder)",SNOMED-CT
+129000002,"Langerhans cell histiocytosis, unifocal (disorder)",SNOMED-CT
+188505000,Lymphosarcoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+93522004,Hodgkin's disease of intrathoracic lymph nodes (disorder),SNOMED-CT
+313427003,Lambda light chain myeloma (disorder),SNOMED-CT
+277574007,Null cell acute lymphoblastic leukemia (disorder),SNOMED-CT
+128930002,Hodgkin lymphoma - category (morphologic abnormality),SNOMED-CT
+92513005,Burkitt's tumor of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+419662008,Primary cutaneous follicle center cell lymphoma (morphologic abnormality),SNOMED-CT
+449419008,Follicular non-Hodgkin's lymphoma of intestine (disorder),SNOMED-CT
+702446006,Core binding factor acute myeloid leukemia (disorder),SNOMED-CT
+426248008,Aleukemic lymphoid leukemia in remission (disorder),SNOMED-CT
+404105000,Lymphomatoid papulosis type C (anaplastic large-cell lymphoma-like) (disorder),SNOMED-CT
+103685007,Hepatosplenic gamma-delta cell lymphoma (morphologic abnormality),SNOMED-CT
+734142002,B-cell lymphoma with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma (morphologic abnormality),SNOMED-CT
+93208003,Malignant mast cell tumor of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+448867004,Diffuse non-Hodgkin's lymphoma of lung (disorder),SNOMED-CT
+450916006,Mixed phenotype acute leukemia with myeloid and B-cell lymphoid phenotypes (morphologic abnormality),SNOMED-CT
+93514006,"Hodgkin's disease, nodular sclerosis of lymph nodes of axilla AND/OR upper limb (disorder)",SNOMED-CT
+397356009,Indolent systemic mastocytosis (morphologic abnormality),SNOMED-CT
+734522002,Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation (disorder),SNOMED-CT
+413527004,"Anaplastic large cell lymphoma, T/Null cell, primary systemic type (morphologic abnormality)",SNOMED-CT
+425037004,"Low grade lymphoma, stage 1 (finding)",SNOMED-CT
+427056005,Subacute leukemia in remission (disorder),SNOMED-CT
+449217008,Diffuse non-Hodgkin's lymphoma of skin (disorder),SNOMED-CT
+128820007,"Prolymphocytic leukemia, B-cell type (morphologic abnormality)",SNOMED-CT
+450935006,Myeloid leukemia associated with Down Syndrome (morphologic abnormality),SNOMED-CT
+413843002,Chronic myeloid leukemia in myeloid blast crisis (disorder),SNOMED-CT
+93185008,Malignant histiocytosis of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+93186009,"Malignant histiocytosis of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+448269008,Lymphoma of lesser curvature of stomach (disorder),SNOMED-CT
+237865009,Primary amyloidosis of light chain type (disorder),SNOMED-CT
+128833001,Aggressive natural killer-cell leukemia (morphologic abnormality),SNOMED-CT
+109970006,"Follicular non-Hodgkin's lymphoma, small cleaved cell (disorder)",SNOMED-CT
+190030009,Compound leukemias (disorder),SNOMED-CT
+418152006,Precursor B-cell neoplasm (morphologic abnormality),SNOMED-CT
+415111003,Plasma cell neoplasm (disorder),SNOMED-CT
+419879004,Atypical Burkitt's lymphoma (morphologic abnormality),SNOMED-CT
+94718004,Myeloid sarcoma in remission (disorder),SNOMED-CT
+763884007,Splenic diffuse red pulp small B-cell lymphoma (disorder),SNOMED-CT
+397400006,Burkitt lymphoma/leukemia (morphologic abnormality),SNOMED-CT
+450958009,"Malignant lymphoma, diffuse large B-cell, immunoblastic (morphologic abnormality)",SNOMED-CT
+110460003,"Plasma cell tumor, benign (morphologic abnormality)",SNOMED-CT
+115246000,Specified cutaneous AND/OR peripheral T cell lymphoma (morphologic abnormality),SNOMED-CT
+721304007,Refractory thrombocytopenia (disorder),SNOMED-CT
+109985000,Immunoproliferative small intestinal disease (disorder),SNOMED-CT
+426217000,Aleukemic leukemia in remission (disorder),SNOMED-CT
+109964000,"Diffuse non-Hodgkin's lymphoma, undifferentiated (disorder)",SNOMED-CT
+35601003,Monoclonal gammopathy of undetermined significance (morphologic abnormality),SNOMED-CT
+404126000,CD-30 positive pleomorphic large T-cell cutaneous lymphoma (disorder),SNOMED-CT
+734076008,Diffuse large B-cell lymphoma associated with chronic inflammation (morphologic abnormality),SNOMED-CT
+285424002,Immunoglobulin G monoclonal gammopathy of uncertain significance (disorder),SNOMED-CT
+239940004,Lymphomatoid granulomatosis (disorder),SNOMED-CT
+93487009,"Hodgkin's disease, lymphocytic depletion of lymph nodes of axilla AND/OR upper limb (disorder)",SNOMED-CT
+92813000,Chronic lymphoid leukemia in remission (disorder),SNOMED-CT
+450917002,Mixed phenotype acute leukemia with myeloid and T-cell lymphoid phenotypes (morphologic abnormality),SNOMED-CT
+724650000,Primary follicular dendritic cell sarcoma (disorder),SNOMED-CT
+450956008,B lymphoblastic leukemia lymphoma with t(1;19)(q23;p13.3); E2A-PBX1 (TCF3-PBX1) (morphologic abnormality),SNOMED-CT
+413587002,Smoldering myeloma (disorder),SNOMED-CT
+444597005,Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue of stomach (disorder),SNOMED-CT
+721311006,Systemic Epstein-Barr virus positive T-cell lymphoproliferative disease of childhood (disorder),SNOMED-CT
+91858008,Acute monocytic leukemia in remission (disorder),SNOMED-CT
+404132005,Pleomorphic small/medium-sized cell cutaneous T-cell lymphoma (disorder),SNOMED-CT
+404125001,CD-30 positive anaplastic large T-cell cutaneous lymphoma (disorder),SNOMED-CT
+425657001,Osteosclerotic myeloma (disorder),SNOMED-CT
+447766003,Lymphoma of pyloric antrum of stomach (disorder),SNOMED-CT
+413847001,Chronic phase chronic myeloid leukemia (disorder),SNOMED-CT
+93169003,Lymphoid leukemia in remission (disorder),SNOMED-CT
+450920005,B lymphoblastic leukemia / lymphoma - category (morphologic abnormality),SNOMED-CT
+450937003,Acute myeloid leukemia (megakaryoblastic) with t(1;22)(p13;q13); RBM15-MKL1 (morphologic abnormality),SNOMED-CT
+128807009,Precursor B-cell lymphoblastic lymphoma (morphologic abnormality),SNOMED-CT
+449072004,Lymphoma of gastrointestinal tract (disorder),SNOMED-CT
+449053004,Lymphoma of lower esophagus (disorder),SNOMED-CT
+718721006,Congenital analbuminemia (disorder),SNOMED-CT
+716788007,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly (disorder),SNOMED-CT
+80570006,Acute panmyelosis with myelofibrosis (morphologic abnormality),SNOMED-CT
+44255004,Lymphoma stage IIIe (finding),SNOMED-CT
+449216004,Diffuse non-Hodgkin's lymphoma of soft tissue (disorder),SNOMED-CT
+397467006,"Follicular lymphoma, cutaneous follicle center sub-type (morphologic abnormality)",SNOMED-CT
+93532006,Hodgkin's granuloma of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+82546001,Reactive immunoproliferative disease (disorder),SNOMED-CT
+93545005,Hodgkin's paragranuloma of spleen (disorder),SNOMED-CT
+736322001,Pediatric follicular lymphoma (disorder),SNOMED-CT
+404148006,Diffuse large B-cell lymphoma (nodal/systemic with skin involvement) (disorder),SNOMED-CT
+404104001,Lymphomatoid papulosis type B - mycosis fungoides-like (disorder),SNOMED-CT
+722953004,B-cell lymphoma unclassifiable with features intermediate between Burkitt lymphoma and diffuse large B-cell lymphoma (disorder),SNOMED-CT
+699657009,Hepatosplenic gamma-delta cell lymphoma (disorder),SNOMED-CT
+448386004,Non-Hodgkin's lymphoma of oral cavity (disorder),SNOMED-CT
+397351004,"Post-transplant lymphoproliferative disorder, polymorphic (morphologic abnormality)",SNOMED-CT
+448254007,Non-Hodgkin's lymphoma of central nervous system (disorder),SNOMED-CT
+109994006,Essential thrombocythemia (disorder),SNOMED-CT
+724647003,Diffuse large B-cell lymphoma co-occurrent with chronic inflammation caused by Epstein-Barr virus (disorder),SNOMED-CT
+404114005,Erythrodermic mycosis fungoides (disorder),SNOMED-CT
+93552007,Hodgkin's sarcoma of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+6381009,Heavy chain disease (morphologic abnormality),SNOMED-CT
+93207008,Malignant mast cell tumor of spleen (disorder),SNOMED-CT
+128932005,Acute leukemia - category (morphologic abnormality),SNOMED-CT
+93516008,"Hodgkin's disease, nodular sclerosis of lymph nodes of inguinal region AND/OR lower limb (disorder)",SNOMED-CT
+713718006,Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection (disorder),SNOMED-CT
+448709005,Non-Hodgkin's lymphoma of stomach (disorder),SNOMED-CT
+404150003,Mantle cell B-cell lymphoma (nodal/systemic with skin involvement) (disorder),SNOMED-CT
+254792006,Proliferating angioendotheliomatosis (disorder),SNOMED-CT
+97361000119109,Hypoalbuminemia due to protein calorie malnutrition (disorder),SNOMED-CT
+371012000,"Acute lymphoblastic leukemia, transitional pre-B-cell (disorder)",SNOMED-CT
+3172003,"Peripheral T-cell lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+413443009,Acute myeloid leukemia - category (morphologic abnormality),SNOMED-CT
+449218003,Lymphoma of sigmoid colon (disorder),SNOMED-CT
+189509003,"Refractory anemia without sideroblasts, so stated (disorder)",SNOMED-CT
+721302006,Refractory anemia with ringed sideroblasts associated with marked thrombocytosis (disorder),SNOMED-CT
+92811003,Chronic leukemia in remission (disorder),SNOMED-CT
+721310007,Aggressive natural killer-cell leukemia (disorder),SNOMED-CT
+450914009,Mixed phenotype acute leukemia with t(9;22)(q34;q11.2); BCR-ABL1 (morphologic abnormality),SNOMED-CT
+103690005,Acute myeloid leukemia without maturation (morphologic abnormality),SNOMED-CT
+702786004,Follicular non-Hodgkin's lymphoma diffuse follicle center sub-type grade 1 (disorder),SNOMED-CT
+93551000,"Hodgkin's sarcoma of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+397345009,Acute leukemia of ambiguous lineage (morphologic abnormality),SNOMED-CT
+404110001,Hypomelanotic mycosis fungoides (disorder),SNOMED-CT
+414791003,"Myelodysplastic syndrome, unclassified by World Health Organization classification (disorder)",SNOMED-CT
+397011009,Mast cell malignancy of lymph nodes (disorder),SNOMED-CT
+397350003,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue (morphologic abnormality),SNOMED-CT
+119247004,Hypoalbuminemia (disorder),SNOMED-CT
+446688004,Leukemic infiltration (morphologic abnormality),SNOMED-CT
+414553000,Kappa light chain myeloma (disorder),SNOMED-CT
+109971005,"Follicular non-Hodgkin's lymphoma, mixed small cleaved cell and large cell (disorder)",SNOMED-CT
+738527001,Myeloid and/or lymphoid neoplasm associated with platelet derived growth factor receptor alpha rearrangement (disorder),SNOMED-CT
+419094004,Immunodeficiency-associated Burkitt's lymphoma (morphologic abnormality),SNOMED-CT
+449074003,Lymphoma of small intestine (disorder),SNOMED-CT
+404103007,Lymphomatoid papulosis type A (CD-30 positive type) (disorder),SNOMED-CT
+415156005,Precursor T-cell neoplasm (morphologic abnormality),SNOMED-CT
+404139001,Leukemic infiltration of skin in hairy-cell leukemia (disorder),SNOMED-CT
+449075002,Lymphoma of cardioesophageal junction (disorder),SNOMED-CT
+397342007,Acute myeloid leukemia with multilineage dysplasia without antecedent myelodysplastic syndrome (morphologic abnormality),SNOMED-CT
+426885008,"Hodgkin's disease, lymphocytic depletion of lymph nodes of head (disorder)",SNOMED-CT
+404131003,CD-30 negative T-immunoblastic cutaneous lymphoma (disorder),SNOMED-CT
+404155008,Granulocytic sarcoma affecting skin (disorder),SNOMED-CT
+404144008,Primary cutaneous diffuse large cell B-cell lymphoma (disorder),SNOMED-CT
+709471005,Periodontitis co-occurrent with leukemia (disorder),SNOMED-CT
+93519001,"Hodgkin's disease, nodular sclerosis of extranodal AND/OR solid organ site (disorder)",SNOMED-CT
+92511007,Burkitt's tumor of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+449307001,Follicular non-Hodgkin's lymphoma of ovary (disorder),SNOMED-CT
+426370008,Subacute lymphoid leukemia in remission (disorder),SNOMED-CT
+397015000,Systemic mastocytosis with associated clonal hematological non-mast cell lineage disease (disorder),SNOMED-CT
+415113000,Plasmacytoma - category (morphologic abnormality),SNOMED-CT
+404136008,Aggressive natural killer-cell leukemia involving skin (disorder),SNOMED-CT
+450907007,Hydroa vacciniforme-like lymphoma (morphologic abnormality),SNOMED-CT
+404137004,Precursor B-cell lymphoblastic lymphoma involving skin (disorder),SNOMED-CT
+404113004,Tumor stage mycosis fungoides (disorder),SNOMED-CT
+13048006,Orbital lymphoma (disorder),SNOMED-CT
+448553002,Lymphoma of pelvis (disorder),SNOMED-CT
+448663003,Diffuse non-Hodgkin's lymphoma of stomach (disorder),SNOMED-CT
+188531003,Hodgkin's paragranuloma of lymph nodes of multiple sites (disorder),SNOMED-CT
+419586003,"Primary cutaneous T-cell lymphoma, large cell, CD30-negative (morphologic abnormality)",SNOMED-CT
+766935007,Primary bone lymphoma (disorder),SNOMED-CT
+448317000,Follicular non-Hodgkin's lymphoma of soft tissue (disorder),SNOMED-CT
+413537009,Angioimmunoblastic T-cell lymphoma (disorder),SNOMED-CT
+414654003,Mature (peripheral) B-cell neoplasm (morphologic abnormality),SNOMED-CT
+450954006,B lymphoblastic leukemia lymphoma with hypodiploidy (Hypodiploid ALL) (morphologic abnormality),SNOMED-CT
+123313007,"Alpha heavy chain disease, enteric form (disorder)",SNOMED-CT
+418789003,Primary cutaneous plasmacytoma (morphologic abnormality),SNOMED-CT
+127070008,Malignant histiocytic disorder (disorder),SNOMED-CT
+702476004,Therapy-related myelodysplastic syndrome (disorder),SNOMED-CT
+450959001,T-cell/histiocyte rich large B-cell lymphoma (morphologic abnormality),SNOMED-CT
+450915005,Mixed phenotype acute leukemia with t(v;11q23); MLL rearranged (morphologic abnormality),SNOMED-CT
+404120006,Localized pagetoid reticulosis (disorder),SNOMED-CT
+420028002,Primary cutaneous marginal zone B-cell lymphoma (morphologic abnormality),SNOMED-CT
+61301000119102,Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia (disorder),SNOMED-CT
+404111002,Lymphomatoid papulosis-associated mycosis fungoides (disorder),SNOMED-CT
+447989004,Non-Hodgkin's lymphoma of extranodal site (disorder),SNOMED-CT
+419386004,Pagetoid reticulosis (morphologic abnormality),SNOMED-CT
+397347001,Precursor B-lymphoblastic leukemia/lymphoblastic lymphoma (morphologic abnormality),SNOMED-CT
+93205000,Malignant mast cell tumor of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+425869007,"Acute promyelocytic leukemia, FAB M3, in remission (disorder)",SNOMED-CT
+448231003,Follicular non-Hodgkin's lymphoma of nose (disorder),SNOMED-CT
+425941003,Pre B-cell acute lymphoblastic leukemia in remission (disorder),SNOMED-CT
+25050002,"Alpha heavy chain disease, respiratory form (disorder)",SNOMED-CT
+93190006,Malignant histiocytosis of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+722954005,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma (disorder),SNOMED-CT
+702977001,Follicular non-Hodgkin's lymphoma diffuse follicle center cell sub-type grade 2 (disorder),SNOMED-CT
+93201009,Malignant mast cell tumor of intrapelvic lymph nodes (disorder),SNOMED-CT
+762315004,Therapy related acute myeloid leukemia due to and following administration of antineoplastic agent (disorder),SNOMED-CT
+715950008,Anaplastic lymphoma kinase positive large B-cell lymphoma (disorder),SNOMED-CT
+721313009,Indeterminate dendritic cell neoplasm (disorder),SNOMED-CT
+128874001,Cutaneous CD30+ lymphoproliferative disorder (disorder),SNOMED-CT
+448774004,Non-Hodgkin's lymphoma of uterine cervix (disorder),SNOMED-CT
+448384001,Non-Hodgkin's lymphoma of nose (disorder),SNOMED-CT
+415285009,Refractory cytopenia with multilineage dysplasia (disorder),SNOMED-CT
+450929006,Acute myeloid leukemia with inv(3)(q21q26.2) or t(3;3)(q21;q26.2); RPN1-EVI1 (morphologic abnormality),SNOMED-CT
+404172001,Mast cell leukemia affecting skin (disorder),SNOMED-CT
+20224008,Delta heavy chain disease (disorder),SNOMED-CT
+61291000119103,Disorder of central nervous system co-occurrent and due to acute lymphoid leukemia in remission (disorder),SNOMED-CT
+733598001,Acute myeloid leukemia with t(6;9)(p23;q34) translocation (disorder),SNOMED-CT
+414780005,Mucosa-associated lymphoid tissue lymphoma of orbit (disorder),SNOMED-CT
+415110002,Plasma cell myeloma/plasmacytoma (disorder),SNOMED-CT
+714463003,Primary effusion lymphoma co-occurrent with infection caused by Human herpesvirus 8 (disorder),SNOMED-CT
+450909005,Plasmablastic lymphoma (morphologic abnormality),SNOMED-CT
+285428004,Immunoglobulin D monoclonal gammopathy of uncertain significance (disorder),SNOMED-CT
+128824003,Precursor T-cell lymphoblastic leukemia (morphologic abnormality),SNOMED-CT
+94688000,Mixed cell type lymphosarcoma of intrathoracic lymph nodes (disorder),SNOMED-CT
+441313008,Indolent multiple myeloma (disorder),SNOMED-CT
+447100004,Marginal zone lymphoma (disorder),SNOMED-CT
+110000005,Refractory anemia with excess blasts in transformation (disorder),SNOMED-CT
+699818003,T-cell large granular lymphocytic leukemia (disorder),SNOMED-CT
+766048008,Acute myeloid leukemia and myelodysplastic syndrome related to radiation (disorder),SNOMED-CT
+93542008,"Hodgkin's paragranuloma of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+93550004,Hodgkin's sarcoma of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+402880009,Primary cutaneous large T-cell lymphoma (disorder),SNOMED-CT
+450950002,B lymphoblastic leukemia lymphoma with t(9;22)(q34;q11.2); BCR-ABL1 (morphologic abnormality),SNOMED-CT
+94716000,Myeloid leukemia in remission (disorder),SNOMED-CT
+399456004,Plasma cell myeloma/plasmacytoma (morphologic abnormality),SNOMED-CT
+404138009,Small lymphocytic B-cell lymphoma involving skin (disorder),SNOMED-CT
+762690000,Classical Hodgkin lymphoma (disorder),SNOMED-CT
+713483007,Reticulosarcoma co-occurrent with human immunodeficiency virus infection (disorder),SNOMED-CT
+84631004,"Lymphoproliferative disease, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+415109007,Plasma cell myeloma - category (morphologic abnormality),SNOMED-CT
+734066005,Diffuse large B-cell lymphoma of central nervous system (disorder),SNOMED-CT
+734141009,Splenic B-cell lymphoma (morphologic abnormality),SNOMED-CT
+449058008,Follicular non-Hodgkin's lymphoma of tonsil (disorder),SNOMED-CT
+450908002,Primary cutaneous gamma-delta T-cell lymphoma (morphologic abnormality),SNOMED-CT
+415284008,Refractory anemia with excess blasts-2 (disorder),SNOMED-CT
+415283002,Refractory anemia with excess blasts-1 (disorder),SNOMED-CT
+103682005,Subcutaneous panniculitic T-cell lymphoma (morphologic abnormality),SNOMED-CT
+724645006,T-cell hystiocyte rich large B-cell lymphoma (disorder),SNOMED-CT
+93496009,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of axilla AND/OR upper limb (disorder)",SNOMED-CT
+128798004,Composite Hodgkin and non-Hodgkin lymphoma (morphologic abnormality),SNOMED-CT
+448217003,Follicular non-Hodgkin's lymphoma of prostate (disorder),SNOMED-CT
+128806000,Precursor cell lymphoblastic lymphoma (morphologic abnormality),SNOMED-CT
+93555009,Hodgkin's sarcoma of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+447656001,Lymphoma of pylorus of stomach (disorder),SNOMED-CT
+95264000,Sézary's disease of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+766046007,Acute myeloid leukemia and myelodysplastic syndrome related to topoisomerase type 2 inhibitor (disorder),SNOMED-CT
+404121005,Generalized pagetoid reticulosis (disorder),SNOMED-CT
+718195003,Inherited predisposition to essential thrombocythemia (disorder),SNOMED-CT
+404115006,Bullous mycosis fungoides (disorder),SNOMED-CT
+703820005,Acute myeloid leukemia with mutated NPM1 (morphologic abnormality),SNOMED-CT
+734524001,Acute myeloid leukemia with FMS-like tyrosine kinase-3 mutation (morphologic abnormality),SNOMED-CT
+93137007,"Letterer-Siwe disease of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+413840004,Chronic lymphoid leukemia - category (morphologic abnormality),SNOMED-CT
+92509003,Burkitt's tumor of intrapelvic lymph nodes (disorder),SNOMED-CT
+721555001,Follicular lymphoma of small intestine (disorder),SNOMED-CT
+93515007,"Hodgkin's disease, nodular sclerosis of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+402881008,Primary cutaneous B-cell lymphoma (disorder),SNOMED-CT
+404143002,Primary cutaneous follicular center B-cell lymphoma (disorder),SNOMED-CT
+449065000,Diffuse non-Hodgkin's lymphoma of nose (disorder),SNOMED-CT
+93497000,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+721306009,Therapy related acute myeloid leukemia and myelodysplastic syndrome (disorder),SNOMED-CT
+413616009,B-cell neoplasm (morphologic abnormality),SNOMED-CT
+112241002,Lymphoma stage III 1 (finding),SNOMED-CT
+5701003,Lymphoma stage IIe (finding),SNOMED-CT
+94686001,Mixed cell type lymphosarcoma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+419770008,Endemic Burkitt's lymphoma (morphologic abnormality),SNOMED-CT
+12341000132100,"B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Burkitt lymphoma (morphologic abnormality)",SNOMED-CT
+445925008,Lymphomatous infiltration (morphologic abnormality),SNOMED-CT
+128827005,Acute myeloid leukemia with multilineage dysplasia (morphologic abnormality),SNOMED-CT
+109968002,"Diffuse non-Hodgkin's lymphoma, small cell (disorder)",SNOMED-CT
+89487002,Lymphoma stage Ie (finding),SNOMED-CT
+765136002,Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma (disorder),SNOMED-CT
+91860005,Acute myeloid leukemia in remission (disorder),SNOMED-CT
+93206004,Malignant mast cell tumor of lymph nodes of multiple sites (disorder),SNOMED-CT
+763666008,Splenic marginal zone B-cell lymphoma (disorder),SNOMED-CT
+448376000,Non-Hodgkin's lymphoma of ovary (disorder),SNOMED-CT
+404151004,Leukemic infiltration of skin in myeloid leukemia (disorder),SNOMED-CT
+94687005,Mixed cell type lymphosarcoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+449177007,Diffuse non-Hodgkin's lymphoma of bone (disorder),SNOMED-CT
+426124006,"Acute myeloid leukemia with maturation, FAB M2, in remission (disorder)",SNOMED-CT
+404154007,Leukemic infiltration of skin in monocytic leukemia (disorder),SNOMED-CT
+404145009,Primary cutaneous anaplastic large cell B-cell lymphoma (disorder),SNOMED-CT
+128800006,Primary effusion lymphoma (morphologic abnormality),SNOMED-CT
+404152006,Leukemic infiltration of skin in acute myeloid leukemia (disorder),SNOMED-CT
+93501005,"Hodgkin's disease, lymphocytic-histiocytic predominance of extranodal AND/OR solid organ site (disorder)",SNOMED-CT
+128821006,"Prolymphocytic leukemia, T-cell type (morphologic abnormality)",SNOMED-CT
+733895005,Primary cutaneous CD8 positive aggressive epidermotropic cytotoxic T-cell lymphoma (morphologic abnormality),SNOMED-CT
+420302007,Reticulosarcoma associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+724649000,Langerhans cell sarcoma (disorder),SNOMED-CT
+763477007,Primary lymphoma of conjunctiva (disorder),SNOMED-CT
+427642009,T-cell acute lymphoblastic leukemia in remission (disorder),SNOMED-CT
+285430002,Light chain monoclonal gammopathy of uncertain significance (disorder),SNOMED-CT
+93543003,Hodgkin's paragranuloma of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+95194004,Nodular lymphoma of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+404109006,Follicular mucinosis type mycosis fungoides (disorder),SNOMED-CT
+404127009,CD-30 positive T-immunoblastic cutaneous lymphoma (disorder),SNOMED-CT
+450943001,"Post transplant lymphoproliferative disorder, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+128830003,Therapy-related acute myeloid leukemia and myelodysplastic syndrome (morphologic abnormality),SNOMED-CT
+448738008,Non-Hodgkin's lymphoma of soft tissue (disorder),SNOMED-CT
+441559006,Mantle cell lymphoma of spleen (disorder),SNOMED-CT
+128808004,Precursor T-cell lymphoblastic lymphoma (morphologic abnormality),SNOMED-CT
+413842007,Chronic myeloid leukemia in lymphoid blast crisis (disorder),SNOMED-CT
+404134006,Anaplastic large T-cell systemic malignant lymphoma (disorder),SNOMED-CT
+448672006,Follicular non-Hodgkin's lymphoma of lung (disorder),SNOMED-CT
+93506000,"Hodgkin's disease, mixed cellularity of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+93187000,Malignant histiocytosis of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+448319002,Diffuse non-Hodgkin's lymphoma of nasopharynx (disorder),SNOMED-CT
+725391003,Acute myeloid leukemia with t(8;16)(p11;p13) translocation (morphologic abnormality),SNOMED-CT
+128823009,Precursor B-cell lymphoblastic leukemia (morphologic abnormality),SNOMED-CT
+404118008,Syringotropic mycosis fungoides (disorder),SNOMED-CT
+714251006,Philadelphia chromosome-negative precursor B-cell acute lymphoblastic leukemia (disorder),SNOMED-CT
+449221001,Diffuse non-Hodgkin's lymphoma of central nervous system (disorder),SNOMED-CT
+397344008,"Therapy-related acute myeloid leukemia and myelodysplastic syndrome, topoisomerase type II inhibitor-related type (morphologic abnormality)",SNOMED-CT
+448468003,Diffuse non-Hodgkin's lymphoma of oral cavity (disorder),SNOMED-CT
+404147001,Follicular center B-cell lymphoma (nodal/systemic with skin involvement) (disorder),SNOMED-CT
+449059000,Follicular non-Hodgkin's lymphoma of uterine cervix (disorder),SNOMED-CT
+449222008,Follicular non-Hodgkin's lymphoma of stomach (disorder),SNOMED-CT
+404135007,Angiocentric natural killer/T-cell malignant lymphoma involving skin (disorder),SNOMED-CT
+421246008,Precursor T-cell lymphoblastic lymphoma (disorder),SNOMED-CT
+763309005,Acute myeloid leukemia with nucleophosmin 1 somatic mutation (disorder),SNOMED-CT
+450928003,Acute myeloid leukemia with t(6;9)(p23;q34); DEK-NUP214 (morphologic abnormality),SNOMED-CT
+430338009,Smoldering chronic lymphocytic leukemia (disorder),SNOMED-CT
+103688009,Acute myeloid leukemia with abnormal marrow eosinophils and inv(16)(p13q22) or t(16;16)(p13;q22) (morphologic abnormality),SNOMED-CT
+735332000,Primary cutaneous diffuse large cell B-cell lymphoma of lower extremity (disorder),SNOMED-CT
+427141003,Malignant lymphoma in remission (disorder),SNOMED-CT
+722795004,Meningeal leukemia (disorder),SNOMED-CT
+404119000,Pagetoid reticulosis (disorder),SNOMED-CT
+450949002,"B lymphoblastic leukemia lymphoma, no International Classification of Diseases for Oncology subtype (morphologic abnormality)",SNOMED-CT
+404106004,Lymphomatoid papulosis with Hodgkin's disease (disorder),SNOMED-CT
+74053007,Lymphoma stage IIIs (finding),SNOMED-CT
+404153001,Leukemic infiltration of skin in chronic myeloid leukemia (disorder),SNOMED-CT
+285426000,Immunoglobulin M monoclonal gammopathy of uncertain significance (disorder),SNOMED-CT
+449418000,Follicular non-Hodgkin's lymphoma of testis (disorder),SNOMED-CT
+734044003,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma (morphologic abnormality),SNOMED-CT
+449173006,Diffuse non-Hodgkin's lymphoma of tonsil (disorder),SNOMED-CT
+413389003,Accelerated phase chronic myeloid leukemia (disorder),SNOMED-CT
+413442004,Acute monocytic/monoblastic leukemia (disorder),SNOMED-CT
+93142004,Leukemia in remission (disorder),SNOMED-CT
+450953000,B lymphoblastic leukemia lymphoma with hyperdiploidy (morphologic abnormality),SNOMED-CT
+110459008,"Malignant lymphoma, metastatic (morphologic abnormality)",SNOMED-CT
+763796007,Megakaryoblastic acute myeloid leukemia with t(1;22)(p13;q13) (disorder),SNOMED-CT
+397357000,"Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease (morphologic abnormality)",SNOMED-CT
+91856007,Acute lymphoid leukemia in remission (disorder),SNOMED-CT
+128802003,Splenic marginal zone B-cell lymphoma (morphologic abnormality),SNOMED-CT
+425688002,Philadelphia chromosome-positive acute lymphoblastic leukemia (disorder),SNOMED-CT
+725437002,Chronic lymphocytic leukemia genetic mutation variant (disorder),SNOMED-CT
+449219006,Follicular non-Hodgkin's lymphoma of nasopharynx (disorder),SNOMED-CT
+60620005,Epsilon heavy chain disease (disorder),SNOMED-CT
+128822004,"Precursor cell lymphoblastic leukemia, no ICD-O subtype (morphologic abnormality)",SNOMED-CT
+725390002,Acute myeloid leukemia with t(8;16)(p11;p13) translocation (disorder),SNOMED-CT
+724644005,Myeloid leukemia co-occurrent with Down syndrome (disorder),SNOMED-CT
+702785000,Large cell anaplastic lymphoma T cell and Null cell type (disorder),SNOMED-CT
+92508006,Burkitt's tumor of intra-abdominal lymph nodes (disorder),SNOMED-CT
+764940002,Inherited acute myeloid leukemia (disorder),SNOMED-CT
+450910000,Anaplastic lymphoma kinase positive large B-cell lymphoma (morphologic abnormality),SNOMED-CT
+93507009,"Hodgkin's disease, mixed cellularity of lymph nodes of inguinal region AND/OR lower limb (disorder)",SNOMED-CT
+404108003,Poikilodermatous mycosis fungoides (disorder),SNOMED-CT
+404149003,"Lymphoplasmacytic B-cell lymphoma, nodal/systemic with skin involvement (disorder)",SNOMED-CT
+404128004,CD-30 negative cutaneous T-cell lymphoma (disorder),SNOMED-CT
+415286005,Refractory cytopenia with multilineage dysplasia and ringed sideroblasts (disorder),SNOMED-CT
+277597005,Myelodysplastic syndrome with isolated del(5q) (disorder),SNOMED-CT
+762691001,Classical Hodgkin lymphoma (morphologic abnormality),SNOMED-CT
+413841000,Chronic myeloid leukemia - category (morphologic abnormality),SNOMED-CT
+46744002,"Follicular lymphoma, grade 1 (morphologic abnormality)",SNOMED-CT
+398623004,Refractory anemia with excess blasts (disorder),SNOMED-CT
+95261008,Sézary's disease of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+721303001,Refractory neutropenia (disorder),SNOMED-CT
+450911001,Large B-cell lymphoma arising in human herpesvirus type 8 associated multicentric Castleman disease (morphologic abnormality),SNOMED-CT
+397469009,"Follicular lymphoma, diffuse follicle center cell sub-type, grade 2 (morphologic abnormality)",SNOMED-CT
+448372003,Non-Hodgkin's lymphoma of lung (disorder),SNOMED-CT
+724648008,Plasmablastic lymphoma (disorder),SNOMED-CT
+404116007,Mycosis fungoides with systemic infiltration (disorder),SNOMED-CT
+404140004,Primary cutaneous marginal zone B-cell lymphoma (disorder),SNOMED-CT
+418265009,Primary cutaneous B-cell lymphoma - category (morphologic abnormality),SNOMED-CT
+721308005,Acute leukemia of ambiguous lineage (disorder),SNOMED-CT
+93505001,"Hodgkin's disease, mixed cellularity of lymph nodes of axilla AND/OR upper limb (disorder)",SNOMED-CT
+84633001,Lymphoma stage IIIse (finding),SNOMED-CT
+426642002,"Erythroleukemia, FAB M6 in remission (disorder)",SNOMED-CT
+404117003,Spongiotic mycosis fungoides (disorder),SNOMED-CT
+721314003,Fibroblastic reticular cell neoplasm (disorder),SNOMED-CT
+449063007,Follicular non-Hodgkin's lymphoma of oral cavity (disorder),SNOMED-CT
+448213004,Diffuse non-Hodgkin's lymphoma of prostate (disorder),SNOMED-CT
+93203007,Malignant mast cell tumor of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+93537000,Hodgkin's granuloma of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+95260009,"Sézary's disease of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+397352006,"Primary cutaneous anaplastic large T-cell lymphoma, CD30-positive (morphologic abnormality)",SNOMED-CT
+94071006,Primary malignant neoplasm of spleen (disorder),SNOMED-CT
+92515003,Burkitt's tumor of spleen (disorder),SNOMED-CT
+93528000,Hodgkin's disease of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+415701004,T-cell AND/OR NK-cell neoplasm (morphologic abnormality),SNOMED-CT
+397340004,Acute myeloid leukemia with recurrent genetic abnormality (morphologic abnormality),SNOMED-CT
+448465000,Diffuse non-Hodgkin's lymphoma of testis (disorder),SNOMED-CT
+109996008,"Myelodysplastic syndrome: Refractory anemia, without ringed sideroblasts, without excess blasts (disorder)",SNOMED-CT
+103689001,"Acute myeloid leukemia, minimal differentiation (morphologic abnormality)",SNOMED-CT
+450955007,B lymphoblastic leukemia lymphoma with t(5;14)(q31;q32); IL3-IGH (morphologic abnormality),SNOMED-CT
+448555009,Lymphoma of body of stomach (disorder),SNOMED-CT
+128834007,Chronic neutrophilic leukemia (morphologic abnormality),SNOMED-CT
+449292003,Non-Hodgkin's lymphoma of tonsil (disorder),SNOMED-CT
+713516007,Primary effusion lymphoma (disorder),SNOMED-CT
+239297008,Lymphomatoid granulomatosis of the lung (disorder),SNOMED-CT
+440422002,Asymptomatic multiple myeloma (disorder),SNOMED-CT
+404157000,Specific skin infiltration in Hodgkin's disease (disorder),SNOMED-CT
+449176003,Diffuse non-Hodgkin's lymphoma of intestine (disorder),SNOMED-CT
+419018000,Primary cutaneous large T-cell lymphoma - category (morphologic abnormality),SNOMED-CT
+703818007,Acute monoblastic and monocytic leukemia (morphologic abnormality),SNOMED-CT
+765328000,Classic mycosis fungoides (disorder),SNOMED-CT
+397358005,Aggressive systemic mastocytosis (morphologic abnormality),SNOMED-CT
+450913003,Mixed phenotype acute leukemia (morphologic abnormality),SNOMED-CT
+93204001,"Malignant mast cell tumor of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+116821000119104,Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of upper limb (disorder),SNOMED-CT
+109967007,"Diffuse non-Hodgkin's lymphoma, small cleaved cell (disorder)",SNOMED-CT
+119248009,Hyperalbuminemia (disorder),SNOMED-CT
+426955004,Philadelphia chromosome-positive acute lymphoblastic leukemia (morphologic abnormality),SNOMED-CT
+255102004,Angioendotheliomatosis (disorder),SNOMED-CT
+103691009,Acute myeloid leukemia with maturation (morphologic abnormality),SNOMED-CT
+93199007,Malignant lymphoma of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+116811000119106,Non-Hodgkin lymphoma of central nervous system metastatic to lymph node of lower limb (disorder),SNOMED-CT
+415287001,Relapsing chronic myeloid leukemia (disorder),SNOMED-CT
+763719001,Hydroa vacciniforme-like lymphoma (disorder),SNOMED-CT
+448220006,Non-Hodgkin's lymphoma of bone (disorder),SNOMED-CT
+61493004,Mu heavy chain disease (disorder),SNOMED-CT
+733081008,Reactive plasmacytic hyperplasia (morphologic abnormality),SNOMED-CT
+413990004,Diffuse large B-cell lymphoma - category (morphologic abnormality),SNOMED-CT
+93489007,"Hodgkin's disease, lymphocytic depletion of lymph nodes of inguinal region AND/OR lower limb (disorder)",SNOMED-CT
+733917002,Pediatric follicular lymphoma (morphologic abnormality),SNOMED-CT
+128817004,Immunoglobulin deposition disease (morphologic abnormality),SNOMED-CT
+307649006,Microglioma (disorder),SNOMED-CT
+404141000,Primary cutaneous immunocytoma (disorder),SNOMED-CT
+128801005,Mediastinal large B-cell lymphoma (morphologic abnormality),SNOMED-CT
+128935007,Lymphoid leukemia - category (morphologic abnormality),SNOMED-CT
+94690004,"Mixed cell type lymphosarcoma of lymph nodes of head, face, and neck (disorder)",SNOMED-CT
+447658000,Lymphoma of fundus of stomach (disorder),SNOMED-CT
+92510008,Burkitt's tumor of intrathoracic lymph nodes (disorder),SNOMED-CT
+92817004,Chronic myeloid leukemia in remission (disorder),SNOMED-CT
+447806008,Lymphoma of cardia of stomach (disorder),SNOMED-CT
+94148006,Megakaryocytic leukemia in remission (disorder),SNOMED-CT
+128828000,"Acute myeloid leukemia, t(8;21) (q22;q22) (morphologic abnormality)",SNOMED-CT
+397343002,"Therapy-related acute myeloid leukemia and myelodysplastic syndrome, alkylating agent-related type (morphologic abnormality)",SNOMED-CT
+420519005,Malignant lymphoma of the eye region (disorder),SNOMED-CT
+703387000,Acute myeloid leukemia with normal karyotype (disorder),SNOMED-CT
+93488004,"Hodgkin's disease, lymphocytic depletion of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+448354009,Non-Hodgkin's lymphoma of intestine (disorder),SNOMED-CT
+92514004,Burkitt's tumor of lymph nodes of multiple sites (disorder),SNOMED-CT
+448371005,Non-Hodgkin's lymphoma of nasopharynx (disorder),SNOMED-CT
+397349003,Nodal marginal zone B-cell lymphoma (morphologic abnormality),SNOMED-CT
+75339006,Lymphoma stage III 2 (finding),SNOMED-CT
+1091891000000106,B-cell Hodgkin's lymphoma (disorder),SNOMED-CT
+419392005,Primary cutaneous lymphoma (morphologic abnormality),SNOMED-CT
+93152000,Leukemic reticuloendotheliosis of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+12311000132101,Refractory acute lymphoid leukemia (disorder),SNOMED-CT
+698646006,Acute monoblastic leukemia in remission (disorder),SNOMED-CT
+92512000,"Burkitt's tumor of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+450952005,B lymphoblastic leukemia lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1) (morphologic abnormality),SNOMED-CT
+414785000,Multiple solitary plasmacytomas (disorder),SNOMED-CT
+128921005,"Plasmacytoma, extramedullary (not occurring in bone) (morphologic abnormality)",SNOMED-CT
+128825002,"Chronic myelogenous leukemia, BCR/ABL positive (morphologic abnormality)",SNOMED-CT
+188529007,Hodgkin's paragranuloma of intrapelvic lymph nodes (disorder),SNOMED-CT
+715664005,Interdigitating dendritic cell sarcoma (disorder),SNOMED-CT
+93200005,Malignant mast cell tumor of intra-abdominal lymph nodes (disorder),SNOMED-CT
+721305008,Acute myeloid leukemia due to recurrent genetic abnormality (disorder),SNOMED-CT
+404169008,Malignant histiocytosis involving skin (disorder),SNOMED-CT
+94715001,Mycosis fungoides of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+397348006,Precursor T cell lymphoblastic leukemia/lymphoblastic lymphoma (morphologic abnormality),SNOMED-CT
+448607004,Diffuse non-Hodgkin's lymphoma of uterine cervix (disorder),SNOMED-CT
+705061009,Childhood myelodysplastic syndrome (disorder),SNOMED-CT
+718200007,Primary pulmonary lymphoma (disorder),SNOMED-CT
+448865007,Follicular non-Hodgkin's lymphoma of skin (disorder),SNOMED-CT
+418628003,Follicular mycosis fungoides (morphologic abnormality),SNOMED-CT
+404123008,Leukemic infiltration of skin (T-cell prolymphocytic leukemia) (disorder),SNOMED-CT
+716789004,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly (morphologic abnormality),SNOMED-CT
+133751000119102,Lymphoma of colon (disorder),SNOMED-CT
+404107008,Patch/plaque stage mycosis fungoides (disorder),SNOMED-CT
+109972003,"Follicular non-Hodgkin's lymphoma, large cell (disorder)",SNOMED-CT
+426071002,Hodgkin's disease in remission (disorder),SNOMED-CT
+766045006,Acute myeloid leukemia and myelodysplastic syndrome related to alkylating agent (disorder),SNOMED-CT
+404142007,Primary cutaneous plasmacytoma (disorder),SNOMED-CT
+733627006,Primary cutaneous gamma-delta-positive T-cell lymphoma (disorder),SNOMED-CT
+188524002,Hodgkin's paragranuloma of intrathoracic lymph nodes (disorder),SNOMED-CT
+421283008,Primary lymphoma of brain associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+404112009,Granulomatous mycosis fungoides (disorder),SNOMED-CT
+448561007,Follicular non-Hodgkin's lymphoma of extranodal site (disorder),SNOMED-CT
+128818009,Acute biphenotypic leukemia (morphologic abnormality),SNOMED-CT
+815121000000102,Follicular lymphoma grade 3a (morphologic abnormality),SNOMED-CT
+420063007,Sporadic Burkitt's lymphoma (morphologic abnormality),SNOMED-CT
+448995000,Follicular non-Hodgkin's lymphoma of central nervous system (disorder),SNOMED-CT
+12351000132102,"B-cell lymphoma, unclassifiable, with features intermediate between diffuse large B-cell lymphoma and Hodgkin lymphoma (morphologic abnormality)",SNOMED-CT
+20447006,Plasma cell dyscrasia with polyneuropathy (disorder),SNOMED-CT
+94711005,"Mycosis fungoides of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+53237008,"Anaplastic large cell lymphoma, T cell and Null cell type (morphologic abnormality)",SNOMED-CT
+422853008,Lymphoma of retroperitoneal space (disorder),SNOMED-CT
+427658007,"Acute myelomonocytic leukemia, FAB M4, in remission (disorder)",SNOMED-CT
+726721002,Nodal marginal zone B-cell lymphoma (disorder),SNOMED-CT
+449318001,Non-Hodgkin's lymphoma of prostate (disorder),SNOMED-CT
+277577000,Monoclonal gammopathy of uncertain significance (disorder),SNOMED-CT
+404122003,Leukemic infiltration of skin (chronic T-cell lymphocytic leukemia) (disorder),SNOMED-CT
+95209008,Plasma cell leukemia in remission (disorder),SNOMED-CT
+419283005,Primary cutaneous T-cell lymphoma - category (morphologic abnormality),SNOMED-CT
+285423008,Immunoglobulin A monoclonal gammopathy of uncertain significance (disorder),SNOMED-CT
+128826001,"Atypical chronic myeloid leukemia, BCR/ABL negative (morphologic abnormality)",SNOMED-CT
+444911000,Acute myeloid leukemia with t(9:11)(p22;q23); MLLT3-MLL (disorder),SNOMED-CT
+419563005,"Primary cutaneous T-cell lymphoma, pleomorphic small/medium-sized (morphologic abnormality)",SNOMED-CT
+448447004,Non-Hodgkin's lymphoma of skin (disorder),SNOMED-CT
+419035001,Mature T-cell AND/OR natural killer-cell neoplasm (morphologic abnormality),SNOMED-CT
+764855007,Acute myeloid leukemia with CCAAT/enhancer binding protein alpha somatic mutation (disorder),SNOMED-CT
+703819004,Acute myeloid leukemia with mutated CEBPA (morphologic abnormality),SNOMED-CT
+93492006,"Hodgkin's disease, lymphocytic depletion of extranodal AND/OR solid organ site (disorder)",SNOMED-CT
+815131000000100,Follicular lymphoma grade 3b (morphologic abnormality),SNOMED-CT
+93533001,"Hodgkin's granuloma of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+92516002,Burkitt's tumor of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+413836008,Chronic eosinophilic leukemia (morphologic abnormality),SNOMED-CT
+12301000132103,Acute lymphoid leukemia relapse (disorder),SNOMED-CT
+93498005,"Hodgkin's disease, lymphocytic-histiocytic predominance of lymph nodes of inguinal region AND/OR lower limb (disorder)",SNOMED-CT
+93202002,Malignant mast cell tumor of intrathoracic lymph nodes (disorder),SNOMED-CT
+402882001,Hodgkin's disease affecting skin (disorder),SNOMED-CT
+448387008,Non-Hodgkin's lymphoma of testis (disorder),SNOMED-CT
+425749006,Subacute myeloid leukemia in remission (disorder),SNOMED-CT
+703626001,"Anaplastic large cell lymphoma, T/Null cell, primary systemic type (disorder)",SNOMED-CT
+93534007,Hodgkin's granuloma of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+109998009,Refractory anemia with ringed sideroblasts (disorder),SNOMED-CT
+721762007,Adult T-cell leukemia/lymphoma of skin (disorder),SNOMED-CT
+450951003,B lymphoblastic leukemia lymphoma with t(v;11q23); MLL rearranged (morphologic abnormality),SNOMED-CT
+93510002,"Hodgkin's disease, mixed cellularity of extranodal AND/OR solid organ site (disorder)",SNOMED-CT
+448560008,Diffuse non-Hodgkin's lymphoma of extranodal site (disorder),SNOMED-CT
+115244002,Malignant lymphoma - category (morphologic abnormality),SNOMED-CT
+441962003,Large cell lymphoma of intrapelvic lymph nodes (disorder),SNOMED-CT
+58961005,Lethal midline granuloma (disorder),SNOMED-CT
+94704006,Multiple myeloma in remission (disorder),SNOMED-CT
+307340003,Monosomy 7 syndrome (disorder),SNOMED-CT
+733860007,Pediatric nodal marginal zone lymphoma (morphologic abnormality),SNOMED-CT
+187822008,Fibrosarcoma of spleen (disorder),SNOMED-CT
+128934006,Myeloid leukemia - category (morphologic abnormality),SNOMED-CT
+399648005,Intravascular large B-cell lymphoma (morphologic abnormality),SNOMED-CT
+734067001,Splenic diffuse red pulp small B-cell lymphoma (morphologic abnormality),SNOMED-CT
+404129007,CD-30 negative anaplastic large T-cell cutaneous lymphoma (disorder),SNOMED-CT
+723889003,B lymphoblastic leukemia lymphoma with t(9:22) (q34;q11.2); BCR-ABL 1 (disorder),SNOMED-CT
+703821009,T lymphoblastic leukemia/lymphoma (morphologic abnormality),SNOMED-CT
+128829008,"Acute myeloid leukemia, 11q23 abnormalities (morphologic abnormality)",SNOMED-CT
+93546006,Hodgkin's paragranuloma of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+371134001,"Malignant lymphoma, large cell, polymorphous, immunoblastic (disorder)",SNOMED-CT
+93141006,Letterer-Siwe disease of extranodal AND/OR solid organ site (disorder),SNOMED-CT
+413656006,Blastic phase chronic myeloid leukemia (disorder),SNOMED-CT
+447805007,Lymphoma of greater curvature of stomach (disorder),SNOMED-CT
+128819001,T-cell large granular lymphocytic leukemia (morphologic abnormality),SNOMED-CT
+404130002,CD-30 negative pleomorphic large T-cell cutaneous lymphoma (disorder),SNOMED-CT
+448666006,Follicular non-Hodgkin's lymphoma of bone (disorder),SNOMED-CT
+127220001,Malignant lymphoma of lymph nodes (disorder),SNOMED-CT
+93541001,Hodgkin's paragranuloma of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+397468001,"Follicular lymphoma, diffuse follicle center sub-type, grade 1 (morphologic abnormality)",SNOMED-CT
+91854005,Acute leukemia in remission (disorder),SNOMED-CT
+397341000,Acute myeloid leukemia with multilineage dysplasia following a myelodysplastic syndrome or myelodysplastic syndrome/myeloproliferative disorder (morphologic abnormality),SNOMED-CT
+448609001,Diffuse non-Hodgkin's lymphoma of ovary (disorder),SNOMED-CT
+713325002,Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection (disorder),SNOMED-CT
+404124002,Leukemic infiltration of skin (T-cell lymphoblastic leukemia) (disorder),SNOMED-CT
+189972001,"[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS (morphologic abnormality)",SNOMED-CT
+189968000,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS (morphologic abnormality)",SNOMED-CT
+189970009,"[M]Malignant lymphoma, centrocytic (morphologic abnormality)",SNOMED-CT
+815101000000106,"Follicular lymphoma, grade 1 (morphologic abnormality)",SNOMED-CT
+662451000000101,Sézary's disease NOS (disorder),SNOMED-CT
+397346005,Acute bilineal leukemia (morphologic abnormality),SNOMED-CT
+468691000000106,[M]Other myeloid leukaemia NOS (morphologic abnormality),SNOMED-CT
+833001000000103,Diffuse follicle centre lymphoma,SNOMED-CT
+190164006,"[X]Malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified (disorder)",SNOMED-CT
+26328002,Disseminated eosinophilic collagen disease (disorder),SNOMED-CT
+662421000000106,Acute leukemia NOS (disorder),SNOMED-CT
+190025005,[M]leukemia NOS (morphologic abnormality),SNOMED-CT
+190167004,[X]Unspecified B-cell non-Hodgkin's lymphoma (disorder),SNOMED-CT
+190045002,[M]Lymphosarcoma cell leukemia (morphologic abnormality),SNOMED-CT
+190054004,[M]Eosinophilic leukemias (morphologic abnormality),SNOMED-CT
+615441000000105,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+832681000000105,T-cell prolymphocytic leukaemia,SNOMED-CT
+189997002,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation, nodular (morphologic abnormality)",SNOMED-CT
+832921000000100,5Q minus syndrome,SNOMED-CT
+188619006,"Mycosis fungoides of the lymph nodes of head, face and neck (disorder)",SNOMED-CT
+450041000000102,[X]Other Hodgkin's disease (disorder),SNOMED-CT
+471231000000108,"[M]Malignant lymphoma, mixed lymphocytic - histiocytic NOS (& [diffuse reticulolymphosarcoma])",SNOMED-CT
+473041000000109,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation, nodular (morphologic abnormality)",SNOMED-CT
+188759000,Lymphosarcoma cell leukemia (disorder),SNOMED-CT
+190075007,[M]Monocytoid B-cell lymphoma (morphologic abnormality),SNOMED-CT
+815091000000103,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma] (disorder),SNOMED-CT
+573341000000101,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of unspecified site (disorder),SNOMED-CT
+833581000000104,Non-Hodgkin's lymphoma - disorder,SNOMED-CT
+127221002,Hematologic malignancy (disorder),SNOMED-CT
+190022008,[M]Burkitt's tumors (morphologic abnormality),SNOMED-CT
+615431000000101,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+189980008,"[M]Malignant lymphoma, small cell, non-cleaved, diffuse (morphologic abnormality)",SNOMED-CT
+237759003,"Langerhans cell histiocytosis, unifocal, bone (disorder)",SNOMED-CT
+461871000000101,"[M]Lymphomas, NOS or diffuse (morphologic abnormality)",SNOMED-CT
+399607007,Chronic lymphocytic leukemia/small lymphocytic lymphoma (morphologic abnormality),SNOMED-CT
+863751000000106,Clinical stage A chronic lymphocytic leukaemia,SNOMED-CT
+188623003,Mycosis fungoides of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+455781000000101,[X]Unspecified B-cell non-Hodgkin's lymphoma (disorder),SNOMED-CT
+556221000000107,Malignant neoplasms of lymphoid and histiocytic tissue NOS (disorder),SNOMED-CT
+338011000000108,Mucosa-associated lymphoma,SNOMED-CT
+541031000000105,Hodgkin's lymphocytic depletion of unspecified site (disorder),SNOMED-CT
+833381000000105,Follicular lymphoma grade 3b,SNOMED-CT
+233693005,Pulmonary histiocytosis X (disorder),SNOMED-CT
+134177009,"[M]Hodgkin's disease, lymphocytic depletion NOS (morphologic abnormality)",SNOMED-CT
+190004005,[M]Mycosis fungoides NOS (morphologic abnormality),SNOMED-CT
+127216000,Angioimmunoblastic lymphadenopathy with dysproteinemia (disorder),SNOMED-CT
+477871000000103,[X]Other types of diffuse non-Hodgkin's lymphoma (disorder),SNOMED-CT
+867941000000102,[M]Juvenile myelomonocytic leukaemia,SNOMED-CT
+190007003,[M]Histiocytic medullary reticulosis (morphologic abnormality),SNOMED-CT
+863771000000102,Clinical stage B chronic lymphocytic leukaemia,SNOMED-CT
+633331000000104,"Histiocytosis, unspecified (disorder)",SNOMED-CT
+190162005,[X]Other leukemia of unspecified cell type (disorder),SNOMED-CT
+443641000000102,[M]Subacute lymphoid leukaemia,SNOMED-CT
+565971000000101,Malignant lymphoma NOS of lymph nodes of multiple sites (disorder),SNOMED-CT
+464771000000108,"[X]Other specified malignant neoplasms of lymphoid, haematopoietic and related tissue (disorder)",SNOMED-CT
+812871000000103,Juvenile myelomonocytic leukaemia (disorder),SNOMED-CT
+833361000000101,Follicular lymphoma grade 3,SNOMED-CT
+89706008,AIDS with Burkitt's tumor (disorder),SNOMED-CT
+188657006,Letterer-Siwe disease of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+833391000000107,Cutaneous follicle centre lymphoma,SNOMED-CT
+189974000,"[M]Malignant lymphoma, centroblastic type NOS (morphologic abnormality)",SNOMED-CT
+274907000,Plasma cell tumor (morphologic abnormality),SNOMED-CT
+472871000000100,[M] Gamma heavy chain disease (morphologic abnormality),SNOMED-CT
+457571000000102,[M]Subacute myeloid leukaemia (morphologic abnormality),SNOMED-CT
+254042000,Ayala's disease (disorder),SNOMED-CT
+398701000000101,[M]Basophilic leukaemias (morphologic abnormality),SNOMED-CT
+190009000,[M] Alpha heavy chain disease (morphologic abnormality),SNOMED-CT
+408661000000101,[X]Other specified types of non-Hodgkin's lymphoma (disorder),SNOMED-CT
+95262001,Sézary's disease of lymph nodes of multiple sites (disorder),SNOMED-CT
+571191000000109,Other myeloid leukemia (disorder),SNOMED-CT
+478121000000109,"[M]Lymphoma, diffuse or NOS (morphologic abnormality)",SNOMED-CT
+815141000000109,"Follicular lymphoma, cutaneous follicle centre (morphologic abnormality)",SNOMED-CT
+578481000000105,"Hodgkin's, lymphocytic-histiocytic predominance NOS (disorder)",SNOMED-CT
+539581000000102,"Hodgkin's disease, lymphocytic depletion NOS (disorder)",SNOMED-CT
+397121000000107,[M]Eosinophilic leukaemias (morphologic abnormality),SNOMED-CT
+189960007,"[M]Malignant lymphoma, diffuse NOS (morphologic abnormality)",SNOMED-CT
+190050008,[M]Neutrophilic leukemia (morphologic abnormality),SNOMED-CT
+190073000,Chronic lymphoproliferative disease (morphologic abnormality),SNOMED-CT
+408771000000104,[M]Compound leukaemia (morphologic abnormality),SNOMED-CT
+469881000000100,"[X]Diffuse non-Hodgkin's lymphoma, unspecified (disorder)",SNOMED-CT
+578251000000103,Malignant mast cell tumor NOS (disorder),SNOMED-CT
+134176000,"[M]Malignant lymphoma, small cleaved cell, diffuse (morphologic abnormality)",SNOMED-CT
+450181000000109,"[M]Malignant lymphoma, small cell, non-cleaved, diffuse (morphologic abnormality)",SNOMED-CT
+93148000,"Leukemic reticuloendotheliosis of lymph nodes of head, face AND/OR neck (disorder)",SNOMED-CT
+422052002,Burkitt's lymphoma associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+188528004,Hodgkin's paragranuloma of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+833021000000107,Other types of follicular non-Hodgkin's lymphoma,SNOMED-CT
+190151005,"[X]Malignant neoplasms of lymphoid, hematopoietic and related tissue (disorder)",SNOMED-CT
+571181000000107,Myeloid sarcoma NOS (disorder),SNOMED-CT
+6426003,Autosomal dominant analbuminemia (disorder),SNOMED-CT
+190013007,[M]Angioendotheliomatosis (morphologic abnormality),SNOMED-CT
+312939009,Ocular lymphoma (disorder),SNOMED-CT
+441161000000109,"[M]Malignant lymphoma, follicular centre cell NOS (morphologic abnormality)",SNOMED-CT
+433141000000108,"[M]Malignant lymphoma, centrocytic (morphologic abnormality)",SNOMED-CT
+190069003,[M]Acute myelofibrosis (morphologic abnormality),SNOMED-CT
+285763005,Acute myeloblastic leukemia - undifferentiated (disorder),SNOMED-CT
+541011000000102,Hodgkin's sarcoma NOS (disorder),SNOMED-CT
+277608004,"Hodgkin's disease, lymphocytic predominance - nodular (disorder)",SNOMED-CT
+438251000000108,"[M]leukemia unspecified, NOS (morphologic abnormality)",SNOMED-CT
+389361000000109,[M]Erythroleukemias (morphologic abnormality),SNOMED-CT
+190052000,[M]Basophilic leukemias (morphologic abnormality),SNOMED-CT
+189977007,"[M]Malignant lymphoma, large cell, cleaved, diffuse (morphologic abnormality)",SNOMED-CT
+557641000000101,Reticulosarcoma of unspecified site (disorder),SNOMED-CT
+190018003,"Plasma cell tumor, malignant (morphologic abnormality)",SNOMED-CT
+438691000000102,[M]Monocytoid B-cell lymphoma (morphologic abnormality),SNOMED-CT
+413526008,"Anaplastic large cell lymphoma, T/Null cell, primary cutaneous type (morphologic abnormality)",SNOMED-CT
+662431000000108,Chronic leukemia NOS (disorder),SNOMED-CT
+390401000000107,[X]Other specified leukaemias (disorder),SNOMED-CT
+190166008,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas (disorder),SNOMED-CT
+189967005,"[M]Malignant lymphoma, follicular center cell NOS (morphologic abnormality)",SNOMED-CT
+438681000000104,"[M]Malignant lymphoma, large cell, cleaved, diffuse (morphologic abnormality)",SNOMED-CT
+190070002,[M]Miscellaneous leukemia NOS (morphologic abnormality),SNOMED-CT
+557491000000109,Letterer-Siwe disease NOS (disorder),SNOMED-CT
+403911000000104,"[M]Hodgkin,s disease, nodular sclerosis, mixed cellularity (morphologic abnormality)",SNOMED-CT
+95258007,Sézary's disease of intrathoracic lymph nodes (disorder),SNOMED-CT
+186723002,Human immunodeficiency virus disease resulting in Burkitt's lymphoma (disorder),SNOMED-CT
+833481000000100,[M]Adult T-cell leukaemia/lymphoma,SNOMED-CT
+450971000000109,[M]leukemias unspecified (morphologic abnormality),SNOMED-CT
+478111000000103,"[M]Malignant lymphoma, large cell, non-cleaved, diffuse (morphologic abnormality)",SNOMED-CT
+833081000000108,"Refractory anaemia without sideroblasts, so stated",SNOMED-CT
+462401000000104,"[X]Malignant neoplasms of lymphoid, haematopoietic and related tissue (disorder)",SNOMED-CT
+93450001,Erythroleukemia in remission (disorder),SNOMED-CT
+832691000000107,Heavy chain disease,SNOMED-CT
+578441000000102,Hodgkin's paragranuloma NOS (disorder),SNOMED-CT
+477841000000109,[M]Compound leukaemia NOS (morphologic abnormality),SNOMED-CT
+479021000000100,[M]Subacute leukaemia NOS (morphologic abnormality),SNOMED-CT
+833401000000105,[M]Letterer - Siwe disease,SNOMED-CT
+431831000000105,[M]Acute lymphoid leukaemia,SNOMED-CT
+269499001,Neoplasm of uncertain behavior of plasma cells (disorder),SNOMED-CT
+471831000000107,[M]Hodgkin's disease NOS,SNOMED-CT
+833141000000104,Enteropathy-associated T-cell lymphoma,SNOMED-CT
+673771000000103,Plasmacytoma NOS (disorder),SNOMED-CT
+757251000000101,Diffuse malignant lymphoma - large cell,SNOMED-CT
+815011000000107,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma (disorder),SNOMED-CT
+401121000000109,[X]Unspecified B-cell non-Hodgkin's lymphoma,SNOMED-CT
+833411000000107,Sarcoma of dendritic cells,SNOMED-CT
+833501000000109,Primary cutaneous CD30 antigen positive large T-cell lymphoma,SNOMED-CT
+574421000000103,Other immunoproliferative neoplasms (disorder),SNOMED-CT
+190002009,"[M]Lymphoma, nodular or follicular NOS (morphologic abnormality)",SNOMED-CT
+472961000000101,[M]Aleukaemic lymphoid leukaemia (morphologic abnormality),SNOMED-CT
+409571000000100,"[X]Diffuse non-Hodgkin's lymphoma, unspecified (disorder)",SNOMED-CT
+390261000000107,[M]Eosinophilic leukaemia NOS (morphologic abnormality),SNOMED-CT
+480071000000101,"[M]Malignant lymphoma, follicular centre cell, cleaved NOS (morphologic abnormality)",SNOMED-CT
+573471000000101,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of spleen (disorder),SNOMED-CT
+188651007,Leukemic reticuloendotheliosis of spleen (disorder),SNOMED-CT
+634631000000105,Other monocytic leukemia NOS (disorder),SNOMED-CT
+84350008,AIDS with immunoblastic sarcoma (disorder),SNOMED-CT
+815671000000108,"Extranodal NK/T-cell lymphoma, nasal type (disorder)",SNOMED-CT
+557501000000103,Mast cell malignancy of unspecified site (disorder),SNOMED-CT
+188527009,Hodgkin's paragranuloma of lymph nodes of axilla and upper limb (disorder),SNOMED-CT
+833631000000102,Cutaneous/peripheral T-cell lymphoma,SNOMED-CT
+190035004,[M]Subacute lymphoid leukemia (morphologic abnormality),SNOMED-CT
+578281000000109,Malignant lymphoma NOS of intrathoracic lymph nodes (disorder),SNOMED-CT
+849141000000100,Adult T-cell leukemia/lymphoma (disorder),SNOMED-CT
+464261000000109,[M]Mycosis fungoides NOS (morphologic abnormality),SNOMED-CT
+190047005,[M]Myeloid leukemias (morphologic abnormality),SNOMED-CT
+463091000000106,[M] Peripheral T-cell lymphoma NOS (morphologic abnormality),SNOMED-CT
+466481000000108,"[M]Hodgkin's disease, nodular sclerosis NOS (morphologic abnormality)",SNOMED-CT
+389231000000105,[M]Plasma cell tumours (morphologic abnormality),SNOMED-CT
+419471000000104,[M]Lymphosarcoma cell leukaemia,SNOMED-CT
+416501000000103,"[M]Malignant lymphoma, lymphocytic, well differentiated NOS (morphologic abnormality)",SNOMED-CT
+389731000000103,[M]Miscellaneous leukaemias (morphologic abnormality),SNOMED-CT
+189975004,"[M]Malignant lymphoma, follicular center cell, non-cleaved NOS (morphologic abnormality)",SNOMED-CT
+395671000000107,[M] Alpha heavy chain disease (morphologic abnormality),SNOMED-CT
+573381000000109,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intra-abdominal lymph nodes (disorder),SNOMED-CT
+188521005,Hodgkin's paragranuloma (disorder),SNOMED-CT
+814981000000100,"Anaplastic large cell lymphoma, ALK-negative (disorder)",SNOMED-CT
+190029004,"[M]leukemia unspecified, NOS (morphologic abnormality)",SNOMED-CT
+190051007,[M]Other myeloid leukemia NOS (morphologic abnormality),SNOMED-CT
+403961000000102,[M]Neutrophilic leukaemia (morphologic abnormality),SNOMED-CT
+578451000000104,Hodgkin's granuloma of unspecified site (disorder),SNOMED-CT
+546321000000103,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of multiple sites (disorder),SNOMED-CT
+190067001,[M]Acute megakaryoblastic leukemia (morphologic abnormality),SNOMED-CT
+438671000000101,"[M]Malignant lymphoma, centroblastic type NOS (morphologic abnormality)",SNOMED-CT
+815161000000105,Sarcoma of dendritic cells (accessory cells) (disorder),SNOMED-CT
+190222001,[X]Neoplasm of uncertain and unknown behavior of other myelodysplastic syndromes (disorder),SNOMED-CT
+833101000000102,Anaplastic lymphoma kinase positive anaplastic large cell lymphoma,SNOMED-CT
+390651000000106,[X]Neoplasm of uncertain and unknown behaviour of other myelodysplastic syndromes (disorder),SNOMED-CT
+833601000000108,Non-Hodgkin's lymphoma - disorder,SNOMED-CT
+94149003,"Acute megakaryoblastic leukemia, FAB M7 (disorder)",SNOMED-CT
+815681000000105,Subcutaneous panniculitic T-cell lymphoma (disorder),SNOMED-CT
+420441000000109,[M]Acute myelofibrosis (morphologic abnormality),SNOMED-CT
+269478004,Chronic erythremia (disorder),SNOMED-CT
+833541000000107,Subcutaneous panniculitic T-cell lymphoma,SNOMED-CT
+634641000000101,Monocytic leukemia NOS (disorder),SNOMED-CT
+190026006,[M]Subacute leukemia NOS (morphologic abnormality),SNOMED-CT
+833521000000100,Cutaneous lymphoma,SNOMED-CT
+401561000000106,[M]Monocytoid B-cell lymphoma,SNOMED-CT
+189991001,[M]Hodgkin's paragranuloma (morphologic abnormality),SNOMED-CT
+189976003,[M]Malignant lymphomatous polyposis (morphologic abnormality),SNOMED-CT
+833461000000109,Acute myeloid leukaemia with myelodysplasia-related changes,SNOMED-CT
+415461000000108,[M]Malignant lymphomatous polyposis (morphologic abnormality),SNOMED-CT
+359626007,"Acute myelogenous leukemia without differentiation, FAB M0 (disorder)",SNOMED-CT
+539731000000105,Mycosis fungoides of unspecified site (disorder),SNOMED-CT
+473031000000100,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular (morphologic abnormality)",SNOMED-CT
+573361000000100,"Unspecified malignant neoplasm of lymphoid and histiocytic tissue of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+397451000000107,"[X]Malignant neoplasm of lymphoid, haematopoietic and related tissue, unspecified (disorder)",SNOMED-CT
+189969008,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS (morphologic abnormality)",SNOMED-CT
+188636003,Sezary's disease of spleen (disorder),SNOMED-CT
+833621000000104,Cutaneous/peripheral T-cell lymphoma,SNOMED-CT
+410671000000109,"[M]Malignant lymphoma, lymphocytic, intermediate differentiation NOS (morphologic abnormality)",SNOMED-CT
+134179007,[M]Malignant histiocytosis (morphologic abnormality),SNOMED-CT
+389761000000108,"[X]Myelodysplastic syndrome, unspecified (disorder)",SNOMED-CT
+399081000000101,"[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS (morphologic abnormality)",SNOMED-CT
+477851000000107,[M]Lymphoid leukaemias (morphologic abnormality),SNOMED-CT
+309831004,[M]Hodgkin's disease NOS (morphologic abnormality),SNOMED-CT
+134178004,"[M]Hodgkin's disease, nodular sclerosis NOS (morphologic abnormality)",SNOMED-CT
+833641000000106,[M]Plasmacytoma NOS,SNOMED-CT
+428971000000106,"[M]Lymphogranuloma, malignant (morphologic abnormality)",SNOMED-CT
+539701000000104,Nodular lymphoma of unspecified site (disorder),SNOMED-CT
+455391000000100,[M]Hodgkin's disease NOS (& [lymphogranuloma malignant]),SNOMED-CT
+445691000000108,[M]Myeloid leukaemias (morphologic abnormality),SNOMED-CT
+832661000000101,B-cell chronic lymphocytic leukaemia,SNOMED-CT
+573431000000103,Reticulosarcoma or lymphosarcoma NOS (disorder),SNOMED-CT
+833171000000105,Mantle cell lymphoma,SNOMED-CT
+203436008,Osteoporosis in multiple myelomatosis (disorder),SNOMED-CT
+409691000000100,[M]Aleukaemic leukaemia NOS (morphologic abnormality),SNOMED-CT
+541021000000108,"Hodgkin's disease, mixed cellularity NOS (disorder)",SNOMED-CT
+398271000000103,"[M]Malignant lymphoma, follicular centre cell, non-cleaved, follicular (morphologic abnormality)",SNOMED-CT
+404146005,Primary cutaneous diffuse large cell B-cell lymphoma of the leg (disorder),SNOMED-CT
+815271000000105,"Chronic myeloid leukaemia, BCR/ABL-positive (morphologic abnormality)",SNOMED-CT
+875231000000102,Monoclonal gammopathy of uncertain significance,SNOMED-CT
+190016004,[M]Plasma cell tumors (morphologic abnormality),SNOMED-CT
+425131000000103,[M]Acute megakaryoblastic leukaemia (morphologic abnormality),SNOMED-CT
+189998007,"[M]Malignant lymphoma, follicular center cell, cleaved, follicular (morphologic abnormality)",SNOMED-CT
+565911000000106,Malignant lymphoma NOS of intra-abdominal lymph nodes (disorder),SNOMED-CT
+396201000000105,"[M]Malignant lymphoma, undifferentiated cell type NOS (morphologic abnormality)",SNOMED-CT
+832671000000108,B-cell prolymphocytic leukaemia,SNOMED-CT
+462371000000101,"[X]Refractory anemia, unspecified (disorder)",SNOMED-CT
+190056002,[M]Eosinophilic leukemia NOS (morphologic abnormality),SNOMED-CT
+832821000000105,Follicular non-Hodgkin's lymphoma,SNOMED-CT
+190048000,[M]Subacute myeloid leukemia (morphologic abnormality),SNOMED-CT
+190063002,[M]Miscellaneous leukemias (morphologic abnormality),SNOMED-CT
+833491000000103,Malignant lymphoma - lymphoblastic,SNOMED-CT
+433531000000109,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse (morphologic abnormality)",SNOMED-CT
+832611000000103,"Hodgkin's disease, mixed cellularity",SNOMED-CT
+833591000000102,Low grade B-cell lymphoma,SNOMED-CT
+391381000000100,[M]Histiocytic medullary reticulosis (morphologic abnormality),SNOMED-CT
+402761000000108,"[X]Refractory anaemia, unspecified",SNOMED-CT
+833611000000105,[M]AngiocentricT-cell lymphoma,SNOMED-CT
+705141000000109,Sézary's disease of unspecified site (disorder),SNOMED-CT
+833511000000106,True histiocytic lymphoma,SNOMED-CT
+307652003,Idiopathic thrombocythemia (disorder),SNOMED-CT
+421835000,Immunoblastic lymphoma associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+410571000000108,[M]Miscellaneous leukaemia NOS (morphologic abnormality),SNOMED-CT
+15118008,AIDS with reticulosarcoma (disorder),SNOMED-CT
+557661000000100,Malignant lymphoma NOS of spleen (disorder),SNOMED-CT
+95259004,Sézary's disease of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+578501000000101,"Hodgkin's disease, nodular sclerosis NOS (disorder)",SNOMED-CT
+832641000000102,Hodgkin's disease,SNOMED-CT
+189999004,"[M]Malignant lymphoma, lymphocytic, poorly differentiated, nodular (morphologic abnormality)",SNOMED-CT
+573441000000107,Hodgkin's paragranuloma of unspecified site (disorder),SNOMED-CT
+443951000000105,"[M]Malignant lymphoma, nodular NOS (& [Brill - Symmers' disease])",SNOMED-CT
+557691000000106,Burkitt's lymphoma of unspecified site (disorder),SNOMED-CT
+832521000000108,Acute monoblastic leukaemia,SNOMED-CT
+832591000000106,"Hodgkin's disease, lymphocytic predominance - nodular",SNOMED-CT
+189510008,Refractory anemia with sideroblasts (disorder),SNOMED-CT
+188526000,Hodgkin's paragranuloma of intra-abdominal lymph nodes (disorder),SNOMED-CT
+271385002,"[X]Non-Hodgkin's lymphoma, unspecified type (disorder)",SNOMED-CT
+477541000000106,[X]Other myeloid leukaemia (morphologic abnormality),SNOMED-CT
+271486002,Acute erythremia and erythroleukemia (disorder),SNOMED-CT
+190006007,[M]Microglioma (morphologic abnormality),SNOMED-CT
+189973006,[M]Prolymphocytic lymphosarcoma (morphologic abnormality),SNOMED-CT
+634601000000104,Other myeloid leukemia NOS (disorder),SNOMED-CT
+557651000000103,Reticulosarcoma NOS (disorder),SNOMED-CT
+190033006,[M]Lymphoid leukemias (morphologic abnormality),SNOMED-CT
+93147005,Leukemic reticuloendotheliosis of lymph nodes of axilla AND/OR upper limb (disorder),SNOMED-CT
+401221000000100,[M]Malignant histiocytosis (morphologic abnormality),SNOMED-CT
+555741000000104,Malignant histiocytosis of unspecified site (disorder),SNOMED-CT
+638271000000102,Macroglobulinemia NOS (disorder),SNOMED-CT
+269509006,"[M]Lymphogranuloma, malignant (morphologic abnormality)",SNOMED-CT
+189966001,"[M]Malignant lymphoma, centroblastic-centrocytic, diffuse (morphologic abnormality)",SNOMED-CT
+359636004,"Acute myelogenous leukemia without maturation, FAB M1 (disorder)",SNOMED-CT
+574411000000109,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrapelvic lymph nodes (disorder),SNOMED-CT
+449751000000106,[M]Angioendotheliomatosis (morphologic abnormality),SNOMED-CT
+815191000000104,"Atypical chronic myeloid leukaemia, BCR/ABL-negative (morphologic abnormality)",SNOMED-CT
+189978002,"[M]Malignant lymphoma, large cell, non-cleaved, diffuse (morphologic abnormality)",SNOMED-CT
+833341000000102,Follicular lymphoma grade 1,SNOMED-CT
+461881000000104,[M]Plasma cell leukaemias (morphologic abnormality),SNOMED-CT
+404031000000109,[M]Aleukaemic myeloid leukaemia (morphologic abnormality),SNOMED-CT
+391691000000109,[M]Prolymphocytic lymphosarcoma (morphologic abnormality),SNOMED-CT
+396711000000103,"[M]Malignant lymphoma, lymphocytic, poorly differentiated, nodular (morphologic abnormality)",SNOMED-CT
+833441000000108,"Atypical chronic myeloid leukaemia, BCR/ABL negative",SNOMED-CT
+190012002,[M] Large cell lymphoma (morphologic abnormality),SNOMED-CT
+457421000000102,"[M]Malignant lymphoma, lymphocytic, well differentiated, nodular (morphologic abnormality)",SNOMED-CT
+188656002,"Letterer-Siwe disease of lymph nodes of head, face and neck (disorder)",SNOMED-CT
+640511000000108,Malignant lymphoma NOS (disorder),SNOMED-CT
+832531000000105,Juvenile myelomonocytic leukaemia,SNOMED-CT
+277600006,Acute myeloblastic leukemia (disorder),SNOMED-CT
+190046001,[M]Lymphosarcoma cell leukemia NOS (morphologic abnormality),SNOMED-CT
+541891000000101,Lymphosarcoma of unspecified site (disorder),SNOMED-CT
+277648007,Angiocentric T-cell lymphoma (disorder),SNOMED-CT
+450981000000106,[M]leukemia NOS (morphologic abnormality),SNOMED-CT
+833111000000100,Refractory anaemia with multilineage dysplasia,SNOMED-CT
+463341000000103,[M]Basophilic leukaemia NOS (morphologic abnormality),SNOMED-CT
+565961000000108,Malignant lymphoma NOS of intrapelvic lymph nodes (disorder),SNOMED-CT
+453011000000105,[M]Lymphosarcoma cell leukaemia NOS (morphologic abnormality),SNOMED-CT
+833531000000103,"Extranodal natural killer/T-cell lymphoma, nasal type",SNOMED-CT
+190032001,[M]Compound leukemia NOS (morphologic abnormality),SNOMED-CT
+188624009,Mycosis fungoides of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+541691000000102,Malignant histiocytosis NOS (disorder),SNOMED-CT
+190024009,[M]leukemias unspecified (morphologic abnormality),SNOMED-CT
+189993003,"Lymphoma, nodular or follicular (morphologic abnormality)",SNOMED-CT
+456651000000108,[M]Leukaemia NOS,SNOMED-CT
+189990000,"[M]Hodgkin's disease, nodular sclerosis, mixed cellularity (morphologic abnormality)",SNOMED-CT
+285768001,Acute myeloblastic leukemia with maturation (disorder),SNOMED-CT
+833451000000106,"Chronic myelogenous leukaemia, BCR/ABL positive",SNOMED-CT
+36449005,Acute erythremia (morphologic abnormality),SNOMED-CT
+190165007,"[X]Diffuse non-Hodgkin's lymphoma, unspecified (disorder)",SNOMED-CT
+389331000000104,"[M]Malignant lymphoma, convoluted cell type NOS (morphologic abnormality)",SNOMED-CT
+191333009,Essential thrombocytosis (disorder),SNOMED-CT
+429221000000106,[M]Hodgkin's disease NOS (morphologic abnormality),SNOMED-CT
+190028007,[M]Aleukemic leukemia NOS (morphologic abnormality),SNOMED-CT
+277576009,Plasma cell disorder (disorder),SNOMED-CT
+189995005,"[M]Malignant lymphoma, centroblastic-centrocytic, follicular (morphologic abnormality)",SNOMED-CT
+457051000000103,"[M]Hodgkin,s disease, lymphocytic predominance, diffuse (morphologic abnormality)",SNOMED-CT
+443501000000104,[M]Subacute myeloid leukaemia (disorder),SNOMED-CT
+417681000000107,"[X]Non-Hodgkin's lymphoma, unspecified type",SNOMED-CT
+189989009,"[M]Hodgkin's disease, lymphocytic predominance, diffuse (morphologic abnormality)",SNOMED-CT
+634611000000102,Myeloid leukemia NOS (disorder),SNOMED-CT
+832811000000104,Primary mediastinal (thymic) large B-cell lymphoma,SNOMED-CT
+634621000000108,Other monocytic leukemia (disorder),SNOMED-CT
+815311000000105,Acute myeloid leukemia with myelodysplasia-related changes (disorder),SNOMED-CT
+815451000000102,Primary cutaneous CD30 antigen positive large T-cell lymphoma (disorder),SNOMED-CT
+425221000000109,[M]Burkitt's tumour NOS (morphologic abnormality),SNOMED-CT
+78010001,"Malignant lymphoma, large B-cell, diffuse, immunoblastic (morphologic abnormality)",SNOMED-CT
+833331000000106,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue,SNOMED-CT
+633321000000101,"Histiocytosis X, unspecified (disorder)",SNOMED-CT
+832601000000100,"Hodgkin's disease, nodular sclerosis",SNOMED-CT
+416901000000108,"[M]Malignant lymphoma, nodular NOS (morphologic abnormality)",SNOMED-CT
+190036003,[M]Aleukemic lymphoid leukemia (morphologic abnormality),SNOMED-CT
+572191000000103,Hodgkin's granuloma NOS (disorder),SNOMED-CT
+367051000000101,Mantle cell lymphoma (morphologic abnormality),SNOMED-CT
+833031000000109,Eosinophilic granuloma,SNOMED-CT
+188678009,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma (disorder),SNOMED-CT
+420631000000103,[M]Acute lymphoid leukaemia (morphologic abnormality),SNOMED-CT
+190011009,[M] Gamma heavy chain disease (morphologic abnormality),SNOMED-CT
+470351000000104,[M]Polycythemia vera (morphologic abnormality),SNOMED-CT
+445681000000106,[M]Lymphosarcoma cell leukaemia (morphologic abnormality),SNOMED-CT
+95256006,Sézary's disease of intra-abdominal lymph nodes (disorder),SNOMED-CT
+556061000000105,Burkitt's lymphoma NOS (disorder),SNOMED-CT
+190038002,[M]Plasma cell leukemias (morphologic abnormality),SNOMED-CT
+95257002,Sézary's disease of intrapelvic lymph nodes (disorder),SNOMED-CT
+6357002,AIDS with primary lymphoma of the brain (disorder),SNOMED-CT
+833061000000104,Anaplastic lymphoma kinase negative anaplastic large cell lymphoma,SNOMED-CT
+833691000000101,Hypereosinophilic syndrome,SNOMED-CT
+450611000000107,[X]Other monocytic leukaemia (morphologic abnormality),SNOMED-CT
+662441000000104,Subacute leukemia NOS (disorder),SNOMED-CT
+832631000000106,Lymphocyte-rich classical Hodgkin lymphoma,SNOMED-CT
+190039005,[M]Plasma cell leukemia NOS (morphologic abnormality),SNOMED-CT
+556151000000108,Malignant lymphoma NOS of unspecified site (disorder),SNOMED-CT
+832621000000109,"Hodgkin's disease, lymphocytic depletion",SNOMED-CT
+190001002,"[M]Malignant lymphoma, follicular center cell, non-cleaved, follicular (morphologic abnormality)",SNOMED-CT
+189981007,"[M]Lymphoma, diffuse or NOS (morphologic abnormality)",SNOMED-CT
+188756007,Acute panmyelosis (disorder),SNOMED-CT
+71390001,Plasma cell dyscrasia (disorder),SNOMED-CT
+409561000000107,[M]Microglioma (morphologic abnormality),SNOMED-CT
+832651000000104,B-cell acute lymphoblastic leukaemia,SNOMED-CT
+302852008,Plasmacytoma (disorder),SNOMED-CT
+408281000000107,[X]Other malignant immunoproliferative diseases (disorder),SNOMED-CT
+557671000000107,Unspecified malignant neoplasm of lymphoid and histiocytic tissue of intrathoracic lymph nodes (disorder),SNOMED-CT
+278190000,Erythremia (morphologic abnormality),SNOMED-CT
+430841000000108,[M]Angioendotheliomatosis,SNOMED-CT
+414451000000109,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas,SNOMED-CT
+814851000000101,Diffuse follicle centre lymphoma (disorder),SNOMED-CT
+255100007,Mycosis fungoides of skin (disorder),SNOMED-CT
+814201000000103,Primary mediastinal (thymic) large B-cell lymphoma (disorder),SNOMED-CT
+190019006,[M]Plasma cell tumor NOS (morphologic abnormality),SNOMED-CT
+188561006,"Hodgkin's, lymphocytic-histiocytic predominance of spleen (disorder)",SNOMED-CT
+190043009,[M]Erythroleukemia NOS (morphologic abnormality),SNOMED-CT
+190053005,[M]Basophilic leukemia NOS (morphologic abnormality),SNOMED-CT
+396701000000100,[M]Hodgkin's paragranuloma (morphologic abnormality),SNOMED-CT
+269510001,"[M]Malignant lymphoma, nodular NOS (morphologic abnormality)",SNOMED-CT
+269508003,"[M]Malignant lymphoma, mixed lymphocytic-histiocytic NOS (morphologic abnormality)",SNOMED-CT
+461891000000102,[M]Plasma cell leukaemia NOS (morphologic abnormality),SNOMED-CT
+93149008,Leukemic reticuloendotheliosis of lymph nodes of inguinal region AND/OR lower limb (disorder),SNOMED-CT
+815031000000104,Hepatosplenic T-cell lymphoma (disorder),SNOMED-CT
+366059005,Letterer-Siwe disease (disorder),SNOMED-CT
+403451000000108,"[M]Hodgkin's disease, lymphocytic predominance (morphologic abnormality)",SNOMED-CT
+190229005,"[X]Myelodysplastic syndrome, unspecified (disorder)",SNOMED-CT
+190049008,[M]Aleukemic myeloid leukemia (morphologic abnormality),SNOMED-CT
+833371000000108,Follicular lymphoma grade 3a,SNOMED-CT
+425541000000104,[M] Large cell lymphoma (morphologic abnormality),SNOMED-CT
+425191000000102,[M]Other monocytic leukaemia NOS (morphologic abnormality),SNOMED-CT
+128087008,Monoclonal gammopathy of undetermined significance (MGUS) (disorder),SNOMED-CT
+466491000000105,[M] Monoclonal gammopathy (morphologic abnormality),SNOMED-CT
+398691000000101,"[M]Malignant lymphoma, lymphocytic, poorly differentiated NOS (morphologic abnormality)",SNOMED-CT
+189961006,"[M]Malignant lymphoma, undifferentiated cell type NOS (morphologic abnormality)",SNOMED-CT
+189963009,"[M]Malignant lymphoma, convoluted cell type NOS (morphologic abnormality)",SNOMED-CT
+556141000000105,Malignant lymphoma otherwise specified (disorder),SNOMED-CT
+450944007,Polymorphic post transplant lymphoproliferative disorder (morphologic abnormality),SNOMED-CT
+539741000000101,Mycosis fungoides NOS (disorder),SNOMED-CT
+389871000000106,[M]Burkitt's tumours (morphologic abnormality),SNOMED-CT
+134182002,[M]Polycythemia vera (morphologic abnormality),SNOMED-CT
+833351000000104,Follicular lymphoma grade 2,SNOMED-CT
+778041000000106,"[M]Malignant lymphoma, large cell, diffuse NOS",SNOMED-CT
+437761000000104,[X]Other lymphoid leukaemia (disorder),SNOMED-CT
+556071000000103,Other specified reticulosarcoma or lymphosarcoma (disorder),SNOMED-CT
+450051000000104,[X]Other types of follicular non-Hodgkin's lymphoma (disorder),SNOMED-CT
+425261000000101,[M]Plasma cell tumour NOS (morphologic abnormality),SNOMED-CT
+91859000,"Acute monocytic leukemia, FAB M5 (disorder)",SNOMED-CT
+572201000000101,Hodgkin's sarcoma of unspecified site (disorder),SNOMED-CT
+190031008,[M]Compound leukemia (morphologic abnormality),SNOMED-CT
+285766002,Acute myeloblastic leukemia without maturation (disorder),SNOMED-CT
+190023003,[M]Burkitt's tumor NOS (morphologic abnormality),SNOMED-CT
+401241000000107,"[M]Malignant lymphoma, small cleaved cell, diffuse (morphologic abnormality)",SNOMED-CT
+555761000000103,Letterer-Siwe disease of unspecified sites (disorder),SNOMED-CT
+867931000000106,[M]Juvenile myelomonocytic leukaemia (morphologic abnormality),SNOMED-CT
+466521000000108,"[M]Hodgkin's disease, lymphocytic depletion NOS (morphologic abnormality)",SNOMED-CT
+833571000000101,Angioimmunoblastic lymphadenopathy with dysproteinaemia,SNOMED-CT
+190008008,[M] Peripheral T-cell lymphoma NOS (morphologic abnormality),SNOMED-CT
+190040007,[M]Erythroleukemias (morphologic abnormality),SNOMED-CT
+189971008,"[M]Malignant lymphoma, follicular center cell, cleaved NOS (morphologic abnormality)",SNOMED-CT
+399211000000101,"[X]Non-Hodgkin's lymphoma, unspecified type (disorder)",SNOMED-CT
+863791000000103,Clinical stage C chronic lymphocytic leukaemia,SNOMED-CT
+425951000000108,[X]Other and unspecified peripheral and cutaneous T-cell lymphomas (disorder),SNOMED-CT
+188658001,Letterer-Siwe disease of lymph nodes of inguinal region and lower limb (disorder),SNOMED-CT
+190034000,[M]Acute lymphoid leukemia (morphologic abnormality),SNOMED-CT
+833471000000102,Acute myeloid leukaemia with 11q23 abnormality,SNOMED-CT
+190057006,[M]Monocytic leukemias (morphologic abnormality),SNOMED-CT
+408331000000102,"[M]Malignant lymphoma, diffuse NOS (morphologic abnormality)",SNOMED-CT
+833121000000106,Hepatosplenic T-cell lymphoma,SNOMED-CT
+437801000000109,[M]Erythroleukemia NOS (morphologic abnormality),SNOMED-CT
+832911000000106,Acute myeloblastic leukaemia,SNOMED-CT
+189957000,"[M]Lymphomas, NOS or diffuse (morphologic abnormality)",SNOMED-CT
+425521000000106,"[M]Malignant lymphoma, follicular centre cell, non-cleaved NOS (morphologic abnormality)",SNOMED-CT
+687931000000101,Lymphoid and histiocytic malignancy NOS (disorder),SNOMED-CT
+134180005,[M] Monoclonal gammopathy (morphologic abnormality),SNOMED-CT
+833431000000104,[M]Erythroleukaemia,SNOMED-CT
+189996006,"[M]Malignant lymphoma, lymphocytic, well differentiated, nodular (morphologic abnormality)",SNOMED-CT
+833551000000105,Langerhans' cell histiocytosis,SNOMED-CT
+539711000000102,Nodular lymphoma NOS (disorder),SNOMED-CT
+399501000000100,[X]Other leukaemia of unspecified cell type (disorder),SNOMED-CT
+188523008,"Hodgkin's paragranuloma of lymph nodes of head, face, and neck (disorder)",SNOMED-CT
+464031000000108,"[M]Lymphoma, nodular or follicular NOS (morphologic abnormality)",SNOMED-CT
+472951000000104,[M]Subacute lymphoid leukaemia (morphologic abnormality),SNOMED-CT
+478021000000105,"[M]Malignant lymphoma, follicular centre cell, cleaved, follicular (morphologic abnormality)",SNOMED-CT
+42215000,Solitary osseous myeloma (disorder),SNOMED-CT
+189988001,"[M]Hodgkin's disease, lymphocytic predominance (morphologic abnormality)",SNOMED-CT
+408831000000107,[M]Monocytic leukaemias (morphologic abnormality),SNOMED-CT
+419427007,Primary cutaneous large B-cell lymphoma of the leg (morphologic abnormality),SNOMED-CT
+546351000000108,Chronic myeloid leukemia NOS (disorder),SNOMED-CT

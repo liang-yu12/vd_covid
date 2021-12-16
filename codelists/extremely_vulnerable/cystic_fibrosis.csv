@@ -1,0 +1,73 @@
+code,description,type
+PK35.,Kartageners Syndrome,CTV3
+X101X,Inherited Mucociliary Clearance Defect,CTV3
+X101Z,Primary Ciliary Dyskinesia,CTV3
+X101a,Primary Ciliary Dyskinesia - Transposn Ciliary Microtubules,CTV3
+X101b,Immotile Cilia Syndrome Due To Defective Radial Spokes,CTV3
+X101c,Immotile Cilia Syndrome Due To Excessively Long Cilia,CTV3
+X101d,Young's Syndrome,CTV3
+X101e,Rutland Ciliary Disorientation Syndrome,CTV3
+C370.,Cystic Fibrosis,CTV3
+C370.,Cystic Fibrosis,CTV3
+C3700,Cystic Fibrosis With No Meconium Ileus,CTV3
+C3701,Meconium Ileus In Cystic Fibrosis,CTV3
+C3701,Meconium Ileus In Cystic Fibrosis,CTV3
+C3702,Cystic Fibrosis With Pulmonary Manifestations,CTV3
+C3703,Cystic Fibrosis With Intestinal Manifestations,CTV3
+C370z,Cystic Fibrosis Nos,CTV3
+X309R,Cystic Fibrosis Of Pancreas,CTV3
+XaBDb,Cystic Fibrosis With Other Manifestations,CTV3
+XaBDb,Cystic Fibrosis With Other Manifestations,CTV3
+XaMzI,Cystic Fibrosis Related Diabetes Mellitus,CTV3
+XaQvd,Cystic Fibrosis Annual Review,CTV3
+XaREX,Arthropathy In Cystic Fibrosis,CTV3
+XaREZ,Cystic Fibrosis With Distal Intestinal Obstruction Syndrome,CTV3
+XaREa,Liver Disease Due To Cystic Fibrosis,CTV3
+XaREd,Fibrosing Colonopathy,CTV3
+XaXi9,Cystic Fibrosis Related Cirrhosis,CTV3
+XaZr7,Exacerbation Of Cystic Fibrosis,CTV3
+Y2710,Cystic Fibrosis Positive,CTV3
+E84,E84 Cystic Fibrosis,ICD-10
+E840,E84.0 Cystic Fibrosis With Pulmonary Manifestations,ICD-10
+E841,E84.1 Cystic Fibrosis With Intestinal Manifestations,ICD-10
+E848,E84.8 Cystic Fibrosis With Other Manifestations,ICD-10
+E849,"E84.9 Cystic Fibrosis, Unspecified",ICD-10
+707578009,Perforation Of Intestine Due To Cystic Fibrosis With Meconium Ileus (Disorder),SNOMED-CT
+707536003,Digestive System Manifestation Co-Occurrent And Due To Cystic Fibrosis (Disorder),SNOMED-CT
+776981000000103,Cirrhosis Associated With Cystic Fibrosis (Disorder),SNOMED-CT
+190905008,Cystic Fibrosis (Disorder),SNOMED-CT
+720401009,Cystic Fibrosis With Gastritis And Megaloblastic Anemia Syndrome (Disorder),SNOMED-CT
+190911006,Cystic Fibrosis Nos (Disorder),SNOMED-CT
+526071000000104,Arthropathy In Cystic Fibrosis (Disorder),SNOMED-CT
+859041000000103,Exacerbation Of Cystic Fibrosis (Disorder),SNOMED-CT
+235978006,Cystic Fibrosis Of Pancreas (Disorder),SNOMED-CT
+427089005,Diabetes Mellitus Due To Cystic Fibrosis (Disorder),SNOMED-CT
+236793007,Azoospermia With Absent Vasa In Association With Cystic Fibrosis Trait (Disorder),SNOMED-CT
+707542004,Otorhinolaryngological Manifestation Co-Occurrent And Due To Cystic Fibrosis (Disorder),SNOMED-CT
+86092005,Cystic Fibrosis With Meconium Ileus (Disorder),SNOMED-CT
+426705001,Diabetes Mellitus Co-Occurrent And Due To Cystic Fibrosis (Disorder),SNOMED-CT
+707577004,Female Infertility Due To Cystic Fibrosis (Disorder),SNOMED-CT
+707734002,Elevated Liver Enzymes Level Due To Cystic Fibrosis (Finding),SNOMED-CT
+190908005,Cystic Fibrosis With Pulmonary Manifestations (Disorder),SNOMED-CT
+81423003,Cystic Fibrosis Without Meconium Ileus (Disorder),SNOMED-CT
+707418001,Male Infertility Due To Cystic Fibrosis (Disorder),SNOMED-CT
+86555001,Cystic Fibrosis Of The Lung (Disorder),SNOMED-CT
+721197001,Polyneuropathy Due To Classical Cystic Fibrosis (Disorder),SNOMED-CT
+707766007,Exocrine Pancreatic Manifestation Co-Occurrent And Due To Cystic Fibrosis (Disorder),SNOMED-CT
+725052002,Fetal Cystic Fibrosis (Disorder),SNOMED-CT
+698940002,Arthropathy Associated With Cystic Fibrosis (Disorder),SNOMED-CT
+707419009,Osteoporosis Due To Cystic Fibrosis (Disorder),SNOMED-CT
+427022004,Liver Disease Due To Cystic Fibrosis (Disorder),SNOMED-CT
+190909002,Cystic Fibrosis With Intestinal Manifestations (Disorder),SNOMED-CT
+762269004,Classical Cystic Fibrosis (Disorder),SNOMED-CT
+716088000,Follicular Hamartoma With Alopecia And Cystic Fibrosis Syndrome (Disorder),SNOMED-CT
+707450006,Pancreatic Insufficiency Due To Cystic Fibrosis Of Pancreas (Disorder),SNOMED-CT
+707420003,Portal Hypertension Due To Cystic Fibrosis (Disorder),SNOMED-CT
+604421000000104,Cystic Fibrosis Nos (Disorder),SNOMED-CT
+526091000000100,Cystic Fibrosis With Distal Intestinal Obstruction Syndrome (Disorder),SNOMED-CT
+762270003,Atypical Cystic Fibrosis (Disorder),SNOMED-CT
+762271004,Subclinical Cystic Fibrosis (Disorder),SNOMED-CT
+658391000000105,Cystic Fibrosis With Other Manifestations (Disorder),SNOMED-CT
+190906009,Cystic Fibrosis With No Meconium Ileus (Disorder),SNOMED-CT
+307732006,Cystic Fibrosis With Other Manifestations (Disorder),SNOMED-CT
+817966005,Distal Intestinal Obstruction Syndrome Due To Cystic Fibrosis (Disorder),SNOMED-CT

@@ -1,0 +1,860 @@
+code,description,type
+14S2.,H/O: Kidney Recipient,CTV3
+7A600,Insertion Of Arteriovenous Prosthesis,CTV3
+7A602,Attention To Arteriovenous Shunt,CTV3
+7A603,Removal Of Infected Arteriovenous Shunt,CTV3
+7A60y,Other Specified Arteriovenous Shunt,CTV3
+7A60z,Arteriovenous Shunt Nos,CTV3
+7A614,Ligation Of Acquired Arteriovenous Fistula,CTV3
+7A614,Ligation Of Acquired Arteriovenous Fistula,CTV3
+7A6E2,Declotting Of Thigh Vein Loop,CTV3
+7B00.,Renal Transplant,CTV3
+7B001,Live Donor Renal Transplant,CTV3
+7B002,Cadaveric Renal Transplant,CTV3
+7B00y,Other Specified Transplantation Of Kidney,CTV3
+7B00z,Transplantation Of Kidney Nos,CTV3
+7L1A.,Compensation For Renal Failure (& Dialysis),CTV3
+7L1A0,(Renal Dialysis) Or (Thomas Intravascular Dialysis Shunt),CTV3
+7L1A1,Peritoneal Dialysis,CTV3
+7L1A2,Haemodialysis Nec,CTV3
+7L1Ay,Other Specified Compensation For Renal Failure,CTV3
+7L1Az,Compensation For Renal Failure Nos,CTV3
+7L1B.,Chronic Ambulatory Peritoneal Dialysis Catheter Procedure ++,CTV3
+7L1B0,Insertion Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+7L1B0,Insertion Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+7L1B1,Removal Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+7L1By,Placement Ambulatory Apparatus- Compensate Renal Failure Os,CTV3
+7L1Bz,Placement Ambulatory Apparatus- Compensate Renal Failure Nos,CTV3
+7L1C.,Placement Other Apparatus For Compensation For Renal Failure,CTV3
+7L1C0,Insertion Of Temporary Peritoneal Dialysis Catheter,CTV3
+7L1Cy,Placement Other Apparatus- Compensate For Renal Failure Os,CTV3
+7L1Cz,Placement Other Apparatus- Compensate For Renal Failure Nos,CTV3
+8877,Ultrafiltration,CTV3
+8882,Intestinal Dialysis,CTV3
+G760.,Acquired Arteriovenous Fistula,CTV3
+TA020,"Accid Cut,Puncture,Perf,H'ge - Kidney Dialysis",CTV3
+TA020,"Accid Cut,Puncture,Perf,H'ge - Kidney Dialysis",CTV3
+TA02z,"Accid Cut,Puncture,Perf,H'ge - Perfusion Nos",CTV3
+TA22.,Failure Of Sterile Precautions During Perfusion,CTV3
+TA220,Failure Of Sterile Precautions During Kidney Dialysis,CTV3
+TA220,Failure Of Sterile Precautions During Kidney Dialysis,CTV3
+TA22y,Failure Of Sterile Precautions During Other Perfusion,CTV3
+TA22z,Failure Of Sterile Precautions During Perfusion Nos,CTV3
+TA420,Mech Failure Of Instrument &/Or Apparatus During Kidney Dial,CTV3
+TB11.,"Kidney Dialysis With Complication, Without Blame",CTV3
+TB11.,"Kidney Dialysis With Complication, Without Blame",CTV3
+U6122,[X]Failure Sterile Precautions Dur Kidney Dialys/Other Perf,CTV3
+Ua1IM,Chronic Peritoneal Dialysis,CTV3
+Ua1IN,Stab Peritoneal Dialysis,CTV3
+X018M,Creation Of Cimino Fistula,CTV3
+X018M,Creation Of Cimino Fistula,CTV3
+X018N,Creation Brachiocephalic Fistula,CTV3
+X018N,Creation Brachiocephalic Fistula,CTV3
+X018T,Angioplasty Of Arteriovenous Fistula,CTV3
+X018U,Thrombolysis Of Arteriovenous Fistula,CTV3
+X018V,Thrombolysis Of Arteriovenous Graft,CTV3
+X018Y,Embolectomy Of Arteriovenous Fistula,CTV3
+X018Z,Embolectomy Of Arteriovenous Graft,CTV3
+X018a,Procedure On Intraluminal Device Of Arteriovenous Fistula,CTV3
+X018b,Insertion Of Intraluminal Device Into Arteriovenous Fistula,CTV3
+X018c,Insertion Of Stent Into Arteriovenous Fistula,CTV3
+X018d,Removal Of Intraluminal Device From Arteriovenous Fistula,CTV3
+X018e,Removal Of Stent From Arteriovenous Fistula,CTV3
+X018f,Adjustment Of Intraluminal Device Of Arteriovenous Fistula,CTV3
+X018g,Adjustment Of Arteriovenous Fistula Stent,CTV3
+X018j,Banding Of Arteriovenous Fistula,CTV3
+X018n,Exploration Of Arteriovenous Fistula,CTV3
+X018o,Exploration Of Arteriovenous Graft,CTV3
+X01AF,Intermittent Haemodialysis,CTV3
+X01AG,Intermittent Haemodialysis With Sequential Ultrafiltration,CTV3
+X01AH,Intermittent Haemodialysis With Continuous Ultrafiltration,CTV3
+X01AI,Continuous Haemodialysis,CTV3
+X01AJ,Continuous Arteriovenous Haemodialysis,CTV3
+X01AK,Continuous Venovenous Haemodialysis,CTV3
+X01AL,Haemofiltration,CTV3
+X01AM,Intermittent Haemofiltration,CTV3
+X01AN,Continuous Haemofiltration,CTV3
+X01AO,Continuous Arteriovenous Haemofiltration,CTV3
+X01AP,Continuous Venovenous Haemofiltration,CTV3
+X01AQ,Haemodiafiltration,CTV3
+X01AR,Intermittent Haemodiafiltration,CTV3
+X01AS,Continuous Haemodiafiltration,CTV3
+X01AT,Continuous Arteriovenous Haemodiafiltration,CTV3
+X01AU,Continuous Venovenous Haemodiafiltration,CTV3
+X01AY,Plasma Filtration,CTV3
+X30D2,Xenograft Renal Transplant,CTV3
+X30J0,End Stage Renal Failure,CTV3
+X30J1,"End Stage Renal Failure, Untreated By Rrt",CTV3
+X30J2,End Stage Renal Failure On Dialysis,CTV3
+X30J3,End Stage Renal Failure With Renal Transplant,CTV3
+X30Lp,Disorder Associated With Dialysis,CTV3
+X30Lq,Acute Disorder Of Haemodialysis,CTV3
+X30Lr,Dialysis Disequilibrium,CTV3
+X30Ls,First Use Syndrome Of Dialysis,CTV3
+X30Lt,Anaphylactoid Reaction To Dialysis,CTV3
+X30Lu,Hyperchloraemic Acidosis Associated With Dialysis,CTV3
+X30Lv,Hard Water Syndrome,CTV3
+X30Lw,Long-Term Disorder Of Dialysis,CTV3
+X30Lx,Beta-2 Microglobulin Amyloidosis,CTV3
+X30Ly,Beta-2 Microglobulin Arthropathy,CTV3
+X30Lz,Matrix Stone Formation Of Dialysis,CTV3
+X30M0,Aluminium Intoxication,CTV3
+X30M1,Aluminium Bone Disease,CTV3
+X30M2,Aluminium-Related Osteomalacia,CTV3
+X30M3,Aluminium-Related Fracturing Osteodystrophy,CTV3
+X30M4,Polyserositis Syndrome Of Dialysis,CTV3
+X30M5,Underdialysis,CTV3
+X30M6,Adynamic Bone Disease,CTV3
+X30M7,Disorders Associated With Peritoneal Dialysis,CTV3
+X30M8,Pain During Inflow Of Dialysate,CTV3
+X30M9,Pain During Outflow Of Dialysate,CTV3
+X30MB,Bloodstained Peritoneal Dialysis Effluent,CTV3
+X30MC,Peritoneal Dialysis Catheter Exit Site Infection,CTV3
+X30MD,Peritoneal Dialysis Catheter Tunnel Infection,CTV3
+X30ME,Loss Of Ultrafiltration,CTV3
+X30MF,Loss Of Solute Clearance,CTV3
+X30MG,Disorder Of Peritoneal Dialysis Catheter,CTV3
+X30MH,Obstruction Of Peritoneal Dialysis Catheter,CTV3
+X30MI,Migration Of Peritoneal Dialysis Catheter,CTV3
+X30MJ,Omental Wrapping Around Peritoneal Dialysis Catheter,CTV3
+X30MK,Poor Drainage Of Peritoneal Dialysis Catheter,CTV3
+X30ML,Extrusion Of Peritoneal Dialysis Catheter Cuff,CTV3
+X30MM,Misplacement Of Acute Peritoneal Dialysis Catheter,CTV3
+X30MN,Renal Transplant Disorder,CTV3
+X30MO,Primary Non-Function Of Renal Transplant,CTV3
+X30MP,Renal Transplant Rejection,CTV3
+X30MQ,Hyperacute Rejection Of Renal Transplant,CTV3
+X30MR,Accelerated Rejection Of Renal Transplant,CTV3
+X30MS,Very Mild Acute Rejection Of Renal Transplant,CTV3
+X30MT,Acute Rejection Of Renal Transplant,CTV3
+X30MU,Acute Rejection Of Renal Transplant - Grade I,CTV3
+X30MV,Acute Rejection Of Renal Transplant - Grade Ii,CTV3
+X30MW,Acute Rejection Of Renal Transplant - Grade Iii,CTV3
+X30MX,Chronic Rejection Of Renal Transplant,CTV3
+X30MY,Chronic Rejection Of Renal Transplant - Grade 1,CTV3
+X30MZ,Chronic Rejection Of Renal Transplant - Grade Ii,CTV3
+X30Ma,Chronic Rejection Of Renal Transplant - Grade Iii,CTV3
+X30Mb,Acute-On-Chronic Rejection Of Renal Transplant,CTV3
+X30Mc,Failed Renal Transplant,CTV3
+X30Md,Perfusion Injury Of Renal Transplant,CTV3
+X30Mg,Transplant Glomerulopathy,CTV3
+X30Mh,Transplant Glomerulopathy - Early Form,CTV3
+X30Mi,Transplant Glomerulopathy - Late Form,CTV3
+X30NN,Perirenal And Periureteric Post-Transplant Lymphocele,CTV3
+X40bz,Renewal Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c0,Adjustment Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c1,Aspiration Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c2,Flushing Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c3,Continuous Ambulatory Peritoneal Dialysis,CTV3
+X40c4,Continuous Cycling Peritoneal Dialysis,CTV3
+X40c5,Intermittent Peritoneal Dialysis,CTV3
+X40c6,Tidal Peritoneal Dialysis,CTV3
+X40c7,Night-Time Intermittent Peritoneal Dialysis,CTV3
+XE0Fh,Creation Of Arteriovenous Fistula Nec,CTV3
+XE0Fh,Creation Of Arteriovenous Fistula Nec,CTV3
+XE0Fj,Repair Of Acquired Arteriovenous Fistula,CTV3
+XE0Fj,Repair Of Acquired Arteriovenous Fistula,CTV3
+XE0Jf,Compensation For Renal Failure,CTV3
+XE0Jf,Compensation For Renal Failure,CTV3
+XE0Jg,Renal Dialysis,CTV3
+XE0Jg,Renal Dialysis,CTV3
+XE0kD,Renal Dialysis (& Haemodialysis),CTV3
+XE21r,Mechanical Failure Of Apparatus During Kidney Dialysis,CTV3
+XE21r,Mechanical Failure Of Apparatus During Kidney Dialysis,CTV3
+XE2u6,Chronic Ambulatory Peritoneal Dialysis Catheter Procedure,CTV3
+Xa0Ex,Peritoneal Dialysis-Associated Peritonitis,CTV3
+Xa0FB,Percutaneous Balloon Angioplasty Of Arteriovenous Fistula,CTV3
+Xa0Gm,Percutaneous Embolectomy Of Arteriovenous Fistula,CTV3
+Xa0H7,Percutaneous Thrombolysis Of Arteriovenous Fistula,CTV3
+Xa0HK,Unexplained Episode Of Renal Transplant Dysfunction,CTV3
+Xa0HL,Pre-Existing Disease In Renal Transplant,CTV3
+Xa0ol,Procedure Related To Surgical Arteriovenous Connection,CTV3
+Xa0x1,Removal Of Arteriovenous Shunt,CTV3
+Xa1dw,Transplant Kidney,CTV3
+Xa24I,Acquired Renal Arteriovenous Fistula,CTV3
+Xa3x6,Kidney Replacement,CTV3
+Xa402,Extracorporeal Kidney,CTV3
+Xa8S7,Haemodialysis,CTV3
+Xa8S7,Haemodialysis,CTV3
+Xa9zl,Dependence On Renal Dialysis,CTV3
+XaBrA,Haemodialysis Procedure,CTV3
+XaC2Z,[X] Peritoneal Dialysis Associated Peritonitis,CTV3
+XaE9T,Donor Renal Transplantation,CTV3
+XaLiG,Thrombectomy Of Arteriovenous Fistula,CTV3
+XaLiH,Creation Of Graft Fistula For Dialysis,CTV3
+XaM1o,"Allotransplantation Of Kidney From Cadaver, Heart-Beating",CTV3
+XaM1p,"Allotransplantation Kidney From Cadaver, Heart Non-Beating",CTV3
+XaM2A,Automated Peritoneal Dialysis,CTV3
+XaMKM,Allotransplantation Of Kidney From Cadaver Nec,CTV3
+XaMMt,Peritoneal Dialysis Nec,CTV3
+XaMtq,Extracorporeal Albumin Haemodialysis,CTV3
+XaOmL,Ligation Of Arteriovenous Dialysis Fistula,CTV3
+XaOoH,Ligation Of Arteriovenous Dialysis Graft,CTV3
+XaREO,Continuous Ambulatory Peritoneal Dialysis Associated Perit,CTV3
+XaZWa,Urological Complication Of Renal Transplant,CTV3
+XaZYx,Vascular Complication Of Renal Transplant,CTV3
+XaZc8,Ruptured Aneurysm Of Dialysis Vascular Access,CTV3
+XaZcQ,Aneurysm Of Superficialised Artery Of Dialysis Av Fistula,CTV3
+XaZcU,Aneurysm Of Dialysis Arteriovenous Fistula,CTV3
+XaZcX,Aneurysm Of Needle Site Of Dialysis Arteriovenous Fistula,CTV3
+XaZcd,Aneurysm Of Anastomotic Site Of Dialysis Av Fistula,CTV3
+XaZdk,Thrombus In Peritoneal Dialysis Catheter,CTV3
+XaZe2,Rupture Of Artery Of Transplanted Kidney,CTV3
+XaZe3,Rupture Of Vein Of Transplanted Kidney,CTV3
+XaZe7,Stenosis Of Vein Of Transplanted Kidney,CTV3
+XaZkw,Aneurysm Of Vein Of Transplanted Kidney,CTV3
+XaZl0,Aneurysm Of Artery Of Transplanted Kidney,CTV3
+XaZlu,Stenosis Of Dialysis Vascular Access,CTV3
+XaZlv,Thrombosis Of Dialysis Vascular Access,CTV3
+XaZmp,Anaphylactoid Reaction Due To Haemodialysis,CTV3
+Xaa2O,Thrombosis Of Artery Of Transplanted Kidney,CTV3
+Xaa2Q,Thrombosis Of Vein Of Transplanted Kidney,CTV3
+Xaa5S,Occlusion Of Dialysis Vascular Access,CTV3
+Xaa5T,Infection Of Dialysis Vascular Access,CTV3
+Xaa5U,Haemorrhage Of Dialysis Vascular Access,CTV3
+Xaa5W,Stenosis Of Dialysis Arteriovenous Graft,CTV3
+Xaa5X,Stenosis Of Dialysis Arteriovenous Shunt,CTV3
+Xaa5e,Thrombosis Of Dialysis Arteriovenous Graft,CTV3
+Xaa5f,Thrombosis Of Dialysis Arteriovenous Fistula,CTV3
+Xaa5g,Thrombosis Of Dialysis Arteriovenous Shunt,CTV3
+Xaa5h,Occlusion Of Dialysis Arteriovenous Graft,CTV3
+Xaa5i,Occlusion Of Dialysis Arteriovenous Fistula,CTV3
+Xaa5j,Occlusion Of Dialysis Arteriovenous Shunt,CTV3
+Xaa6n,Infection Of Dialysis Arteriovenous Graft,CTV3
+Xaa6o,Infection Of Dialysis Arteriovenous Fistula,CTV3
+Xaa7F,Infection Of Dialysis Arteriovenous Shunt,CTV3
+Xaa7H,Haemorrhage Of Dialysis Arteriovenous Graft,CTV3
+Xaa7I,Haemorrhage Of Dialysis Arteriovenous Fistula,CTV3
+Xaa7J,Haemorrhage Of Dialysis Arteriovenous Shunt,CTV3
+Xaa7K,Rupture Of Dialysis Arteriovenous Graft,CTV3
+XaaEx,Stenosis Of Arterial Side Of Dialysis Arteriovenous Shunt,CTV3
+XaaEy,Stenosis Of Venous Side Of Dialysis Arteriovenous Shunt,CTV3
+ZV420,[V]Kidney Transplanted,CTV3
+ZV451,[V]Renal Dialysis Status,CTV3
+ZV56.,[V]Aftercare Involving Intermittent Dialysis,CTV3
+ZV560,[V]Aftercare Involving Extracorporeal Dialysis,CTV3
+ZV560,[V]Aftercare Involving Extracorporeal Dialysis,CTV3
+ZV561,[V]Preparatory Care For Dialysis,CTV3
+ZV56y,[V]Other Specified Aftercare Involving Intermittent Dialysis,CTV3
+ZV56z,[V]Unspecified Aftercare Involving Intermittent Dialysis,CTV3
+ZVu3G,[X]Other Dialysis,CTV3
+7A600,Insertion Of Arteriovenous Prosthesis,CTV3
+7A602,Attention To Arteriovenous Shunt,CTV3
+7A603,Removal Of Infected Arteriovenous Shunt,CTV3
+7A60y,Other Specified Arteriovenous Shunt,CTV3
+7A60z,Arteriovenous Shunt Nos,CTV3
+7A614,Ligation Of Acquired Arteriovenous Fistula,CTV3
+7A614,Ligation Of Acquired Arteriovenous Fistula,CTV3
+7A6E2,Declotting Of Thigh Vein Loop,CTV3
+7L1A.,Compensation For Renal Failure (& Dialysis),CTV3
+7L1A0,(Renal Dialysis) Or (Thomas Intravascular Dialysis Shunt),CTV3
+7L1A1,Peritoneal Dialysis,CTV3
+7L1A2,Haemodialysis Nec,CTV3
+7L1Ay,Other Specified Compensation For Renal Failure,CTV3
+7L1Az,Compensation For Renal Failure Nos,CTV3
+7L1B.,Chronic Ambulatory Peritoneal Dialysis Catheter Procedure ++,CTV3
+7L1B0,Insertion Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+7L1B0,Insertion Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+7L1B1,Removal Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+7L1By,Placement Ambulatory Apparatus- Compensate Renal Failure Os,CTV3
+7L1Bz,Placement Ambulatory Apparatus- Compensate Renal Failure Nos,CTV3
+7L1C.,Placement Other Apparatus For Compensation For Renal Failure,CTV3
+7L1C0,Insertion Of Temporary Peritoneal Dialysis Catheter,CTV3
+7L1Cy,Placement Other Apparatus- Compensate For Renal Failure Os,CTV3
+7L1Cz,Placement Other Apparatus- Compensate For Renal Failure Nos,CTV3
+8877,Ultrafiltration,CTV3
+8882,Intestinal Dialysis,CTV3
+G760.,Acquired Arteriovenous Fistula,CTV3
+TA020,"Accid Cut,Puncture,Perf,H'ge - Kidney Dialysis",CTV3
+TA020,"Accid Cut,Puncture,Perf,H'ge - Kidney Dialysis",CTV3
+TA02z,"Accid Cut,Puncture,Perf,H'ge - Perfusion Nos",CTV3
+TA22.,Failure Of Sterile Precautions During Perfusion,CTV3
+TA220,Failure Of Sterile Precautions During Kidney Dialysis,CTV3
+TA220,Failure Of Sterile Precautions During Kidney Dialysis,CTV3
+TA22y,Failure Of Sterile Precautions During Other Perfusion,CTV3
+TA22z,Failure Of Sterile Precautions During Perfusion Nos,CTV3
+TA420,Mech Failure Of Instrument &/Or Apparatus During Kidney Dial,CTV3
+TB11.,"Kidney Dialysis With Complication, Without Blame",CTV3
+TB11.,"Kidney Dialysis With Complication, Without Blame",CTV3
+U6122,[X]Failure Sterile Precautions Dur Kidney Dialys/Other Perf,CTV3
+Ua1IM,Chronic Peritoneal Dialysis,CTV3
+Ua1IN,Stab Peritoneal Dialysis,CTV3
+X018M,Creation Of Cimino Fistula,CTV3
+X018M,Creation Of Cimino Fistula,CTV3
+X018N,Creation Brachiocephalic Fistula,CTV3
+X018N,Creation Brachiocephalic Fistula,CTV3
+X018T,Angioplasty Of Arteriovenous Fistula,CTV3
+X018U,Thrombolysis Of Arteriovenous Fistula,CTV3
+X018V,Thrombolysis Of Arteriovenous Graft,CTV3
+X018Y,Embolectomy Of Arteriovenous Fistula,CTV3
+X018Z,Embolectomy Of Arteriovenous Graft,CTV3
+X018a,Procedure On Intraluminal Device Of Arteriovenous Fistula,CTV3
+X018b,Insertion Of Intraluminal Device Into Arteriovenous Fistula,CTV3
+X018c,Insertion Of Stent Into Arteriovenous Fistula,CTV3
+X018d,Removal Of Intraluminal Device From Arteriovenous Fistula,CTV3
+X018e,Removal Of Stent From Arteriovenous Fistula,CTV3
+X018f,Adjustment Of Intraluminal Device Of Arteriovenous Fistula,CTV3
+X018g,Adjustment Of Arteriovenous Fistula Stent,CTV3
+X018j,Banding Of Arteriovenous Fistula,CTV3
+X018n,Exploration Of Arteriovenous Fistula,CTV3
+X018o,Exploration Of Arteriovenous Graft,CTV3
+X01AF,Intermittent Haemodialysis,CTV3
+X01AG,Intermittent Haemodialysis With Sequential Ultrafiltration,CTV3
+X01AH,Intermittent Haemodialysis With Continuous Ultrafiltration,CTV3
+X01AI,Continuous Haemodialysis,CTV3
+X01AJ,Continuous Arteriovenous Haemodialysis,CTV3
+X01AK,Continuous Venovenous Haemodialysis,CTV3
+X01AL,Haemofiltration,CTV3
+X01AM,Intermittent Haemofiltration,CTV3
+X01AN,Continuous Haemofiltration,CTV3
+X01AO,Continuous Arteriovenous Haemofiltration,CTV3
+X01AP,Continuous Venovenous Haemofiltration,CTV3
+X01AQ,Haemodiafiltration,CTV3
+X01AR,Intermittent Haemodiafiltration,CTV3
+X01AS,Continuous Haemodiafiltration,CTV3
+X01AT,Continuous Arteriovenous Haemodiafiltration,CTV3
+X01AU,Continuous Venovenous Haemodiafiltration,CTV3
+X01AY,Plasma Filtration,CTV3
+X30J0,End Stage Renal Failure,CTV3
+X30J1,"End Stage Renal Failure, Untreated By Rrt",CTV3
+X30J2,End Stage Renal Failure On Dialysis,CTV3
+X30Lp,Disorder Associated With Dialysis,CTV3
+X30Lq,Acute Disorder Of Haemodialysis,CTV3
+X30Lr,Dialysis Disequilibrium,CTV3
+X30Ls,First Use Syndrome Of Dialysis,CTV3
+X30Lt,Anaphylactoid Reaction To Dialysis,CTV3
+X30Lu,Hyperchloraemic Acidosis Associated With Dialysis,CTV3
+X30Lv,Hard Water Syndrome,CTV3
+X30Lw,Long-Term Disorder Of Dialysis,CTV3
+X30Lx,Beta-2 Microglobulin Amyloidosis,CTV3
+X30Ly,Beta-2 Microglobulin Arthropathy,CTV3
+X30Lz,Matrix Stone Formation Of Dialysis,CTV3
+X30M0,Aluminium Intoxication,CTV3
+X30M1,Aluminium Bone Disease,CTV3
+X30M2,Aluminium-Related Osteomalacia,CTV3
+X30M3,Aluminium-Related Fracturing Osteodystrophy,CTV3
+X30M4,Polyserositis Syndrome Of Dialysis,CTV3
+X30M5,Underdialysis,CTV3
+X30M6,Adynamic Bone Disease,CTV3
+X30M7,Disorders Associated With Peritoneal Dialysis,CTV3
+X30M8,Pain During Inflow Of Dialysate,CTV3
+X30M9,Pain During Outflow Of Dialysate,CTV3
+X30MB,Bloodstained Peritoneal Dialysis Effluent,CTV3
+X30MC,Peritoneal Dialysis Catheter Exit Site Infection,CTV3
+X30MD,Peritoneal Dialysis Catheter Tunnel Infection,CTV3
+X30ME,Loss Of Ultrafiltration,CTV3
+X30MF,Loss Of Solute Clearance,CTV3
+X30MG,Disorder Of Peritoneal Dialysis Catheter,CTV3
+X30MH,Obstruction Of Peritoneal Dialysis Catheter,CTV3
+X30MI,Migration Of Peritoneal Dialysis Catheter,CTV3
+X30MJ,Omental Wrapping Around Peritoneal Dialysis Catheter,CTV3
+X30MK,Poor Drainage Of Peritoneal Dialysis Catheter,CTV3
+X30ML,Extrusion Of Peritoneal Dialysis Catheter Cuff,CTV3
+X30MM,Misplacement Of Acute Peritoneal Dialysis Catheter,CTV3
+X40bz,Renewal Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c0,Adjustment Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c1,Aspiration Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c2,Flushing Of Chronic Ambulatory Peritoneal Dialysis Catheter,CTV3
+X40c3,Continuous Ambulatory Peritoneal Dialysis,CTV3
+X40c4,Continuous Cycling Peritoneal Dialysis,CTV3
+X40c5,Intermittent Peritoneal Dialysis,CTV3
+X40c6,Tidal Peritoneal Dialysis,CTV3
+X40c7,Night-Time Intermittent Peritoneal Dialysis,CTV3
+XE0Fh,Creation Of Arteriovenous Fistula Nec,CTV3
+XE0Fh,Creation Of Arteriovenous Fistula Nec,CTV3
+XE0Fj,Repair Of Acquired Arteriovenous Fistula,CTV3
+XE0Fj,Repair Of Acquired Arteriovenous Fistula,CTV3
+XE0Jf,Compensation For Renal Failure,CTV3
+XE0Jf,Compensation For Renal Failure,CTV3
+XE0Jg,Renal Dialysis,CTV3
+XE0Jg,Renal Dialysis,CTV3
+XE0kD,Renal Dialysis (& Haemodialysis),CTV3
+XE21r,Mechanical Failure Of Apparatus During Kidney Dialysis,CTV3
+XE21r,Mechanical Failure Of Apparatus During Kidney Dialysis,CTV3
+XE2u6,Chronic Ambulatory Peritoneal Dialysis Catheter Procedure,CTV3
+Xa0Ex,Peritoneal Dialysis-Associated Peritonitis,CTV3
+Xa0FB,Percutaneous Balloon Angioplasty Of Arteriovenous Fistula,CTV3
+Xa0Gm,Percutaneous Embolectomy Of Arteriovenous Fistula,CTV3
+Xa0H7,Percutaneous Thrombolysis Of Arteriovenous Fistula,CTV3
+Xa0ol,Procedure Related To Surgical Arteriovenous Connection,CTV3
+Xa0x1,Removal Of Arteriovenous Shunt,CTV3
+Xa24I,Acquired Renal Arteriovenous Fistula,CTV3
+Xa3x6,Kidney Replacement,CTV3
+Xa402,Extracorporeal Kidney,CTV3
+Xa8S7,Haemodialysis,CTV3
+Xa8S7,Haemodialysis,CTV3
+Xa9zl,Dependence On Renal Dialysis,CTV3
+XaBrA,Haemodialysis Procedure,CTV3
+XaC2Z,[X] Peritoneal Dialysis Associated Peritonitis,CTV3
+XaLiG,Thrombectomy Of Arteriovenous Fistula,CTV3
+XaLiH,Creation Of Graft Fistula For Dialysis,CTV3
+XaM1p,"Allotransplantation Kidney From Cadaver, Heart Non-Beating",CTV3
+XaM2A,Automated Peritoneal Dialysis,CTV3
+XaMMt,Peritoneal Dialysis Nec,CTV3
+XaMtq,Extracorporeal Albumin Haemodialysis,CTV3
+XaOmL,Ligation Of Arteriovenous Dialysis Fistula,CTV3
+XaOoH,Ligation Of Arteriovenous Dialysis Graft,CTV3
+XaREO,Continuous Ambulatory Peritoneal Dialysis Associated Perit,CTV3
+XaZc8,Ruptured Aneurysm Of Dialysis Vascular Access,CTV3
+XaZcQ,Aneurysm Of Superficialised Artery Of Dialysis Av Fistula,CTV3
+XaZcU,Aneurysm Of Dialysis Arteriovenous Fistula,CTV3
+XaZcX,Aneurysm Of Needle Site Of Dialysis Arteriovenous Fistula,CTV3
+XaZcd,Aneurysm Of Anastomotic Site Of Dialysis Av Fistula,CTV3
+XaZdk,Thrombus In Peritoneal Dialysis Catheter,CTV3
+XaZlu,Stenosis Of Dialysis Vascular Access,CTV3
+XaZlv,Thrombosis Of Dialysis Vascular Access,CTV3
+XaZmp,Anaphylactoid Reaction Due To Haemodialysis,CTV3
+Xaa5S,Occlusion Of Dialysis Vascular Access,CTV3
+Xaa5T,Infection Of Dialysis Vascular Access,CTV3
+Xaa5U,Haemorrhage Of Dialysis Vascular Access,CTV3
+Xaa5W,Stenosis Of Dialysis Arteriovenous Graft,CTV3
+Xaa5X,Stenosis Of Dialysis Arteriovenous Shunt,CTV3
+Xaa5e,Thrombosis Of Dialysis Arteriovenous Graft,CTV3
+Xaa5f,Thrombosis Of Dialysis Arteriovenous Fistula,CTV3
+Xaa5g,Thrombosis Of Dialysis Arteriovenous Shunt,CTV3
+Xaa5h,Occlusion Of Dialysis Arteriovenous Graft,CTV3
+Xaa5i,Occlusion Of Dialysis Arteriovenous Fistula,CTV3
+Xaa5j,Occlusion Of Dialysis Arteriovenous Shunt,CTV3
+Xaa6n,Infection Of Dialysis Arteriovenous Graft,CTV3
+Xaa6o,Infection Of Dialysis Arteriovenous Fistula,CTV3
+Xaa7F,Infection Of Dialysis Arteriovenous Shunt,CTV3
+Xaa7H,Haemorrhage Of Dialysis Arteriovenous Graft,CTV3
+Xaa7I,Haemorrhage Of Dialysis Arteriovenous Fistula,CTV3
+Xaa7J,Haemorrhage Of Dialysis Arteriovenous Shunt,CTV3
+Xaa7K,Rupture Of Dialysis Arteriovenous Graft,CTV3
+XaaEx,Stenosis Of Arterial Side Of Dialysis Arteriovenous Shunt,CTV3
+XaaEy,Stenosis Of Venous Side Of Dialysis Arteriovenous Shunt,CTV3
+ZV451,[V]Renal Dialysis Status,CTV3
+ZV56.,[V]Aftercare Involving Intermittent Dialysis,CTV3
+ZV560,[V]Aftercare Involving Extracorporeal Dialysis,CTV3
+ZV560,[V]Aftercare Involving Extracorporeal Dialysis,CTV3
+ZV561,[V]Preparatory Care For Dialysis,CTV3
+ZV56y,[V]Other Specified Aftercare Involving Intermittent Dialysis,CTV3
+ZV56z,[V]Unspecified Aftercare Involving Intermittent Dialysis,CTV3
+ZVu3G,[X]Other Dialysis,CTV3
+7B015,Transplant Nephrectomy (& For Rejection),CTV3
+XE0Fv,Transplant Nephrectomy,CTV3
+Xa2h5,Excision Of Rejected Transplanted Kidney,CTV3
+Y841,Kidney Dialysis,ICD-10
+Z49,Kidney Dialysis,ICD-10
+Z490,Preparatory Care For Dialysis,ICD-10
+Z491,Extracorporeal Dialysis,ICD-10
+Z492,Other Dialysis,ICD-10
+Z992,Dependence On Renal Dialysis,ICD-10
+Y602,During Kidney Dialysis Or Other Perfusion,ICD-10
+Y612,During Kidney Dialysis Or Other Perfusion,ICD-10
+Y622,During Kidney Dialysis Or Other Perfusion,ICD-10
+T824,Mechanical Complication Of Vascular Dialysis Catheter,ICD-10
+Z940,Kidney Transplant Status,ICD-10
+T861,Kidney Transplant Failure And Rejection,ICD-10
+N183,"Chronic Kidney Disease, Stage 3",ICD-10
+N184,"Chronic Kidney Disease, Stage 4",ICD-10
+N185,"Chronic Kidney Disease, Stage 5",ICD-10
+N189,"Chronic Kidney Disease, Unspecified",ICD-10
+I120,Hypertensive Renal Disease With Renal Failure,ICD-10
+238318009,Continuous Ambulatory Peritoneal Dialysis (Procedure),SNOMED-CT
+864311000000105,Thrombosis Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+865861000000101,Stenosis Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+236538004,Acute Disorder Of Hemodialysis (Disorder),SNOMED-CT
+276983001,Percutaneous Embolectomy Of Arteriovenous Fistula (Procedure),SNOMED-CT
+71192002,Peritoneal Dialysis (Procedure),SNOMED-CT
+866991000000105,Haemorrhage Of Dialysis Arteriovenous Graft (Disorder),SNOMED-CT
+236566007,Extrusion Of Peritoneal Dialysis Catheter Cuff (Disorder),SNOMED-CT
+866951000000102,Infection Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+278691000,Procedure Related To Surgical Arteriovenous Connection (Procedure),SNOMED-CT
+236565006,Poor Drainage Of Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+233580005,Continuous Venovenous Hemodialysis (Procedure),SNOMED-CT
+236571000,Hyperacute Rejection Of Renal Transplant (Disorder),SNOMED-CT
+175901007,Live Donor Renal Transplant (Procedure),SNOMED-CT
+236589004,Transplant Glomerulopathy - Late Form (Disorder),SNOMED-CT
+236567003,Misplacement Of Acute Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+233578004,Continuous Hemodialysis (Procedure),SNOMED-CT
+844661000000109,Vascular Complication Of Renal Transplant (Disorder),SNOMED-CT
+216933008,Failure Of Sterile Precautions During Kidney Dialysis (Event),SNOMED-CT
+236564005,Omental Wrapping Around Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+847791000000101,Rupture Of Artery Of Transplanted Kidney (Disorder),SNOMED-CT
+238316008,Aspiration Of Chronic Ambulatory Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+233576000,Intermittent Hemodialysis With Sequential Ultrafiltration (Procedure),SNOMED-CT
+276883000,Peritoneal Dialysis-Associated Peritonitis (Disorder),SNOMED-CT
+19765000,Complication Of Dialysis (Disorder),SNOMED-CT
+233577009,Intermittent Hemodialysis With Continuous Ultrafiltration (Procedure),SNOMED-CT
+233583007,Continuous Hemofiltration (Procedure),SNOMED-CT
+87235005,Dialysis Disequilibrium Syndrome (Disorder),SNOMED-CT
+236579003,Chronic Rejection Of Renal Transplant - Grade 1 (Disorder),SNOMED-CT
+233469007,Creation Brachiocephalic Fistula (Procedure),SNOMED-CT
+236551009,Underdialysis (Disorder),SNOMED-CT
+236558003,Peritoneal Dialysis Catheter Tunnel Infection (Disorder),SNOMED-CT
+236562009,Obstruction Of Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+236570004,Renal Transplant Rejection (Disorder),SNOMED-CT
+288182009,Extracorporeal Kidney (Procedure),SNOMED-CT
+846761000000109,Aneurysm Of Needle Site Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+180273006,Removal Of Chronic Ambulatory Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+233495009,Exploration Of Arteriovenous Fistula (Procedure),SNOMED-CT
+233482004,Procedure On Intraluminal Device Of Arteriovenous Fistula (Procedure),SNOMED-CT
+233592005,Plasma Filtration (Procedure),SNOMED-CT
+236138007,Xenograft Renal Transplant (Procedure),SNOMED-CT
+233581009,Hemofiltration (Procedure),SNOMED-CT
+236576005,Acute Rejection Of Renal Transplant - Grade Ii (Disorder),SNOMED-CT
+238315007,Adjustment Of Chronic Ambulatory Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+865781000000101,Infection Of Dialysis Vascular Access (Disorder),SNOMED-CT
+216932003,Failure Of Sterile Precautions During Perfusion (Event),SNOMED-CT
+233491000,Banding Of Arteriovenous Fistula (Procedure),SNOMED-CT
+843691000000100,Urological Complication Of Renal Transplant (Disorder),SNOMED-CT
+427053002,Extracorporeal Albumin Hemodialysis (Procedure),SNOMED-CT
+233585000,Continuous Venovenous Hemofiltration (Procedure),SNOMED-CT
+236584009,Perfusion Injury Of Renal Transplant (Disorder),SNOMED-CT
+872481000000106,Stenosis Of Venous Side Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+233483009,Insertion Of Intraluminal Device Into Arteriovenous Fistula (Procedure),SNOMED-CT
+216878005,"Accidental Cut, Puncture, Perforation Or Hemorrhage During Kidney Dialysis (Disorder)",SNOMED-CT
+182753006,Intestinal Dialysis (Procedure),SNOMED-CT
+70536003,Transplant Of Kidney (Procedure),SNOMED-CT
+302497006,Hemodialysis (Procedure),SNOMED-CT
+180277007,Insertion Of Temporary Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+233476002,Angioplasty Of Arteriovenous Fistula (Procedure),SNOMED-CT
+866041000000104,Occlusion Of Dialysis Arteriovenous Graft (Disorder),SNOMED-CT
+236578006,Chronic Rejection Of Renal Transplant (Disorder),SNOMED-CT
+233496005,Exploration Of Arteriovenous Graft (Procedure),SNOMED-CT
+175873005,Declotting Of Thigh Vein Loop (Procedure),SNOMED-CT
+865981000000103,Thrombosis Of Dialysis Arteriovenous Graft (Disorder),SNOMED-CT
+866061000000103,Occlusion Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+233587008,Intermittent Hemodiafiltration (Procedure),SNOMED-CT
+233484003,Insertion Of Stent Into Arteriovenous Fistula (Procedure),SNOMED-CT
+182750009,Ultrafiltration (Procedure),SNOMED-CT
+236546003,Aluminum Intoxication (Disorder),SNOMED-CT
+236552002,Adynamic Bone Disease (Disorder),SNOMED-CT
+161665007,History Of Renal Transplant (Situation),SNOMED-CT
+236588007,Transplant Glomerulopathy - Early Form (Disorder),SNOMED-CT
+238314006,Renewal Of Chronic Ambulatory Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+236549005,Aluminum-Related Fracturing Osteodystrophy (Disorder),SNOMED-CT
+105502003,Dependence On Renal Dialysis (Finding),SNOMED-CT
+236556004,Bloodstained Peritoneal Dialysis Effluent (Disorder),SNOMED-CT
+238321006,Intermittent Peritoneal Dialysis (Procedure),SNOMED-CT
+846731000000104,Aneurysm Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+238322004,Tidal Peritoneal Dialysis (Procedure),SNOMED-CT
+438546008,Ligation Of Arteriovenous Dialysis Fistula (Procedure),SNOMED-CT
+225230008,Chronic Peritoneal Dialysis (Procedure),SNOMED-CT
+180272001,Insertion Of Chronic Ambulatory Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+265763003,Compensation For Renal Failure (Procedure),SNOMED-CT
+27929005,Arteriovenous Fistulization (Procedure),SNOMED-CT
+233575001,Intermittent Hemodialysis (Procedure),SNOMED-CT
+32599008,Hemodialysis-Associated Amyloidosis (Disorder),SNOMED-CT
+175779004,Attention To Arteriovenous Shunt (Procedure),SNOMED-CT
+233579007,Continuous Arteriovenous Hemodialysis (Procedure),SNOMED-CT
+846671000000106,Aneurysm Of Superficialised Artery Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+238319001,Continuous Cycling Peritoneal Dialysis (Procedure),SNOMED-CT
+269698004,Mechanical Failure Of Instrument Or Apparatus During Kidney Dialysis (Event),SNOMED-CT
+225231007,Stab Peritoneal Dialysis (Procedure),SNOMED-CT
+236436003,End Stage Renal Failure With Renal Transplant (Disorder),SNOMED-CT
+867011000000102,Haemorrhage Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+865761000000105,Occlusion Of Dialysis Vascular Access (Disorder),SNOMED-CT
+175777002,Insertion Of Arteriovenous Prosthesis (Procedure),SNOMED-CT
+236548002,Aluminum-Related Osteomalacia (Disorder),SNOMED-CT
+711411006,Allotransplantation Of Kidney From Beating Heart Cadaver (Procedure),SNOMED-CT
+236563004,Migration Of Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+108241001,Dialysis Procedure (Procedure),SNOMED-CT
+233480007,Embolectomy Of Arteriovenous Fistula (Procedure),SNOMED-CT
+236583003,Failed Renal Transplant (Disorder),SNOMED-CT
+847881000000107,Stenosis Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+430332005,Infection Of Arteriovenous Graft For Hemodialysis (Disorder),SNOMED-CT
+852981000000100,Aneurysm Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+233477006,Thrombolysis Of Arteriovenous Fistula (Procedure),SNOMED-CT
+864271000000105,Thrombosis Of Artery Of Transplanted Kidney (Disorder),SNOMED-CT
+846461000000102,Ruptured Aneurysm Of Dialysis Vascular Access (Disorder),SNOMED-CT
+233481006,Embolectomy Of Arteriovenous Graft (Procedure),SNOMED-CT
+866001000000102,Thrombosis Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+236577001,Acute Rejection Of Renal Transplant - Grade Iii (Disorder),SNOMED-CT
+277011002,Pre-Existing Disease In Renal Transplant (Disorder),SNOMED-CT
+847811000000100,Rupture Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+175780001,Removal Of Infected Arteriovenous Shunt (Procedure),SNOMED-CT
+233582002,Intermittent Hemofiltration (Procedure),SNOMED-CT
+282348002,Acquired Renal Arteriovenous Fistula (Disorder),SNOMED-CT
+438548009,Ligation Of Arteriovenous Dialysis Graft (Procedure),SNOMED-CT
+867051000000103,Rupture Of Dialysis Arteriovenous Graft (Disorder),SNOMED-CT
+711413009,Allotransplantation Of Kidney From Non-Beating Heart Cadaver (Procedure),SNOMED-CT
+236539007,First Use Syndrome Of Dialysis (Disorder),SNOMED-CT
+236580000,Chronic Rejection Of Renal Transplant - Grade Ii (Disorder),SNOMED-CT
+82801007,Removal Of Arteriovenous Shunt Device (Procedure),SNOMED-CT
+271418008,Chronic Ambulatory Peritoneal Dialysis Catheter Procedure (Procedure),SNOMED-CT
+88351001,Hypercalcemia Associated With Chronic Dialysis (Disorder),SNOMED-CT
+251859005,Dialysis Finding (Finding),SNOMED-CT
+175788008,Ligation Of Acquired Arteriovenous Fistula (Procedure),SNOMED-CT
+236543006,Beta-2 Microglobulin Arthropathy (Disorder),SNOMED-CT
+233468004,Creation Of Cimino Fistula (Procedure),SNOMED-CT
+236575009,Acute Rejection Of Renal Transplant - Grade I (Disorder),SNOMED-CT
+236555000,Pain During Outflow Of Dialysate (Disorder),SNOMED-CT
+427992007,Removal Of Thrombus Of Arteriovenous Fistula (Procedure),SNOMED-CT
+233485002,Removal Of Intraluminal Device From Arteriovenous Fistula (Procedure),SNOMED-CT
+865841000000102,Stenosis Of Dialysis Arteriovenous Graft (Disorder),SNOMED-CT
+236435004,End Stage Renal Failure On Dialysis (Disorder),SNOMED-CT
+233478001,Thrombolysis Of Arteriovenous Graft (Procedure),SNOMED-CT
+872461000000102,Stenosis Of Arterial Side Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+238323009,Night-Time Intermittent Peritoneal Dialysis (Procedure),SNOMED-CT
+276998004,Percutaneous Thrombolysis Of Arteriovenous Fistula (Procedure),SNOMED-CT
+236557008,Peritoneal Dialysis Catheter Exit Site Infection (Disorder),SNOMED-CT
+236573002,Very Mild Acute Rejection Of Renal Transplant (Disorder),SNOMED-CT
+265538001,Repair Of Acquired Arteriovenous Fistula (Procedure),SNOMED-CT
+865801000000100,Haemorrhage Of Dialysis Vascular Access (Disorder),SNOMED-CT
+236540009,Anaphylactoid Reaction To Dialysis (Disorder),SNOMED-CT
+854131000000107,Thrombus In Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+854161000000102,Anaphylactoid Reaction Due To Haemodialysis (Disorder),SNOMED-CT
+236569000,Primary Non-Function Of Renal Transplant (Disorder),SNOMED-CT
+33461007,Complication Of Peritoneal Dialysis (Disorder),SNOMED-CT
+238317004,Flushing Of Chronic Ambulatory Peritoneal Dialysis Catheter (Procedure),SNOMED-CT
+233590002,Continuous Venovenous Hemodiafiltration (Procedure),SNOMED-CT
+276897008,Percutaneous Balloon Angioplasty Of Arteriovenous Fistula (Procedure),SNOMED-CT
+846801000000104,Aneurysm Of Anastomotic Site Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+233487005,Adjustment Of Intraluminal Device Of Arteriovenous Fistula (Procedure),SNOMED-CT
+236544000,Matrix Stone Formation Of Dialysis (Disorder),SNOMED-CT
+236574008,Acute Rejection Of Renal Transplant (Disorder),SNOMED-CT
+236559006,Loss Of Ultrafiltration (Disorder),SNOMED-CT
+236547007,Aluminum Bone Disease (Disorder),SNOMED-CT
+236561002,Disorder Of Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+233589006,Continuous Arteriovenous Hemodiafiltration (Procedure),SNOMED-CT
+175902000,Cadaveric Renal Transplant (Procedure),SNOMED-CT
+233584001,Continuous Arteriovenous Hemofiltration (Procedure),SNOMED-CT
+853651000000105,Thrombosis Of Dialysis Vascular Access (Disorder),SNOMED-CT
+236581001,Chronic Rejection Of Renal Transplant - Grade Iii (Disorder),SNOMED-CT
+426340003,Creation Of Graft Fistula For Dialysis (Procedure),SNOMED-CT
+313030004,Donor Renal Transplantation (Procedure),SNOMED-CT
+233486001,Removal Of Stent From Arteriovenous Fistula (Procedure),SNOMED-CT
+853631000000103,Stenosis Of Dialysis Vascular Access (Disorder),SNOMED-CT
+236614007,Perirenal And Periureteric Post-Transplant Lymphocele (Disorder),SNOMED-CT
+449288005,Infection Of Arteriovenous Fistula For Hemodialysis (Disorder),SNOMED-CT
+236542001,Long-Term Disorder Of Dialysis (Disorder),SNOMED-CT
+236554001,Pain During Inflow Of Dialysate (Disorder),SNOMED-CT
+233588003,Continuous Hemodiafiltration (Procedure),SNOMED-CT
+853021000000108,Aneurysm Of Artery Of Transplanted Kidney (Disorder),SNOMED-CT
+236582008,Acute-On-Chronic Rejection Of Renal Transplant (Disorder),SNOMED-CT
+236587002,Transplant Glomerulopathy (Disorder),SNOMED-CT
+236434000,End Stage Renal Failure Untreated By Renal Replacement Therapy (Disorder),SNOMED-CT
+866021000000106,Thrombosis Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+866081000000107,Occlusion Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+265764009,Renal Dialysis (Procedure),SNOMED-CT
+236550005,Polyserositis Syndrome Of Dialysis (Disorder),SNOMED-CT
+236560001,Loss Of Solute Clearance (Disorder),SNOMED-CT
+236572007,Accelerated Rejection Of Renal Transplant (Disorder),SNOMED-CT
+277010001,Unexplained Episode Of Renal Transplant Dysfunction (Disorder),SNOMED-CT
+129214009,Acquired Arteriovenous Fistula (Morphologic Abnormality),SNOMED-CT
+233586004,Hemodiafiltration (Procedure),SNOMED-CT
+429451003,Disorder Related To Renal Transplantation (Disorder),SNOMED-CT
+46177005,End-Stage Renal Disease (Disorder),SNOMED-CT
+699235009,Continuous Ambulatory Peritoneal Dialysis Associated Peritonitis (Disorder),SNOMED-CT
+233488000,Adjustment Of Arteriovenous Fistula Stent (Procedure),SNOMED-CT
+867031000000105,Haemorrhage Of Dialysis Arteriovenous Shunt (Disorder),SNOMED-CT
+428648006,Automated Peritoneal Dialysis (Procedure),SNOMED-CT
+236541008,Hyperchloremic Acidosis Associated With Dialysis (Disorder),SNOMED-CT
+715743002,Emergency Hemofiltration (Procedure),SNOMED-CT
+708931003,Maintenance Hemodialysis (Procedure),SNOMED-CT
+381000124105,Increase Dialyzer Size For Hemodialysis (Procedure),SNOMED-CT
+765479007,Allotransplantation Of Right Kidney (Procedure),SNOMED-CT
+73257006,Peritoneal Dialysis Catheter Maintenance (Procedure),SNOMED-CT
+233595007,Intravenous Gas Exchange (Procedure),SNOMED-CT
+473397008,Dialysis Catheter In Situ Usable (Finding),SNOMED-CT
+405331002,Creation Of Upper Limb Arteriovenous Fistula (Procedure),SNOMED-CT
+57274006,Initial Hemodialysis (Procedure),SNOMED-CT
+68341005,"Hemodialysis, Supervision At Home (Procedure)",SNOMED-CT
+233574002,Extracorporeal Carbon Dioxide Removal (Procedure),SNOMED-CT
+708933000,Emergency Hemodiafiltration (Procedure),SNOMED-CT
+443143006,Dependence On Hemodialysis (Finding),SNOMED-CT
+300478000,Finding Of Measures Of Dialysis (Finding),SNOMED-CT
+699070001,Repair Of Acquired Femoral Arteriovenous Fistula (Procedure),SNOMED-CT
+431873008,Peritonitis Due To Infected Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+331000124109,Hemodialysis Finding (Finding),SNOMED-CT
+405419000,Creation Of Lower Limb Arteriovenous Fistula (Procedure),SNOMED-CT
+698074000,Sustained Low-Efficiency Dialysis (Procedure),SNOMED-CT
+14130001000004104,Aquapheresis (Procedure),SNOMED-CT
+719501003,Ultrafiltration Failure (Disorder),SNOMED-CT
+676002,Peritoneal Dialysis Including Cannulation (Procedure),SNOMED-CT
+11000771000119104,Dependence On Continuous Cycling Peritoneal Dialysis (Finding),SNOMED-CT
+14684005,Peritoneal Dialysis Excluding Cannulation (Procedure),SNOMED-CT
+11932001,Stabilizing Hemodialysis (Procedure),SNOMED-CT
+704667004,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis (Disorder),SNOMED-CT
+765478004,Allotransplantation Of Left Kidney (Procedure),SNOMED-CT
+621000124102,Non-Compliance With Analysis Of Peritoneal Dialysate (Finding),SNOMED-CT
+90791000119104,End Stage Renal Disease On Dialysis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+704308002,Difficulty Managing Peritoneal Dialysis (Finding),SNOMED-CT
+708930002,Maintenance Hemodiafiltration (Procedure),SNOMED-CT
+90771000119100,End Stage Renal Disease On Dialysis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+233573008,Extracorporeal Membrane Oxygenation (Procedure),SNOMED-CT
+429075005,Dependence On Dialysis Due To End Stage Renal Disease (Finding),SNOMED-CT
+127991000119101,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+461000124106,Increase In Hemodialysis Dialyzer Size (Finding),SNOMED-CT
+844011000000103,Arteriovenous Extracorporeal Carbon Dioxide Removal (Procedure),SNOMED-CT
+251869004,Adequacy Of Hemodialysis (Finding),SNOMED-CT
+442326005,Cloudy Peritoneal Dialysis Effluent (Finding),SNOMED-CT
+440597004,Obstruction Of Peritoneal Dialysis Catheter By Fibrin Formation (Disorder),SNOMED-CT
+431000124102,Hemodialysis Access Site Non-Patent (Finding),SNOMED-CT
+341000124104,Peritoneal Dialysis Finding (Finding),SNOMED-CT
+444887005,Inadequate Flow To Support Prescribed Dialysis Blood Flow (Finding),SNOMED-CT
+702635003,Inadequate Hemodialysis (Disorder),SNOMED-CT
+78922001,Repair Of Acquired Or Traumatic Arteriovenous Fistula Of Extremity (Procedure),SNOMED-CT
+34897002,"Hemodialysis, Maintenance In Hospital (Procedure)",SNOMED-CT
+232999000,Insertion Of Valve Into Vena Cava (Procedure),SNOMED-CT
+3257008,Empty And Measure Peritoneal Dialysis Fluid (Procedure),SNOMED-CT
+451000124109,Increase In Hemodialysis Blood Flow (Finding),SNOMED-CT
+571000124100,Requires Additional Education About Peritoneal Dialysis (Finding),SNOMED-CT
+581000124102,Complies With Collection Of Peritoneal Dialysate Specimen (Finding),SNOMED-CT
+233572003,Extracorporeal Gas Exchange (Procedure),SNOMED-CT
+251285001,Extracorporeal Gas Exchange Finding (Finding),SNOMED-CT
+473193004,Mode Of Dialysis Access By Patient Choice (Finding),SNOMED-CT
+428937001,Dependence On Peritoneal Dialysis Due To End Stage Renal Disease (Finding),SNOMED-CT
+471000124104,Increase In Hemodialysis Session Time (Finding),SNOMED-CT
+611000124105,Non-Compliance With Collection Of Peritoneal Dialysate Specimen (Finding),SNOMED-CT
+601000124107,Inadequate Monitoring Of Dose Delivery Of Peritoneal Dialysis (Finding),SNOMED-CT
+443596009,Dependence On Peritoneal Dialysis (Finding),SNOMED-CT
+175899003,Autotransplantation Of Kidney (Procedure),SNOMED-CT
+213150003,Kidney Transplant Failure And Rejection (Disorder),SNOMED-CT
+591000124104,Complies With Analysis Of Peritoneal Dialysate (Finding),SNOMED-CT
+341939001,Extracorporeal Hemofiltration (Procedure),SNOMED-CT
+708934006,Maintenance Hemofiltration (Procedure),SNOMED-CT
+182749009,Extracorporeal Blood Irradiation (Procedure),SNOMED-CT
+365399009,Finding Of Adequacy Of Dialysis (Finding),SNOMED-CT
+473398003,Dialysis Catheter In Situ Unusable (Finding),SNOMED-CT
+125141000119102,Non-Compliance With Renal Dialysis (Finding),SNOMED-CT
+286371000119107,Malignant Hypertensive End Stage Renal Disease On Dialysis (Disorder),SNOMED-CT
+708932005,Emergency Hemodialysis (Procedure),SNOMED-CT
+11000731000119102,Dependence On Continuous Ambulatory Peritoneal Dialysis (Finding),SNOMED-CT
+128001000119105,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+428982002,Dependence On Hemodialysis Due To End Stage Renal Disease (Finding),SNOMED-CT
+406168002,Dialysis Access Maintenance (Regime/Therapy),SNOMED-CT
+67970008,"Hemodialysis, Maintenance At Home (Procedure)",SNOMED-CT
+702634004,Inadequate Peritoneal Dialysis (Disorder),SNOMED-CT
+441000124107,Hemodialysis Access Site Patent (Finding),SNOMED-CT
+714749008,Continuous Renal Replacement Therapy (Procedure),SNOMED-CT
+855161000000103,Beta-2 Microglobulin Amyloidosis,SNOMED-CT
+866011000000100,Thrombosis Of Dialysis Arteriovenous Fistula,SNOMED-CT
+266901000000105,Haemofiltration,SNOMED-CT
+844671000000102,Vascular Complication Of Renal Transplant,SNOMED-CT
+366961000000102,Renal Transplant Recipient (Finding),SNOMED-CT
+856221000000106,Aneurysm Of Needle Site Of Dialysis Arteriovenous Fistula,SNOMED-CT
+260981000000102,Banding Of Arteriovenous Fistula,SNOMED-CT
+244811000000102,Allotransplantation Of Kidney From Cadaver Nec (Procedure),SNOMED-CT
+523481000000103,Dialysis Catheter In Situ Unusable (Finding),SNOMED-CT
+857581000000107,Bloodstained Peritoneal Dialysis Effluent,SNOMED-CT
+316054003,[V]Kidney Transplanted (Situation),SNOMED-CT
+866741000000102,Infection Of Dialysis Arteriovenous Graft (Disorder),SNOMED-CT
+856931000000103,Unexplained Episode Of Renal Transplant Dysfunction,SNOMED-CT
+1050711000000105,Dependence On Renal Dialysis,SNOMED-CT
+834931000000108,Accelerated Rejection Of Renal Transplant,SNOMED-CT
+467521000000106,[X]Other Dialysis (Context-Dependent Category),SNOMED-CT
+219601000000106,End Stage Renal Disease,SNOMED-CT
+622431000000104,Other Specified Transplantation Of Kidney (Procedure),SNOMED-CT
+236568008,Renal Transplant Disorder (Disorder),SNOMED-CT
+523471000000100,Dialysis Catheter In Situ Usable (Finding),SNOMED-CT
+327751000000105,Fluoroscopy Guided Percutaneous Thrombolysis Of Dialysis Fistula (Procedure),SNOMED-CT
+225371000000104,Creation Of Graft Fistula For Dialysis (Procedure),SNOMED-CT
+856201000000102,Aneurysm Of Superficialised Artery Of Dialysis Arteriovenous Fistula,SNOMED-CT
+847891000000109,Stenosis Of Vein Of Transplanted Kidney,SNOMED-CT
+640091000000107,Other Specified Compensation For Renal Failure (Procedure),SNOMED-CT
+404471000000102,[X]Failure Of Sterile Precautions During Kidney Dialysis Or Other Perfusion (Finding),SNOMED-CT
+856191000000104,Ruptured Aneurysm Of Dialysis Vascular Access,SNOMED-CT
+364571000000105,Leakage Of Peritoneal Dialysate Into Subcutaneous Tissue Of Abdominal Wall (Disorder),SNOMED-CT
+866051000000101,Occlusion Of Dialysis Arteriovenous Graft,SNOMED-CT
+866961000000104,Infection Of Dialysis Arteriovenous Shunt,SNOMED-CT
+853661000000108,Thrombosis Of Dialysis Vascular Access,SNOMED-CT
+876311000000107,Percutaneous Balloon Angioplasty Of Arteriovenous Fistula,SNOMED-CT
+855901000000104,Thrombus In Peritoneal Dialysis Catheter,SNOMED-CT
+780091000000107,Flushing Of Chronic Ambulatory Peritoneal Dialysis Catheter,SNOMED-CT
+865851000000104,Stenosis Of Dialysis Arteriovenous Graft,SNOMED-CT
+843701000000100,Urological Complication Of Renal Transplant,SNOMED-CT
+398481000000100,[V]Preparatory Care For Dialysis (Situation),SNOMED-CT
+640081000000105,Hemodialysis Nec (Procedure),SNOMED-CT
+853641000000107,Stenosis Of Dialysis Vascular Access,SNOMED-CT
+866761000000101,Infection Of Dialysis Arteriovenous Fistula (Disorder),SNOMED-CT
+342071000000104,Ligation Of Arteriovenous Dialysis Fistula (Procedure),SNOMED-CT
+640141000000101,Placement Of Other Apparatus For Compensation For Renal Failure (Procedure),SNOMED-CT
+864281000000107,Thrombosis Of Artery Of Transplanted Kidney,SNOMED-CT
+233181000000101,Peritoneal Dialysis Nec (Procedure),SNOMED-CT
+864321000000104,Thrombosis Of Vein Of Transplanted Kidney,SNOMED-CT
+266921000000101,Continuous Ambulatory Peritoneal Dialysis,SNOMED-CT
+856691000000107,Chronic Rejection Of Renal Transplant - Grade 1,SNOMED-CT
+855271000000103,Very Mild Acute Rejection Of Renal Transplant,SNOMED-CT
+231691000000106,"Allotransplantation Of Kidney From Cadaver, Heart Non-Beating (Procedure)",SNOMED-CT
+231631000000105,Automated Peritoneal Dialysis (Procedure),SNOMED-CT
+399241000000100,[V]Kidney Transplanted (Context-Dependent Category),SNOMED-CT
+855091000000105,Aluminium-Related Fracturing Osteodystrophy,SNOMED-CT
+637691000000101,Placement Of Other Apparatus For Compensation For Renal Failure Nos (Procedure),SNOMED-CT
+261001000000101,Creation Of Graft Fistula For Dialysis,SNOMED-CT
+830901000000105,Acute Rejection Of Renal Transplant - Grade Iii,SNOMED-CT
+872491000000108,Stenosis Of Venous Side Of Dialysis Arteriovenous Shunt,SNOMED-CT
+364591000000109,Leakage Of Peritoneal Dialysate Into Pleural Cavity (Disorder),SNOMED-CT
+523461000000107,Patient Choice Of Dialysis Access (Finding),SNOMED-CT
+288004005,Kidney Replacement (Disorder),SNOMED-CT
+867061000000100,Rupture Of Dialysis Arteriovenous Graft,SNOMED-CT
+231721000000102,"Allotransplantation Of Kidney From Cadaver, Heart-Beating (Procedure)",SNOMED-CT
+866031000000108,Thrombosis Of Dialysis Arteriovenous Shunt,SNOMED-CT
+830871000000105,Acute-On-Chronic Rejection Of Renal Transplant,SNOMED-CT
+260991000000100,Thrombectomy Of Arteriovenous Fistula,SNOMED-CT
+643501000000102,Failure Of Sterile Precautions During Other Perfusion (Event),SNOMED-CT
+225441000000104,Thrombectomy Of Arteriovenous Fistula (Procedure),SNOMED-CT
+643511000000100,Failure Of Sterile Precautions During Perfusion Nos (Event),SNOMED-CT
+865871000000108,Stenosis Of Dialysis Arteriovenous Fistula,SNOMED-CT
+853031000000105,Aneurysm Of Artery Of Transplanted Kidney,SNOMED-CT
+855951000000103,Beta-2 Microglobulin Arthropathy,SNOMED-CT
+856211000000100,Aneurysm Of Dialysis Arteriovenous Fistula,SNOMED-CT
+637681000000103,Other Specified Placement Of Other Apparatus For Compensation For Renal Failure (Procedure),SNOMED-CT
+180268000,Hemodialysis Nec (Procedure),SNOMED-CT
+834961000000103,Hard Water Syndrome,SNOMED-CT
+426361000000104,[V]Unspecified Aftercare Involving Intermittent Dialysis (Situation),SNOMED-CT
+426351000000102,[V]Other Specified Aftercare Involving Intermittent Dialysis (Situation),SNOMED-CT
+410511000000103,[V]Aftercare Involving Extracorporeal Dialysis (Situation),SNOMED-CT
+855481000000100,Aluminium Intoxication,SNOMED-CT
+857241000000102,Xenograft Renal Transplant,SNOMED-CT
+856161000000105,Anaphylactoid Reaction Due To Haemodialysis,SNOMED-CT
+291421000000102,Extracorporeal Albumin Haemodialysis,SNOMED-CT
+856681000000105,Chronic Rejection Of Renal Transplant,SNOMED-CT
+856701000000107,Chronic Rejection Of Renal Transplant - Grade Ii,SNOMED-CT
+866751000000104,Infection Of Dialysis Arteriovenous Graft,SNOMED-CT
+698810000,Hypertensive Renal Disease With End Stage Renal Failure (Disorder),SNOMED-CT
+371181000000109,Ligation Of Arteriovenous Dialysis Fistula,SNOMED-CT
+236537009,Disorder Associated With Dialysis (Disorder),SNOMED-CT
+856231000000108,Aneurysm Of Anastomotic Site Of Dialysis Arteriovenous Fistula,SNOMED-CT
+847821000000106,Rupture Of Vein Of Transplanted Kidney,SNOMED-CT
+622441000000108,Transplantation Of Kidney Nos (Procedure),SNOMED-CT
+938461000000107,Dialysis Disequilibrium,SNOMED-CT
+866771000000108,Infection Of Dialysis Arteriovenous Fistula,SNOMED-CT
+261991000000109,"Allotransplantation Of Kidney From Cadaver, Heart Non-Beating",SNOMED-CT
+429211000000100,[X] Peritoneal Dialysis Associated Peritonitis (Disorder),SNOMED-CT
+261981000000107,"Allotransplantation Of Kidney From Cadaver, Heart-Beating",SNOMED-CT
+284451000000108,Extracorporeal Albumin Haemodialysis (Procedure),SNOMED-CT
+856711000000109,Chronic Rejection Of Renal Transplant - Grade Iii,SNOMED-CT
+855231000000100,Aneurysm Of Vein Of Transplanted Kidney,SNOMED-CT
+637641000000106,Compensation For Renal Failure Nos (Procedure),SNOMED-CT
+865791000000104,Infection Of Dialysis Vascular Access,SNOMED-CT
+438503005,Surgically Constructed Arteriovenous Fistula (Morphologic Abnormality),SNOMED-CT
+48994000,Renal Homotransplantation With Unilateral Recipient Nephrectomy (Situation),SNOMED-CT
+309819001,[X] Peritoneal Dialysis Associated Peritonitis (Disorder),SNOMED-CT
+938451000000109,Disorder Associated With Dialysis,SNOMED-CT
+640131000000105,Placement Of Ambulatory Apparatus For Compensation For Renal Failure Nos (Procedure),SNOMED-CT
+830931000000104,Acute Rejection Of Renal Transplant,SNOMED-CT
+266931000000104,Peritoneal Dialysis Nec,SNOMED-CT
+830881000000107,Acute Rejection Of Renal Transplant - Grade I,SNOMED-CT
+872471000000109,Stenosis Of Arterial Side Of Dialysis Arteriovenous Shunt,SNOMED-CT
+857311000000108,Renal Transplant Rejection,SNOMED-CT
+865811000000103,Haemorrhage Of Dialysis Vascular Access,SNOMED-CT
+236553007,Disorders Associated With Peritoneal Dialysis (Disorder),SNOMED-CT
+847801000000102,Rupture Of Artery Of Transplanted Kidney,SNOMED-CT
+866071000000105,Occlusion Of Dialysis Arteriovenous Fistula,SNOMED-CT
+266911000000107,Automated Peritoneal Dialysis,SNOMED-CT
+855521000000100,Aluminium-Related Osteomalacia,SNOMED-CT
+867001000000104,Haemorrhage Of Dialysis Arteriovenous Graft,SNOMED-CT
+364701000000105,Malposition Of Peritoneal Dialysis Catheter (Disorder),SNOMED-CT
+866091000000109,Occlusion Of Dialysis Arteriovenous Shunt,SNOMED-CT
+867041000000101,Haemorrhage Of Dialysis Arteriovenous Shunt,SNOMED-CT
+371191000000106,Ligation Of Arteriovenous Dialysis Graft,SNOMED-CT
+857631000000109,Adynamic Bone Disease,SNOMED-CT
+267261000000102,Extracorporeal Membrane Oxygenation,SNOMED-CT
+525981000000106,Continuous Ambulatory Peritoneal Dialysis Associated Peritonitis (Disorder),SNOMED-CT
+855861000000106,First Use Syndrome Of Dialysis,SNOMED-CT
+342221000000108,Ligation Of Arteriovenous Dialysis Graft (Procedure),SNOMED-CT
+830891000000109,Acute Rejection Of Renal Transplant - Grade Ii,SNOMED-CT
+223178003,[X]Failure Of Sterile Precautions During Kidney Dialysis Or Other Perfusion (Disorder),SNOMED-CT
+398471000000102,[V]Aftercare Involving Intermittent Dialysis (Situation),SNOMED-CT
+637661000000107,Other Specified Placement Of Ambulatory Apparatus For Compensation For Renal Failure (Procedure),SNOMED-CT
+857571000000105,Disorders Associated With Peritoneal Dialysis,SNOMED-CT
+867021000000108,Haemorrhage Of Dialysis Arteriovenous Fistula,SNOMED-CT
+523491000000101,Inadequate Dialysis Blood Flow (Finding),SNOMED-CT
+706901000000104,Continuous Ambulatory Peritoneal Dialysis Associated Peritonitis,SNOMED-CT
+310435001,Perfusion And Dialysis Finding (Finding),SNOMED-CT
+865991000000101,Thrombosis Of Dialysis Arteriovenous Fistula,SNOMED-CT
+865771000000103,Occlusion Of Dialysis Vascular Access,SNOMED-CT

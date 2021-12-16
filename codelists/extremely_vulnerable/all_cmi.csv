@@ -1,0 +1,152 @@
+code,description,type
+Ua14c,Patient Immunocompromised,CTV3
+Ua19z,Patient Immunosuppressed,CTV3
+5141.,Radiotherapy For Immunosuppression,CTV3
+XaM6J,High Cost Immunosuppressant Drugs,CTV3
+XaM6P,High Cost Immunosuppressant Drugs Nos,CTV3
+XaXUJ,Immunosuppressant Drug Therapy,CTV3
+Xa97S,Immunosuppressive Therapy,CTV3
+BBmC.,[M] T-Gamma Lymphoproliferative Disease,CTV3
+XE11D,Other Specified Disturbance Of Amino Acid Metabolism,CTV3
+X40Ua,Adenosine Deaminase Deficiency,CTV3
+C391.,Deficiencies Of Cell-Mediated Immunity,CTV3
+XE11w,Predominantly T-Cell Immuno-Deficiency Nos,CTV3
+XM0BW,Predominantly T-Cell Defect,CTV3
+XM0BW,Cell-Mediated Immune Deficiency,CTV3
+X20HE,T-Lymphocyte Deficiency,CTV3
+C3911,Digeorge Syndrome,CTV3
+C3912,Wiskott-Aldrich Syndrome,CTV3
+C3912,Wiskott-Aldrich Syndrome,CTV3
+C3912,Aldrich Syndrome,CTV3
+C392.,Combined T-Cell And B-Cell Immunodeficiency,CTV3
+C392.,Severe Combined Immunodeficiency,CTV3
+C392.,Severe Combined Immunodeficiency,CTV3
+X20HJ,X-Linked Severe Combined Immunodeficiency,CTV3
+X20HJ,Agammaglobulinaemia - Swiss Type,CTV3
+C3923,Severe Combined Immunodefiency With Reticular Dysgenesis,CTV3
+C3924,Severe Combined Immunodeficiency With Low T- And B-Cell Numbers,CTV3
+C3925,Severe Combined Immunodeficiency With Low Or Normal B-Cell Numbers,CTV3
+X40Ua,Adenosine Deaminase Deficiency,CTV3
+X40Uc,Purine Nucleoside Phosphorylase Deficiency,CTV3
+C3928,Major Histocompatibility Complex Class I Deficiency,CTV3
+C3929,Major Histocompatibility Complex Class Ii Deficiency,CTV3
+C392z,Combined Immunity Deficiency Nos,CTV3
+C393.,Unspecified Immunity Deficiency,CTV3
+X20HK,Immunodeficiency With Short-Limbed Stature,CTV3
+C396.,Immunodeficiency Following Hereditary Defective Response To Epstein-Barr Virus,CTV3
+Cyu03,"[X]Immunodeficiency Associated With Major Defect, Unspecified",CTV3
+C39y0,Lymphocyte Function Antigen-1 Defect,CTV3
+Cyu05,[X]Other Specified Immunodeficiency Disorders,CTV3
+D2015,Pancytopenia - Acquired,CTV3
+XE13v,Pancytopenia Nos,CTV3
+XE13v,Pancytopenia Nos,CTV3
+X20CO,Pancytopenia With Pancreatitis,CTV3
+X20HM,Familial Erythrophagocytic Lymphohistiocytosis,CTV3
+X20HM,Familial Erythrophagocytic Lymphohistiocytosis,CTV3
+X20HM,Fel - Familial Erythrophagocytic Lymphohistiocytosis,CTV3
+F14y0,Ataxia Telangiectasia,CTV3
+F14y0,Ataxia Telangiectasia,CTV3
+F14y0,Louis-Bar Syndrome,CTV3
+XE1oM,Antineoplastic And Immunosuppressive Poisoning,CTV3
+Xa4rU,Antineoplastic Poisoning,CTV3
+XE1oM,Immunosuppressive Poisoning,CTV3
+U6034,[X]Immunosuppressive Agents Causing Adverse Effects In Therapeutic Use,CTV3
+TJ31R,Adverse Reaction To Antilymphocyte Immunoglobulin,CTV3
+U6034,[X]Immunosuppressive Agents Causing Adverse Effects In Therapeutic Use,CTV3
+TJ31Q,Adverse Reaction To Azathioprine,CTV3
+U6034,[X]Immunosuppressive Agents Causing Adverse Effects In Therapeutic Use,CTV3
+TJ31S,Adverse Reaction To Ciclosporin,CTV3
+U6034,[X]Immunosuppressive Agents Causing Adverse Effects In Therapeutic Use,CTV3
+D81,Combined Immunodeficiencies,ICD-10
+D810,Severe Combined Immunodeficiency [Scid] With Reticular Dysgenesis,ICD-10
+D811,Severe Combined Immunodeficiency [Scid] With Low T- And B-Cell Numbers,ICD-10
+D812,Severe Combined Immunodeficiency [Scid] With Low Or Normal B-Cell Numbers,ICD-10
+D813,Adenosine Deaminase [Ada] Deficiency,ICD-10
+D814,Nezelof Syndrome,ICD-10
+D815,Purine Nucleoside Phosphorylase [Pnp] Deficiency,ICD-10
+D816,Major Histocompatibility Complex Class I Deficiency,ICD-10
+D817,Major Histocompatibility Complex Class Ii Deficiency,ICD-10
+D818,Other Combined Immunodeficiencies,ICD-10
+D819,"Combined Immunodeficiency, Unspecified",ICD-10
+D82,Immunodeficiency Associated With Other Major Defects,ICD-10
+D820,Wiskott-Aldrich Syndrome,ICD-10
+D821,Di George Syndrome,ICD-10
+D822,Immunodeficiency With Short-Limbed Stature,ICD-10
+D823,Immunodeficiency Following Hereditary Defective Response To Epstein-Barr Virus,ICD-10
+D828,Immunodeficiency Associated With Other Specified Major Defects,ICD-10
+D829,"Immunodeficiency Associated With Major Defect, Unspecified",ICD-10
+D840,Lymphocyte Function Antigen-1 [Lfa-1] Defect,ICD-10
+D849,"Immunodeficiency, Unspecified",ICD-10
+D899,"Disorder Involving The Immune Mechanism, Unspecified",ICD-10
+E71,Disorders Of Branched-Chain Amino-Acid Metabolism And Fatty-Acid Metabolism,ICD-10
+E710,E71.0 Maple-Syrup-Urine Disease,ICD-10
+E711,E71.1 Other Disorders Of Branched-Chain Amino-Acid Metabolism,ICD-10
+E712,"E71.2 Disorder Of Branched-Chain Amino-Acid Metabolism, Unspecified",ICD-10
+E713,E71.3 Disorders Of Fatty-Acid Metabolism,ICD-10
+E722,Disorders Of Urea Cycle Metabolism,ICD-10
+E740,Glycogen Storage Disease,ICD-10
+E752,Other Sphingolipidosis,ICD-10
+E760,"Mucopolysaccharidosis, Type I",ICD-10
+E761,"Mucopolysaccharidosis, Type Ii",ICD-10
+E762,E76.2 Other Mucopolysaccharidoses,ICD-10
+E771,Defects In Glycoprotein Degradation,ICD-10
+G10,Huntington Disease,ICD-10
+G113,Cerebellar Ataxia With Defective Dna Repair,ICD-10
+G712,Congenital Myopathies,ICD-10
+I270,Primary Pulmonary Hypertension,ICD-10
+Q851,Tuberous Sclerosis,ICD-10
+Q859,"Phakomatosis, Unspecified",ICD-10
+Q878,"Other Specified Congenital Malformation Syndromes, Not Elsewhere Classified",ICD-10
+T451,Poisoning: Antineoplastic And Immunosuppressive Drugs,ICD-10
+5.96511e+14,Congenital Malformation Syndrome With Metabolic Disturbance Nos,SNOMED-CT
+6.38281e+14,Unspecified Immunity Deficiency (Disorder),SNOMED-CT
+69463008,Maroteaux - Lamy Syndrome,SNOMED-CT
+6.46631e+14,Disorder Of The Immune Mechanism Nos,SNOMED-CT
+699300009,Ofcd (Oculofaciocardiodental) Syndrome,SNOMED-CT
+5.19481e+14,Nephropathy Induced By Ciclosporin,SNOMED-CT
+6.65091e+14,Antineoplastic Or Immunosuppressive Poisoning Nos (Disorder),SNOMED-CT
+5.63131e+14,Multiple System Congenital Anomalies Nec,SNOMED-CT
+8.05241e+14,Marden-Walker Syndrome (Disorder),SNOMED-CT
+7.62641e+14,Adult-Onset Autosomal Dominant Leucodystrophy (Disorder),SNOMED-CT
+6.04411e+14,Other Specified Glycogenosis (Disorder),SNOMED-CT
+4.11411e+14,[X]Immunodeficiency Associated With Other Specified Major Defects (Disorder),SNOMED-CT
+3.93401e+14,[X]Primarily Systemic Agents Causing Adverse Effects In Therapeutic Use (Finding),SNOMED-CT
+7.50521e+14,Loeys-Dietz Syndrome (Disorder),SNOMED-CT
+448054001,Adult-Onset Adld (Autosomal Dominant Leucodystrophy),SNOMED-CT
+5.19491e+14,Nephropathy Induced By Tacrolimus,SNOMED-CT
+47535005,Charge Syndrome,SNOMED-CT
+378007,Morquio - Brailsford Disease,SNOMED-CT
+1.99461e+14,Moulded Baby Syndrome (Disorder),SNOMED-CT
+5.83051e+14,Leucodystrophy Nos (Disorder),SNOMED-CT
+6.04371e+14,Disturbance Of Urea Cycle Metabolism Nos (Disorder),SNOMED-CT
+6.73641e+14,Other Pulmonary Heart Disease (Disorder),SNOMED-CT
+8.98091e+14,Organic Aciduria,SNOMED-CT
+88393000,Sanfilippo's Syndrome,SNOMED-CT
+4.28201e+14,"[X]Other Specified Congenital Malformation Syndromes, Not Elsewhere Classified (Disorder)",SNOMED-CT
+6.89201e+14,Pulmonary Heart Disease Nos (Disorder),SNOMED-CT
+4.08721e+14,[X]Other Sphingolipidosis (Disorder),SNOMED-CT
+6.01731e+14,Other Specified Disturbance Of Urea Cycle Metabolism (Disorder),SNOMED-CT
+5.13071e+14,Nance-Horan Syndrome (Disorder),SNOMED-CT
+8.40451e+14,Acute Renal Failure Induced By Cyclosporin A (Disorder),SNOMED-CT
+6.54381e+14,Congenital Hereditary Muscular Dystrophy Nos,SNOMED-CT
+4.16311e+14,[X]Other Combined Immunodeficiency Disorders (Disorder),SNOMED-CT
+6.15711e+14,Glycogenosis Nos (Disorder),SNOMED-CT
+6.60551e+14,Hamartoses Nos (Disorder),SNOMED-CT
+4.67161e+14,"[X]Disorder Involving The Immune Mechanism, Unspecified",SNOMED-CT
+6.24251e+14,Other Specified Disturbance Of Branched Chain Amino Acid Metabolism (Disorder),SNOMED-CT
+8.76401e+14,Oculofaciocardiodental Syndrome (Disorder),SNOMED-CT
+4.13911e+14,[X]Other Disorders Of Branched Chain Amino Acid Metabolism (Disorder),SNOMED-CT
+49984004,Opitz-Kaveggia Syndrome,SNOMED-CT
+64716005,A-Fucosidase Deficiency,SNOMED-CT
+1.76591e+14,[X]Townes-Brocks Syndrome,SNOMED-CT
+6.60531e+14,Other Specified Hamartoses Nec (Disorder),SNOMED-CT
+6.79691e+14,Hereditary Thrombocytopenia Nec (Disorder),SNOMED-CT
+1.99671e+14,Lujan-Fryns Syndrome (Disorder),SNOMED-CT
+5.98401e+14,Other Specified Mucopolysaccharidosis,SNOMED-CT
+6.46621e+14,Combined Immunity Deficiency Nos (Disorder),SNOMED-CT
+4.05521e+14,[X]Immunosuppressive Agents Causing Adverse Effects In Therapeutic Use,SNOMED-CT
+5.48741e+14,Antineoplastic Antibiotic Poisoning Nos,SNOMED-CT
+3.45371e+14,Ct Guided Percutaneous Aspiration Of Abdomen,SNOMED-CT
+4.17921e+14,[X]Other Mucopolysaccharidoses (Disorder),SNOMED-CT
+4.11421e+14,"[X]Immunodeficiency Associated With Major Defect, Unspecified (Disorder)",SNOMED-CT
+6.24261e+14,Disturbance Of Branched Chain Amino Acid Metabolism Nos (Disorder),SNOMED-CT

@@ -1,0 +1,1423 @@
+code,description,type
+23E5.,O/E - Fibrosis Of Lung Present,CTV3
+663K.,Airways Obstructn Irreversible,CTV3
+7450.,Lung Transplant,CTV3
+7450y,Other Specified Transplantation Of Lung,CTV3
+7450z,Transplantation Of Lung Nos,CTV3
+A114.,Tuberculous Fibrosis Of Lung,CTV3
+A115.,Tuberculous Bronchiectasis,CTV3
+A7899,Hiv Disease Resulting In Lymphoid Interstitial Pneumonitis,CTV3
+AD52.,Sarcoidosis Of Lung With Sarcoidosis Of Lymph Nodes,CTV3
+C370.,Cystic Fibrosis,CTV3
+C370.,Cystic Fibrosis,CTV3
+C3700,Cystic Fibrosis With No Meconium Ileus,CTV3
+C3701,Meconium Ileus In Cystic Fibrosis,CTV3
+C3701,Meconium Ileus In Cystic Fibrosis,CTV3
+C3702,Cystic Fibrosis With Pulmonary Manifestations,CTV3
+C3703,Cystic Fibrosis With Intestinal Manifestations,CTV3
+C370z,Cystic Fibrosis Nos,CTV3
+H0614,Obliterating Fibrous Bronchiolitis,CTV3
+H3...,Chronic Obstructive Lung Disease,CTV3
+H3...,Chronic Obstructive Lung Disease,CTV3
+H31..,Chronic Bronchitis,CTV3
+H310.,Simple Chronic Bronchitis,CTV3
+H3100,Simple Chronic Bronchitis,CTV3
+H310z,Simple Chronic Bronchitis Nos,CTV3
+H311.,Mucopurulent Chronic Bronchitis,CTV3
+H3110,Purulent Chronic Bronchitis,CTV3
+H311z,Mucopurulent Chronic Bronchitis Nos,CTV3
+H3121,Emphysematous Bronchitis,CTV3
+H3122,Acute Exacerbation Of Chronic Obstructive Airways Disease,CTV3
+H312z,Obstructive Chronic Bronchitis Nos,CTV3
+H313.,Mixed Simple And Mucopurulent Chronic Bronchitis,CTV3
+H31y.,Other Chronic Bronchitis,CTV3
+H31y0,Chronic Tracheitis,CTV3
+H31y1,Chronic Tracheobronchitis,CTV3
+H31yz,Other Chronic Bronchitis Nos,CTV3
+H31z.,Chronic Bronchitis Nos,CTV3
+H32..,Emphysema,CTV3
+H320.,Chronic Bullous Emphysema,CTV3
+H3200,Segmental Bullous Emphysema,CTV3
+H3201,Zonal Bullous Emphysema,CTV3
+H3202,Giant Bullous Emphysema,CTV3
+H3203,(Bullous Emphysema With Collapse) Or (Tension Pneumatocoele),CTV3
+H320z,Chronic Bullous Emphysema Nos,CTV3
+H321.,Panlobular Emphysema,CTV3
+H322.,Centrilobular Emphysema,CTV3
+H32y.,Other Emphysema,CTV3
+H32y0,Acute Vesicular Emphysema,CTV3
+H32y1,Emphysema: [Acute Interstitial] Or [Atrophic - Senile],CTV3
+H32y2,Macleods Syndrome,CTV3
+H32y2,Macleods Syndrome,CTV3
+H32yz,(Sawyer-Jones Syndrome) Or (Other Emphysema Nos),CTV3
+H32z.,Emphysema Nos,CTV3
+H34..,Bronchiectasis,CTV3
+H340.,Recurrent Bronchiectasis,CTV3
+H341.,Post-Infective Bronchiectasis,CTV3
+H34z.,Bronchiectasis Nos,CTV3
+H35..,Extrinsic Allergic Alveolitis,CTV3
+H35..,Extrinsic Allergic Alveolitis,CTV3
+H350.,Farmers' Lung,CTV3
+H351.,Bagassosis,CTV3
+H352.,Bird-Fancier's Lung,CTV3
+H3520,Budgerigar-Fanciers' Lung,CTV3
+H3521,Pigeon-Fanciers' Lung,CTV3
+H352z,Bird-Fancier's Lung Nos,CTV3
+H353.,Cork-Handlers' Lung,CTV3
+H354.,Malt Workers' Lung,CTV3
+H355.,Mushroom Workers' Lung,CTV3
+H356.,Maple Bark Strippers' Lung,CTV3
+H357.,Ventilation Pneumonitis,CTV3
+H35y.,Other Allergic Alveolitis,CTV3
+H35y0,Cheese-Washers' Lung,CTV3
+H35y1,Coffee-Workers' Lung,CTV3
+H35y2,Fish-Meal Workers' Lung,CTV3
+H35y3,Furriers' Lung,CTV3
+H35y4,Grain-Handlers' Disease,CTV3
+H35y5,Pituitary Snuff-Takers' Disease,CTV3
+H35y6,Sequoiosis,CTV3
+H35y7,Wood Pulp Workers' Lung,CTV3
+H35y8,Air-Conditioner And Humidifier Lung,CTV3
+H35yz,Other Allergic Alveolitis Nos,CTV3
+H35z.,Allergic Alveolitis And Pneumonitis Nos,CTV3
+H35z0,Allergic Extrinsic Alveolitis Nos,CTV3
+H35z1,Hypersensitivity Pneumonitis Nos,CTV3
+H3y..,Other Specified Chronic Obstructive Airways Disease,CTV3
+H3y..,Other Specified Chronic Obstructive Airways Disease,CTV3
+H3y0.,Chronic Obstruct Pulmonary Dis With Acute Lower Resp Infectn,CTV3
+H3y1.,"Chron Obstruct Pulmonary Dis Wth Acute Exacerbation, Unspec",CTV3
+H3z..,Chronic Obstructive Airways Disease Nos,CTV3
+H3z..,Chronic Obstructive Airways Disease Nos,CTV3
+H4...,Lung Dis: [Pneumoconioses] Or [Occup] Or [Due Extern Agent],CTV3
+H40..,Coal Workers' Pneumoconiosis,CTV3
+H41..,Asbestos Pneumoconiosis,CTV3
+H41z.,Asbestosis Nos,CTV3
+H42..,Silicosis,CTV3
+H420.,Talc Pneumoconiosis,CTV3
+H421.,Simple Silicosis,CTV3
+H422.,Complicated Silicosis,CTV3
+H423.,Massive Silicotic Fibrosis,CTV3
+H42z.,Silica Pneumoconiosis Nos,CTV3
+H43..,Pneumoconiosis Due To Other Inorganic Dust,CTV3
+H430.,Aluminium Lung,CTV3
+H431.,Bauxite Pneumoconiosis,CTV3
+H432.,Berylliosis,CTV3
+H433.,Graphite Pneumoconiosis,CTV3
+H434.,Iron Pneumoconiosis,CTV3
+H435.,Tin Pneumoconiosis,CTV3
+H43z.,Pneumoconiosis Due To Inorganic Dust Nos,CTV3
+H44..,Pneumopathy Due To Inhalation Of Other Dust,CTV3
+H440.,Byssinosis,CTV3
+H441.,Cannabinosis,CTV3
+H44z.,Pneumopathy Due To Inhalation Of Other Dust Nos,CTV3
+H45..,Pneumoconiosis Nos,CTV3
+H450.,Pneumoconiosis Associated With Tuberculosis,CTV3
+H460.,Bronchitis And Pneumonitis Due To Chemical Fumes,CTV3
+H4601,Acute Pneumonitis Due To Chemical Fumes,CTV3
+H460z,Bronchitis And Pneumonitis Due To Chemical Fumes Nos,CTV3
+H464.,Chronic Respiratory Conditions Due To Chemical Fumes,CTV3
+H4640,Chronic Emphysema Due To Chemical Fumes,CTV3
+H4641,Toxic Bronchiolitis Obliterans,CTV3
+H4642,Chronic Pulmonary Fibrosis Due To Chemical Fumes,CTV3
+H464z,Chronic Respiratory Conditions Due To Chemical Fumes Nos,CTV3
+H46z0,Silo-Fillers' Disease,CTV3
+H47..,Aspiration Pneumonitis,CTV3
+H4y0.,Acute Pulmonary Radiation Disease,CTV3
+H4y00,Acute Radiation Pneumonitis,CTV3
+H4y0z,Acute Pulmonary Radiation Disease Nos,CTV3
+H4y1.,Chronic Pulmonary Radiation Disease,CTV3
+H4y10,Radiation-Induced Diffuse Interstitial Pulmonary Fibrosis,CTV3
+H4y1z,Chronic Pulmonary Radiation Disease Nos,CTV3
+H4y2.,Drug-Induced Interstitial Lung Disorders,CTV3
+H4y20,Acute Drug-Induced Interstitial Lung Disorders,CTV3
+H4y21,Chronic Drug-Induced Interstitial Lung Disorders,CTV3
+H52y1,Persistent Pneumothorax,CTV3
+H5302,Gangrenous Pneumonia,CTV3
+H5410,Chronic Pulmonary Oedema,CTV3
+H55..,Lung: [Cirrhosis Of] Or [Postinflamm Pulmonary Fibrosis],CTV3
+H561.,Idiopathic Pulmonary Haemosiderosis,CTV3
+H563.,(Fibros Alveolitis: [Idiopath][Cryptog]) Or (Hamm-Rich Synd),CTV3
+H5631,Diffuse Interstitial Pulmonary Fibrosis,CTV3
+H563z,Idiopathic Fibrosing Alveolitis Nos,CTV3
+H56y0,Endogenous Lipoid Pneumonia,CTV3
+H571.,Rheumatic Pneumonia,CTV3
+H572.,Lung Disease With Systemic Sclerosis,CTV3
+H57y0,Pulmonary Amyloidosis,CTV3
+H57y1,Lung Disease With Polymyositis,CTV3
+H57y2,Pulmonary Sarcoidosis,CTV3
+H57y3,Lung Disease With Sjogren's Disease,CTV3
+H57y4,Lung Disease With Systemic Lupus Erythematosus,CTV3
+H581.,(Emphysema [Interstitial]/[Mediastinal])/(Pneumomediastinum),CTV3
+H582.,Compensatory Emphysema,CTV3
+H583.,Pulmonary Eosinophilia,CTV3
+H591.,Chronic Respiratory Failure,CTV3
+Hy02.,Chronic Pulmonary Insufficiency Following Surgery,CTV3
+Hyu30,[X]Other Emphysema,CTV3
+Hyu31,[X]Other Specified Chronic Obstructive Pulmonary Disease,CTV3
+Hyu40,[X]Pneumoconiosis Due To Other Dust Containing Silica,CTV3
+Hyu41,[X]Pneumoconiosis Due To Other Specified Inorganic Dusts,CTV3
+Hyu43,[X]Hypersensitivity Pneumonitis Due To Other Organic Dusts,CTV3
+Hyu47,[X]Pneumonitis Due To Inhalation Of Other Solids And Liquids,CTV3
+Hyu50,[X]Other Interstitial Pulmonary Diseases With Fibrosis,CTV3
+K260.,(Azoospermia) Or (Young's Syndrome),CTV3
+L380.,(Obstet Anaesth + Pulm Complications) Or (Mendelson's Syndr),CTV3
+N0421,Rheumatoid Lung,CTV3
+N0421,Rheumatoid Lung,CTV3
+N04y0,(Rheum Lung) Or (Caplan Synd) Or (Fibr Alveolit Assoc Arthr),CTV3
+P851.,Pulmonary Hypoplasia,CTV3
+P861.,Congenital Bronchiectasis,CTV3
+PK35.,Kartageners Syndrome,CTV3
+Q317.,Neonatal Chronic Respiratory Disease,CTV3
+Q3170,Bronchopulmonary Dysplasia,CTV3
+Q3171,Prematurity With Interstitial Pulmonary Fibrosis,CTV3
+Q3172,Pulmonary Dysmaturity,CTV3
+Q317z,Perinatal Chronic Respiratory Disease Nos,CTV3
+Qyu36,[X]Other Chronic Resp Diseases Originating/Perinatal Period,CTV3
+SP130,Mendelson's Syndrome As A Complication Of Care,CTV3
+SP131,Other Aspiration Pneumonia As A Complication Of Care,CTV3
+X00s1,Single Lung Transplant,CTV3
+X00s2,Double Lung Transplant,CTV3
+X00s3,Double Lung Transplant As A Block,CTV3
+X00s4,Bilateral Sequential Single Lung Transplant,CTV3
+X100V,Chronic Pulmonary Coccidioidomycosis,CTV3
+X100l,Congenital Cystic Bronchiectasis,CTV3
+X100m,Acquired Bronchiectasis,CTV3
+X100n,Idiopathic Bronchiectasis,CTV3
+X100o,Obstructive Bronchiectasis,CTV3
+X100p,Toxin-Induced Bronchiectasis,CTV3
+X100q,Bronchiectasis Due To Toxic Aspiration,CTV3
+X100r,Bronchiectasis Due To Toxic Inhalation,CTV3
+X100t,Post-Lung Transplantation Bronchiectasis,CTV3
+X101U,Asbestos-Induced Pleural Plaque,CTV3
+X101U,Asbestos-Induced Pleural Plaque,CTV3
+X101X,Inherited Mucociliary Clearance Defect,CTV3
+X101Z,Primary Ciliary Dyskinesia,CTV3
+X101a,Primary Ciliary Dyskinesia - Transposn Ciliary Microtubules,CTV3
+X101b,Immotile Cilia Syndrome Due To Defective Radial Spokes,CTV3
+X101c,Immotile Cilia Syndrome Due To Excessively Long Cilia,CTV3
+X101d,Young's Syndrome,CTV3
+X101e,Rutland Ciliary Disorientation Syndrome,CTV3
+X101i,"Chron Obstruct Pulmonary Dis Wth Acute Exacerbation, Unspec",CTV3
+X101j,Occupational Chronic Bronchitis,CTV3
+X101k,Byssinosis Grade 3,CTV3
+X101l,Bronchiolitis Obliterans,CTV3
+X101m,Drug-Induced Bronchiolitis Obliterans,CTV3
+X101n,Pulmonary Emphysema,CTV3
+X101o,Pulmonary Emphysema In Alpha-1 Pi Deficiency,CTV3
+X101p,Toxic Emphysema,CTV3
+X101q,Congenital Lobar Emphysema,CTV3
+X101r,Scar Emphysema,CTV3
+X102B,Mill Fever,CTV3
+X102H,Cryptogenic Pulmonary Eosinophilia,CTV3
+X102J,Animal Handlers' Lung,CTV3
+X102K,Dog House Disease,CTV3
+X102L,Dry Rot Lung,CTV3
+X102M,Lycoperdonosis,CTV3
+X102N,Wheat Weevil Disease,CTV3
+X102O,New Guinea Lung,CTV3
+X102P,Paprika Splitters' Lung,CTV3
+X102Q,Pyrethrum Alveolitis,CTV3
+X102R,Rodent Handlers' Lung,CTV3
+X102S,Sewage Workers' Lung,CTV3
+X102T,Summer-Type Hypersensitivity Pneumonitis,CTV3
+X102U,Vineyard Sprayers' Lung,CTV3
+X102j,Cryptogenic Organising Pneumonitis,CTV3
+X102j,Cryptogenic Organising Pneumonitis,CTV3
+X102k,"Seasonal Crypt Organising Pneumonia, Biochemical Cholestasis",CTV3
+X102u,Pulmonary Fibrosis,CTV3
+X102v,Usual Interstitial Pneumonitis,CTV3
+X102v,Usual Interstitial Pneumonitis,CTV3
+X102w,Desquamative Interstitial Pneumonitis,CTV3
+X102x,Lymphoid Interstitial Pneumonitis,CTV3
+X102y,Giant Cell Interstitial Pneumonitis,CTV3
+X102z,Bronchiolitis Obliterans With Usual Interstitial Pneumonitis,CTV3
+X1030,Toxic Diffuse Interstitial Pulmonary Fibrosis,CTV3
+X1031,Drug-Induced Diffuse Interstitial Pulmonary Fibrosis,CTV3
+X1032,Localised Pulmonary Fibrosis,CTV3
+X1033,Mediastinal Radiation Fibrosis,CTV3
+X1034,Pneumonitis Of Non-Infectious Cause,CTV3
+X1035,Cholesterol Pneumonia,CTV3
+X1038,Lupus Pneumonia,CTV3
+X103A,Toxic Pneumonitis,CTV3
+X103G,Radiation-Induced Fibrous Mediastinitis,CTV3
+X103W,Simple Pneumoconiosis,CTV3
+X103X,Complicated Pneumoconiosis,CTV3
+X103Y,Rheumatoid Pneumoconiosis,CTV3
+X103Y,Rheumatoid Pneumoconiosis,CTV3
+X103Z,Bentonite Pneumoconiosis,CTV3
+X103a,Erionite Pneumoconiosis,CTV3
+X103b,Kaolin Pneumoconiosis,CTV3
+X103c,Metal Pneumoconiosis,CTV3
+X103d,Antimony Pneumoconiosis,CTV3
+X103e,Argyro-Siderosis,CTV3
+X103f,Barium Pneumoconiosis,CTV3
+X103h,Subacute Berylliosis,CTV3
+X103i,Chronic Berylliosis,CTV3
+X103j,Cerium Pneumoconiosis,CTV3
+X103k,Hard Metal Pneumoconiosis,CTV3
+X103l,Nickel Pneumoconiosis,CTV3
+X103m,Thorium Pneumoconiosis,CTV3
+X103n,Zirconium Pneumoconiosis,CTV3
+X103o,Mica Pneumoconiosis,CTV3
+X103p,Mixed Mineral Dust Pneumoconiosis,CTV3
+X103q,Liparosis,CTV3
+X103r,Slate Pneumoconiosis,CTV3
+X103s,Diatomite Pneumoconiosis,CTV3
+X103u,Subacute Silicosis,CTV3
+X103v,Chronic Silicosis,CTV3
+X103w,Silicotuberculosis,CTV3
+X103x,Wollastonite Pneumoconiosis,CTV3
+X1043,Stage 1 Pulmonary Sarcoidosis,CTV3
+X1044,Stage 2 Pulmonary Sarcoidosis,CTV3
+X1045,Stage 3 Pulmonary Sarcoidosis,CTV3
+X1046,Stage 4 Pulmonary Sarcoidosis,CTV3
+X1047,Endobronchial Sarcoidosis,CTV3
+X1048,Necrotising Sarcoid Granulomatosis,CTV3
+X1049,Sarcoid Pulmonary Calcification,CTV3
+X104B,Grain Fever,CTV3
+X104C,Humidifier Fever,CTV3
+X309R,Cystic Fibrosis Of Pancreas,CTV3
+X701k,Fibrosing Alveolitis Associated With Rheumatoid Arthritis,CTV3
+X701k,Fibrosing Alveolitis Associated With Rheumatoid Arthritis,CTV3
+X70Eg,Pneumonitis Due To Fetal Aspiration,CTV3
+X70RL,Chronic Pulmonary Histoplasmosis Capsulati,CTV3
+XE0YM,Purulent Chronic Bronchitis,CTV3
+XE0YN,Bullous Emphysema With Collapse,CTV3
+XE0YO,Atrophic (Senile) Emphysema,CTV3
+XE0YO,Atrophic (Senile) Emphysema,CTV3
+XE0YP,Other Emphysema Nos,CTV3
+XE0YY,Lung Disease Due To External Agents,CTV3
+XE0Ya,Post-Inflammatory Pulmonary Fibrosis,CTV3
+XE0Ya,Post-Inflammatory Pulmonary Fibrosis,CTV3
+XE0Yb,Cryptogenic Fibrosing Alveolitis,CTV3
+XE0Yb,Cryptogenic Fibrosing Alveolitis,CTV3
+XE0ZN,Chronic: [Bronchitis Nos] Or [Tracheobronchitis],CTV3
+XE0ZV,"(Extrin Allerg Alveol)/(Farm Lung)/(Pneumonitis, Allerg Nos)",CTV3
+XE0ZX,(Asbestosis) Or (Byssinosis) Or (Pleural Plaque Disease),CTV3
+XE0ZZ,(Pneumoconiosis Nos) Or (Siderosis),CTV3
+XE0Zf,Chronic Chemical Resp. Disease,CTV3
+XE0Zh,Chemical Resp. Disease Nos,CTV3
+XE0Zr,Idiopath. Fibrosing Alveolitis (& Hamman-Rich Syndrome),CTV3
+XE1NO,(Congenital Resp Anomalies Nos) Or (Bronchiectasis - Congen),CTV3
+XE1ep,Other Specified Perinatal Chronic Respiratory Disease,CTV3
+XE2Pp,History Of Chronic Obstructive Pulmonary Disease,CTV3
+XE2Pp,History Of Chronic Obstructive Pulmonary Disease,CTV3
+XM1Qc,Tension Pneumatocele,CTV3
+XSC3p,Complication Of Transplanted Lung,CTV3
+Xa08A,Chronic Pulmonary Insufficiency Of Prematurity,CTV3
+Xa0BC,Pulmonary Fibroplasia,CTV3
+Xa0Qe,Congenital Hypoplasia Of Lung,CTV3
+Xa0Qi,Secondary Pulmonary Hypoplasia,CTV3
+Xa0Qj,Pulmonary Hypoplasia Associated With Short Gestation,CTV3
+Xa0Tw,Primary Pulmonary Hypoplasia,CTV3
+Xa35l,Acute Infective Exacerbation Chronic Obstruct Airway Disease,CTV3
+Xa9Bw,Pneumoconiosis,CTV3
+Xa9Bw,Pneumoconiosis,CTV3
+Xa9Bx,Radiation Pneumonitis,CTV3
+XaBDb,Cystic Fibrosis With Other Manifestations,CTV3
+XaBDb,Cystic Fibrosis With Other Manifestations,CTV3
+XaEIV,Mild Chronic Obstructive Pulmonary Disease,CTV3
+XaEIW,Moderate Chronic Obstructive Pulmonary Disease,CTV3
+XaEIY,Severe Chronic Obstructive Pulmonary Disease,CTV3
+XaEKI,Flax-Dressers' Disease,CTV3
+XaIND,End Stage Chronic Obstructive Airways Disease,CTV3
+XaIQT,Chronic Obstructive Pulmonary Disease Monitoring,CTV3
+XaIQg,Interstitial Pulmonary Emphysema,CTV3
+XaIQg,Interstitial Pulmonary Emphysema,CTV3
+XaIQh,Mediastinal Emphysema,CTV3
+XaIRO,Chronic Obstructive Pulmonary Disease Monitoring Due,CTV3
+XaIUt,Copd Self-Management Plan Given,CTV3
+XaIes,Chronic Obstructive Pulmonary Disease Follow-Up,CTV3
+XaIes,Chronic Obstructive Pulmonary Disease Follow-Up,CTV3
+XaIet,Chronic Obstructive Pulmonary Disease Annual Review,CTV3
+XaIu7,Chronic Obstructive Pulmonary Disease Monitoring By Nurse,CTV3
+XaIu8,Chronic Obstructive Pulmonary Disease Monitoring By Doctor,CTV3
+XaJ4k,Excepted From Copd Quality Indicators: Patient Unsuitable,CTV3
+XaJFu,Admit Copd Emergency,CTV3
+XaJYf,Chronic Obstructive Pulmonary Disease Clini Management Plan,CTV3
+XaJlS,Chronic Obstructive Pulmonary Disease Monitoring Admin,CTV3
+XaJlT,Chronic Obstructive Pulmonary Disease Monitoring 1st Letter,CTV3
+XaJlU,Chronic Obstructive Pulmonary Disease Monitoring 2nd Letter,CTV3
+XaJlV,Chronic Obstructive Pulmonary Disease Monitoring 3rd Letter,CTV3
+XaJlW,Chronic Obstructive Pulmonary Disease Monitoring Verb Invite,CTV3
+XaJlY,Chronic Obstructive Pulmonary Disease Monitor Phone Invite,CTV3
+XaK8Q,Chronic Obstructive Pulmonary Disease Finding,CTV3
+XaK8R,Copd Accident And Emergency Attendance Since Last Visit,CTV3
+XaK8S,Emergency Copd Admission Since Last Appointment,CTV3
+XaK8U,Number Of Copd Exacerbations In Past Year,CTV3
+XaKv8,Chronic Obstructive Pulmonary Disease Disturbs Sleep,CTV3
+XaKv9,Chronic Obstructive Pulmonary Disease Does Not Disturb Sleep,CTV3
+XaKzy,Multiple Copd Emergency Hospital Admissions,CTV3
+XaL2O,"Pneumonitis, Unspecified",CTV3
+XaLcH,Single Lobe Lung Transplant,CTV3
+XaLqj,Health Education - Chronic Obstructive Pulmonary Disease,CTV3
+XaMzI,Cystic Fibrosis Related Diabetes Mellitus,CTV3
+XaN4a,Very Severe Chronic Obstructive Pulmonary Disease,CTV3
+XaO5l,Chronic Type 1 Respiratory Failure,CTV3
+XaO5m,Chronic Type 2 Respiratory Failure,CTV3
+XaOYV,Recurrent Pulmonary Embolism,CTV3
+XaPZH,Copd Patient Unsuitable For Pulmonary Rehabilitation,CTV3
+XaPZH,Copd Patient Unsuitable For Pulmonary Rehabilitation,CTV3
+XaPls,Referred For Copd Structured Smoking Assessment,CTV3
+XaPls,Referred For Copd Structured Smoking Assessment,CTV3
+XaPlu,Copd Structured Smoking Assessment Declined,CTV3
+XaPlu,Copd Structured Smoking Assessment Declined,CTV3
+XaPzu,At Risk Of Chronic Obstructive Pulmonary Diseas Exacerbation,CTV3
+XaQvd,Cystic Fibrosis Annual Review,CTV3
+XaRCG,Step Down Change In Copd Management Plan,CTV3
+XaRCH,Step Up Change In Copd Management Plan,CTV3
+XaREX,Arthropathy In Cystic Fibrosis,CTV3
+XaREZ,Cystic Fibrosis With Distal Intestinal Obstruction Syndrome,CTV3
+XaREa,Liver Disease Due To Cystic Fibrosis,CTV3
+XaREd,Fibrosing Colonopathy,CTV3
+XaW9D,Issue Of Chronic Obstructive Pulmonary Disease Rescue Pack,CTV3
+XaXCa,Chronic Obstructive Pulmonary Disease 3 Monthly Review,CTV3
+XaXCb,Chronic Obstructive Pulmonary Disease 6 Monthly Review,CTV3
+XaXi9,Cystic Fibrosis Related Cirrhosis,CTV3
+XaXlE,Respiratory Bronchiolitis Associated Interstitial Lung Dis,CTV3
+XaXlF,Interstitial Lung Disease Due To Collagen Vascular Disease,CTV3
+XaXlJ,Interstitial Lung Disease Due To Connective Tissue Disease,CTV3
+XaXnt,Gp Ooh Service Notified Of Copd Care Plan,CTV3
+XaXzy,Preferred Place Of Care For Next Exacerbation Of Copd,CTV3
+XaY05,Chronic Obstructiv Pulmonary Disease Medication Optimisation,CTV3
+XaY0w,Referral To Copd Community Nursing Team,CTV3
+XaYR1,Bronchiolitis Obliterans Syndrome After Lung Transplantation,CTV3
+XaYZO,Copd Self-Management Plan Review,CTV3
+XaYbA,Copd Self-Management Plan Agreed,CTV3
+XaYby,Hantavirus Pulmonary Syndrome,CTV3
+XaYuZ,Chronic Obstructve Pulmonry Disease Rescue Pack Not Indicatd,CTV3
+XaZ6U,On Chronic Obstructive Pulmonary Disease Supprtv Cre Pathway,CTV3
+XaZ6U,On Chronic Obstructive Pulmonary Disease Supprtv Cre Pathway,CTV3
+XaZ8t,Has Chronic Obstructive Pulmonary Disease Care Plan,CTV3
+XaZd1,Acute Non-Infective Exacerbation Of Copd,CTV3
+XaZee,Chronic Obstructive Pulmonary Disease Care Pathway,CTV3
+XaZoz,Seen In Chronic Obstructive Pulmonary Disease Clinic,CTV3
+XaZp7,Chronic Obstructive Pulmonary Disease Rescue Pack Declined,CTV3
+XaZp8,Chronic Obstructive Pulmon Dis Wr Self Managem Plan Declined,CTV3
+XaZr7,Exacerbation Of Cystic Fibrosis,CTV3
+Xaa7C,Eosinophilic Bronchitis,CTV3
+Xaam4,Chronic Obstruct Pulmonary Disease Management Plan Declined,CTV3
+XaavA,Shared Care Chronic Obstructive Pulmonary Disease Monitoring,CTV3
+Xabud,H/O: Bronchiectasis,CTV3
+Xac33,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrom,CTV3
+Xac8s,Telehealth Chronic Obstructive Pulmonary Disease Monitoring,CTV3
+XafhZ,Copd Monitoring Email Invitation,CTV3
+Xafhe,Copd Monitring Short Message Service Text Message Invitation,CTV3
+Xafir,Copd Monitoring Sms Text Message First Invitation,CTV3
+Xafit,Copd Monitoring Sms Text Message Second Invitation,CTV3
+Xafiu,Copd Monitoring Sms Text Message Third Invitation,CTV3
+Y1f1b,Chronic Obstructive Pulmonary Disease Monitoring Invitation,CTV3
+Y1f94,Quality And Outcomes Framework Chronic Obstructive Pulmonary Disease Quality Indicator-Related Care Invitation (Procedure),CTV3
+Y1f95,Excepted From Chronic Obstructive Pulmonary Disease Quality Indicators - Service Unavailable (Finding),CTV3
+Y2708,Cystic Fibrosis Screening Test,CTV3
+Y2710,Cystic Fibrosis Positive,CTV3
+J841,J84.1 Other Interstitial Pulmonary Diseases With Fibrosis,ICD10
+B221,B22.1 Hiv Disease Resulting In Lymphoid Interstitial Pneumonitis,ICD10
+D862,D86.2 Sarcoidosis Of Lung With Sarcoidosis Of Lymph Nodes,ICD10
+E849,"E84.9 Cystic Fibrosis, Unspecified",ICD10
+E840,E84.0 Cystic Fibrosis With Pulmonary Manifestations,ICD10
+E841,E84.1 Cystic Fibrosis With Intestinal Manifestations,ICD10
+J219,"J21.9 Acute Bronchiolitis, Unspecified",ICD10
+J449,"J44.9 Chronic Obstructive Pulmonary Disease, Unspecified",ICD10
+J67,J67 Hypersensitivity Pneumonitis Due To Organic Dust,ICD10
+J410,J41.0 Simple Chronic Bronchitis,ICD10
+J411,J41.1 Mucopurulent Chronic Bronchitis,ICD10
+J448,J44.8 Other Specified Chronic Obstructive Pulmonary Disease,ICD10
+J684,"J68.4 Chronic Respiratory Conditions Due To Chemicals, Gases, Fumes And Vapours",ICD10
+J701,J70.1 Chronic And Other Pulmonary Manifestations Due To Radiation,ICD10
+J441,"J44.1 Chronic Obstructive Pulmonary Disease With Acute Exacerbation, Unspecified",ICD10
+J418,J41.8 Mixed Simple And Mucopurulent Chronic Bronchitis,ICD10
+J439,"J43.9 Emphysema, Unspecified",ICD10
+J438,J43.8 Other Emphysema,ICD10
+J431,J43.1 Panlobular Emphysema,ICD10
+J432,J43.2 Centrilobular Emphysema,ICD10
+J430,J43.0 Macleod's Syndrome,ICD10
+Q334,Q33.4 Congenital Bronchiectasis,ICD10
+J679,J67.9 Hypersensitivity Pneumonitis Due To Unspecified Organic Dust,ICD10
+J670,J67.0 Farmer's Lung,ICD10
+J671,J67.1 Bagassosis,ICD10
+J672,J67.2 Bird Fancier's Lung,ICD10
+J673,J67.3 Suberosis,ICD10
+J674,J67.4 Maltworker's Lung,ICD10
+J675,J67.5 Mushroom-Worker's Lung,ICD10
+J676,J67.6 Maple-Bark-Stripper's Lung,ICD10
+J677,J67.7 Air-Conditioner And Humidifier Lung,ICD10
+J678,J67.8 Hypersensitivity Pneumonitis Due To Other Organic Dusts,ICD10
+J440,J44.0 Chronic Obstructive Pulmonary Disease With Acute Lower Respiratory Infection,ICD10
+J628,J62.8 Pneumoconiosis Due To Other Dust Containing Silica,ICD10
+J620,J62.0 Pneumoconiosis Due To Talc Dust,ICD10
+J638,J63.8 Pneumoconiosis Due To Other Specified Inorganic Dusts,ICD10
+J630,J63.0 Aluminosis (Of Lung),ICD10
+J631,J63.1 Bauxite Fibrosis (Of Lung),ICD10
+J632,J63.2 Berylliosis,ICD10
+J633,J63.3 Graphite Fibrosis (Of Lung),ICD10
+J634,J63.4 Siderosis,ICD10
+J635,J63.5 Stannosis,ICD10
+J668,J66.8 Airway Disease Due To Other Specific Organic Dusts,ICD10
+J660,J66.0 Byssinosis,ICD10
+J662,J66.2 Cannabinosis,ICD10
+J680,"J68.0 Bronchitis And Pneumonitis Due To Chemicals, Gases, Fumes And Vapours",ICD10
+J688,"J68.8 Other Respiratory Conditions Due To Chemicals, Gases, Fumes And Vapours",ICD10
+J690,J69.0 Pneumonitis Due To Food And Vomit,ICD10
+J954,J95.4 Mendelson's Syndrome,ICD10
+O290,O29.0 Pulmonary Complications Of Anaesthesia During Pregnancy,ICD10
+O740,O74.0 Aspiration Pneumonitis Due To Anaesthesia During Labour And Delivery,ICD10
+O890,O89.0 Pulmonary Complications Of Anaesthesia During The Puerperium,ICD10
+J700,J70.0 Acute Pulmonary Manifestations Due To Radiation,ICD10
+J704,"J70.4 Drug-Induced Interstitial Lung Disorder, Unspecified",ICD10
+J702,J70.2 Acute Drug-Induced Interstitial Lung Disorders,ICD10
+J703,J70.3 Chronic Drug-Induced Interstitial Lung Disorders,ICD10
+J850,J85.0 Gangrene And Necrosis Of Lung,ICD10
+J708,J70.8 Respiratory Conditions Due To Other Specified External Agents,ICD10
+J709,J70.9 Respiratory Conditions Due To Unspecified External Agent,ICD10
+J848,J84.8 Other Specified Interstitial Pulmonary Diseases,ICD10
+D860,D86.0 Sarcoidosis Of Lung,ICD10
+J982,J98.2 Interstitial Emphysema,ICD10
+J983,J98.3 Compensatory Emphysema,ICD10
+M32,M32 Systemic Lupus Erythematosus,ICD10
+M33,M33 Dermatopolymyositis,ICD10
+M34,M34 Systemic Sclerosis,ICD10
+M35,M35 Other Systemic Involvement Of Connective Tissue,ICD10
+J961,J96.1 Chronic Respiratory Failure,ICD10
+J953,J95.3 Chronic Pulmonary Insufficiency Following Surgery,ICD10
+J698,J69.8 Pneumonitis Due To Other Solids And Liquids,ICD10
+Q336,Q33.6 Hypoplasia And Dysplasia Of Lung,ICD10
+B205,B20.5 Hiv Disease Resulting In Other Mycoses,ICD10
+T868,T86.8 Failure And Rejection Of Other Transplanted Organs And Tissues,ICD10
+J920,J92.0 Pleural Plaque With Presence Of Asbestos,ICD10
+J44,J44 Other Chronic Obstructive Pulmonary Disease,ICD10
+J62,J62 Pneumoconiosis Due To Dust Containing Silica,ICD10
+J63,J63 Pneumoconiosis Due To Other Inorganic Dusts,ICD10
+D868,D86.8 Sarcoidosis Of Other And Combined Sites,ICD10
+P249,"P24.9 Neonatal Aspiration Syndrome, Unspecified",ICD10
+J68,"J68 Respiratory Conditions Due To Inhalation Of Chemicals, Gases, Fumes And Vapours",ICD10
+J689,"J68.9 Unspecified Respiratory Condition Due To Chemicals, Gases, Fumes And Vapours",ICD10
+P285,P28.5 Respiratory Failure Of Newborn,ICD10
+E848,E84.8 Cystic Fibrosis With Other Manifestations,ICD10
+J661,J66.1 Flax-Dresser's Disease,ICD10
+J66,J66 Airway Disease Due To Specific Organic Dust,ICD10
+I269,I26.9 Pulmonary Embolism Without Mention Of Acute Cor Pulmonale,ICD10
+O882,O88.2 Obstetric Blood-Clot Embolism,ICD10
+233754007,Cerium pneumoconiosis (disorder),SNOMED-CT
+196133001,Lung disease with systemic sclerosis (disorder),SNOMED-CT
+776981000000103,Cirrhosis associated with cystic fibrosis (disorder),SNOMED-CT
+711379004,Interstitial lung disease due to connective tissue disease (disorder),SNOMED-CT
+213223003,Mendelson's syndrome as a complication of care (disorder),SNOMED-CT
+196135008,Pulmonary amyloidosis (disorder),SNOMED-CT
+22607003,Asbestosis (disorder),SNOMED-CT
+233675009,Toxic emphysema (disorder),SNOMED-CT
+716241000000106,Chronic obstructive pulmonary disease monitoring first letter (procedure),SNOMED-CT
+68328006,Centriacinar emphysema (disorder),SNOMED-CT
+23315001,Sequoiosis (disorder),SNOMED-CT
+425748003,Acute exacerbation of chronic bronchitis (disorder),SNOMED-CT
+195953005,Mixed simple and mucopurulent chronic bronchitis (disorder),SNOMED-CT
+233769008,Stage 3 pulmonary sarcoidosis (disorder),SNOMED-CT
+63480004,Chronic bronchitis (disorder),SNOMED-CT
+36696005,Kaolinosis (disorder),SNOMED-CT
+196190001,Chronic pulmonary insufficiency following surgery (disorder),SNOMED-CT
+88039007,Transplant of lung (procedure),SNOMED-CT
+67569000,Bronchopulmonary dysplasia of newborn (disorder),SNOMED-CT
+196049002,Chronic pulmonary radiation disease (disorder),SNOMED-CT
+293991000000106,Very severe chronic obstructive pulmonary disease (disorder),SNOMED-CT
+86092005,Cystic fibrosis with meconium ileus (disorder),SNOMED-CT
+783631000000109,General practitioner out of hours service notified of chronic obstructive pulmonary disease care plan (finding),SNOMED-CT
+196021009,Acute pneumonitis caused by chemical fumes (disorder),SNOMED-CT
+85407005,Pigeon-fanciers' disease (disorder),SNOMED-CT
+198901000000105,Multiple chronic obstructive pulmonary disease emergency hospital admissions (finding),SNOMED-CT
+187233002,Sarcoidosis of lung with sarcoidosis of lymph nodes (disorder),SNOMED-CT
+90117007,Tuberculous fibrosis of lung (disorder),SNOMED-CT
+13394002,Suberosis (disorder),SNOMED-CT
+195989002,Pituitary snuff-takers' disease (disorder),SNOMED-CT
+7063008,Gangrenous pneumonia (disorder),SNOMED-CT
+47386001,Mendelson's syndrome resulting from a procedure (disorder),SNOMED-CT
+87433001,Pulmonary emphysema (disorder),SNOMED-CT
+195951007,Acute exacerbation of chronic obstructive airways disease (disorder),SNOMED-CT
+233724002,Toxic diffuse interstitial pulmonary fibrosis (disorder),SNOMED-CT
+233725001,Drug-induced diffuse interstitial pulmonary fibrosis (disorder),SNOMED-CT
+105977003,Non-infectious pneumonia (disorder),SNOMED-CT
+866901000000103,Eosinophilic bronchitis (disorder),SNOMED-CT
+195957006,Chronic bullous emphysema (disorder),SNOMED-CT
+68333005,Furriers' lung (disorder),SNOMED-CT
+86555001,Cystic fibrosis of the lung (disorder),SNOMED-CT
+427123006,Interstitial lung disease due to collagen vascular disease (disorder),SNOMED-CT
+233661002,Inherited mucociliary clearance defect (disorder),SNOMED-CT
+313296004,Mild chronic obstructive pulmonary disease (disorder),SNOMED-CT
+25897000,Malt-workers' lung (disorder),SNOMED-CT
+62371005,Pulmonary siderosis (disorder),SNOMED-CT
+115666004,Animal handlers' lung (disorder),SNOMED-CT
+51577008,Wilson-Mikity syndrome (disorder),SNOMED-CT
+367542003,Pulmonary eosinophilia (disorder),SNOMED-CT
+195984007,Recurrent bronchiectasis (disorder),SNOMED-CT
+51615001,Fibrosis of lung (disorder),SNOMED-CT
+233700005,Rodent handlers' lung (disorder),SNOMED-CT
+44274007,Lymphoid interstitial pneumonia (disorder),SNOMED-CT
+820341000000109,Chronic obstructive pulmonary disease rescue pack not indicated (situation),SNOMED-CT
+233759002,Mixed mineral dust pneumoconiosis (disorder),SNOMED-CT
+29422001,Coal workers' pneumoconiosis (disorder),SNOMED-CT
+90610005,Interstitial pulmonary fibrosis of prematurity (disorder),SNOMED-CT
+233733000,Toxic pneumonitis (disorder),SNOMED-CT
+426705001,Diabetes mellitus co-occurrent and due to cystic fibrosis (disorder),SNOMED-CT
+233673002,Drug-induced bronchiolitis obliterans (disorder),SNOMED-CT
+195959009,Zonal bullous emphysema (disorder),SNOMED-CT
+473202005,Optimization of medication for chronic obstructive lung disease (procedure),SNOMED-CT
+790301000000101,Referral to chronic obstructive pulmonary disease community nursing team (procedure),SNOMED-CT
+10692761000119108,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),SNOMED-CT
+196138005,Lung disease with systemic lupus erythematosus (disorder),SNOMED-CT
+196001008,Chronic obstructive pulmonary disease with acute lower respiratory infection (disorder),SNOMED-CT
+266368002,Post-inflammatory pulmonary fibrosis (disorder),SNOMED-CT
+13645005,Chronic obstructive lung disease (disorder),SNOMED-CT
+233758005,Mica pneumoconiosis (disorder),SNOMED-CT
+716281000000103,Chronic obstructive pulmonary disease monitoring verbal invitation (procedure),SNOMED-CT
+195963002,Acute vesicular emphysema (disorder),SNOMED-CT
+233633008,Bronchiectasis caused by toxic inhalation (disorder),SNOMED-CT
+233694004,Dog house disease (disorder),SNOMED-CT
+26427008,Chronic pulmonary histoplasmosis (disorder),SNOMED-CT
+1066841000000108,Chronic obstructive pulmonary disease monitoring short message service text message second invitation (procedure),SNOMED-CT
+233749003,Complicated pneumoconiosis (disorder),SNOMED-CT
+4981000,Panacinar emphysema (disorder),SNOMED-CT
+232658009,Double lung transplant (procedure),SNOMED-CT
+111292008,Necrotizing sarcoid granulomatosis (disorder),SNOMED-CT
+233738009,Radiation-induced fibrous mediastinitis (disorder),SNOMED-CT
+235978006,Cystic fibrosis of pancreas (disorder),SNOMED-CT
+233692000,Cryptogenic pulmonary eosinophilia (disorder),SNOMED-CT
+196027008,Toxic bronchiolitis obliterans (disorder),SNOMED-CT
+236302005,Acute interstitial pneumonia (disorder),SNOMED-CT
+47515009,Simple silicosis (disorder),SNOMED-CT
+276537001,Chronic pulmonary insufficiency of prematurity (disorder),SNOMED-CT
+52333004,Mushroom workers' lung (disorder),SNOMED-CT
+361195001,Pulmonary fibroplasia (disorder),SNOMED-CT
+718241000000107,Issue of chronic obstructive pulmonary disease rescue pack (procedure),SNOMED-CT
+195985008,Post-infective bronchiectasis (disorder),SNOMED-CT
+69339004,Bird-fanciers' lung (disorder),SNOMED-CT
+789661000000102,Preferred place of care for next exacerbation of chronic obstructive pulmonary disease (finding),SNOMED-CT
+857811000000102,Chronic obstructive pulmonary disease written self management plan declined (situation),SNOMED-CT
+233763009,Silicotuberculosis (disorder),SNOMED-CT
+1259003,Schistosis (disorder),SNOMED-CT
+233774000,Humidifier fever (disorder),SNOMED-CT
+16003001,Giant bullous emphysema (disorder),SNOMED-CT
+37471005,Extrinsic allergic alveolitis (disorder),SNOMED-CT
+266356006,Atrophic (senile) emphysema (disorder),SNOMED-CT
+233761006,Subacute silicosis (disorder),SNOMED-CT
+24369008,Pulmonary sarcoidosis (disorder),SNOMED-CT
+427022004,Liver disease due to cystic fibrosis (disorder),SNOMED-CT
+526091000000100,Cystic fibrosis with distal intestinal obstruction syndrome (disorder),SNOMED-CT
+73144008,Pneumoconiosis caused by talc (disorder),SNOMED-CT
+233701009,Sewage workers' lung (disorder),SNOMED-CT
+18690003,Farmers' lung (disorder),SNOMED-CT
+40122008,Pneumoconiosis (disorder),SNOMED-CT
+196017002,Pneumoconiosis associated with tuberculosis (disorder),SNOMED-CT
+233756009,Thorium pneumoconiosis (disorder),SNOMED-CT
+266404004,Chronic chemical respiratory disease (disorder),SNOMED-CT
+414087000,Emergency chronic obstructive pulmonary disease admission since last appointment (regime/therapy),SNOMED-CT
+313297008,Moderate chronic obstructive pulmonary disease (disorder),SNOMED-CT
+40100001,Obliterative bronchiolitis (disorder),SNOMED-CT
+16838000,Mediastinal emphysema (disorder),SNOMED-CT
+398726004,Rheumatoid lung disease (disorder),SNOMED-CT
+371611000000107,Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation - enhanced services administration (procedure),SNOMED-CT
+84409004,Fetid chronic bronchitis (disorder),SNOMED-CT
+713731000000102,Chronic obstructive pulmonary disease monitoring administration (record artifact),SNOMED-CT
+233628009,Acquired bronchiectasis (disorder),SNOMED-CT
+857661000000104,Seen in chronic obstructive pulmonary disease clinic (finding),SNOMED-CT
+390941006,Chronic obstructive pulmonary disease monitoring due (finding),SNOMED-CT
+196047000,Acute radiation pneumonitis (disorder),SNOMED-CT
+10713006,Diffuse interstitial rheumatoid disease of lung (disorder),SNOMED-CT
+267276009,Obstetric anesthesia with pulmonary complications (disorder),SNOMED-CT
+266366003,Lung disease due to external agents (disorder),SNOMED-CT
+232657004,Single lung transplant (procedure),SNOMED-CT
+811961000000106,Chronic obstructive pulmonary disease self-management plan agreed (finding),SNOMED-CT
+87909002,Hard metal pneumoconiosis (disorder),SNOMED-CT
+515631000000107,Cystic fibrosis annual review (regime/therapy),SNOMED-CT
+77690003,Interstitial emphysema of lung (disorder),SNOMED-CT
+1066281000000104,Chronic obstructive pulmonary disease monitoring short message service text message invitation (procedure),SNOMED-CT
+827571000000106,Has chronic obstructive pulmonary disease care plan (finding),SNOMED-CT
+383611000000102,At risk of chronic obstructive pulmonary disease exacerbation (finding),SNOMED-CT
+805261000000101,Bronchiolitis obliterans syndrome after lung transplantation (disorder),SNOMED-CT
+48188009,Azoospermia (finding),SNOMED-CT
+233771008,Endobronchial sarcoidosis (disorder),SNOMED-CT
+42680007,Endogenous lipoid pneumonia (disorder),SNOMED-CT
+10785007,Vinyard sprayers' lung (disorder),SNOMED-CT
+7343008,Liparitosis (disorder),SNOMED-CT
+277656005,Primary pulmonary hypoplasia (disorder),SNOMED-CT
+275503004,Tension pneumatocele (disorder),SNOMED-CT
+736283006,Chronic obstructive pulmonary disease clinical management plan (record artifact),SNOMED-CT
+375911000000102,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration (procedure),SNOMED-CT
+233631005,Toxin-induced bronchiectasis (disorder),SNOMED-CT
+716358000,Telehealth chronic obstructive pulmonary disease monitoring (regime/therapy),SNOMED-CT
+18121009,Chronic berylliosis (disorder),SNOMED-CT
+428173007,Chronic hypoxemic respiratory failure (disorder),SNOMED-CT
+45145000,Unilateral emphysema (situation),SNOMED-CT
+17996008,Pneumoconiosis caused by inorganic dust (disorder),SNOMED-CT
+192658007,Giant cell interstitial pneumonitis (disorder),SNOMED-CT
+190909002,Cystic fibrosis with intestinal manifestations (disorder),SNOMED-CT
+90623003,Aluminosis of lung (disorder),SNOMED-CT
+404807005,Cheese-washers' lung (disorder),SNOMED-CT
+196046009,Acute pulmonary radiation disease (disorder),SNOMED-CT
+38729007,Wheat weevil disease (disorder),SNOMED-CT
+162974009,On examination - fibrosis of lung present (disorder),SNOMED-CT
+277486008,Pulmonary hypoplasia associated with short gestation (disorder),SNOMED-CT
+8247009,Berylliosis (disorder),SNOMED-CT
+196026004,Chronic emphysema caused by chemical fumes (disorder),SNOMED-CT
+857791000000103,Chronic obstructive pulmonary disease rescue pack declined (situation),SNOMED-CT
+704123000,Step down change in chronic obstructive pulmonary disease management plan (regime/therapy),SNOMED-CT
+526071000000104,Arthropathy in cystic fibrosis (disorder),SNOMED-CT
+196052005,Acute drug-induced interstitial lung disorder (disorder),SNOMED-CT
+401184000,Chronic obstructive pulmonary disease monitoring by nurse (regime/therapy),SNOMED-CT
+85761009,Byssinosis (disorder),SNOMED-CT
+390891009,Chronic obstructive pulmonary disease monitoring (regime/therapy),SNOMED-CT
+408501008,Emergency hospital admission for chronic obstructive pulmonary disease (procedure),SNOMED-CT
+805002,Pneumoconiosis caused by silica (disorder),SNOMED-CT
+190905008,Cystic fibrosis (disorder),SNOMED-CT
+233672007,Byssinosis grade 3 (disorder),SNOMED-CT
+233727009,Mediastinal radiation fibrosis (disorder),SNOMED-CT
+78723001,Cannabinosis (disorder),SNOMED-CT
+859041000000103,Exacerbation of cystic fibrosis (disorder),SNOMED-CT
+233674008,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency (disorder),SNOMED-CT
+73448002,Fish-meal workers' lung (disorder),SNOMED-CT
+196053000,Chronic drug-induced interstitial lung disorders (disorder),SNOMED-CT
+232660006,Bilateral sequential single lung transplant (procedure),SNOMED-CT
+233696002,Lycoperdonosis (disorder),SNOMED-CT
+233751004,Metal pneumoconiosis (disorder),SNOMED-CT
+86204009,Immotile cilia syndrome (disorder),SNOMED-CT
+61937009,Simple chronic bronchitis (disorder),SNOMED-CT
+233768000,Stage 2 pulmonary sarcoidosis (disorder),SNOMED-CT
+79958002,Grain fever (disorder),SNOMED-CT
+20322005,Chronic respiratory disease in perinatal period (disorder),SNOMED-CT
+716901000000101,Chronic obstructive pulmonary disease monitoring telephone invitation (procedure),SNOMED-CT
+7548000,Rheumatic pneumonia (disorder),SNOMED-CT
+760601000000107,Chronic obstructive pulmonary disease 3 monthly review (regime/therapy),SNOMED-CT
+23022004,Tuberculous bronchiectasis (disorder),SNOMED-CT
+939431000000108,History of bronchiectasis (situation),SNOMED-CT
+12295008,Bronchiectasis (disorder),SNOMED-CT
+394702007,Chronic obstructive pulmonary disease follow-up (regime/therapy),SNOMED-CT
+46847001,Chronic pulmonary edema (disorder),SNOMED-CT
+195958001,Segmental bullous emphysema (disorder),SNOMED-CT
+51277007,Stannosis (disorder),SNOMED-CT
+719218000,Cryptogenic organizing pneumonia (disorder),SNOMED-CT
+233764003,Wollastonite pneumoconiosis (disorder),SNOMED-CT
+233755008,Nickel pneumoconiosis (disorder),SNOMED-CT
+85438006,Diatomaceous earth disease (disorder),SNOMED-CT
+233659006,Asbestos-induced pleural plaque (disorder),SNOMED-CT
+195990006,Air-conditioner and humidifier lung (disorder),SNOMED-CT
+64631008,Fullers' earth disease (disorder),SNOMED-CT
+74417001,Mucopurulent chronic bronchitis (disorder),SNOMED-CT
+196137000,Lung disease with Sjögren's disease (disorder),SNOMED-CT
+233726000,Localized pulmonary fibrosis (disorder),SNOMED-CT
+198411000000102,Chronic obstructive pulmonary disease does not disturb sleep (finding),SNOMED-CT
+80825009,Congenital hypoplasia of lung (disorder),SNOMED-CT
+196019004,Bronchitis and pneumonitis caused by chemical fumes (disorder),SNOMED-CT
+233702002,Summer-type hypersensitivity pneumonitis (disorder),SNOMED-CT
+58691003,Antimony pneumoconiosis (disorder),SNOMED-CT
+285381006,Acute infective exacerbation of chronic obstructive airways disease (disorder),SNOMED-CT
+196136009,Lung disease co-occurrent with polymyositis (disorder),SNOMED-CT
+445090007,Fibrosing colonopathy (disorder),SNOMED-CT
+81423003,Cystic fibrosis without meconium ileus (disorder),SNOMED-CT
+42402006,Kartagener syndrome (disorder),SNOMED-CT
+44165003,Complication of transplanted lung (disorder),SNOMED-CT
+394703002,Chronic obstructive pulmonary disease annual review (regime/therapy),SNOMED-CT
+129451001,Respiratory bronchiolitis associated interstitial lung disease (disorder),SNOMED-CT
+233698001,Paprika splitters' lung (disorder),SNOMED-CT
+233757000,Zirconium pneumoconiosis (disorder),SNOMED-CT
+66987001,Congenital lobar emphysema (disorder),SNOMED-CT
+12088005,Budgerigar-fanciers' disease (disorder),SNOMED-CT
+700250006,Idiopathic pulmonary fibrosis (disorder),SNOMED-CT
+233667003,Rutland ciliary disorientation syndrome (disorder),SNOMED-CT
+741056003,Education about chronic obstructive pulmonary disease (procedure),SNOMED-CT
+13151001,Flax-dressers' disease (disorder),SNOMED-CT
+760621000000103,Chronic obstructive pulmonary disease 6 monthly review (regime/therapy),SNOMED-CT
+185086009,Chronic obstructive bronchitis (disorder),SNOMED-CT
+233713004,Seasonal cryptogenic organizing pneumonia with biochemical cholestasis (disorder),SNOMED-CT
+205237003,Pneumonitis (disorder),SNOMED-CT
+39871006,Chronic respiratory failure (disorder),SNOMED-CT
+360470001,Chronic mucus hypersecretion (disorder),SNOMED-CT
+8549006,Desquamative interstitial pneumonia (disorder),SNOMED-CT
+67242002,Bagassosis (disorder),SNOMED-CT
+33325001,Compensatory emphysema (disorder),SNOMED-CT
+233664005,Immotile cilia syndrome due to defective radial spokes (disorder),SNOMED-CT
+14700006,Bauxite fibrosis of lung (disorder),SNOMED-CT
+233730002,Lupus pneumonia (disorder),SNOMED-CT
+77593006,Congenital bronchiectasis (disorder),SNOMED-CT
+266355005,Bullous emphysema with collapse (disorder),SNOMED-CT
+50589003,Silver polishers' lung disease (disorder),SNOMED-CT
+196051003,Drug-induced interstitial lung disorder (disorder),SNOMED-CT
+233770009,Stage 4 pulmonary sarcoidosis (disorder),SNOMED-CT
+270473001,History of chronic obstructive airway disease (situation),SNOMED-CT
+426896000,Chronic hypercapnic respiratory failure (disorder),SNOMED-CT
+233750003,Erionite pneumoconiosis (disorder),SNOMED-CT
+375851000000108,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration (procedure),SNOMED-CT
+847091000000104,Acute non-infective exacerbation of chronic obstructive pulmonary disease (disorder),SNOMED-CT
+1066851000000106,Chronic obstructive pulmonary disease monitoring short message service text message third invitation (procedure),SNOMED-CT
+74015002,Pneumonopathy due to inhalation of dust (disorder),SNOMED-CT
+196125002,Diffuse interstitial pulmonary fibrosis (disorder),SNOMED-CT
+398640008,Rheumatoid pneumoconiosis (disorder),SNOMED-CT
+233634002,Post-lung transplantation bronchiectasis (disorder),SNOMED-CT
+429332008,Transplantation of single lobe of lung (procedure),SNOMED-CT
+198401000000104,Chronic obstructive pulmonary disease disturbs sleep (finding),SNOMED-CT
+48347002,Humidifier lung (disorder),SNOMED-CT
+233632003,Bronchiectasis caused by toxic aspiration (disorder),SNOMED-CT
+233615002,Chronic pulmonary coccidioidomycosis (disorder),SNOMED-CT
+155597006,Aspiration pneumonitis (disorder),SNOMED-CT
+49840000,Complicated silicosis (disorder),SNOMED-CT
+49691004,Occupational bronchitis (disorder),SNOMED-CT
+233772001,Sarcoid pulmonary calcification (disorder),SNOMED-CT
+717521000000104,Chronic obstructive pulmonary disease monitoring third letter (procedure),SNOMED-CT
+233699009,Pyrethrum alveolitis (disorder),SNOMED-CT
+56968009,Wood asthma (disorder),SNOMED-CT
+810951000000101,Chronic obstructive pulmonary disease self-management plan review (procedure),SNOMED-CT
+848431000000106,Chronic obstructive pulmonary disease care pathway (regime/therapy),SNOMED-CT
+89549007,Catarrhal bronchitis (disorder),SNOMED-CT
+135836000,End stage chronic obstructive airways disease (disorder),SNOMED-CT
+232659001,Double lung transplant as a block (procedure),SNOMED-CT
+233630006,Obstructive bronchiectasis (disorder),SNOMED-CT
+892321000000109,Chronic obstructive pulmonary disease management plan declined (situation),SNOMED-CT
+1066231000000103,Chronic obstructive pulmonary disease monitoring email invitation (procedure),SNOMED-CT
+17385007,Graphite fibrosis of lung (disorder),SNOMED-CT
+233762004,Chronic silicosis (disorder),SNOMED-CT
+44549008,Aspiration pneumonia resulting from a procedure (disorder),SNOMED-CT
+401185004,Chronic obstructive pulmonary disease monitoring by doctor (regime/therapy),SNOMED-CT
+71193007,Fibrosis of lung following radiation (disorder),SNOMED-CT
+233753001,Subacute berylliosis (disorder),SNOMED-CT
+47895001,Congenital emphysema (disorder),SNOMED-CT
+7457009,Chronic tracheitis (disorder),SNOMED-CT
+233728004,Cholesterol pneumonia (disorder),SNOMED-CT
+723245007,Number of chronic obstructive pulmonary disease exacerbations in past year (observable entity),SNOMED-CT
+120639003,Hantavirus pulmonary syndrome (disorder),SNOMED-CT
+50076003,Baritosis (disorder),SNOMED-CT
+52571006,Chronic tracheobronchitis (disorder),SNOMED-CT
+233697006,New Guinea lung (disorder),SNOMED-CT
+16623004,Coffee-workers' lung (disorder),SNOMED-CT
+196028003,Chronic pulmonary fibrosis caused by chemical fumes (disorder),SNOMED-CT
+84004001,Radiation pneumonitis (disorder),SNOMED-CT
+19274004,Grain-handlers' disease (disorder),SNOMED-CT
+716311000000100,Excepted from chronic obstructive pulmonary disease quality indicators - patient unsuitable (finding),SNOMED-CT
+233695003,Dry rot lung (disorder),SNOMED-CT
+438773007,Recurrent pulmonary embolism (disorder),SNOMED-CT
+717021000000106,Chronic obstructive pulmonary disease monitoring second letter (procedure),SNOMED-CT
+233666007,Young's syndrome (disorder),SNOMED-CT
+233665006,Immotile cilia syndrome due to excessively long cilia (disorder),SNOMED-CT
+233677001,Scar emphysema (disorder),SNOMED-CT
+233629001,Idiopathic bronchiectasis (disorder),SNOMED-CT
+413845009,Chronic obstructive pulmonary disease accident and emergency attendance since last visit (regime/therapy),SNOMED-CT
+233663004,Primary ciliary dyskinesia due to transposition of ciliary microtubules (disorder),SNOMED-CT
+704121003,Step up change in chronic obstructive pulmonary disease management plan (regime/therapy),SNOMED-CT
+40527005,Idiopathic pulmonary hemosiderosis (disorder),SNOMED-CT
+1066821000000101,Chronic obstructive pulmonary disease monitoring short message service text message first invitation (procedure),SNOMED-CT
+277485007,Secondary pulmonary hypoplasia (disorder),SNOMED-CT
+361194002,Perinatal pulmonary fibroplasia (disorder),SNOMED-CT
+170628003,Airways obstruction irreversible (finding),SNOMED-CT
+86638007,Maple-bark strippers' lung (disorder),SNOMED-CT
+61233003,Silo-fillers' disease (disorder),SNOMED-CT
+599006,Chronic pneumothorax (disorder),SNOMED-CT
+233767005,Stage 1 pulmonary sarcoidosis (disorder),SNOMED-CT
+897311000000101,Shared care chronic obstructive pulmonary disease monitoring (regime/therapy),SNOMED-CT
+715069001,Aspiration pneumonitis of fetus (disorder),SNOMED-CT
+826111000000109,On chronic obstructive pulmonary disease supportive care pathway (finding),SNOMED-CT
+233748006,Simple pneumoconiosis (disorder),SNOMED-CT
+233703007,Interstitial lung disease (disorder),SNOMED-CT
+233627004,Congenital cystic bronchiectasis (disorder),SNOMED-CT
+313299006,Severe chronic obstructive pulmonary disease (disorder),SNOMED-CT
+1092361000119109,Rubella pneumonia (disorder),SNOMED-CT
+51068008,Adult bronchiectasis (disorder),SNOMED-CT
+86649001,Meconium pneumonitis (disorder),SNOMED-CT
+46207001,Pneumonitis caused by acquired toxoplasmosis (disorder),SNOMED-CT
+408681003,Healthcare associated legionnaire's disease (disorder),SNOMED-CT
+427046006,Drug-induced pneumonitis (disorder),SNOMED-CT
+240387006,Pulmonary glanders (disorder),SNOMED-CT
+427445002,Tension pneumomediastinum (disorder),SNOMED-CT
+129452008,Nonspecific interstitial pneumonia (disorder),SNOMED-CT
+41381004,Pneumonia caused by Pseudomonas (disorder),SNOMED-CT
+233620002,Pneumonia due to parasitic infestation (disorder),SNOMED-CT
+40640008,Massive fibrosis of lung co-occurrent and due to silicosis (disorder),SNOMED-CT
+763888005,Necrotizing pneumonia caused by Panton-Valentine leukocidin producing Staphylococcus aureus (disorder),SNOMED-CT
+707507003,Pneumonia caused by Schistosoma japonicum (disorder),SNOMED-CT
+19076009,Sick building syndrome (disorder),SNOMED-CT
+200049006,Obstetric anesthesia with pulmonary complications - delivered (disorder),SNOMED-CT
+196040003,Aspiration pneumonitis due to anesthesia during labor and delivery (disorder),SNOMED-CT
+278484009,Tropical pulmonary eosinophilia (disorder),SNOMED-CT
+420544002,Bacterial pneumonia associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+426696003,Lingular pneumonia (disorder),SNOMED-CT
+88687001,Manganese pneumonitis (disorder),SNOMED-CT
+196152007,Pulmonary insufficiency following surgery (disorder),SNOMED-CT
+53084003,Bacterial pneumonia (disorder),SNOMED-CT
+59940009,Hypersensitivity alveolitis in lungworm infection (disorder),SNOMED-CT
+87153008,Pulmonary alveolar microlithiasis (disorder),SNOMED-CT
+59475000,Pneumonia in pertussis (disorder),SNOMED-CT
+301004001,Right upper zone pneumonia (disorder),SNOMED-CT
+23958009,Vanishing lung (disorder),SNOMED-CT
+366971000119100,Azoospermia due to infectious disease (disorder),SNOMED-CT
+707508008,Pneumonia caused by Schistosoma haematobium (disorder),SNOMED-CT
+725052002,Fetal cystic fibrosis (disorder),SNOMED-CT
+427670006,Azoospermia due to drug (disorder),SNOMED-CT
+102361000119104,Chronic pneumonia (disorder),SNOMED-CT
+233604007,Pneumonia (disorder),SNOMED-CT
+10625271000119108,Bronchopneumonia caused by Human metapneumovirus (disorder),SNOMED-CT
+124691000119101,Pneumonia caused by methicillin resistant Staphylococcus aureus (disorder),SNOMED-CT
+128711000119106,Pneumonia caused by methicillin susceptible Staphylococcus aureus (disorder),SNOMED-CT
+233613009,Fungal pneumonia (disorder),SNOMED-CT
+70756004,Bronchial atresia with segmental pulmonary emphysema (disorder),SNOMED-CT
+441658007,Pneumonia caused by Staphylococcus aureus (disorder),SNOMED-CT
+71727007,Induration of lung (disorder),SNOMED-CT
+196151000,Pulmonary insufficiency following shock (disorder),SNOMED-CT
+10625431000119104,Bronchopneumonia caused by Mycoplasma pneumoniae (disorder),SNOMED-CT
+724500003,Idiopathic chronic eosinophilic pneumonia (disorder),SNOMED-CT
+34004002,Siderosilicosis (disorder),SNOMED-CT
+10625671000119106,Bronchopneumonia caused by Streptococcus (disorder),SNOMED-CT
+57463004,Pneumonitis caused by inhaled liquid (disorder),SNOMED-CT
+28791000119105,Chronic coccidioidomycotic pneumonia (disorder),SNOMED-CT
+195886008,Group B streptococcal pneumonia (disorder),SNOMED-CT
+142931000119100,Pneumonia caused by H1N1 influenza (disorder),SNOMED-CT
+707766007,Exocrine pancreatic manifestation co-occurrent and due to cystic fibrosis (disorder),SNOMED-CT
+28295001,Middle lobe syndrome (disorder),SNOMED-CT
+83608006,Aspiration pneumonia caused by inhalation of milk (disorder),SNOMED-CT
+16846004,Obstructive emphysema (disorder),SNOMED-CT
+277869007,Non-tuberculous mycobacterial pneumonia (disorder),SNOMED-CT
+10625711000119104,Bronchopneumonia caused by Streptococcus pneumoniae (disorder),SNOMED-CT
+425996009,Bilateral basal pneumonia (disorder),SNOMED-CT
+181007,Hemorrhagic bronchopneumonia (disorder),SNOMED-CT
+195888009,Proteus pneumonia (disorder),SNOMED-CT
+430395005,Pneumonia caused by Gram negative bacteria (disorder),SNOMED-CT
+707551007,Pulmonary interstitial glycogenosis (disorder),SNOMED-CT
+301002002,Left upper zone pneumonia (disorder),SNOMED-CT
+233609002,Pneumonia caused by Chlamydiaceae (disorder),SNOMED-CT
+445096001,Pneumonia caused by Human metapneumovirus (disorder),SNOMED-CT
+206286008,Congenital Escherichia coli pneumonia (disorder),SNOMED-CT
+52500008,Saccular bronchiectasis (disorder),SNOMED-CT
+31898008,Paraseptal emphysema (disorder),SNOMED-CT
+328661000119108,Interstitial lung disease of childhood (disorder),SNOMED-CT
+186195008,"Tuberculosis of lung, confirmed histologically (disorder)",SNOMED-CT
+39172002,Pneumonia caused by Proteus mirabilis (disorder),SNOMED-CT
+200050006,Obstetric anesthesia with pulmonary complications - delivered with postnatal problem (disorder),SNOMED-CT
+58890000,Adenoviral bronchopneumonia (disorder),SNOMED-CT
+46970008,Pneumonia caused by Mycoplasma pneumoniae (disorder),SNOMED-CT
+725415009,House allergic alveolitis (disorder),SNOMED-CT
+10625111000119106,Bronchopneumonia caused by Escherichia coli (disorder),SNOMED-CT
+716088000,Follicular hamartoma with alopecia and cystic fibrosis syndrome (disorder),SNOMED-CT
+714203003,Acute bronchitis co-occurrent with bronchiectasis (disorder),SNOMED-CT
+722913002,Congenital pulmonary hypoplasia due to lung space occupying lesion (disorder),SNOMED-CT
+721095007,"Diaphragmatic defect, limb deficiency, skull defect syndrome (disorder)",SNOMED-CT
+425464007,Nosocomial pneumonia (disorder),SNOMED-CT
+7678002,Cytomegaloviral pneumonia (disorder),SNOMED-CT
+417688002,Chronic progressive coccidioidal pneumonia (disorder),SNOMED-CT
+415125002,Pneumocystosis jirovecii pneumonia (disorder),SNOMED-CT
+64880000,Parainfluenza virus bronchopneumonia (disorder),SNOMED-CT
+195896004,Pneumonia caused by pleuropneumonia-like organism (disorder),SNOMED-CT
+737181009,Interstitial lung disease due to systemic disease (disorder),SNOMED-CT
+409664000,Pneumonia caused by anaerobic bacteria (disorder),SNOMED-CT
+233607000,Pneumococcal pneumonia (disorder),SNOMED-CT
+12310001,Childhood bronchiectasis (disorder),SNOMED-CT
+59773008,Simple pulmonary alveolitis (disorder),SNOMED-CT
+276693005,Congenital bacterial pneumonia (disorder),SNOMED-CT
+196112005,Abscess of lung with pneumonia (disorder),SNOMED-CT
+236793007,Azoospermia with absent vasa in association with cystic fibrosis trait (disorder),SNOMED-CT
+10625151000119108,Bronchopneumonia caused by Group A Streptococcus (disorder),SNOMED-CT
+426437004,Familial idiopathic pulmonary fibrosis (disorder),SNOMED-CT
+1092951000119106,Pneumonia caused by Bordetella parapertussis (disorder),SNOMED-CT
+195902009,Anthrax pneumonia (disorder),SNOMED-CT
+72854003,Aspiration pneumonia due to near drowning (disorder),SNOMED-CT
+416916004,Lipoid pneumonitis (disorder),SNOMED-CT
+312342009,Infective pneumonia (disorder),SNOMED-CT
+720469008,Azoospermia caused by chemotherapy (disorder),SNOMED-CT
+64917006,Parainfluenza virus pneumonia (disorder),SNOMED-CT
+206289001,Congenital chlamydial pneumonia (disorder),SNOMED-CT
+276695003,Neonatal aspiration pneumonia (disorder),SNOMED-CT
+37711000,Cadmium pneumonitis (disorder),SNOMED-CT
+408680002,Healthcare associated bacterial pneumonia (disorder),SNOMED-CT
+15708009,Benign pneumoconiosis (disorder),SNOMED-CT
+724499007,Idiopathic acute eosinophilic pneumonia (disorder),SNOMED-CT
+415126001,Pneumonitis caused by inhaled substance (disorder),SNOMED-CT
+75426006,Aspiration pneumonia caused by regurgitated food (disorder),SNOMED-CT
+60805002,Hemolytic anemia with emphysema AND cutis laxa (disorder),SNOMED-CT
+44547005,Chalicosis (disorder),SNOMED-CT
+195900001,Pneumonia co-occurrent and due to measles (disorder),SNOMED-CT
+45556008,Pulmonary tularemia (disorder),SNOMED-CT
+233617005,Hemorrhagic pneumonia (disorder),SNOMED-CT
+301001009,Right lower zone pneumonia (disorder),SNOMED-CT
+240391001,Pulmonary melioidosis (disorder),SNOMED-CT
+78895009,Congenital pneumonia (disorder),SNOMED-CT
+10625351000119104,Bronchopneumonia caused by methicillin resistant Staphylococcus aureus (disorder),SNOMED-CT
+3487004,Candidiasis of lung (disorder),SNOMED-CT
+12181002,Tropical pulmonary alveolitis (disorder),SNOMED-CT
+233731003,Traumatic pneumonia (disorder),SNOMED-CT
+10624991000119104,Bronchopneumonia caused by Achromobacter (disorder),SNOMED-CT
+34020007,Pneumonia caused by Streptococcus (disorder),SNOMED-CT
+1033111000000104,Influenza with pneumonia due to seasonal influenza virus (disorder),SNOMED-CT
+63607006,Perinatal pneumomediastinum (disorder),SNOMED-CT
+196034005,Pneumonitis caused by inhalation of milk (disorder),SNOMED-CT
+233619008,Neonatal pneumonia (disorder),SNOMED-CT
+708537005,Acute idiopathic pulmonary fibrosis (disorder),SNOMED-CT
+240741002,Acute pulmonary African histoplasmosis (disorder),SNOMED-CT
+737183007,Interstitial lung disease due to metabolic disease (disorder),SNOMED-CT
+22343003,Pneumonitis caused by fumes AND/OR vapors (disorder),SNOMED-CT
+733453005,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome (disorder)",SNOMED-CT
+233623000,Mononuclear interstitial pneumonia (disorder),SNOMED-CT
+385093006,Community acquired pneumonia (disorder),SNOMED-CT
+10625591000119108,Bronchopneumonia caused by Staphylococcus (disorder),SNOMED-CT
+737180005,Chronic bronchiolitis (disorder),SNOMED-CT
+71926009,Infective pneumonia acquired prenatally (disorder),SNOMED-CT
+735465007,Protracted bronchitis caused by bacterium (disorder),SNOMED-CT
+195911009,Chickenpox pneumonia (disorder),SNOMED-CT
+733051000,Pneumonia caused by Gram positive bacteria (disorder),SNOMED-CT
+213152006,Heart-lung transplant failure and rejection (disorder),SNOMED-CT
+191727003,Post measles pneumonia (disorder),SNOMED-CT
+89687005,Postimmersion-submersion syndrome (disorder),SNOMED-CT
+11944003,Feather-pickers' disease (disorder),SNOMED-CT
+10625751000119106,Bronchopneumonia due to virus (disorder),SNOMED-CT
+106001000119101,Chronic obstructive lung disease co-occurrent with acute bronchitis (disorder),SNOMED-CT
+233622005,Infectious mononucleosis pneumonia (disorder),SNOMED-CT
+308906005,Secondary bacterial pneumonia (disorder),SNOMED-CT
+430969000,Recurrent aspiration pneumonia (disorder),SNOMED-CT
+10625471000119108,Bronchopneumonia caused by Proteus mirabilis (disorder),SNOMED-CT
+10672271000119100,Acute-on-chronic hypoxemic respiratory failure (disorder),SNOMED-CT
+186177005,Tuberculosis of lung with cavitation (disorder),SNOMED-CT
+713525001,Recurrent bacterial pneumonia (disorder),SNOMED-CT
+83271005,Chronic laryngotracheitis (disorder),SNOMED-CT
+45312009,Pneumonia in typhoid fever (disorder),SNOMED-CT
+123587001,Acute bronchopneumonia (disorder),SNOMED-CT
+762271004,Subclinical cystic fibrosis (disorder),SNOMED-CT
+276692000,Congenital viral pneumonia (disorder),SNOMED-CT
+10625231000119106,Bronchopneumonia caused by Haemophilus influenzae (disorder),SNOMED-CT
+206283000,Congenital staphylococcal pneumonia (disorder),SNOMED-CT
+64030005,Pneumonitis caused by solids (disorder),SNOMED-CT
+186203002,"Tuberculosis of lung, bacteriologically and histologically negative (disorder)",SNOMED-CT
+10625071000119104,Bronchopneumonia caused by bacteria (disorder),SNOMED-CT
+722912007,Congenital pulmonary hypoplasia due to prolonged premature rupture of membranes (disorder),SNOMED-CT
+72656004,Granulomatous pneumonia (disorder),SNOMED-CT
+233618000,Mycobacterial pneumonia (disorder),SNOMED-CT
+186175002,Infiltrative lung tuberculosis (disorder),SNOMED-CT
+233624006,Herpes simplex pneumonia (disorder),SNOMED-CT
+441590008,Pneumonia caused by Severe acute respiratory syndrome coronavirus (disorder),SNOMED-CT
+707553005,Chronic exogenous lipoid pneumonia (disorder),SNOMED-CT
+143111000119103,Pneumonia caused by avian influenza (disorder),SNOMED-CT
+187196002,Toxoplasma pneumonitis (disorder),SNOMED-CT
+42004004,Aspiration pneumonia caused by inhalation of vomitus (disorder),SNOMED-CT
+195878008,Pneumonia and influenza (disorder),SNOMED-CT
+233608005,Meningococcal pneumonia (disorder),SNOMED-CT
+186204008,"Tuberculosis of lung, bacteriological and histological examination not done (disorder)",SNOMED-CT
+80602006,Nodular tuberculosis of lung (disorder),SNOMED-CT
+233606009,Atypical pneumonia (disorder),SNOMED-CT
+319841000119107,Rheumatoid lung disease with rheumatoid arthritis (disorder),SNOMED-CT
+55679008,Peribronchial pneumonia (disorder),SNOMED-CT
+713544008,Bacterial pneumonia co-occurrent with human immunodeficiency virus infection (disorder),SNOMED-CT
+233716007,Micronodular pulmonary ossification (disorder),SNOMED-CT
+80614003,Prolonged pulmonary alveolitis (disorder),SNOMED-CT
+196032009,Pneumonitis due to inhalation of food or vomitus (disorder),SNOMED-CT
+123588006,Confluent bronchopneumonia with abscess formation (disorder),SNOMED-CT
+123590007,Focal pneumonia (disorder),SNOMED-CT
+66110007,Chronic diffuse emphysema caused by inhalation of chemical fumes AND/OR vapors (disorder),SNOMED-CT
+31561003,Hypostatic bronchopneumonia (disorder),SNOMED-CT
+206287004,Congenital pseudomonal pneumonia (disorder),SNOMED-CT
+2523007,Salmonella pneumonia (disorder),SNOMED-CT
+196035006,Pneumonitis caused by inhalation of vomitus (disorder),SNOMED-CT
+83457000,Cylindrical bronchiectasis (disorder),SNOMED-CT
+57702005,Unresolved pneumonia (disorder),SNOMED-CT
+2912004,Cystic-bullous disease of the lung (disorder),SNOMED-CT
+65141002,Foreign body pneumonia (disorder),SNOMED-CT
+89099002,Chronic allergic bronchitis (disorder),SNOMED-CT
+84753008,Pneumonia in systemic mycosis (disorder),SNOMED-CT
+442094008,Pneumonia caused by Histoplasma (disorder),SNOMED-CT
+86680006,Ruptured emphysematous bleb of lung (disorder),SNOMED-CT
+407671000,Bilateral pneumonia (disorder),SNOMED-CT
+707552000,Acute exogenous lipoid pneumonia (disorder),SNOMED-CT
+67525007,Secondary pneumonic plague (disorder),SNOMED-CT
+198014000,Acquired obstructive azoospermia (disorder),SNOMED-CT
+762269004,Classical cystic fibrosis (disorder),SNOMED-CT
+233714005,Diffuse infiltrative lung disease (disorder),SNOMED-CT
+10625831000119108,Chemical pneumonitis caused by anesthesia (disorder),SNOMED-CT
+421508002,Viral pneumonia associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+10625311000119108,Bronchopneumonia caused by Klebsiella pneumoniae (disorder),SNOMED-CT
+240629003,Malarial shock lung (disorder),SNOMED-CT
+38976008,Pneumonic plague (disorder),SNOMED-CT
+471272001,Cavitary pneumonia (disorder),SNOMED-CT
+47082005,Congenital rubella pneumonitis (disorder),SNOMED-CT
+240871004,Capillaria aerophila chest infection (disorder),SNOMED-CT
+408679000,Healthcare associated pneumonia (disorder),SNOMED-CT
+85469005,Hypostatic pneumonia (disorder),SNOMED-CT
+18354001,Chronic induration of lung (disorder),SNOMED-CT
+72270005,Collagenous pneumoconiosis (disorder),SNOMED-CT
+707373004,Plasma cell granuloma of lung (disorder),SNOMED-CT
+57686001,Emphysematous bleb of lung (disorder),SNOMED-CT
+10625391000119100,Bronchopneumonia caused by methicillin susceptible Staphylococcus aureus (disorder),SNOMED-CT
+10613001,Acute berylliosis (disorder),SNOMED-CT
+7361000175106,Acute-on-chronic hypercapnic respiratory failure (disorder),SNOMED-CT
+401000119107,Asthma with irreversible airway obstruction (disorder),SNOMED-CT
+278516003,Lobar pneumonia (disorder),SNOMED-CT
+236807008,Congenital obstructive azoospermia (disorder),SNOMED-CT
+765275003,Male infertility with azoospermia due to single gene mutation (disorder),SNOMED-CT
+314978007,Postoperative pneumonia (disorder),SNOMED-CT
+240742009,Chronic pulmonary African histoplasmosis (disorder),SNOMED-CT
+396285007,Bronchopneumonia (disorder),SNOMED-CT
+708026002,Chronic pneumonitis of infancy (disorder),SNOMED-CT
+708030004,Pulmonary emphysema co-occurrent with fibrosis of lung (disorder),SNOMED-CT
+86294001,Pneumonitis caused by inhalation of essence (disorder),SNOMED-CT
+32139003,Mixed dust pneumoconiosis (disorder),SNOMED-CT
+10692721000119102,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma (disorder),SNOMED-CT
+12571000132104,Pneumonitis due to Herpes zoster (disorder),SNOMED-CT
+762270003,Atypical cystic fibrosis (disorder),SNOMED-CT
+708031000,Idiopathic eosinophilic pneumonia (disorder),SNOMED-CT
+81554001,Tuberculosis of lung with involvement of bronchus (disorder),SNOMED-CT
+195909000,Nocardial pneumonia (disorder),SNOMED-CT
+10625191000119102,Bronchopneumonia caused by Group B Streptococcus (disorder),SNOMED-CT
+196115007,Pulmonary congestion and hypostasis (disorder),SNOMED-CT
+1751000119100,Acute exacerbation of chronic obstructive airways disease with asthma (disorder),SNOMED-CT
+196033004,Pneumonitis caused by inhalation of regurgitated food (disorder),SNOMED-CT
+430476004,Diffuse panbronchiolitis (disorder),SNOMED-CT
+233715006,Idiopathic diffuse pulmonary ossification (disorder),SNOMED-CT
+81164001,Ornithosis with pneumonia (disorder),SNOMED-CT
+736056000,Asthma clinical management plan (record artifact),SNOMED-CT
+40786001,Aspiration pneumonia caused by regurgitated gastric secretions (disorder),SNOMED-CT
+123589003,Necrotizing bronchopneumonia (disorder),SNOMED-CT
+10625511000119104,Bronchopneumonia caused by Pseudomonas (disorder),SNOMED-CT
+699014000,Recurrent pneumonia (disorder),SNOMED-CT
+206284006,Congenital group A hemolytic streptococcal pneumonia (disorder),SNOMED-CT
+427121008,Azoospermia due to obstruction (disorder),SNOMED-CT
+66429007,Unresolved lobar pneumonia (disorder),SNOMED-CT
+724498004,Pneumonia caused by Chlamydia pneumoniae (disorder),SNOMED-CT
+38699009,Pneumonia caused by Histoplasma capsulatum (disorder),SNOMED-CT
+111900000,Pneumonia in aspergillosis (disorder),SNOMED-CT
+233717003,Diffuse pulmonary neurofibromatosis (disorder),SNOMED-CT
+446946005,Reinfection pulmonary tuberculosis (disorder),SNOMED-CT
+195904005,Pneumonia with coccidioidomycosis (disorder),SNOMED-CT
+200052003,Obstetric anesthesia with pulmonary complications with postnatal problem (disorder),SNOMED-CT
+32204007,Pulmonary actinobacillosis (disorder),SNOMED-CT
+425793006,Azoospermia due to systemic disease (disorder),SNOMED-CT
+41269000,Influenzal bronchopneumonia (disorder),SNOMED-CT
+187052004,Pulmonary African histoplasmosis (disorder),SNOMED-CT
+35031000119100,Acute aspiration pneumonia (disorder),SNOMED-CT
+441942006,Pneumonia caused by infection caused by Streptococcus pyogenes (disorder),SNOMED-CT
+447006007,Relapse pulmonary tuberculosis (disorder),SNOMED-CT
+206285007,Congenital group B hemolytic streptococcal pneumonia (disorder),SNOMED-CT
+713526000,Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection (disorder),SNOMED-CT
+233610007,Neonatal chlamydial pneumonia (disorder),SNOMED-CT
+233621003,Rickettsial pneumonia (disorder),SNOMED-CT
+716198008,Growth delay with hydrocephalus and lung hypoplasia syndrome (disorder),SNOMED-CT
+266370006,Trauma and postoperative pulmonary insufficiency (disorder),SNOMED-CT
+371072008,Postobstructive pneumonia (disorder),SNOMED-CT
+707433009,Lymphangioleiomyomatosis due to tuberous sclerosis syndrome (disorder),SNOMED-CT
+302913000,Diffuse pulmonary calcinosis (disorder),SNOMED-CT
+10625631000119108,Bronchopneumonia caused by Staphylococcus aureus (disorder),SNOMED-CT
+426853005,Pneumoconiosis caused by silicate (disorder),SNOMED-CT
+301000005,Left lower zone pneumonia (disorder),SNOMED-CT
+80003002,Tuberculous pneumonia (disorder),SNOMED-CT
+240747003,Chronic pulmonary blastomycosis (disorder),SNOMED-CT
+700252003,Subacute idiopathic pulmonary fibrosis (disorder),SNOMED-CT
+31920006,Hemorrhagic varicella pneumonitis (disorder),SNOMED-CT
+429271009,Ventilator-acquired pneumonia (disorder),SNOMED-CT
+266350000,Pneumococcal lobar pneumonia (disorder),SNOMED-CT
+697923008,Pulmonary hypertension in lymphangioleiomyomatosis (disorder),SNOMED-CT
+32544004,Chronic obliterative bronchiolitis caused by inhalation of chemical fumes AND/OR vapors (disorder),SNOMED-CT
+86263001,Cobaltosis (disorder),SNOMED-CT
+64479007,Pneumonia caused by Klebsiella pneumoniae (disorder),SNOMED-CT
+735466008,Pneumonitis due to aspiration of blood (disorder),SNOMED-CT
+47938003,Chronic obliterative bronchiolitis (disorder),SNOMED-CT
+713084008,Pneumonia caused by Human coronavirus (disorder),SNOMED-CT
+195908008,Actinomycotic pneumonia (disorder),SNOMED-CT
+442025000,Acute exacerbation of chronic asthmatic bronchitis (disorder),SNOMED-CT
+366981000119102,Azoospermia caused by radiation (disorder),SNOMED-CT
+64667001,Interstitial pneumonia (disorder),SNOMED-CT
+41997000,Asthmatic pulmonary alveolitis (disorder),SNOMED-CT
+737182002,Interstitial lung disease due to granulomatous disease (disorder),SNOMED-CT
+438764004,Postoperative aspiration pneumonia (disorder),SNOMED-CT
+70036007,Haemophilus influenzae pneumonia (disorder),SNOMED-CT
+60485005,Pleurobronchopneumonia (disorder),SNOMED-CT
+13217005,Fusiform bronchiectasis (disorder),SNOMED-CT
+76090006,Pittsburgh pneumonia (disorder),SNOMED-CT
+19325002,Traction bronchiectasis (disorder),SNOMED-CT
+233691007,Asthmatic pulmonary eosinophilia (disorder),SNOMED-CT
+421671002,Pneumonia associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+1087061000119106,Gonococcal pneumonia (disorder),SNOMED-CT
+405569006,Post-radiotherapy pneumonitis (disorder),SNOMED-CT
+422588002,Aspiration pneumonia (disorder),SNOMED-CT
+233760007,Acute silicosis (disorder),SNOMED-CT
+75570004,Viral pneumonia (disorder),SNOMED-CT
+10625031000119102,Bronchopneumonia caused by anaerobic bacteria (disorder),SNOMED-CT
+421047005,Candidiasis of lung associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+409665004,Pneumonia caused by aerobic bacteria (disorder),SNOMED-CT
+22754005,Staphylococcal pneumonia (disorder),SNOMED-CT
+425558002,Azoospermia (disorder),SNOMED-CT
+293241000119100,Acute exacerbation of chronic obstructive bronchitis (disorder),SNOMED-CT
+40218008,Carbon electrode makers' pneumoconiosis (disorder),SNOMED-CT
+67782005,Acute respiratory distress syndrome (disorder),SNOMED-CT
+41207000,Adenoviral pneumonia (disorder),SNOMED-CT
+61884008,Achromobacter pneumonia (disorder),SNOMED-CT
+28122003,Pulmonary eosinophilic granuloma (disorder),SNOMED-CT
+277844007,Pulmonary lymphangioleiomyomatosis (disorder),SNOMED-CT
+38534008,Aspiration of stomach contents after anesthesia AND/OR sedation in labor AND/OR delivery (disorder),SNOMED-CT
+707449006,Exogenous lipoid pneumonia (disorder),SNOMED-CT
+700251005,Chronic idiopathic pulmonary fibrosis (disorder),SNOMED-CT
+154283005,Pulmonary tuberculosis (disorder),SNOMED-CT
+196037003,Pneumonitis caused by inhalation of oil or essence (disorder),SNOMED-CT
+1240551000000105,Pneumonia caused by severe acute respiratory syndrome coronavirus 2 (disorder),SNOMED-CT
+35339003,Primary pneumonic plague (disorder),SNOMED-CT
+51530003,Pneumonia caused by Escherichia coli (disorder),SNOMED-CT
+33548005,Anthracosilicosis (disorder),SNOMED-CT
+50804000,Catarrhal pneumonia (disorder),SNOMED-CT
+200051005,Obstetric anesthesia with pulmonary complications with antenatal problem (disorder),SNOMED-CT
+64936001,Löffler's syndrome (disorder),SNOMED-CT
+704120002,Change in chronic obstructive pulmonary disease management plan (regime/therapy),SNOMED-CT
+240635003,Pneumonia caused by Leishmania (disorder),SNOMED-CT
+420787001,Pneumococcal pneumonia associated with acquired immunodeficiency syndrome (disorder),SNOMED-CT
+195889001,Legionella pneumonia (disorder),SNOMED-CT
+68409003,Organized pneumonia (disorder),SNOMED-CT
+16311000119108,Pneumonia caused by influenza (disorder),SNOMED-CT
+707503004,Pneumonia caused by Schistosoma mansoni (disorder),SNOMED-CT
+26511004,Pneumoconiosis caused by sisal fiber (disorder),SNOMED-CT
+195881003,Pneumonia caused by respiratory syncytial virus (disorder),SNOMED-CT
+196153002,Pulmonary insufficiency following trauma (disorder),SNOMED-CT
+445378003,Acute exacerbation of bronchiectasis (disorder),SNOMED-CT
+186193001,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture (disorder)",SNOMED-CT
+396286008,Bilateral bronchopneumonia (disorder),SNOMED-CT
+300999006,Basal pneumonia (disorder),SNOMED-CT
+233625007,Giant cell pneumonia (disorder),SNOMED-CT
+12381000132107,Idiopathic pneumonia syndrome (disorder),SNOMED-CT
+704345008,Chronic interstitial pneumonia (disorder),SNOMED-CT
+707435002,Neuroendocrine cell hyperplasia of infancy (disorder),SNOMED-CT
+1082721000119101,Pneumonia caused by Ascaris (disorder),SNOMED-CT
+737184001,Interstitial lung disease co-occurrent and due to systemic vasculitis (disorder),SNOMED-CT
+196116008,Pulmonary hypostasis (disorder),SNOMED-CT
+64703005,Terminal bronchopneumonia (disorder),SNOMED-CT
+301003007,Right middle zone pneumonia (disorder),SNOMED-CT
+123591006,Confluent pneumonia (disorder),SNOMED-CT
+35037009,Primary atypical interstitial pneumonia (disorder),SNOMED-CT
+186194007,"Tuberculosis of lung, confirmed by culture only (disorder)",SNOMED-CT
+720401009,Cystic fibrosis with gastritis and megaloblastic anemia syndrome (disorder),SNOMED-CT
+233614003,Pulmonary mucormycosis (disorder),SNOMED-CT
+428697002,Inactive tuberculosis of lung (disorder),SNOMED-CT
+10625551000119104,Bronchopneumonia caused by respiratory syncytial virus (disorder),SNOMED-CT
+32286006,Pneumonia in Q fever (disorder),SNOMED-CT
+700249006,Idiopathic interstitial pneumonia (disorder),SNOMED-CT
+207331000000102,Multiple chronic obstructive pulmonary disease emergency hospital admissions,SNOMED-CT
+207321000000104,Multiple chronic obstructive pulmonary disease emergency hospital admissions,SNOMED-CT
+169631000000104,Chronic obstructive pulmonary disease accident and emergency attendance since last visit,SNOMED-CT
+649131000000101,Simple chronic bronchitis NOS (disorder),SNOMED-CT
+432151000000100,[X]Pneumonia in bacterial diseases classified elsewhere (disorder),SNOMED-CT
+226461000000108,Single lobe lung transplant (procedure),SNOMED-CT
+313433007,Tuberculous cavity of lung (disorder),SNOMED-CT
+427069009,Azoospermia due to chemotherapy AND/OR radiation (disorder),SNOMED-CT
+414882007,Number of chronic obstructive pulmonary disease exacerbations in past year (finding),SNOMED-CT
+487261000000103,Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation - enhanced services administration,SNOMED-CT
+564541000000102,Other specified pulmonary tuberculosis (disorder),SNOMED-CT
+456031000000108,[X]Pneumonia in mycoses classified elsewhere (disorder),SNOMED-CT
+890871000000103,Chronic obstructive pulmonary disease written self management plan declined,SNOMED-CT
+174221000000108,Emergency chronic obstructive pulmonary disease admission since last appointment,SNOMED-CT
+432461000000108,[X]Pneumoconiosis due to other dust containing silica (disorder),SNOMED-CT
+781661000000103,Interstitial lung disease due to collagen vascular disease (disorder),SNOMED-CT
+64912000,Enzootic mycoplasmal pneumonia of swine (disorder),SNOMED-CT
+644271000000105,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified (disorder)",SNOMED-CT
+778131000000103,Cystic fibrosis related cirrhosis,SNOMED-CT
+811971000000104,Congestive obstructive pulmonary disease self-management plan agreed,SNOMED-CT
+523671000000103,Step up change in chronic obstructive pulmonary disease management plan (regime/therapy),SNOMED-CT
+195738009,Obliterating fibrous bronchiolitis (disorder),SNOMED-CT
+626081000000109,Bronchitis and pneumonitis due to chemical fumes NOS (disorder),SNOMED-CT
+414341000000100,[X]Pneumonia in viral diseases classified elsewhere (disorder),SNOMED-CT
+186726005,Human immunodeficiency virus disease resulting in lymphoid interstitial pneumonitis (disorder),SNOMED-CT
+57716000,Brooder pneumonia (disorder),SNOMED-CT
+88693009,AIDS with candidiasis of lung (disorder),SNOMED-CT
+579411000000108,Pulmonary tuberculosis NOS (disorder),SNOMED-CT
+213431000000100,Chronic obstructive pulmonary disease does not disturb sleep,SNOMED-CT
+1033131000000107,Pneumonia due to Gram negative bacteria (disorder),SNOMED-CT
+566801000000107,Other specified congenital pneumonia (disorder),SNOMED-CT
+192681000000108,Cryptogenic organising pneumonitis,SNOMED-CT
+412776001,Chronic obstructive pulmonary disease clinical management plan (qualifier value),SNOMED-CT
+419861000000108,[X]Other specified chronic obstructive pulmonary disease (disorder),SNOMED-CT
+823141000000101,Community acquired pneumonia (disorder),SNOMED-CT
+21072009,Gas bubble disease (disorder),SNOMED-CT
+834861000000109,Hospital acquired pneumonia,SNOMED-CT
+827581000000108,Has chronic obstructive pulmonary disease care plan,SNOMED-CT
+939441000000104,History of bronchiectasis,SNOMED-CT
+375871000000104,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration,SNOMED-CT
+535011000000101,Interstitial lung disease NEC (disorder),SNOMED-CT
+383621000000108,At risk of chronic obstructive pulmonary disease exacerbation,SNOMED-CT
+45157009,Idiopathic fibrosing alveolitis (disorder),SNOMED-CT
+196038008,Lipoid pneumonitis (disorder),SNOMED-CT
+195920000,"Influenza with pneumonia, influenza virus identified (disorder)",SNOMED-CT
+42964004,Influenza with pneumonia (disorder),SNOMED-CT
+718251000000105,Issue of chronic obstructive pulmonary disease rescue pack,SNOMED-CT
+944961000000107,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),SNOMED-CT
+174231000000105,Number of chronic obstructive pulmonary disease exacerbations in past year,SNOMED-CT
+454431000000109,[X]Pneumonia due to other aerobic gram-negative bacteria (disorder),SNOMED-CT
+420245002,Pneumonia due to Mannheimia haemolytica (disorder),SNOMED-CT
+47839005,Aspiration pneumonia (disorder),SNOMED-CT
+16810008,Acquired immunodeficiency syndrome (AIDS) with viral pneumonia (disorder),SNOMED-CT
+820351000000107,Chronic obstructive pulmonary disease rescue pack not indicated,SNOMED-CT
+1033121000000105,Influenzal bronchopneumonia due to seasonal influenza virus,SNOMED-CT
+233689004,Mill fever (disorder),SNOMED-CT
+174211000000102,Chronic obstructive pulmonary disease accident and emergency attendance since last visit,SNOMED-CT
+601611000000106,Bird-fancier's lung NOS (disorder),SNOMED-CT
+111282000,Acute respiratory insufficiency (disorder),SNOMED-CT
+807871000000104,Interstitial lung disease due to collagen vascular disease,SNOMED-CT
+419331000000108,[X]Other specified interstitial pulmonary diseases (disorder),SNOMED-CT
+83316006,Pneumoconiosis due to silicates (disorder),SNOMED-CT
+832441000000100,Hantavirus pulmonary syndrome,SNOMED-CT
+627021000000105,Chronic pulmonary radiation disease NOS (disorder),SNOMED-CT
+621061000000108,Other chronic bronchitis NOS (disorder),SNOMED-CT
+325371000000107,Chronic type 1 respiratory failure (disorder),SNOMED-CT
+389077007,Tuberculous pneumonia of animals (disorder),SNOMED-CT
+169651000000106,Number of chronic obstructive pulmonary disease exacerbations in past year,SNOMED-CT
+866911000000101,Eosinophilic bronchitis,SNOMED-CT
+579421000000102,Other respiratory tuberculosis (disorder),SNOMED-CT
+526101000000108,Liver disease due to cystic fibrosis (disorder),SNOMED-CT
+685151000000101,Other aspiration pneumonia as a complication of care (disorder),SNOMED-CT
+429381000000103,[X]Other viral pneumonia (disorder),SNOMED-CT
+789761000000107,Chronic obstructive pulmonary disease medication optimisation,SNOMED-CT
+250521000000103,Health education - chronic obstructive pulmonary disease,SNOMED-CT
+554071000000106,Isolated tracheal or bronchial tuberculosis NOS (disorder),SNOMED-CT
+31886003,Bronchiolitis fibrosa obliterans (disorder),SNOMED-CT
+84234002,Equine allergic pneumonitis (disorder),SNOMED-CT
+397991000000107,[X]Other interstitial pulmonary diseases with fibrosis (disorder),SNOMED-CT
+807851000000108,Pulmonary fibrosis,SNOMED-CT
+233723008,Bronchiolitis obliterans with usual interstitial pneumonitis (disorder),SNOMED-CT
+312403005,Legionnaire's disease (disorder),SNOMED-CT
+526111000000105,Fibrosing colonopathy (disorder),SNOMED-CT
+670641000000109,Chemical respiratory disease NOS (disorder),SNOMED-CT
+1033141000000103,Pneumonia due to Gram negative bacteria,SNOMED-CT
+339601000000108,Recurrent pulmonary embolism (disorder),SNOMED-CT
+375921000000108,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration,SNOMED-CT
+948111000000104,Telehealth chronic obstructive pulmonary disease monitoring (regime/therapy),SNOMED-CT
+604421000000104,Cystic fibrosis NOS (disorder),SNOMED-CT
+944971000000100,Asthma-chronic obstructive pulmonary disease overlap syndrome,SNOMED-CT
+526211000000102,Complication of transplanted lung (disorder),SNOMED-CT
+848441000000102,Following chronic obstructive pulmonary disease care pathway protocol,SNOMED-CT
+113071000000105,Chronic obstructive pulmonary disease monitoring phone invite (administrative concept),SNOMED-CT
+1761000119103,Chronic obstructive airway disease with asthma (disorder),SNOMED-CT
+397190009,Respiratory tuberculosis (disorder),SNOMED-CT
+834851000000106,Community acquired pneumonia,SNOMED-CT
+186191004,Isolated tracheal or bronchial tuberculosis NOS (disorder),SNOMED-CT
+213421000000102,Chronic obstructive pulmonary disease does not disturb sleep,SNOMED-CT
+122971000000108,Chronic obstructive pulmonary disease monitoring 2nd letter (administrative concept),SNOMED-CT
+649171000000104,Idiopathic fibrosing alveolitis NOS (disorder),SNOMED-CT
+294011000000104,Very severe chronic obstructive pulmonary disease,SNOMED-CT
+586721000000108,Obstetric anesthesia with pulmonary complications NOS (disorder),SNOMED-CT
+807391000000107,Usual interstitial pneumonitis,SNOMED-CT
+707021000000109,Fibrosing colonopathy,SNOMED-CT
+686551000000103,Pulmonary hypostasis NOS (disorder),SNOMED-CT
+57086000,Enzootic pneumonia of calves (disorder),SNOMED-CT
+37721008,AIDS with pneumococcal pneumonia (disorder),SNOMED-CT
+645421000000106,Acute pulmonary radiation disease NOS (disorder),SNOMED-CT
+760611000000109,Chronic obstructive pulmonary disease 3 month review,SNOMED-CT
+707001000000100,Cystic fibrosis with distal intestinal obstruction syndrome,SNOMED-CT
+113061000000103,Chronic obstructive pulmonary disease monitoring verbal invite (administrative concept),SNOMED-CT
+338131000000101,Chronic type 2 respiratory failure,SNOMED-CT
+441141000000108,[X]Pneumonia due to other aerobic gram-negative bacteria (disorder),SNOMED-CT
+113051000000101,Chronic obstructive pulmonary disease monitoring 3rd letter (administrative concept),SNOMED-CT
+204574007,Pulmonary hypoplasia (disorder),SNOMED-CT
+616161000000107,Influenza with pneumonia NOS (disorder),SNOMED-CT
+823151000000103,Hospital acquired pneumonia (disorder),SNOMED-CT
+169761000000104,Heart and lung transplant,SNOMED-CT
+169641000000108,Emergency chronic obstructive pulmonary disease admission since last appointment,SNOMED-CT
+60696005,AIDS with bacterial pneumonia (disorder),SNOMED-CT
+789751000000109,Chronic obstructive pulmonary disease medication optimisation (procedure),SNOMED-CT
+656891000000102,Lobar pneumonia due to unspecified organism (disorder),SNOMED-CT
+789671000000109,Preferred place of care for next exacerbation of chronic obstructive pulmonary disease,SNOMED-CT
+540151000000108,Pneumonia or influenza NOS (disorder),SNOMED-CT
+540141000000105,Other specified pneumonia or influenza (disorder),SNOMED-CT
+807651000000109,Bronchiolitis obliterans syndrome after lung transplantation,SNOMED-CT
+468671000000107,[X]Other bacterial pneumonia (disorder),SNOMED-CT
+400631000000109,"[X]Other pneumonia, organism unspecified (disorder)",SNOMED-CT
+649141000000105,Mucopurulent chronic bronchitis NOS (disorder),SNOMED-CT
+781591000000108,Education about chronic obstructive pulmonary disease (procedure),SNOMED-CT
+568721000000106,Other specified transplantation of heart and lung (procedure),SNOMED-CT
+390151000000103,[X]Other chronic respiratory diseases originating in the perinatal period (disorder),SNOMED-CT
+528511000000103,Perinatal interstitial emphysema and related conditions (disorder),SNOMED-CT
+626071000000107,Pneumoconiosis NOS (disorder),SNOMED-CT
+276694004,Acquired neonatal pneumonia (disorder),SNOMED-CT
+658391000000105,Cystic fibrosis with other manifestations (disorder),SNOMED-CT
+123620007,Hantanvirus pulmonary syndrome (disorder),SNOMED-CT
+240311002,Pneumonitis due to fetal aspiration (disorder),SNOMED-CT
+213401000000106,Chronic obstructive pulmonary disease disturbs sleep,SNOMED-CT
+523661000000105,Step down change in chronic obstructive pulmonary disease management plan (regime/therapy),SNOMED-CT
+389075004,Tuberculous pneumonia of humans (disorder),SNOMED-CT
+187042003,Histoplasma capsulatum with pneumonia (disorder),SNOMED-CT
+213411000000108,Chronic obstructive pulmonary disease disturbs sleep,SNOMED-CT
+834491000000101,End stage chronic obstructive airways disease,SNOMED-CT
+111885006,AIDS with pneumonia (disorder),SNOMED-CT
+412891000000108,[X]Pneumonitis due to inhalation of other solids and liquids (disorder),SNOMED-CT
+649201000000103,Pulmonary eosinophilia NOS (disorder),SNOMED-CT
+611551000000109,Asbestosis NOS (disorder),SNOMED-CT
+491091000000105,Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation - enhanced services administration,SNOMED-CT
+123592004,Acute mucous pneumonia (disorder),SNOMED-CT
+28168000,"Idiopathic fibrosing alveolitis, chronic form (disorder)",SNOMED-CT
+707011000000103,Liver disease due to cystic fibrosis,SNOMED-CT
+74455006,Bovine allergic alveolitis (disorder),SNOMED-CT
+897321000000107,Shared care chronic obstructive disease monitoring,SNOMED-CT
+192671000000106,Bronchiolitis obliterans,SNOMED-CT
+68759006,"Idiopathic fibrosing alveolitis, subacute form (disorder)",SNOMED-CT
+196161007,Interstitial lung disease NEC (disorder),SNOMED-CT
+857671000000106,Seen in chronic obstructive pulmonary disease clinic,SNOMED-CT
+412775002,Asthma clinical management plan (qualifier value),SNOMED-CT
+253151000000106,Health education - chronic obstructive pulmonary disease,SNOMED-CT
+689401000000108,Bronchopneumonia due to unspecified organism (disorder),SNOMED-CT
+515641000000103,Cystic fibrosis annual review,SNOMED-CT
+195905006,Pneumonia with histoplasmosis (disorder),SNOMED-CT
+781651000000101,Respiratory bronchiolitis associated interstitial lung disease (disorder),SNOMED-CT
+338121000000103,Chronic type 1 respiratory failure,SNOMED-CT
+325401000000109,Chronic type 2 respiratory failure (disorder),SNOMED-CT
+286451000000100,Cystic fibrosis related diabetes mellitus (disorder),SNOMED-CT
+645401000000102,Pneumonitis due to inhalation of oil or essence NOS (disorder),SNOMED-CT
+707891000000102,Complication of transplanted lung,SNOMED-CT
+630531000000104,Bronchiectasis NOS (disorder),SNOMED-CT
+579661000000108,Chronic bullous emphysema NOS (disorder),SNOMED-CT
+60837001,Contagious bovine pleuropneumonia (disorder),SNOMED-CT
+195882005,Viral pneumonia NEC (disorder),SNOMED-CT
+706991000000106,Arthropathy in cystic fibrosis,SNOMED-CT
+948121000000105,Telehealth chronic obstructive pulmonary disease monitoring,SNOMED-CT
+17365008,Allergic pneumonia (disorder),SNOMED-CT
+255621000000109,Double lung transplant,SNOMED-CT
+555141000000100,Other specified transplantation of lung (procedure),SNOMED-CT
+915671000000101,Chronic obstructive pulmonary disease management plan declined,SNOMED-CT
+564621000000105,Other specified respiratory tuberculosis NOS (disorder),SNOMED-CT
+397981000000105,[X]Other respiratory diseases principally affecting the interstitium (disorder),SNOMED-CT
+478351000000102,[X]Congenital pneumonia due to other organisms (disorder),SNOMED-CT
+807891000000100,Interstitial lung disease due to connective tissue disease,SNOMED-CT
+601591000000103,Other chronic bronchitis (disorder),SNOMED-CT
+586341000000100,Transplantation of heart and lung NOS (procedure),SNOMED-CT
+781711000000106,Interstitial lung disease due to connective tissue disease (disorder),SNOMED-CT
+129458007,Bronchiolitis obliterans organizing pneumonia (disorder),SNOMED-CT
+469801000000105,[X]Pneumonia in parasitic diseases classified elsewhere (disorder),SNOMED-CT
+294001000000101,Very severe chronic obstructive pulmonary disease,SNOMED-CT
+255641000000102,Single lobe lung transplant,SNOMED-CT
+113031000000108,Chronic obstructive pulmonary disease monitoring administration (administrative concept),SNOMED-CT
+89991000000102,Excepted from COPD quality indicators: Patient unsuitable (administrative concept),SNOMED-CT
+471471000000106,[X]Pneumonia due to other specified infectious organisms (disorder),SNOMED-CT
+617941000000107,Viral pneumonia NEC (disorder),SNOMED-CT
+391131001,Chronic obstructive pulmonary disease self-management plan given (regime/therapy),SNOMED-CT
+187061004,Histoplasmosis with pneumonia (disorder),SNOMED-CT
+564611000000104,Other specified respiratory tuberculosis (disorder),SNOMED-CT
+636501000000107,Pneumonitis due to inhalation of food or vomitus NOS (disorder),SNOMED-CT
+113041000000104,Chronic obstructive pulmonary disease monitoring 1st letter (administrative concept),SNOMED-CT
+338241000000100,Primary ciliary dyskinesia,SNOMED-CT
+390971000000109,[X]Other conditions related to interstitial emphysema originating in the perinatal period (disorder),SNOMED-CT
+790311000000104,Referral to chronic obstructive pulmonary disease community nursing team,SNOMED-CT
+375861000000106,Referred for chronic obstructive pulmonary disease structured smoking assessment - enhanced services administration,SNOMED-CT
+81638006,Contagious caprine pleuropneumonia (disorder),SNOMED-CT
+204572006,"Lung agenesis, hypoplasia and dysplasia (disorder)",SNOMED-CT
+368861000000109,Recurrent pulmonary embolism,SNOMED-CT
+442341000000102,[X]Pneumonia in other diseases classified elsewhere (disorder),SNOMED-CT
+810721000000108,Pneumonia due to Human metapneumovirus (disorder),SNOMED-CT
+233693005,Pulmonary histiocytosis X (disorder),SNOMED-CT
+783641000000100,General practitioner out of hours service notified of chronic obstructive disease care plan,SNOMED-CT
+375931000000105,Chronic obstructive pulmonary disease structured smoking assessment declined - enhanced services administration,SNOMED-CT
+255631000000106,Single lung transplant,SNOMED-CT
+826121000000103,On chronic obstructive pulmonary disease supportive care pathway,SNOMED-CT
+312602005,Lung transplant disorder (disorder),SNOMED-CT
+857801000000104,Chronic obstructive pulmonary disease rescue pack declined,SNOMED-CT
+554081000000108,"Tuberculosis of lung, confirmed by unspecified means (disorder)",SNOMED-CT
+196009005,Massive silicotic fibrosis (disorder),SNOMED-CT
+812311000000102,Hantavirus pulmonary syndrome (disorder),SNOMED-CT
+831811000000105,Pneumonia due to human metapneumovirus,SNOMED-CT
+292571000000107,Cystic fibrosis related diabetes mellitus,SNOMED-CT
+652331000000107,Basal pneumonia due to unspecified organism (disorder),SNOMED-CT
+89087009,Porcine contagious pleuropneumonia (disorder),SNOMED-CT
+409081000000107,[X]Congenital pneumonia due to other bacterial agents (disorder),SNOMED-CT
+654461000000102,"Pneumonic plague, unspecified (disorder)",SNOMED-CT
+409811000000108,[X]Hypersensitivity pneumonitis due to other organic dusts (disorder),SNOMED-CT
+832111000000108,Chronic obstructive pulmonary disease self-management plan review,SNOMED-CT
+50648007,Tropical eosinophilia (disorder),SNOMED-CT
+15341009,Atypical interstitial pneumonia of cattle (disorder),SNOMED-CT
+807861000000106,Respiratory bronchiolitis associated interstitial lung disease,SNOMED-CT
+396284006,Lobular pneumonia (disorder),SNOMED-CT
+760631000000101,Chronic obstructive pulmonary disease 6 month review,SNOMED-CT
+57541005,Pulmonary pneumocystosis (disorder),SNOMED-CT
+550501000000102,Transplantation of lung NOS (procedure),SNOMED-CT
+413846005,Chronic obstructive pulmonary disease finding (finding),SNOMED-CT
+451271000000107,[X]Pneumoconiosis due to other specified inorganic dusts (disorder),SNOMED-CT
+649151000000108,Pulmonary congestion and hypostasis NOS (disorder),SNOMED-CT
+859051000000100,Exacerbation of cystic fibrosis,SNOMED-CT

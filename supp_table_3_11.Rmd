@@ -1,0 +1,545 @@
+---
+title: "Supplementary tables 3-11"
+output:
+  word_document: default
+  html_notebook: default
+  html_document:
+    df_print: paged
+author: "Liang-Yu Lin"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+---
+
+```{r include=FALSE}
+# Load data and packages
+# Datasets
+
+# packages
+library(markdown)
+library(rmarkdown)
+library(arsenal)
+library(kableExtra)
+library(finalfit) 
+library(survival)
+library(survminer)
+
+# Limit significant digits to 2, remove scientific notation
+options(digits = 2, scipen = 999)
+# Time cut points
+time_cut <- c(224) # British summer time 
+```
+
+
+# Vitamin D prescription
+
+Exposure: had vitamin D prescription records (variable name: vd_drug)
+
+## Supplementation table 3: vd_drug and covid19 diagnosis
+
+Use s`urvsplit` to split the follow-up time
+```{r echo=FALSE}
+bd_d_s <- survSplit(
+  Surv(bd_d$fu_time, event = bd_d$c_infection)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_d",
+  start = "start",
+  episode = "season"
+)
+```
+
+
+### Complete regression table
+```{r echo=FALSE}
+explanatory = c("vd_drug*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+explanatory_multi = c("vd_drug*strata(season)", "sex", "age_group")
+dependent ="Surv(start, end_d, event = event)"
+
+bd_d_s %>% 
+  finalfit(dependent, explanatory, explanatory_multi, keep_models = T) %>% 
+knitr::kable(format = "pandoc")
+
+```
+
+### Multiple regression: 
+reason: the final fit output is messy in displaying more than two variables with interaction. 
+```{r include=FALSE}
+coxph(Surv(start, end_d, event = event)~vd_drug*strata(season)+sex+age_group+ethnic_c+bmi_group+drink_freq_c + smoke_stat+ bst+ imd_bd_q+ regions+ low_immune+ chronic_disease, 
+      data = bd_d_s, id = f.eid) %>% summary()
+```
+
+### Simple regression:
+```{r echo=FALSE}
+coxph(Surv(start, end_d, event = event)~vd_drug*strata(season), data = bd_d_s, id = f.eid) %>% summary()
+```
+
+### Partial adjusted for sex and age group
+```{r echo=FALSE}
+# write a function
+partial_sen_o1 <- function(x){
+  bd_d_s %>% 
+  finalfit(dependent ="Surv(start, end_d, event = event)", 
+           explanatory = c(x,"sex", "age_group"), keep_models = T) %>% 
+    knitr::kable(format = "pandoc")
+}
+
+var_list <- c("ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune",  "chronic_disease")
+
+map(var_list, partial_sen_o1)
+
+```
+
+
+## Supplementation table 4: vd_drug and covid-19 admission
+
+```{r include=FALSE}
+# data management
+
+bd_d$fu_time_t3 <- (as.numeric(bd_d$end_hos_all)-as.numeric(start))
+
+# Split the following time:
+
+bd_d_t3 <- survSplit(
+  Surv(bd_d$fu_time_t3, event = bd_d$hos_all)~.,
+  data = bd_d,
+  cut = time_cut, 
+  end = "end_hos_all",
+  start = "start",
+  episode = "season"
+)
+```
+
+### Complete table
+```{r echo=FALSE}
+explanatory = c("vd_drug*strata(season)","sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat" ,"bst", "imd_bd_q" , "regions","low_immune", "chronic_disease")
+explanatory_multi = c("vd_drug*strata(season)", "sex", "age_group")
+# survival objects: 
+# time-in:  2020-03-15
+# time-out: end_hos
+
+dependent ="Surv(start, end_hos_all, event = event)"
+
+# model
+bd_d_t3 %>% finalfit(dependent, explanatory, explanatory_multi, keep_models = T) %>% knitr::kable(format = "pandoc", row.names = NA)
+```
+
+### multiple regression:
+```{r echo=FALSE}
+coxph(
+  Surv(start, end_hos_all, event =event) ~ vd_drug*strata(season)+sex+age_group+ethnic_c+bmi_group+drink_freq_c+smoke_stat+bst+imd_bd_q+regions+low_immune+chronic_disease, 
+  data = bd_d_t3 , id = f.eid) %>% summary()
+```
+
+### Simple regression:
+```{r echo=FALSE}
+coxph(Surv(start, end_hos_all, 
+           event =event) ~ vd_drug*strata(season),
+      data = bd_d_t3 , id = f.eid) %>% summary()
+```
+
+### Partial adjustment
+```{r echo=FALSE}
+# function
+partial_sen_o2 <- function(x){
+  bd_d_t3 %>% 
+  finalfit(dependent ="Surv(start, end_hos_all, event = event)", 
+           explanatory = c(x,"sex", "age_group"), keep_models = T) %>% 
+    knitr::kable(format = "pandoc")
+}
+
+var_list <- c("ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, partial_sen_o2)
+
+```
+
+
+## Supplementation table 5: vd_drug and mortality
+
+Data management:
+```{r include=FALSE}
+bd_d$fu_time_t4 <-(as.numeric(bd_d$end_mor_all) - as.numeric(start))
+# Split the following time:
+
+bd_d_t4 <- survSplit(
+  Surv(bd_d$fu_time_t4, event = bd_d$n_death_covid_all)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_mor_all",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+
+### Full table
+```{r echo=FALSE}
+explanatory = c("vd_drug*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst" ,"imd_bd_q", "regions", "low_immune", "chronic_disease")
+explanatory_multi = c("vd_drug*strata(season)", "sex", "age_group")
+
+dependent ="Surv(start, end_mor_all, event = event)"
+
+# model
+bd_d_t4 %>%  finalfit(dependent,explanatory) %>% knitr::kable(format = "pandoc", row.names = NA)
+```
+
+### Multiple regression
+```{r eval=FALSE, include=FALSE}
+coxph(Surv(start, end_mor_all, event = event)~ vd_drug*strata(season)+sex+age_group+ethnic_c+bmi_group+drink_freq_c+smoke_stat+bst+imd_bd_q+regions+low_immune+chronic_disease, 
+      data = bd_d_t4 , id = f.eid) %>% summary()
+```
+
+### Simple regression
+```{r echo=FALSE}
+coxph(Surv(start, end_mor_all, event = event)~vd_drug*strata(season), data = bd_d_t4 , id = f.eid) %>% summary()
+```
+
+
+### Partial adjusted for sex and age
+for vitamin D
+```{r include=FALSE}
+coxph(Surv(start, end_mor_all, event = event)~ vd_drug*strata(season)+sex+age_group, 
+      data = bd_d_t4 , id = f.eid) %>% summary()
+```
+
+```{r include=FALSE}
+partial_sen_o3 <- function(x){
+  bd_d_t4 %>% 
+  finalfit(dependent ="Surv(start, end_mor_all, event = event)", 
+           explanatory = c(x,"sex", "age_group"), keep_models = T) %>% 
+    knitr::kable(format = "pandoc")
+}
+
+var_list <- c("ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, partial_sen_o3)
+```
+
+
+
+# Self-report vitamin D supplementation
+
+## Supplementation table 6: vitd_supp and covid19 infection
+
+Use `survsplit` to split the follow-up time
+```{r include=FALSE}
+bd_d_s <- survSplit(
+  Surv(bd_d$fu_time, event = bd_d$c_infection)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_d",
+  start = "start",
+  episode = "season"
+)
+```
+
+### Complete regression table
+```{r echo=FALSE}
+explanatory = c("vitd_supp*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+explanatory_multi = c("vitd_supp*strata(season)", "sex", "age_group")
+dependent ="Surv(start, end_d, event = event)"
+
+bd_d_s %>% 
+  finalfit(dependent, explanatory, explanatory_multi, keep_models = T) %>% 
+knitr::kable(format = "pandoc")
+
+```
+
+### Multiple regression
+```{r echo=FALSE}
+coxph(Surv(start, end_d, event = event) ~         vitd_supp*strata(season)+sex+age_group+ethnic_c+bmi_group+drink_freq_c+smoke_stat+bst+imd_bd_q+regions+low_immune+chronic_disease, 
+      data = bd_d_s, id = f.eid) %>% summary()
+```
+
+### Simple regression:
+```{r echo=FALSE}
+coxph(Surv(start, end_d, event = event)~vitd_supp*strata(season), data = bd_d_s, id = f.eid) %>% summary()
+```
+
+### Partial adjusted for sex and age group
+```{r echo=FALSE}
+# write a function
+partial_sen_o1 <- function(x){
+  bd_d_s %>% 
+  finalfit(dependent ="Surv(start, end_d, event = event)", 
+           explanatory = c(x,"sex", "age_group"), keep_models = T) %>% 
+    knitr::kable(format = "pandoc")
+}
+
+var_list <- c("vitd_supp*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, partial_sen_o1)
+
+```
+
+## Supplementation table 7: vitd_supp and covid-19 admission
+
+```{r include=FALSE}
+# data management
+
+bd_d$fu_time_t3 <- (as.numeric(bd_d$end_hos_all)-as.numeric(start))
+
+# Split the following time:
+
+bd_d_t3 <- survSplit(
+  Surv(bd_d$fu_time_t3, event = bd_d$hos_all)~.,
+  data = bd_d,
+  cut = time_cut, 
+  end = "end_hos_all",
+  start = "start",
+  episode = "season"
+)
+```
+
+### Full table
+```{r echo=FALSE}
+explanatory = c("vitd_supp*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst", "imd_bd_q" , "regions","low_immune", "chronic_disease")
+explanatory_multi = c("vitd_supp*strata(season)", "sex", "age_group")
+# survival objects: 
+# time-in:  2020-03-15
+# time-out: end_hos
+
+dependent ="Surv(start, end_hos_all, event = event)"
+
+# model
+bd_d_t3 %>% finalfit(dependent, explanatory, explanatory_multi, keep_models = T) %>% knitr::kable(format = "pandoc", row.names = NA)
+```
+
+### Multiple regression
+```{r eval=FALSE, include=FALSE}
+coxph(Surv(start, end_hos_all, event = event) ~ vitd_supp*strata(season) + sex + age_group + ethnic_c + bmi_group + drink_freq_c + smoke_stat + bst+imd_bd_q + regions + low_immune + chronic_disease, 
+      data = bd_d_t3 , id = f.eid) %>% summary()
+```
+
+### Simple regression:
+```{r echo=FALSE}
+coxph(Surv(start, end_hos_all, event = event)~vitd_supp*strata(season), data = bd_d_t3 , id = f.eid) %>% summary()
+```
+
+### Partial adjustment
+```{r echo=FALSE}
+# function
+partial_sen_o2 <- function(x){
+  bd_d_t3 %>% 
+  finalfit(dependent ="Surv(start, end_hos_all, event = event)", 
+           explanatory = c(x,"sex", "age_group"), keep_models = T) %>% 
+    knitr::kable(format = "pandoc")
+}
+
+var_list <- c("ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, partial_sen_o2)
+
+```
+
+## Supplementation table 8: vitd_supp and mortality
+
+Data management:
+```{r include=FALSE}
+bd_d$fu_time_t4 <-(as.numeric(bd_d$end_mor_all) - as.numeric(start))
+# Split the following time:
+
+bd_d_t4 <- survSplit(
+  Surv(bd_d$fu_time_t4, event = bd_d$n_death_covid_all)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_mor_all",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+### Full table
+```{r echo=FALSE}
+explanatory = c("vitd_supp*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat" ,"bst" ,"imd_bd_q", "regions", "low_immune", "chronic_disease")
+explanatory_multi = c("vitd_supp*strata(season)", "sex", "age_group")
+
+dependent ="Surv(start, end_mor_all, event = event)"
+
+# model
+bd_d_t4 %>%  finalfit(dependent, explanatory, explanatory_multi, keep_models = T) %>% knitr::kable(format = "pandoc", row.names = NA)
+```
+
+### Multiple regression
+```{r eval=FALSE, include=FALSE}
+coxph(Surv(start, end_mor_all, event = event) ~ vitd_supp*strata(season) + sex + age_group + ethnic_c + bmi_group + drink_freq_c + smoke_stat + bst+imd_bd_q + regions + low_immune + chronic_disease, 
+      data = bd_d_t4 , id = f.eid) %>% summary()
+```
+
+### Simple regression
+```{r echo=FALSE}
+coxph(Surv(start, end_mor_all, event = event)~vitd_supp*strata(season), data = bd_d_t4 , id = f.eid) %>% summary()
+```
+
+### Partial adjusted for sex and age
+```{r echo=FALSE}
+partial_sen_o3 <- function(x){
+  bd_d_t4 %>% 
+  finalfit(dependent ="Surv(start, end_mor_all, event = event)", 
+           explanatory = c(x,"sex", "age_group"), keep_models = T) %>% 
+    knitr::kable(format = "pandoc")
+}
+
+var_list <- c("ethnic_c" , "bmi_group" , "drink_freq_c", "smoke_stat","bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, partial_sen_o3)
+```
+
+# Supplementation table 9: Lab-confirmed Covid-19
+```{r include=FALSE}
+# data management 
+
+bd_d$fu_time_lab <-(as.numeric(bd_d$end_d_lab) - as.numeric(start))
+# Split the following time:
+
+bd_d_lab <- survSplit(
+  Surv(bd_d$fu_time_lab, event = bd_d$c_result)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_d_lab",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+### Simple regression
+```{r echo=FALSE}
+
+coxph(Surv(start, end_d_lab, event = event)~vitd_s*strata(season), data = bd_d_lab, id = f.eid) %>% summary()
+
+```
+
+### Partial adjustment: sex and age group
+```{r echo=FALSE}
+
+# function
+partial_sen_lab <- function(x){
+  bd_d_lab %>% 
+  finalfit(dependent ="Surv(start, end_d_lab, event = event)", 
+           explanatory = c(x,"sex", "age_group")) %>% knitr::kable( format = "pandoc")
+}
+
+var_list <- c("vitd_s*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c", "smoke_stat","bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, partial_sen_lab)
+```
+
+### Complete multiple regression
+```{r}
+# stratified analysis
+explanatory = c("vitd_s*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+dependent ="Surv(start, end_d_lab, event = event)"
+bd_d_lab %>% finalfit(dependent, explanatory) %>% knitr::kable( format = "pandoc")
+
+```
+
+# Subgroup analysis among patients with Covid-19 diagnosis
+
+## Supplementation table 10: (Hospitalization) subgroup analysis among patients with Covid-19 diagnosis
+
+Data management: time splitting
+```{r include=FALSE}
+bd_d$fu_time_t3 <- (as.numeric(bd_d$end_hos_all)-as.numeric(start))
+
+# Split the following time:
+
+bd_d_t3 <- survSplit(
+  Surv(bd_d$fu_time_t3, event = bd_d$hos_all)~.,
+  data = bd_d,
+  cut = time_cut, 
+  end = "end_hos_all",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+### Simple regression for vit_d (can't use finalfit)
+```{r echo=FALSE}
+coxph(Surv(start, end_hos_all, event = event) ~ vitd_s*strata(season), data = (bd_d_t3 %>% filter(c_infection ==1)) , id = f.eid) %>% 
+summary()
+```
+
+### Paritial adjustment for sex and age
+```{r echo=FALSE}
+# write a function for all
+time_split_t3_partial <- function(x){
+bd_d_t3 %>% filter(c_infection ==1) %>% 
+    finalfit(
+  dependent = "Surv(start, end_hos_all, event = event)", 
+  explanatory = c(x, "sex", "age_group")) %>% 
+  knitr::kable( format = "pandoc")
+}
+
+var_list <- c("vitd_s*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, time_split_t3_partial)
+
+
+```
+
+### Complete simple and multiple regression
+
+```{r echo=FALSE}
+bd_d_t3 %>% filter(c_infection ==1) %>% 
+  finalfit(
+  dependent = "Surv(start, end_hos_all, event = event)",
+  explanatory = c("vitd_s*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c", "smoke_stat","bst", "imd_bd_q" , "regions","low_immune","chronic_disease")) %>%
+  knitr::kable(format = "pandoc", row.names = NA)
+```
+
+## Supplementation table 11: (Mortality) Subgroup analysis among patients with Covid-19 diagnosis
+
+Data management:
+
+```{r include=FALSE}
+bd_d$fu_time_t4 <-(as.numeric(bd_d$end_mor_all) - as.numeric(start))
+# Split the following time:
+
+bd_d_t4 <- survSplit(
+  Surv(bd_d$fu_time_t4, event = bd_d$n_death_covid_all)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_mor_all",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+### Simple regression (without finalfit)
+```{r echo=FALSE}
+coxph( 
+  Surv(start, end_mor_all, event = event) ~ vitd_s*strata(season), 
+  data = (bd_d_t4 %>% filter(c_infection ==1)) , 
+  id = f.eid) %>% summary()
+```
+
+### Partial adjustment for sex and age
+```{r echo=FALSE}
+# write a function for map
+time_split_t3_partial <- function(x){
+  bd_d_t4  %>% filter(c_infection ==1) %>%
+    finalfit(
+  dependent = "Surv(start, end_mor_all, event = event)", 
+  explanatory = c(x, "sex", "age_group")) %>% 
+  knitr::kable( format = "pandoc")
+}
+
+var_list <- c("vitd_s*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c", "smoke_stat","bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, time_split_t3_partial)
+```
+
+### Complete simple and multiple regression
+
+```{r echo=FALSE}
+bd_d_t4  %>% filter(c_infection ==1) %>%
+  finalfit(
+  dependent = "Surv(start, end_mor_all, event = event)",
+  explanatory = c("vitd_s*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst", "imd_bd_q" , "regions","low_immune","chronic_disease")) %>%
+  knitr::kable(format = "pandoc", row.names = NA)
+```
+

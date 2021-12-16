@@ -1,0 +1,71 @@
+code,description,type
+D106.,Sickle Cell Anaemia,CTV3
+D106.,Sickle Cell Anaemia,CTV3
+D1060,Sickle Cell Anaemia Of Unspecified Type,CTV3
+D1060,Sickle Cell Anaemia Of Unspecified Type,CTV3
+D1061,Sickle Cell Anaemia With No Crisis,CTV3
+D1061,Sickle Cell Anaemia With No Crisis,CTV3
+D1062,Sickle Cell Anaemia With Crisis,CTV3
+D1062,Sickle Cell Anaemia With Crisis,CTV3
+D1063,Haemoglobin S/C Disease,CTV3
+D1063,Haemoglobin S/C Disease,CTV3
+D1065,Haemoglobin S/E Disease,CTV3
+D1065,Haemoglobin S/E Disease,CTV3
+D106z,Sickle Cell Anaemia Nos,CTV3
+D106z,Sickle Cell Anaemia Nos,CTV3
+Dyu12,[X]Other Sickle Cell Disorders,CTV3
+Dyu12,[X]Other Sickle Cell Disorders,CTV3
+F4221,Proliferative Retinopathy Due To Sickle Cell Disease,CTV3
+X20Cw,Sickle Cell Syndrome,CTV3
+X20Cx,Sickle Cell Anaemia With High Haemoglobin F,CTV3
+X20Cx,Sickle Cell Anaemia With High Haemoglobin F,CTV3
+X30Kx,Sickle Cell Nephropathy,CTV3
+Xa9Ax,Haemoglobin S/Beta Thalassaemia,CTV3
+Xa9Ax,Haemoglobin S/Beta Thalassaemia,CTV3
+XaDvR,Homozygous Ss Genotype,CTV3
+XabjN,Referral To Sickle Cell Specialist Nurse,CTV3
+D570,Sickle-Cell Anaemia With Crisis,ICD-10
+D571,Sickle-Cell Anaemia Without Crisis,ICD-10
+D572,Double Heterozygous Sickling Disorders,ICD-10
+D578,Other Sickle-Cell Disorders,ICD-10
+35434009,Sickle Cell-Hemoglobin C Disease (Disorder),SNOMED-CT
+47024008,Sickle Cell-Hemoglobin E Disease (Disorder),SNOMED-CT
+417425009,Hemoglobin Ss Disease With Crisis (Disorder),SNOMED-CT
+416180004,Hemoglobin Ss Disease Without Crisis (Disorder),SNOMED-CT
+928871000000100,Referral To Sickle Cell Specialist Nurse (Procedure),SNOMED-CT
+1027611000000101,Homozygous Ss Genotype (Observable Entity),SNOMED-CT
+417357006,Sickling Disorder Due To Hemoglobin S (Disorder),SNOMED-CT
+234391009,Sickle Cell Anemia With High Hemoglobin F (Disorder),SNOMED-CT
+193370005,Proliferative Retinopathy Due To Sickle Cell Disease (Disorder),SNOMED-CT
+127040003,Sickle Cell-Hemoglobin Ss Disease (Disorder),SNOMED-CT
+127041004,Sickle Cell-Beta-Thalassemia (Disorder),SNOMED-CT
+13886001,Sickle Cell Nephropathy (Disorder),SNOMED-CT
+417048006,Sickle Cell-Thalassemia Disease Without Crisis (Disorder),SNOMED-CT
+10759351000119104,Sickle Cell Anemia In Mother Complicating Childbirth (Disorder),SNOMED-CT
+127044007,Sickle Cell-Delta Beta^0^-Thalassemia (Disorder),SNOMED-CT
+127047000,Sickle Cell-Hemoglobin Lepore Disease (Disorder),SNOMED-CT
+416826005,Sickle Cell-Thalassemia Disease With Crisis (Disorder),SNOMED-CT
+416484003,Sickle Cell-Hemoglobin E Disease With Crisis (Disorder),SNOMED-CT
+440206000,Hemoglobin Ss Disease With Vasoocclusive Crisis (Disorder),SNOMED-CT
+416214006,Sickle Cell-Hemoglobin D Disease Without Crisis (Disorder),SNOMED-CT
+127045008,Sickle Cell Anemia With Coexistent Alpha-Thalassemia (Disorder),SNOMED-CT
+127042006,Sickle Cell-Beta^+^-Thalassemia (Disorder),SNOMED-CT
+444108000,Acute Sickle Cell Splenic Sequestration Crisis (Disorder),SNOMED-CT
+127043001,Sickle Cell-Beta^0^-Thalassemia (Disorder),SNOMED-CT
+416638004,Sickle Cell-Hemoglobin E Disease Without Crisis (Disorder),SNOMED-CT
+127048005,Sickle Cell-Hemoglobin O Arab Disease (Disorder),SNOMED-CT
+416290001,Hemoglobin S Sickling Disorder Without Crisis (Disorder),SNOMED-CT
+25472008,Sickle Cell-Hemoglobin D Disease (Disorder),SNOMED-CT
+417748003,Sickle Cell-Hemoglobin D Disease With Crisis (Disorder),SNOMED-CT
+417683006,Sickle Cell-Hemoglobin C Disease Without Crisis (Disorder),SNOMED-CT
+417517009,Sickle Cell-Hemoglobin C Disease With Crisis (Disorder),SNOMED-CT
+36472007,Sickle Cell-Thalassemia Disease (Disorder),SNOMED-CT
+417279003,Hemoglobin S Sickling Disorder With Crisis (Disorder),SNOMED-CT
+23269001,Double Heterozygous Sickling Disorder (Disorder),SNOMED-CT
+455791000000104,[X]Other Sickle Cell Disorders (Disorder),SNOMED-CT
+857161000000108,Sickle Cell Nephropathy,SNOMED-CT
+191196006,Sickle Cell Anemia With No Crisis (Disorder),SNOMED-CT
+72279006,Hemoglobin S Disease With Crisis (Disorder),SNOMED-CT
+21976009,Hemoglobin S Disease Without Crisis (Disorder),SNOMED-CT
+928881000000103,Referral To Sickle Cell Specialist Nurse,SNOMED-CT
+191197002,Sickle Cell Anemia With Crisis (Disorder),SNOMED-CT

@@ -1,0 +1,646 @@
+code,description,type,id,name,active,notes
+14B4.,H/O: Asthma,CTV3,NA,NA,NA,NA
+173A.,Exercise-Induced Asthma,CTV3,NA,NA,NA,NA
+173A.,Exercise-Induced Asthma,CTV3,NA,NA,NA,NA
+173A.,Exercise-Induced Asthma,CTV3,NA,NA,NA,NA
+663N.,Asthma Disturbing Sleep,CTV3,NA,NA,NA,NA
+663N.,Asthma Disturbing Sleep,CTV3,NA,NA,NA,NA
+663N0,Asthma Causing Night Waking,CTV3,NA,NA,NA,NA
+663N0,Asthma Causing Night Waking,CTV3,NA,NA,NA,NA
+663N1,Asthma Disturbs Sleep Weekly,CTV3,NA,NA,NA,NA
+663N1,Asthma Disturbs Sleep Weekly,CTV3,NA,NA,NA,NA
+663N2,Asthma Disturbs Sleep Frequently,CTV3,NA,NA,NA,NA
+663N2,Asthma Disturbs Sleep Frequently,CTV3,NA,NA,NA,NA
+663O.,Asthma Not Disturbing Sleep,CTV3,NA,NA,NA,NA
+663O0,Asthma Never Disturbs Sleep,CTV3,NA,NA,NA,NA
+663O0,Asthma Never Disturbs Sleep,CTV3,NA,NA,NA,NA
+663P.,Asthma Limiting Activities,CTV3,NA,NA,NA,NA
+663P.,Asthma Limiting Activities,CTV3,NA,NA,NA,NA
+663Q.,Asthma Not Limiting Activities,CTV3,NA,NA,NA,NA
+663U.,Asthma Management Plan Given,CTV3,NA,NA,NA,NA
+663V.,Asthma Severity,CTV3,NA,NA,NA,NA
+663V0,Occasional Asthma,CTV3,NA,NA,NA,NA
+663V0,Occasional Asthma,CTV3,NA,NA,NA,NA
+663V1,Mild Asthma,CTV3,NA,NA,NA,NA
+663V1,Mild Asthma,CTV3,NA,NA,NA,NA
+663V2,Moderate Asthma,CTV3,NA,NA,NA,NA
+663V2,Moderate Asthma,CTV3,NA,NA,NA,NA
+663V3,Severe Asthma,CTV3,NA,NA,NA,NA
+663V3,Severe Asthma,CTV3,NA,NA,NA,NA
+663W.,Asthma Prophylactic Medication Used,CTV3,NA,NA,NA,NA
+663d.,Emergency Asthma Admission Since Last Appointment,CTV3,NA,NA,NA,NA
+663e.,Asthma Restricts Exercise,CTV3,NA,NA,NA,NA
+663e.,Asthma Restricts Exercise,CTV3,NA,NA,NA,NA
+663e0,Asthma Sometimes Restricts Exercise,CTV3,NA,NA,NA,NA
+663e0,Asthma Sometimes Restricts Exercise,CTV3,NA,NA,NA,NA
+663e1,Asthma Severely Restricts Exercise,CTV3,NA,NA,NA,NA
+663e1,Asthma Severely Restricts Exercise,CTV3,NA,NA,NA,NA
+663f.,Asthma Never Restricts Exercise,CTV3,NA,NA,NA,NA
+663f.,Asthma Never Restricts Exercise,CTV3,NA,NA,NA,NA
+679J.,Health Education - Asthma,CTV3,NA,NA,NA,NA
+8791.,Further Asthma - Drug Prevention,CTV3,NA,NA,NA,NA
+8793.,Asthma Control Step 0,CTV3,NA,NA,NA,NA
+8794.,Asthma Control Step 1,CTV3,NA,NA,NA,NA
+8795.,Asthma Control Step 2,CTV3,NA,NA,NA,NA
+8796.,Asthma Control Step 3,CTV3,NA,NA,NA,NA
+8797.,Asthma Control Step 4,CTV3,NA,NA,NA,NA
+8798.,Asthma Control Step 5,CTV3,NA,NA,NA,NA
+8H2P.,"Emergency Admission, Asthma",CTV3,NA,NA,NA,NA
+8H2P.,"Emergency Admission, Asthma",CTV3,NA,NA,NA,NA
+9OJ1.,Attends Asthma Monitoring,CTV3,NA,NA,NA,NA
+9OJ3.,Asthma Monitor Offer Default,CTV3,NA,NA,NA,NA
+9OJ4.,Asthma Monitoring Call First Letter,CTV3,NA,NA,NA,NA
+9OJ5.,Asthma Monitoring Call Second Letter,CTV3,NA,NA,NA,NA
+9OJ6.,Asthma Monitoring Call Third Letter,CTV3,NA,NA,NA,NA
+9OJ7.,Asthma Monitoring Call Verbal Invite,CTV3,NA,NA,NA,NA
+9OJ8.,Asthma Monitoring Call Telephone Invite,CTV3,NA,NA,NA,NA
+9OJ9.,Asthma Monitoring Deleted,CTV3,NA,NA,NA,NA
+9OJA.,Asthma Monitored (& Check Done),CTV3,NA,NA,NA,NA
+9Q21.,Patient In Asthma Study,CTV3,NA,NA,NA,NA
+H3120,Chronic Asthmatic Bronchitis,CTV3,NA,NA,NA,NA
+H3120,Chronic Asthmatic Bronchitis,CTV3,NA,NA,NA,NA
+H3120,Chronic Asthmatic Bronchitis,CTV3,NA,NA,NA,NA
+H33..,Asthma,CTV3,NA,NA,NA,NA
+H33..,Asthma,CTV3,NA,NA,NA,NA
+H33..,Asthma,CTV3,NA,NA,NA,NA
+H330.,Asthma: [Extrins - Atop][Allerg][Pollen][Childh][+ Hay Fev],CTV3,NA,NA,NA,NA
+H330.,Asthma: [Extrins - Atop][Allerg][Pollen][Childh][+ Hay Fev],CTV3,NA,NA,NA,NA
+H3300,(Hay Fever + Asthma) Or (Extr Asthma Without Status Asthmat),CTV3,NA,NA,NA,NA
+H3300,(Hay Fever + Asthma) Or (Extr Asthma Without Status Asthmat),CTV3,NA,NA,NA,NA
+H3301,Extrins Asthma With: [Asthma Attack] Or [Status Asthmaticus],CTV3,NA,NA,NA,NA
+H3301,Extrins Asthma With: [Asthma Attack] Or [Status Asthmaticus],CTV3,NA,NA,NA,NA
+H330z,Extrinsic Asthma Nos,CTV3,NA,NA,NA,NA
+H330z,Extrinsic Asthma Nos,CTV3,NA,NA,NA,NA
+H331.,(Intrinsic Asthma) Or (Late Onset Asthma),CTV3,NA,NA,NA,NA
+H331.,(Intrinsic Asthma) Or (Late Onset Asthma),CTV3,NA,NA,NA,NA
+H3310,Intrinsic Asthma Without Status Asthmaticus,CTV3,NA,NA,NA,NA
+H3310,Intrinsic Asthma Without Status Asthmaticus,CTV3,NA,NA,NA,NA
+H3311,Intrins Asthma With: [Asthma Attack] Or [Status Asthmaticus],CTV3,NA,NA,NA,NA
+H3311,Intrins Asthma With: [Asthma Attack] Or [Status Asthmaticus],CTV3,NA,NA,NA,NA
+H331z,Intrinsic Asthma Nos,CTV3,NA,NA,NA,NA
+H331z,Intrinsic Asthma Nos,CTV3,NA,NA,NA,NA
+H331z,Intrinsic Asthma Nos,CTV3,NA,NA,NA,NA
+H332.,Mixed Asthma,CTV3,NA,NA,NA,NA
+H332.,Mixed Asthma,CTV3,NA,NA,NA,NA
+H33z.,Asthma Unspecified,CTV3,NA,NA,NA,NA
+H33z.,Asthma Unspecified,CTV3,NA,NA,NA,NA
+H33z.,Asthma Unspecified,CTV3,NA,NA,NA,NA
+H33z0,(Severe Asthma Attack) Or (Status Asthmaticus Nos),CTV3,NA,NA,NA,NA
+H33z0,(Severe Asthma Attack) Or (Status Asthmaticus Nos),CTV3,NA,NA,NA,NA
+H33z1,Asthma Attack (& Nos),CTV3,NA,NA,NA,NA
+H33z1,Asthma Attack (& Nos),CTV3,NA,NA,NA,NA
+H33z2,Late Onset Asthma,CTV3,NA,NA,NA,NA
+H33z2,Late Onset Asthma,CTV3,NA,NA,NA,NA
+H33zz,(Asthma:[Exerc Ind][Allerg Nec][Nos]) Or (Allerg Bronch Nec),CTV3,NA,NA,NA,NA
+H33zz,(Asthma:[Exerc Ind][Allerg Nec][Nos]) Or (Allerg Bronch Nec),CTV3,NA,NA,NA,NA
+H47y0,Detergent Asthma,CTV3,NA,NA,NA,NA
+H47y0,Detergent Asthma,CTV3,NA,NA,NA,NA
+Ua1AX,Brittle Asthma,CTV3,NA,NA,NA,NA
+Ua1AX,Brittle Asthma,CTV3,NA,NA,NA,NA
+X101t,Childhood Asthma,CTV3,NA,NA,NA,NA
+X101t,Childhood Asthma,CTV3,NA,NA,NA,NA
+X101u,Late Onset Asthma,CTV3,NA,NA,NA,NA
+X101u,Late Onset Asthma,CTV3,NA,NA,NA,NA
+X101u,Late Onset Asthma,CTV3,NA,NA,NA,NA
+X101x,Allergic Asthma,CTV3,NA,NA,NA,NA
+X101x,Allergic Asthma,CTV3,NA,NA,NA,NA
+X101x,Allergic Asthma,CTV3,NA,NA,NA,NA
+X101y,Extrinsic Asthma With Asthma Attack,CTV3,NA,NA,NA,NA
+X101y,Extrinsic Asthma With Asthma Attack,CTV3,NA,NA,NA,NA
+X101y,Extrinsic Asthma With Asthma Attack,CTV3,NA,NA,NA,NA
+X101z,Allergic Asthma Nec,CTV3,NA,NA,NA,NA
+X101z,Allergic Asthma Nec,CTV3,NA,NA,NA,NA
+X101z,Allergic Asthma Nec,CTV3,NA,NA,NA,NA
+X1020,Hay Fever With Asthma,CTV3,NA,NA,NA,NA
+X1020,Hay Fever With Asthma,CTV3,NA,NA,NA,NA
+X1020,Hay Fever With Asthma,CTV3,NA,NA,NA,NA
+X1021,Allergic Non-Atopic Asthma,CTV3,NA,NA,NA,NA
+X1021,Allergic Non-Atopic Asthma,CTV3,NA,NA,NA,NA
+X1022,Intrinsic Asthma With Asthma Attack,CTV3,NA,NA,NA,NA
+X1022,Intrinsic Asthma With Asthma Attack,CTV3,NA,NA,NA,NA
+X1022,Intrinsic Asthma With Asthma Attack,CTV3,NA,NA,NA,NA
+X1023,Drug-Induced Asthma,CTV3,NA,NA,NA,NA
+X1023,Drug-Induced Asthma,CTV3,NA,NA,NA,NA
+X1024,Aspirin-Sensitive Asthma With Nasal Polyps,CTV3,NA,NA,NA,NA
+X1024,Aspirin-Sensitive Asthma With Nasal Polyps,CTV3,NA,NA,NA,NA
+X1025,Occupational Asthma,CTV3,NA,NA,NA,NA
+X1025,Occupational Asthma,CTV3,NA,NA,NA,NA
+X1026,Baker's Asthma,CTV3,NA,NA,NA,NA
+X1026,Baker's Asthma,CTV3,NA,NA,NA,NA
+X1027,Colophony Asthma,CTV3,NA,NA,NA,NA
+X1027,Colophony Asthma,CTV3,NA,NA,NA,NA
+X1028,Grain Worker's Asthma,CTV3,NA,NA,NA,NA
+X1028,Grain Worker's Asthma,CTV3,NA,NA,NA,NA
+X1029,Sulphite-Induced Asthma,CTV3,NA,NA,NA,NA
+X1029,Sulphite-Induced Asthma,CTV3,NA,NA,NA,NA
+X102D,Status Asthmaticus,CTV3,NA,NA,NA,NA
+X102D,Status Asthmaticus,CTV3,NA,NA,NA,NA
+X102G,Asthmatic Pulmonary Eosinophilia,CTV3,NA,NA,NA,NA
+XE0YQ,Allergic Atopic Asthma,CTV3,NA,NA,NA,NA
+XE0YQ,Allergic Atopic Asthma,CTV3,NA,NA,NA,NA
+XE0YQ,Allergic Atopic Asthma,CTV3,NA,NA,NA,NA
+XE0YR,Extrinsic Asthma Without Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YR,Extrinsic Asthma Without Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YR,Extrinsic Asthma Without Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YS,Extrinsic Asthma With Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YS,Extrinsic Asthma With Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YS,Extrinsic Asthma With Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YT,Non-Allergic Asthma,CTV3,NA,NA,NA,NA
+XE0YT,Non-Allergic Asthma,CTV3,NA,NA,NA,NA
+XE0YU,Intrinsic Asthma With Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YU,Intrinsic Asthma With Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YU,Intrinsic Asthma With Status Asthmaticus,CTV3,NA,NA,NA,NA
+XE0YV,Status Asthmaticus Nos,CTV3,NA,NA,NA,NA
+XE0YV,Status Asthmaticus Nos,CTV3,NA,NA,NA,NA
+XE0YV,Status Asthmaticus Nos,CTV3,NA,NA,NA,NA
+XE0YW,Asthma Attack,CTV3,NA,NA,NA,NA
+XE0YW,Asthma Attack,CTV3,NA,NA,NA,NA
+XE0YW,Asthma Attack,CTV3,NA,NA,NA,NA
+XE0YX,Asthma Nos,CTV3,NA,NA,NA,NA
+XE0YX,Asthma Nos,CTV3,NA,NA,NA,NA
+XE0YX,Asthma Nos,CTV3,NA,NA,NA,NA
+XE0ZP,Extrinsic Asthma - Atopy (& Pollen),CTV3,NA,NA,NA,NA
+XE0ZP,Extrinsic Asthma - Atopy (& Pollen),CTV3,NA,NA,NA,NA
+XE0ZR,Asthma: [Intrinsic] Or [Late Onset],CTV3,NA,NA,NA,NA
+XE0ZR,Asthma: [Intrinsic] Or [Late Onset],CTV3,NA,NA,NA,NA
+XE0ZT,Asthma: [Nos] Or [Attack],CTV3,NA,NA,NA,NA
+XE0ZT,Asthma: [Nos] Or [Attack],CTV3,NA,NA,NA,NA
+XE2Nb,Asthma Monitoring Check Done,CTV3,NA,NA,NA,NA
+XE2Nb,Asthma Monitoring Check Done,CTV3,NA,NA,NA,NA
+XE2Nb,Asthma Monitoring Check Done,CTV3,NA,NA,NA,NA
+XM0s2,Asthma Attack Nos,CTV3,NA,NA,NA,NA
+XM0s2,Asthma Attack Nos,CTV3,NA,NA,NA,NA
+XM0s2,Asthma Attack Nos,CTV3,NA,NA,NA,NA
+XM1Xb,Asthma Monitoring,CTV3,NA,NA,NA,NA
+Xa0lZ,Asthmatic Bronchitis,CTV3,NA,NA,NA,NA
+Xa0lZ,Asthmatic Bronchitis,CTV3,NA,NA,NA,NA
+Xa1hD,Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xa1hD,Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xa8Hn,Asthma Control Steps,CTV3,NA,NA,NA,NA
+Xa9zf,Acute Asthma,CTV3,NA,NA,NA,NA
+Xa9zf,Acute Asthma,CTV3,NA,NA,NA,NA
+XaBAQ,Recent Asthma Management,CTV3,NA,NA,NA,NA
+XaBU2,Asthma Monitoring Call,CTV3,NA,NA,NA,NA
+XaBU3,Asthma Monitoring Status,CTV3,NA,NA,NA,NA
+XaDvK,Asthma - Currently Active,CTV3,NA,NA,NA,NA
+XaDvK,Asthma - Currently Active,CTV3,NA,NA,NA,NA
+XaDvL,Asthma - Currently Dormant,CTV3,NA,NA,NA,NA
+XaIIW,Asthma Accident And Emergency Attendance Since Last Visit,CTV3,NA,NA,NA,NA
+XaIIX,Asthma Treatment Compliance Satisfactory,CTV3,NA,NA,NA,NA
+XaIIY,Asthma Treatment Compliance Unsatisfactory,CTV3,NA,NA,NA,NA
+XaIIZ,Asthma Daytime Symptoms,CTV3,NA,NA,NA,NA
+XaIIZ,Asthma Daytime Symptoms,CTV3,NA,NA,NA,NA
+XaINZ,Asthma Causes Night Symptoms 1 To 2 Times Per Month,CTV3,NA,NA,NA,NA
+XaINZ,Asthma Causes Night Symptoms 1 To 2 Times Per Month,CTV3,NA,NA,NA,NA
+XaINa,Asthma Never Causes Daytime Symptoms,CTV3,NA,NA,NA,NA
+XaINa,Asthma Never Causes Daytime Symptoms,CTV3,NA,NA,NA,NA
+XaINb,Asthma Causes Daytime Symptoms 1 To 2 Times Per Month,CTV3,NA,NA,NA,NA
+XaINb,Asthma Causes Daytime Symptoms 1 To 2 Times Per Month,CTV3,NA,NA,NA,NA
+XaINc,Asthma Causes Daytime Symptoms 1 To 2 Times Per Week,CTV3,NA,NA,NA,NA
+XaINc,Asthma Causes Daytime Symptoms 1 To 2 Times Per Week,CTV3,NA,NA,NA,NA
+XaINd,Asthma Causes Daytime Symptoms Most Days,CTV3,NA,NA,NA,NA
+XaINd,Asthma Causes Daytime Symptoms Most Days,CTV3,NA,NA,NA,NA
+XaINf,Asthma Limits Walking Up Hills Or Stairs,CTV3,NA,NA,NA,NA
+XaINf,Asthma Limits Walking Up Hills Or Stairs,CTV3,NA,NA,NA,NA
+XaINg,Asthma Limits Walking On The Flat,CTV3,NA,NA,NA,NA
+XaINg,Asthma Limits Walking On The Flat,CTV3,NA,NA,NA,NA
+XaINh,Number Of Asthma Exacerbations In Past Year,CTV3,NA,NA,NA,NA
+XaIOV,Asthma Finding,CTV3,NA,NA,NA,NA
+XaIQ4,Change In Asthma Management Plan,CTV3,NA,NA,NA,NA
+XaIQ4,Change In Asthma Management Plan,CTV3,NA,NA,NA,NA
+XaIQD,Step Up Change In Asthma Management Plan,CTV3,NA,NA,NA,NA
+XaIQD,Step Up Change In Asthma Management Plan,CTV3,NA,NA,NA,NA
+XaIQE,Step Down Change In Asthma Management Plan,CTV3,NA,NA,NA,NA
+XaIQE,Step Down Change In Asthma Management Plan,CTV3,NA,NA,NA,NA
+XaIR3,Absent From Work Or School Due To Asthma,CTV3,NA,NA,NA,NA
+XaIR3,Absent From Work Or School Due To Asthma,CTV3,NA,NA,NA,NA
+XaIRN,Asthma Monitoring Due,CTV3,NA,NA,NA,NA
+XaIeq,Asthma Annual Review,CTV3,NA,NA,NA,NA
+XaIeq,Asthma Annual Review,CTV3,NA,NA,NA,NA
+XaIer,Asthma Follow-Up,CTV3,NA,NA,NA,NA
+XaIer,Asthma Follow-Up,CTV3,NA,NA,NA,NA
+XaIfK,Asthma Medication Review,CTV3,NA,NA,NA,NA
+XaIfK,Asthma Medication Review,CTV3,NA,NA,NA,NA
+XaIoE,Asthma Night-Time Symptoms,CTV3,NA,NA,NA,NA
+XaIoE,Asthma Night-Time Symptoms,CTV3,NA,NA,NA,NA
+XaIu5,Asthma Monitoring By Nurse,CTV3,NA,NA,NA,NA
+XaIu5,Asthma Monitoring By Nurse,CTV3,NA,NA,NA,NA
+XaIu6,Asthma Monitoring By Doctor,CTV3,NA,NA,NA,NA
+XaIu6,Asthma Monitoring By Doctor,CTV3,NA,NA,NA,NA
+XaIuG,Asthma Confirmed,CTV3,NA,NA,NA,NA
+XaIuG,Asthma Confirmed,CTV3,NA,NA,NA,NA
+XaIww,Asthma Trigger,CTV3,NA,NA,NA,NA
+XaJFG,Aspirin-Induced Asthma,CTV3,NA,NA,NA,NA
+XaJFG,Aspirin-Induced Asthma,CTV3,NA,NA,NA,NA
+XaJYe,Asthma Clinical Management Plan,CTV3,NA,NA,NA,NA
+XaKdk,Work Aggravated Asthma,CTV3,NA,NA,NA,NA
+XaKdk,Work Aggravated Asthma,CTV3,NA,NA,NA,NA
+XaLIm,Asthma Trigger - Respiratory Infection,CTV3,NA,NA,NA,NA
+XaLIn,Asthma Trigger - Seasonal,CTV3,NA,NA,NA,NA
+XaLIr,Asthma Trigger - Animals,CTV3,NA,NA,NA,NA
+XaLJS,Asthma Trigger - Cold Air,CTV3,NA,NA,NA,NA
+XaLJT,Asthma Trigger - Damp,CTV3,NA,NA,NA,NA
+XaLJU,Asthma Trigger - Emotion,CTV3,NA,NA,NA,NA
+XaLPE,Nocturnal Asthma,CTV3,NA,NA,NA,NA
+XaLPE,Nocturnal Asthma,CTV3,NA,NA,NA,NA
+XaNKw,Royal College Of Physicians Asthma Assessment,CTV3,NA,NA,NA,NA
+XaNKw,Royal College Of Physicians Asthma Assessment,CTV3,NA,NA,NA,NA
+XaObi,Asthma Trigger - Airborne Dust,CTV3,NA,NA,NA,NA
+XaObj,Asthma Trigger - Exercise,CTV3,NA,NA,NA,NA
+XaObk,Asthma Trigger - Pollen,CTV3,NA,NA,NA,NA
+XaObl,Asthma Trigger - Tobacco Smoke,CTV3,NA,NA,NA,NA
+XaObm,Asthma Trigger - Warm Air,CTV3,NA,NA,NA,NA
+XaQHq,Asthma Control Test,CTV3,NA,NA,NA,NA
+XaQig,Asthma Control Questionnaire,CTV3,NA,NA,NA,NA
+XaQih,Mini Asthma Quality Of Life Questionnaire,CTV3,NA,NA,NA,NA
+XaQij,Under Care Of Asthma Specialist Nurse,CTV3,NA,NA,NA,NA
+XaR8K,Did Not Attend Asthma Review,CTV3,NA,NA,NA,NA
+XaRFi,Patient Has A Written Asthma Personal Action Plan,CTV3,NA,NA,NA,NA
+XaRFj,Health Education - Asthma Self Management,CTV3,NA,NA,NA,NA
+XaRFk,Health Education - Structured Asthma Discussion,CTV3,NA,NA,NA,NA
+XaRFl,Health Education - Structured Patient Focused Asthma Discuss,CTV3,NA,NA,NA,NA
+XaX3n,Asthma Review Using Roy Colleg Of Physicians Three Questions,CTV3,NA,NA,NA,NA
+XaX3n,Asthma Review Using Roy Colleg Of Physicians Three Questions,CTV3,NA,NA,NA,NA
+XaXZm,Asthma Causes Night Time Symptoms 1 To 2 Times Per Week,CTV3,NA,NA,NA,NA
+XaXZm,Asthma Causes Night Time Symptoms 1 To 2 Times Per Week,CTV3,NA,NA,NA,NA
+XaXZp,Asthma Causes Symptoms Most Nights,CTV3,NA,NA,NA,NA
+XaXZp,Asthma Causes Symptoms Most Nights,CTV3,NA,NA,NA,NA
+XaXZs,Asthma Limits Activities 1 To 2 Times Per Month,CTV3,NA,NA,NA,NA
+XaXZs,Asthma Limits Activities 1 To 2 Times Per Month,CTV3,NA,NA,NA,NA
+XaXZu,Asthma Limits Activities 1 To 2 Times Per Week,CTV3,NA,NA,NA,NA
+XaXZu,Asthma Limits Activities 1 To 2 Times Per Week,CTV3,NA,NA,NA,NA
+XaXZx,Asthma Limits Activities Most Days,CTV3,NA,NA,NA,NA
+XaXZx,Asthma Limits Activities Most Days,CTV3,NA,NA,NA,NA
+XaXa0,Royal College Physician Asthma Assessment 3 Question Score,CTV3,NA,NA,NA,NA
+XaY2V,Asthma Never Causes Night Symptoms,CTV3,NA,NA,NA,NA
+XaY2V,Asthma Never Causes Night Symptoms,CTV3,NA,NA,NA,NA
+XaYZB,Asthma Self-Management Plan Review,CTV3,NA,NA,NA,NA
+XaYZh,Number Days Absent From School Due To Asthma In Past 6 Month,CTV3,NA,NA,NA,NA
+XaYZh,Number Days Absent From School Due To Asthma In Past 6 Month,CTV3,NA,NA,NA,NA
+XaYb8,Asthma Self-Management Plan Agreed,CTV3,NA,NA,NA,NA
+XaYja,Asthma Trigger - Wind,CTV3,NA,NA,NA,NA
+XaYpF,Asthma Trigger - Perfume,CTV3,NA,NA,NA,NA
+Xaa7B,Chronic Asthma With Fixed Airflow Obstruction,CTV3,NA,NA,NA,NA
+Xaa7B,Chronic Asthma With Fixed Airflow Obstruction,CTV3,NA,NA,NA,NA
+Xaa7Q,No Asthma Trigger Identified By Subject,CTV3,NA,NA,NA,NA
+Xabiu,Asthma Monitorng Invit Sms (Short Message Servce) Txt Messge,CTV3,NA,NA,NA,NA
+Xabj3,Asthma Monitoring Invitation Email,CTV3,NA,NA,NA,NA
+Xac33,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrom,CTV3,NA,NA,NA,NA
+Xac8r,Telehealth Asthma Monitoring,CTV3,NA,NA,NA,NA
+XacLz,Asthma Monitoring Sms Text Message 1st Invitation,CTV3,NA,NA,NA,NA
+XacM0,Asthma Monitoring Sms Text Message 2nd Invitation,CTV3,NA,NA,NA,NA
+XacM1,Asthma Monitoring Sms Text Message 3rd Invitation,CTV3,NA,NA,NA,NA
+XacXj,At Risk Of Severe Asthma Exacerbation,CTV3,NA,NA,NA,NA
+Xafdj,Acute Severe Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xafdj,Acute Severe Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xafdj,Acute Severe Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xafdy,Moderate Acute Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xafdy,Moderate Acute Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xafdz,Life Threatening Acute Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xafdz,Life Threatening Acute Exacerbation Of Asthma,CTV3,NA,NA,NA,NA
+Xaff0,Use Of Asthma Symptom Diary,CTV3,NA,NA,NA,NA
+Y0017,Nocturnal Asthma,CTV3,NA,NA,NA,NA
+Y0017,Nocturnal Asthma,CTV3,NA,NA,NA,NA
+Y137e,Asthma Guidance,CTV3,NA,NA,NA,NA
+Y137f,Indicators - Worsening Asthma,CTV3,NA,NA,NA,NA
+Y138a,Indicators - Asthma Attack,CTV3,NA,NA,NA,NA
+Y139b,Asthma Guidance,CTV3,NA,NA,NA,NA
+Y139c,Indicators - Worsening Asthma,CTV3,NA,NA,NA,NA
+Y139d,Indicators - Asthma Attack,CTV3,NA,NA,NA,NA
+Y13a1,Worsening Asthma - Preventer Inhaler Increased Dose,CTV3,NA,NA,NA,NA
+Y13a2,Worsening Asthma - Reliever Inhaler Increased Dose 4 Hourly,CTV3,NA,NA,NA,NA
+Y13a3,Worsening Asthma - Steroid Rescue Dose Prednisolone,CTV3,NA,NA,NA,NA
+Y13a4,Worsening Asthma - Steroid Rescue Dose Prednisolone No. 5mg Tabs,CTV3,NA,NA,NA,NA
+Y13a5,Worsening Asthma - Steroid Rescue Dose Prednisolone No. Days Treatment,CTV3,NA,NA,NA,NA
+Y13a7,Peak Flow - Worsening Asthma - Less Than,CTV3,NA,NA,NA,NA
+Y13a8,Asthma Attack - Reliever Use More Frequent Than Every,CTV3,NA,NA,NA,NA
+Y13a9,Asthma Attack - Peak Flow Less Than,CTV3,NA,NA,NA,NA
+Y1b24,Acute Severe Exacerbation Of Allergic Asthma,CTV3,NA,NA,NA,NA
+Y1b24,Acute Severe Exacerbation Of Allergic Asthma,CTV3,NA,NA,NA,NA
+Y1f90,Quality And Outcomes Framework Asthma Quality Indicator-Related Care Invitation (Procedure),CTV3,NA,NA,NA,NA
+J45,Asthma,ICD-10,NA,NA,NA,NA
+J450,Predominantly Allergic Asthma,ICD-10,NA,NA,NA,NA
+J451,Nonallergic Asthma,ICD-10,NA,NA,NA,NA
+J458,Mixed Asthma,ICD-10,NA,NA,NA,NA
+J459,"Asthma, Unspecified",ICD-10,NA,NA,NA,NA
+J46,Status Asthmaticus,ICD-10,NA,NA,NA,NA
+NA,NA,NA,708038006,Acute exacerbation of asthma (disorder),y,direct mapping
+NA,NA,NA,370221004,Severe asthma (disorder),y,direct mapping
+NA,NA,NA,185728001,Attends asthma monitoring (finding),y,direct mapping
+NA,NA,NA,708373002,Emergency asthma patient visit since last encounter (situation),y,direct mapping
+NA,NA,NA,185734008,Asthma monitoring call third letter (procedure),y,direct mapping
+NA,NA,NA,772051000000106,Asthma limits activities most days (finding),y,direct mapping
+NA,NA,NA,93432008,Drug-induced asthma (disorder),y,direct mapping
+NA,NA,NA,1086701000000102,Life threatening acute exacerbation of allergic asthma (disorder),y,direct mapping
+NA,NA,NA,390798007,Asthma finding (finding),y,direct mapping
+NA,NA,NA,370218001,Mild asthma (disorder),y,direct mapping
+NA,NA,NA,185737001,Asthma monitoring deleted (finding),y,direct mapping
+NA,NA,NA,63088003,Extrinsic asthma without status asthmaticus (disorder),y,direct mapping
+NA,NA,NA,161527007,History of asthma (situation),y,direct mapping
+NA,NA,NA,443450003,Asthma control test (assessment scale),y,direct mapping
+NA,NA,NA,708090002,Acute severe exacerbation of asthma (disorder),y,direct mapping
+NA,NA,NA,401182001,Asthma monitoring by nurse (regime/therapy),y,direct mapping
+NA,NA,NA,708093000,Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder),y,direct mapping
+NA,NA,NA,959421000000105,Asthma monitoring short message service text message second invitation (procedure),y,direct mapping
+NA,NA,NA,390940007,Asthma monitoring due (finding),y,direct mapping
+NA,NA,NA,201051000000101,Asthma trigger - animal (finding),y,direct mapping
+NA,NA,NA,201211000000107,Asthma trigger - emotion (finding),y,direct mapping
+NA,NA,NA,405720007,Allergic bronchitis (disorder),y,direct mapping
+NA,NA,NA,201031000000108,Asthma trigger - respiratory infection (finding),y,direct mapping
+NA,NA,NA,201191000000108,Asthma trigger - cold air (finding),y,direct mapping
+NA,NA,NA,170638008,Asthma not limiting activities (finding),y,direct mapping
+NA,NA,NA,340911000000109,Asthma trigger - pollen (finding),y,direct mapping
+NA,NA,NA,698509001,Under care of asthma specialist nurse (finding),y,direct mapping
+NA,NA,NA,170657004,Asthma severely restricts exercise (finding),y,direct mapping
+NA,NA,NA,366874008,Number of asthma exacerbations in past year (observable entity),y,direct mapping
+NA,NA,NA,818161000000104,Asthma trigger - perfume (finding),y,direct mapping
+NA,NA,NA,195977004,Mixed asthma (disorder),y,direct mapping
+NA,NA,NA,275908000,Asthma monitoring (regime/therapy),y,direct mapping
+NA,NA,NA,734905008,Moderate acute exacerbation of asthma (disorder),y,direct mapping
+NA,NA,NA,928511000000107,Asthma monitoring invitation email (procedure),y,direct mapping
+NA,NA,NA,370202007,Asthma causes daytime symptoms 1 to 2 times per month (finding),y,direct mapping
+NA,NA,NA,390872009,Change in asthma management plan (regime/therapy),y,direct mapping
+NA,NA,NA,182724005,Further asthma - drug prevention (regime/therapy),y,direct mapping
+NA,NA,NA,170658009,Asthma never restricts exercise (finding),y,direct mapping
+NA,NA,NA,34015007,Bakers' asthma (disorder),y,direct mapping
+NA,NA,NA,170632009,Asthma causing night waking (finding),y,direct mapping
+NA,NA,NA,10692761000119108,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),y,direct mapping
+NA,NA,NA,183478001,Emergency hospital admission for asthma (procedure),y,direct mapping
+NA,NA,NA,170656008,Asthma sometimes restricts exercise (finding),y,direct mapping
+NA,NA,NA,400987003,Asthma trigger (observable entity),y,direct mapping
+NA,NA,NA,340921000000103,Asthma trigger - tobacco smoke (finding),y,direct mapping
+NA,NA,NA,711442001,Recent asthma management (situation),y,direct mapping
+NA,NA,NA,185731000,Asthma monitoring call first letter (procedure),y,direct mapping
+NA,NA,NA,57607007,Occupational asthma (disorder),y,direct mapping
+NA,NA,NA,401135008,Asthma education (procedure),y,direct mapping
+NA,NA,NA,445074007,Mini asthma quality of life questionnaire (assessment scale),y,direct mapping
+NA,NA,NA,170642006,Asthma severity (regime/therapy),y,direct mapping
+NA,NA,NA,771941000000102,Asthma causes symptoms most nights (finding),y,direct mapping
+NA,NA,NA,370225008,Asthma treatment compliance unsatisfactory (finding),y,direct mapping
+NA,NA,NA,281239006,Exacerbation of asthma (disorder),y,direct mapping
+NA,NA,NA,370203002,Asthma causes daytime symptoms 1 to 2 times per week (finding),y,direct mapping
+NA,NA,NA,233679003,Late onset asthma (disorder),y,direct mapping
+NA,NA,NA,445531003,Asthma control questionnaire (assessment scale),y,direct mapping
+NA,NA,NA,185732007,Asthma monitoring call second letter (procedure),y,direct mapping
+NA,NA,NA,182728008,Asthma control step 2 (procedure),y,direct mapping
+NA,NA,NA,170631002,Asthma disturbing sleep (finding),y,direct mapping
+NA,NA,NA,233688007,Sulfite-induced asthma (disorder),y,direct mapping
+NA,NA,NA,195967001,Asthma (disorder),y,direct mapping
+NA,NA,NA,233687002,Colophony asthma (disorder),y,direct mapping
+NA,NA,NA,308501009,Asthma monitoring status (finding),y,direct mapping
+NA,NA,NA,182727003,Asthma control step 1 (procedure),y,direct mapping
+NA,NA,NA,170636007,Asthma never disturbs sleep (finding),y,direct mapping
+NA,NA,NA,734904007,Life threatening acute exacerbation of asthma (disorder),y,direct mapping
+NA,NA,NA,270442000,Asthma monitoring check done (finding),y,direct mapping
+NA,NA,NA,225057002,Brittle asthma (disorder),y,direct mapping
+NA,NA,NA,810901000000102,Asthma self-management plan review (procedure),y,direct mapping
+NA,NA,NA,867171000000106,No asthma trigger identified by subject (finding),y,direct mapping
+NA,NA,NA,699191007,Did not attend asthma review (finding),y,direct mapping
+NA,NA,NA,928451000000107,Asthma monitoring invitation short message service text message (procedure),y,direct mapping
+NA,NA,NA,423889005,Non-immunoglobulin E mediated allergic asthma (disorder),y,direct mapping
+NA,NA,NA,527211000000100,Health education - structured asthma discussion (procedure),y,direct mapping
+NA,NA,NA,185735009,Asthma monitoring call verbal invite (procedure),y,direct mapping
+NA,NA,NA,407674008,Aspirin-induced asthma (disorder),y,direct mapping
+NA,NA,NA,170635006,Asthma not disturbing sleep (finding),y,direct mapping
+NA,NA,NA,736056000,Asthma clinical management plan (record artifact),y,direct mapping
+NA,NA,NA,170647000,Asthma prophylactic medication used (situation),y,direct mapping
+NA,NA,NA,340901000000107,Asthma trigger - exercise (finding),y,direct mapping
+NA,NA,NA,390921001,Absent from work or school due to asthma (finding),y,direct mapping
+NA,NA,NA,527171000000103,Patient has a written asthma personal action plan (finding),y,direct mapping
+NA,NA,NA,527191000000104,Health education - asthma self management (procedure),y,direct mapping
+NA,NA,NA,233678006,Childhood asthma (disorder),y,direct mapping
+NA,NA,NA,170634005,Asthma disturbs sleep frequently (finding),y,direct mapping
+NA,NA,NA,233683003,Hay fever with asthma (disorder),y,direct mapping
+NA,NA,NA,170637003,Asthma limiting activities (finding),y,direct mapping
+NA,NA,NA,811921000000103,Asthma self-management plan agreed (finding),y,direct mapping
+NA,NA,NA,182731009,Asthma control step 5 (procedure),y,direct mapping
+NA,NA,NA,395022009,Asthma night-time symptoms (finding),y,direct mapping
+NA,NA,NA,170633004,Asthma disturbs sleep weekly (finding),y,direct mapping
+NA,NA,NA,394700004,Asthma annual review (regime/therapy),y,direct mapping
+NA,NA,NA,754061000000100,Asthma review using Royal College of Physicians three questions (regime/therapy),y,direct mapping
+NA,NA,NA,182726007,Asthma control step 0 (procedure),y,direct mapping
+NA,NA,NA,405944004,Asthmatic bronchitis (disorder),y,direct mapping
+NA,NA,NA,394720003,Asthma medication review (procedure),y,direct mapping
+NA,NA,NA,182729000,Asthma control step 3 (procedure),y,direct mapping
+NA,NA,NA,708358003,Emergency asthma admission since last encounter (situation),y,direct mapping
+NA,NA,NA,170655007,Asthma restricts exercise (finding),y,direct mapping
+NA,NA,NA,406162001,Asthma management (regime/therapy),y,direct mapping
+NA,NA,NA,370208006,Asthma never causes daytime symptoms (finding),y,direct mapping
+NA,NA,NA,182730005,Asthma control step 4 (procedure),y,direct mapping
+NA,NA,NA,302331000000106,Royal College of Physicians asthma assessment (assessment scale),y,direct mapping
+NA,NA,NA,312453004,Asthma - currently active (finding),y,direct mapping
+NA,NA,NA,370204008,Asthma causes daytime symptoms most days (finding),y,direct mapping
+NA,NA,NA,266361008,Non-allergic asthma (disorder),y,direct mapping
+NA,NA,NA,401183006,Asthma monitoring by doctor (regime/therapy),y,direct mapping
+NA,NA,NA,771981000000105,Asthma limits activities 1 to 2 times per month (finding),y,direct mapping
+NA,NA,NA,708094006,Acute exacerbation of intrinsic asthma (disorder),y,direct mapping
+NA,NA,NA,715191006,Telehealth asthma monitoring (regime/therapy),y,direct mapping
+NA,NA,NA,734346005,Asthma monitoring using asthma symptom diary (regime/therapy),y,direct mapping
+NA,NA,NA,370207001,Asthma limits walking up hills or stairs (finding),y,direct mapping
+NA,NA,NA,527231000000108,Health education - structured patient focused asthma discussion (procedure),y,direct mapping
+NA,NA,NA,959401000000101,Asthma monitoring short message service text message first invitation (procedure),y,direct mapping
+NA,NA,NA,394701000,Asthma follow-up (regime/therapy),y,direct mapping
+NA,NA,NA,1086711000000100,Life threatening acute exacerbation of intrinsic asthma (disorder),y,direct mapping
+NA,NA,NA,390878008,Step down change in asthma management plan (regime/therapy),y,direct mapping
+NA,NA,NA,473391009,Asthma never causes night symptoms (situation),y,direct mapping
+NA,NA,NA,959441000000103,Asthma monitoring short message service text message third invitation (procedure),y,direct mapping
+NA,NA,NA,12428000,Intrinsic asthma without status asthmaticus (disorder),y,direct mapping
+NA,NA,NA,312454005,Asthma - currently dormant (finding),y,direct mapping
+NA,NA,NA,233691007,Asthmatic pulmonary eosinophilia (disorder),y,direct mapping
+NA,NA,NA,11641008,Millers' asthma (disorder),y,direct mapping
+NA,NA,NA,389145006,Allergic asthma (disorder),y,direct mapping
+NA,NA,NA,185736005,Asthma monitoring call telephone invite (procedure),y,direct mapping
+NA,NA,NA,340931000000101,Asthma trigger - warm air (finding),y,direct mapping
+NA,NA,NA,370226009,Asthma treatment compliance satisfactory (finding),y,direct mapping
+NA,NA,NA,340891000000106,Asthma trigger - airborne dust (finding),y,direct mapping
+NA,NA,NA,41553006,Detergent asthma (disorder),y,direct mapping
+NA,NA,NA,370219009,Moderate asthma (disorder),y,direct mapping
+NA,NA,NA,966011000000109,At risk of severe asthma exacerbation (finding),y,direct mapping
+NA,NA,NA,448003001,Royal College of Physicians 3 questions score (observable entity),y,direct mapping
+NA,NA,NA,304527002,Acute asthma (disorder),y,direct mapping
+NA,NA,NA,771901000000100,Asthma causes night time symptoms 1 to 2 times per week (finding),y,direct mapping
+NA,NA,NA,401193004,Asthma confirmed (situation),y,direct mapping
+NA,NA,NA,31387002,Exercise-induced asthma (disorder),y,direct mapping
+NA,NA,NA,201201000000105,Asthma trigger - damp (finding),y,direct mapping
+NA,NA,NA,185940009,Patient in asthma study (finding),y,direct mapping
+NA,NA,NA,772011000000107,Asthma limits activities 1 to 2 times per week (finding),y,direct mapping
+NA,NA,NA,815631000000106,Asthma trigger - wind (finding),y,direct mapping
+NA,NA,NA,390877003,Step up change in asthma management plan (regime/therapy),y,direct mapping
+NA,NA,NA,370205009,Asthma causes night symptoms 1 to 2 times per month (finding),y,direct mapping
+NA,NA,NA,370220003,Occasional asthma (disorder),y,direct mapping
+NA,NA,NA,373899003,Asthma daytime symptoms (finding),y,direct mapping
+NA,NA,NA,424643009,Immunoglobulin E-mediated allergic asthma (disorder),y,direct mapping
+NA,NA,NA,370206005,Asthma limits walking on the flat (finding),y,direct mapping
+NA,NA,NA,185730004,Asthma monitor offer default (finding),y,direct mapping
+NA,NA,NA,866881000000101,Chronic asthma with fixed airflow obstruction (disorder),y,direct mapping
+NA,NA,NA,308500005,Asthma monitoring call (procedure),y,direct mapping
+NA,NA,NA,302220000,Asthma control steps (procedure),y,direct mapping
+NA,NA,NA,811151000000105,Number of days absent from school due to asthma in past 6 months (observable entity),y,direct mapping
+NA,NA,NA,195949008,Chronic asthmatic bronchitis (disorder),y,direct mapping
+NA,NA,NA,201041000000104,Asthma trigger - seasonal (finding),y,direct mapping
+NA,NA,NA,429258006,History of aspirin exacerbated respiratory disease (situation),y,descendant of concept mapped from leaf
+NA,NA,NA,10675391000119100,Severe controlled persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10674711000119104,Acute severe exacerbation of asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,92807009,Chemical-induced asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,1741000119102,Intermittent asthma uncontrolled (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,426656000,Severe persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,233672007,Byssinosis grade 3 (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,232430006,Recurrent allergic croup (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707980005,Acute severe exacerbation of moderate persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707512002,Uncomplicated moderate persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675751000119108,Severe uncontrolled persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,703954005,Allergic asthma caused by Dermatophagoides farinae (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707511009,Uncomplicated mild persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707513007,Uncomplicated severe persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675911000119108,Acute severe exacerbation of mild persistent allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707444001,Uncomplicated asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,733858005,Acute severe refractory exacerbation of asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,427603009,Intermittent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707447008,Exacerbation of severe persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10676511000119108,Acute severe exacerbation of moderate persistent asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,85761009,Byssinosis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,135181000119109,Acute exacerbation of mild persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,401000119107,Asthma with irreversible airway obstruction (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,59786004,Weavers' cough (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675991000119100,Acute severe exacerbation of mild persistent allergic asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,72301000119103,Asthma in pregnancy (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707445000,Exacerbation of mild persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675551000119104,Acute severe exacerbation of severe persistent asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707446004,Exacerbation of moderate persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707979007,Acute severe exacerbation of severe persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,427295004,Moderate persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,418395004,Tea-makers' asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,99031000119107,Acute exacerbation of asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,56968009,Wood asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10676391000119108,Moderate persistent allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,442025000,Acute exacerbation of chronic asthmatic bronchitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,707981009,Acute severe exacerbation of mild persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,735589002,Uncomplicated non-allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,55570000,Asthma without status asthmaticus (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,124991000119109,Severe persistent asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,735588005,Uncomplicated allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,703953004,Allergic asthma caused by Dermatophagoides pteronyssinus (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,89099002,Chronic allergic bronchitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,1103911000000103,Severe asthma with fungal sensitisation (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,708095007,Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,125021000119107,Intermittent asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10676431000119104,Acute severe exacerbation of moderate persistent allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,708096008,Acute severe exacerbation of intrinsic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,404808000,Isocyanate induced asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,404806001,Cheese-makers' asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,2360001000004109,Steroid dependent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,425969006,Exacerbation of intermittent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,135171000119106,Acute exacerbation of moderate persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675871000119106,Mild persistent allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,19849005,Meat-wrappers' asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,30352005,Allergic-infective asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,18041002,Printers' asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,404804003,Platinum asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,445427006,Seasonal asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,16584951000119100,Oral steroid-dependent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,699728000,Asthma self management (regime/therapy),y,descendant of concept mapped from leaf
+NA,NA,NA,409663006,Cough variant asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,762521001,Exacerbation of allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10742121000119104,Asthma in mother complicating childbirth (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675471000119108,Acute severe exacerbation of severe persistent allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,125001000119103,Moderate persistent asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10692721000119102,Chronic obstructive asthma co-occurrent with acute exacerbation of asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,1751000119100,Acute exacerbation of chronic obstructive airways disease with asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,426979002,Mild persistent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,427679007,Mild intermittent asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,13151001,Flax-dressers' disease (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,735587000,Acute severe exacerbation of asthma co-occurrent and due to allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,424199006,Substance induced asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10692681000119108,Aspirin exacerbated respiratory disease (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,125011000119100,Mild persistent asthma co-occurrent with allergic rhinitis (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,10675431000119106,Severe persistent allergic asthma (disorder),y,descendant of concept mapped from leaf
+NA,NA,NA,653751000000109,Asthma attack NOS (disorder),n,via Query Table
+NA,NA,NA,689421000000104,Status asthmaticus NOS (disorder),n,via Query Table
+NA,NA,NA,512231000000100,Under care of asthma specialist nurse (finding),n,via Query Table
+NA,NA,NA,778601000000103,Asthma trigger - respiratory infection,n,via Query Table
+NA,NA,NA,186081000000101,Work aggravated asthma,n,via Query Table
+NA,NA,NA,389146007,Extrinsic asthma (disorder),n,via Query Table
+NA,NA,NA,948091000000109,Telehealth asthma monitoring (regime/therapy),n,via Query Table
+NA,NA,NA,170654006,Emergency asthma admission since last appointment (regime/therapy),n,via Query Table
+NA,NA,NA,512211000000108,Mini asthma quality of life questionnaire,n,via Query Table
+NA,NA,NA,59327009,Intrinsic asthma with status asthmaticus (disorder),n,via Query Table
+NA,NA,NA,772061000000109,Asthma limits activities most days,n,via Query Table
+NA,NA,NA,56507008,Tea-tasters' disease (disorder),n,via Query Table
+NA,NA,NA,233686006,Aspirin-sensitive asthma with nasal polyps (disorder),n,via Query Table
+NA,NA,NA,771951000000104,Asthma causes night time symptoms most nights,n,via Query Table
+NA,NA,NA,791171000000104,Asthma never causes night symptoms (finding),n,via Query Table
+NA,NA,NA,928461000000105,Asthma monitoring invitation SMS (short message service) text message,n,via Query Table
+NA,NA,NA,579691000000102,Intrinsic asthma NOS (disorder),n,via Query Table
+NA,NA,NA,233689004,Mill fever (disorder),n,via Query Table
+NA,NA,NA,778531000000108,Asthma trigger - tobacco smoke,n,via Query Table
+NA,NA,NA,959431000000107,Asthma monitoring SMS (short message service text message) second invitation,n,via Query Table
+NA,NA,NA,202571000000105,Nocturnal asthma (disorder),n,via Query Table
+NA,NA,NA,771991000000107,Asthma limits activities 1 to 2 times per month,n,via Query Table
+NA,NA,NA,791181000000102,Asthma causes no night symptoms,n,via Query Table
+NA,NA,NA,57546000,Asthma with status asthmaticus (disorder),n,via Query Table
+NA,NA,NA,928521000000101,Asthma monitoring invitation email,n,via Query Table
+NA,NA,NA,512241000000109,Under care of asthma specialist nurse,n,via Query Table
+NA,NA,NA,307580006,Recent asthma management (regime/therapy),n,via Query Table
+NA,NA,NA,512181000000107,Asthma control questionnaire (assessment scale),n,via Query Table
+NA,NA,NA,233685005,Intrinsic asthma with asthma attack (disorder),n,via Query Table
+NA,NA,NA,165621000000103,Brittle asthma,n,via Query Table
+NA,NA,NA,503301000000106,Asthma control test (assessment scale),n,via Query Table
+NA,NA,NA,233682008,Allergic asthma NEC (disorder),n,via Query Table
+NA,NA,NA,771911000000103,Asthma causes night time symptoms 1 to 2 times per week,n,via Query Table
+NA,NA,NA,778571000000105,Asthma trigger - animals,n,via Query Table
+NA,NA,NA,778541000000104,Asthma trigger - warm air,n,via Query Table
+NA,NA,NA,1064821000000109,Life threatening acute exacerbation of asthma (disorder),n,via Query Table
+NA,NA,NA,778621000000107,Asthma trigger - exercise,n,via Query Table
+NA,NA,NA,91340006,Extrinsic asthma with status asthmaticus (disorder),n,via Query Table
+NA,NA,NA,966021000000103,At risk of severe asthma exacerbation,n,via Query Table
+NA,NA,NA,527221000000106,Health education - structured asthma discussion,n,via Query Table
+NA,NA,NA,527181000000101,Patient has a written asthma personal action plan,n,via Query Table
+NA,NA,NA,944971000000100,Asthma-chronic obstructive pulmonary disease overlap syndrome,n,via Query Table
+NA,NA,NA,416601004,Work aggravated asthma (disorder),n,via Query Table
+NA,NA,NA,589231000000108,Extrinsic asthma NOS (disorder),n,via Query Table
+NA,NA,NA,527201000000102,Health education - asthma self management,n,via Query Table
+NA,NA,NA,593601000000101,Pneumopathy due to inhalation of other dust (disorder),n,via Query Table
+NA,NA,NA,778581000000107,Asthma trigger - seasonal,n,via Query Table
+NA,NA,NA,67415000,Hay asthma (disorder),n,via Query Table
+NA,NA,NA,233681001,Extrinsic asthma with asthma attack (disorder),n,via Query Table
+NA,NA,NA,811161000000108,Number of days absent from school due to asthma in past 6 months,n,via Query Table
+NA,NA,NA,1761000119103,Chronic obstructive airway disease with asthma (disorder),n,via Query Table
+NA,NA,NA,832091000000103,Asthma self-management plan review,n,via Query Table
+NA,NA,NA,503311000000108,Asthma control test,n,via Query Table
+NA,NA,NA,948101000000101,Telehealth asthma monitoring,n,via Query Table
+NA,NA,NA,772021000000101,Asthma limits activities 1 to 2 time per week,n,via Query Table
+NA,NA,NA,866891000000104,Chronic asthma with fixed airflow obstruction,n,via Query Table
+NA,NA,NA,186071000000103,Occupational asthma,n,via Query Table
+NA,NA,NA,778611000000101,Asthma trigger - airborne dust,n,via Query Table
+NA,NA,NA,772091000000103,Royal College of Physicians asthma assessment three questions score (observable entity),n,via Query Table
+NA,NA,NA,1064811000000103,Moderate acute exacerbation of asthma (disorder),n,via Query Table
+NA,NA,NA,427354000,Exacerbation of persistent asthma (disorder),n,via Query Table
+NA,NA,NA,302351000000104,Royal College of Physicians asthma outcome measure,n,via Query Table
+NA,NA,NA,959451000000100,Asthma monitoring SMS (short message service text message) third invitation,n,via Query Table
+NA,NA,NA,959411000000104,Asthma monitoring SMS (short message service) text message first invitation,n,via Query Table
+NA,NA,NA,778591000000109,Asthma trigger - cold air,n,via Query Table
+NA,NA,NA,644281000000107,Allergic asthma NEC (disorder),n,via Query Table
+NA,NA,NA,370210008,Number of asthma exacerbations in past year (finding),n,via Query Table
+NA,NA,NA,512191000000109,Asthma control questionnaire,n,via Query Table
+NA,NA,NA,412775002,Asthma clinical management plan (qualifier value),n,via Query Table
+NA,NA,NA,189521000000104,Work aggravated asthma,n,via Query Table
+NA,NA,NA,521381000000109,Did not attend asthma review (finding),n,via Query Table
+NA,NA,NA,302341000000102,Royal College of Physicians asthma outcome measure,n,via Query Table
+NA,NA,NA,512201000000106,Mini asthma quality of life questionnaire (assessment scale),n,via Query Table
+NA,NA,NA,778551000000101,Asthma trigger - emotion,n,via Query Table
+NA,NA,NA,1065181000000104,Use of asthma symptom diary (regime/therapy),n,via Query Table
+NA,NA,NA,503321000000102,Asthma control test,n,via Query Table
+NA,NA,NA,778561000000103,Asthma trigger - damp,n,via Query Table
+NA,NA,NA,772101000000106,Royal College of Physicians asthma assessment three questions score,n,via Query Table
+NA,NA,NA,189511000000105,Occupational asthma,n,via Query Table
+NA,NA,NA,1064771000000103,Acute severe exacerbation of asthma (disorder),n,via Query Table
+NA,NA,NA,754071000000107,Asthma review (three Royal College of Pysicisan questions),n,via Query Table
+NA,NA,NA,778521000000106,Asthma trigger - pollen,n,via Query Table
+NA,NA,NA,1945002,Allergic asthma with stated cause (disorder),n,via Query Table
+NA,NA,NA,170641004,Asthma management plan given (regime/therapy),n,via Query Table
+NA,NA,NA,527241000000104,Health education - structured patient focussed asthma discussion,n,via Query Table
+NA,NA,NA,593201000000103,Pneumopathy due to inhalation of other dust NOS (disorder),n,via Query Table
+NA,NA,NA,266364000,Asthma attack (disorder),n,via Query Table
+NA,NA,NA,811931000000101,Asthma self-management plan agreed,n,via Query Table
+NA,NA,NA,134380003,Asthma Accident and Emergency attendance since last visit (regime/therapy),n,via Query Table
+NA,NA,NA,944961000000107,Asthma-chronic obstructive pulmonary disease overlap syndrome (disorder),n,via Query Table

@@ -1,0 +1,214 @@
+---
+title: 'Table 3: Primary outcome: stratified Cox regression'
+author: "Liang-Yu Lin"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r include=FALSE}
+# Load data and packages
+# Datasets
+
+# packages
+library(markdown)
+library(rmarkdown)
+library(arsenal)
+library(kableExtra)
+library(survival)
+library(survminer)
+library(finalfit) 
+
+# Limit significant digits to 2, remove scientific notation
+options(digits = 2, scipen = 999)
+
+```
+
+# Time splitting: split follow-up time using `survSplit()`
+
+Use `survSplit()` from survival package to split the following time.
+
+Important time points: - Follow-up start date: 2020-03-15 - End of the British summertime: 2020-10-25 - End of following-up: end_d in the dataset
+
+1.  Calculate the duration (i.e. the cut point) of British summer time (bst):
+
+```{r echo=FALSE}
+start <- as.Date("2020-03-15")
+# spring_end <-  as.Date("2020-06-20")
+# summer_end <-  as.Date("2020-09-22")
+# autumn_end <-  as.Date("2020-12-21") 
+bst <- as.Date("2020-10-25")
+
+# calculate the days between two dates
+# julian(spring_end, start) #97
+# julian(summer_end, start) #191
+# julian(autumn_end, start) #281
+julian(bst, start) # 224
+
+time_cut <- c(224) # try using BST  
+```
+
+2.  Split the following time. This will end up with two following time.
+
+```{r include=FALSE}
+bd_d_s <- survSplit(
+  Surv(bd_d$fu_time, event = bd_d$c_infection)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_d",
+  start = "start",
+  episode = "season"
+)
+```
+
+Three variables were created: "start", "event", and "season."
+
+# Table 3: time splitting
+
+**Table 3. The association between vitamin D status and Covid-19 infection**
+
+### Simple regression of vit_d (can't use finalfit)
+
+```{r echo=FALSE}
+coxph(Surv(start, end_d, event = event) ~ vitd_s*strata(season), data = bd_d_s, id = f.eid) %>% 
+summary()
+```
+
+### Partial adjustment for sex and age
+
+```{r echo=FALSE}
+# write a function for map
+time_split_t2_partial <- function(x){
+  bd_d_s %>% finalfit(
+  dependent = "Surv(start, end_d, event = event)", 
+  explanatory = c(x, "sex", "age_group")) %>% 
+  knitr::kable( format = "pandoc")
+}
+
+var_list <- c("vitd_s*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c", "smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, time_split_t2_partial)
+
+```
+
+### Complete simple and multiple regression
+
+```{r echo=FALSE}
+explanatory = c("vitd_s*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c", "smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+dependent ="Surv(start, end_d, event = event)"
+bd_d_s %>% finalfit(dependent, explanatory) %>% knitr::kable( format = "pandoc")
+```
+
+# Table 4: time splitting for hospitalization
+
+Data management: time splitting
+
+```{r include=FALSE}
+bd_d$fu_time_t3 <- (as.numeric(bd_d$end_hos_all)-as.numeric(start))
+
+# Split the following time:
+
+bd_d_t3 <- survSplit(
+  Surv(bd_d$fu_time_t3, event = bd_d$hos_all)~.,
+  data = bd_d,
+  cut = time_cut, 
+  end = "end_hos_all",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+**Table 4. The association between vitamin d status and hospitalization due to covid-19**
+
+### Simple regression for vit_d (can't use finalfit)
+
+```{r echo=FALSE}
+coxph(Surv(start, end_hos_all, event = event) ~ vitd_s*strata(season), data = bd_d_t3 , id = f.eid) %>% 
+summary()
+
+```
+
+### Paritial adjustment for sex and age
+
+```{r echo=FALSE}
+# write a function for all
+time_split_t3_partial <- function(x){
+bd_d_t3 %>% finalfit(
+  dependent = "Surv(start, end_hos_all, event = event)", 
+  explanatory = c(x, "sex", "age_group")) %>% 
+  knitr::kable( format = "pandoc")
+}
+
+var_list <- c("vitd_s*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, time_split_t3_partial)
+
+
+```
+
+### Complete simple and multiple regression
+
+```{r echo=FALSE}
+bd_d_t3 %>% finalfit(
+  dependent = "Surv(start, end_hos_all, event = event)",
+  explanatory = c("vitd_s*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst", "imd_bd_q" , "regions","low_immune","chronic_disease")) %>%
+  knitr::kable(format = "pandoc", row.names = NA)
+```
+
+# Table 5: time splitting
+
+Data management:
+
+```{r include=FALSE}
+bd_d$fu_time_t4 <-(as.numeric(bd_d$end_mor_all) - as.numeric(start))
+# Split the following time:
+
+bd_d_t4 <- survSplit(
+  Surv(bd_d$fu_time_t4, event = bd_d$n_death_covid_all)~.,
+  data = bd_d,
+  cut = time_cut,
+  end = "end_mor_all",
+  start = "start",
+  episode = "season"
+)
+
+```
+
+**Table 5 : the association between vitamin D status and COVID-19 mortality**
+
+### Simple regression (without finalfit)
+
+```{r echo=FALSE}
+coxph( 
+  Surv(start, end_mor_all, event = event) ~ vitd_s*strata(season), 
+  data = bd_d_t4 , 
+  id = f.eid) %>% summary()
+```
+
+### Partial adjustment for sex and age
+
+```{r echo=FALSE}
+# write a function for map
+time_split_t3_partial <- function(x){
+  bd_d_t4 %>% finalfit(
+  dependent = "Surv(start, end_mor_all, event = event)", 
+  explanatory = c(x, "sex", "age_group")) %>% 
+  knitr::kable( format = "pandoc")
+}
+
+var_list <- c("vitd_s*strata(season)","ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst","imd_bd_q" , "regions", "low_immune", "chronic_disease")
+
+map(var_list, time_split_t3_partial)
+```
+
+### Complete simple and multiple regression
+
+```{r echo=FALSE}
+bd_d_t4 %>% finalfit(
+  dependent = "Surv(start, end_mor_all, event = event)",
+  explanatory = c("vitd_s*strata(season)", "sex", "age_group", "ethnic_c" , "bmi_group" , "drink_freq_c","smoke_stat", "bst", "imd_bd_q" , "regions","low_immune","chronic_disease")) %>%
+  knitr::kable(format = "pandoc", row.names = NA)
+```

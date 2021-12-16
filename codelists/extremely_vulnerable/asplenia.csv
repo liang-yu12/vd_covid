@@ -1,0 +1,99 @@
+code,description,type
+14N7.,H/O Splenectomy,CTV3
+7840.,Total Splenectomy,CTV3
+7840.,Total Splenectomy,CTV3
+7840.,Total Splenectomy,CTV3
+78400,Total Splenectomy And Reimplantation Of Fragments,CTV3
+78401,Total Splenectomy,CTV3
+78403,Splenectomy Nec,CTV3
+78403,Splenectomy Nec,CTV3
+7840y,Other Specified Total Excision Of Spleen,CTV3
+7840y,Other Specified Total Excision Of Spleen,CTV3
+7840z,Total Excision Of Spleen Nos,CTV3
+7840z,Total Excision Of Spleen Nos,CTV3
+7841.,Other Excision Of Spleen,CTV3
+7841.,Other Excision Of Spleen,CTV3
+78410,Partial Splenectomy,CTV3
+7841y,Other Specified Other Excision Of Spleen,CTV3
+7841y,Other Specified Other Excision Of Spleen,CTV3
+7841z,Other Excision Of Spleen Nos,CTV3
+7841z,Other Excision Of Spleen Nos,CTV3
+78421,Embolisation Of Spleen,CTV3
+A8410,Plasmodium Vivax Malaria With Rupture Of Spleen,CTV3
+D4154,Atrophy Of Spleen,CTV3
+D4154,Atrophy Of Spleen,CTV3
+D4156,Splenic Fibrosis,CTV3
+D4156,Splenic Fibrosis,CTV3
+D4157,Infarction Of Spleen,CTV3
+D4157,Infarction Of Spleen,CTV3
+G74y6,Embolism And Thrombosis Of The Splenic Artery,CTV3
+PK01.,(Absent Spleen) Or (Asplenia),CTV3
+PK06.,Hypoplasia Of Spleen,CTV3
+PK06.,Hypoplasia Of Spleen,CTV3
+Ua1JD,Subtotal Splenectomy,CTV3
+X205i,Splenic Vein Thrombosis,CTV3
+X20BK,Splenectomy,CTV3
+X20Fp,Post-Splenectomy Leucocytosis,CTV3
+XA07k,Avulsion Of Spleen,CTV3
+XE1Mi,Congenital Absence Of Spleen,CTV3
+XE1Mi,Congenital Absence Of Spleen,CTV3
+XE1Mi,Congenital Absence Of Spleen,CTV3
+XM1OF,Congenital Syphilitic Splenomegaly,CTV3
+Xa0hO,Hyposplenism,CTV3
+Xa0hO,Hyposplenism,CTV3
+Xa7Ya,Spleen Absent,CTV3
+Xa7Ya,Spleen Absent,CTV3
+Xa7Ya,Spleen Absent,CTV3
+Xa9D7,Hereditary Splenic Hypoplasia,CTV3
+XaEXw,Laparoscopic Total Splenectomy,CTV3
+XaEXw,Laparoscopic Total Splenectomy,CTV3
+XaZvR,Acquired Absence Of Spleen,CTV3
+XaZvR,Acquired Absence Of Spleen,CTV3
+D730,D73.0 Hyposplenism,ICD-10
+205735005,Hypoplasia Of Spleen (Disorder),SNOMED-CT
+23761004,Hyposplenism (Disorder),SNOMED-CT
+56338005,Splenic Fibrosis (Disorder),SNOMED-CT
+186792002,Plasmodium Vivax Malaria With Rupture Of Spleen (Disorder),SNOMED-CT
+234513007,Post-Splenectomy Leukocytosis (Disorder),SNOMED-CT
+262821002,Avulsion Of Spleen (Disorder),SNOMED-CT
+14534009,Splenic Vein Thrombosis (Disorder),SNOMED-CT
+314118002,Laparoscopic Total Splenectomy (Procedure),SNOMED-CT
+161626009,History Of Splenectomy (Situation),SNOMED-CT
+174789007,Embolization Of Spleen (Procedure),SNOMED-CT
+707147002,Asplenia (Disorder),SNOMED-CT
+300564004,Spleen Absent (Finding),SNOMED-CT
+861371000000102,Acquired Absence Of Spleen (Disorder),SNOMED-CT
+82893001,Splenic Atrophy (Disorder),SNOMED-CT
+234319005,Splenectomy (Procedure),SNOMED-CT
+56118002,Congenital Syphilitic Splenomegaly (Disorder),SNOMED-CT
+22996003,Splenic Infarction (Disorder),SNOMED-CT
+174776001,Total Splenectomy (Procedure),SNOMED-CT
+174778000,Total Splenectomy And Reimplantation Of Fragments (Procedure),SNOMED-CT
+67097003,Partial Splenectomy (Procedure),SNOMED-CT
+195340002,Embolism And Thrombosis Of The Splenic Artery (Disorder),SNOMED-CT
+93030006,Congenital Absence Of Spleen (Disorder),SNOMED-CT
+302961007,Hereditary Splenic Hypoplasia (Disorder),SNOMED-CT
+11973000,Accessory Splenectomy (Procedure),SNOMED-CT
+817000,Excision Of Cyst Of Spleen (Procedure),SNOMED-CT
+60194009,Distal Subtotal Pancreatectomy With Splenectomy (Procedure),SNOMED-CT
+446408009,Laparoscopic Excision Of Part Of Spleen (Procedure),SNOMED-CT
+123617004,Fleckmilz (Disorder),SNOMED-CT
+67061007,Excision Of Lesion Of Spleen (Procedure),SNOMED-CT
+33479006,Distal Subtotal Pancreatectomy With Splenectomy And Pancreaticojejunostomy (Procedure),SNOMED-CT
+726708009,Familial Isolated Congenital Asplenia (Disorder),SNOMED-CT
+38096003,Functional Asplenia (Disorder),SNOMED-CT
+93292008,Congenital Hypoplasia Of Spleen (Disorder),SNOMED-CT
+12913009,Splenorrhaphy With Partial Splenectomy (Procedure),SNOMED-CT
+724639003,Asplenia Following Surgical Procedure (Disorder),SNOMED-CT
+711407000,"Thrombocytopathy, Asplenia And Miosis (Disorder)",SNOMED-CT
+165591000000101,Hyposplenism,SNOMED-CT
+585451000000100,Other Excision Of Spleen Nos (Procedure),SNOMED-CT
+174781005,Splenectomy Nec (Procedure),SNOMED-CT
+561341000000109,Other Specified Total Excision Of Spleen (Procedure),SNOMED-CT
+561351000000107,Total Excision Of Spleen Nos (Procedure),SNOMED-CT
+164941000000104,Infarction Of Spleen,SNOMED-CT
+561361000000105,Other Excision Of Spleen (Procedure),SNOMED-CT
+861381000000100,Acquired Absence Of Spleen,SNOMED-CT
+561371000000103,Other Specified Other Excision Of Spleen (Procedure),SNOMED-CT
+164931000000108,Hyposplenism,SNOMED-CT
+555591000000103,Splenectomy Nec (Procedure),SNOMED-CT

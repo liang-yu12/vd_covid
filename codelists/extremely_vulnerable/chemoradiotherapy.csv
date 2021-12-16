@@ -1,0 +1,1464 @@
+code,description,type
+5135.,Radiological Tumour Control,CTV3
+514..,Purpose Of Radiotherapy,CTV3
+5141.,Radiotherapy For Immunosuppression,CTV3
+5142.,Radiotherapy For Haemopoietic Irradiation,CTV3
+5143.,Radiotherapy For Lymphatic Irradiation,CTV3
+5144.,Preoperative Course Of Radiotherapy,CTV3
+5145.,Radiotherapy - Intraoperative Control,CTV3
+5146.,Postoperative Course Of Radiotherapy,CTV3
+5147.,Radiotherapy For Analgesia,CTV3
+5148.,Radiotherapy For Inflammation,CTV3
+5149.,Palliative Course Of Radiotherapy,CTV3
+514Z.,Radiotherapy Purpose - Nos,CTV3
+515..,Progress Of Radiotherapy,CTV3
+5151.,Radiotherapy Started,CTV3
+5152.,Radiotherapy Changed,CTV3
+5153.,Radiotherapy Stopped,CTV3
+5154.,Radiotherapy Completed,CTV3
+515Z.,Radiotherapy Progress Nos,CTV3
+56B5.,Image: Field Control:radiother,CTV3
+591..,X-Ray Beam Therapy,CTV3
+5911.,Grenz Ray Therapy Up To 10 Kv,CTV3
+5912.,Superficial X-Ray Therapy 10-60 Kv,CTV3
+5913.,Half-Deep Therapy 60-150 Kv,CTV3
+5914.,Deep X-Ray Therapy 150-400 Kv,CTV3
+5915.,Ultrahard X-Rays 400-2000 Kv,CTV3
+5916.,Short Distance X-Ray Therapy,CTV3
+5917.,Intracavitary X-Ray Therapy,CTV3
+5918.,Combined X-Ray Therapy,CTV3
+591Z.,X-Ray Beam Therapy Nos,CTV3
+592..,High-Energy Beam Therapy,CTV3
+5921.,Linear Accelerator Photon Therapy,CTV3
+5922.,Betatron Photon Therapy,CTV3
+5923.,Van Der Graaff Photon Therapy,CTV3
+5924.,Combined Photon Therapy,CTV3
+592Z.,High-Energy Beam Therapy Nos,CTV3
+593..,Fast-Electron Therapy,CTV3
+5931.,Linear Accelerator Electrons,CTV3
+5932.,Betatron Electron Therapy,CTV3
+5933.,Positron Therapy,CTV3
+5934.,Combined Fast-Electron Therapy,CTV3
+593Z.,Fast-Electron Therapy Nos,CTV3
+594..,Heavy Particle Therapy,CTV3
+5941.,Proton Therapy,CTV3
+5942.,Deuteron Therapy,CTV3
+5943.,Pi-Meson Therapy,CTV3
+5944.,Neutron Capture Therapy,CTV3
+5945.,Fast Neutron Therapy,CTV3
+5946.,Combined Heavy Particle Therapy,CTV3
+594Z.,Heavy Particle Therapy Nos,CTV3
+595..,Gamma Ray And Intermediate Distance Curietherapy,CTV3
+5951.,Gamma-Ray Telecurie Therapy,CTV3
+5952.,Intermediate Distance Curietherapy,CTV3
+5953.,Combined Teletherapy And Intermediate Distance Curietherapy,CTV3
+595Z.,Distant Gamma Therapy Nos,CTV3
+596..,Short Distance And Contact Radiotherapy,CTV3
+5961.,Radium Contact Therapy,CTV3
+5962.,Beta Source Contact Therapy,CTV3
+5963.,Mould Technique Gamma/Beta,CTV3
+596Z.,Short Distance/Contact Radiotherapy Nos,CTV3
+597..,Combined Radiotherapy,CTV3
+5971.,External Beam With Internal Radiotherapy,CTV3
+5972.,External Beam - Surgery With Preoperative Radiotherapy,CTV3
+5973.,External Beam - Surgery With Postoperative Radiotherapy,CTV3
+5974.,External Beam - Surgery With Chemotherapy,CTV3
+5975.,External Beam With Chemotherapy,CTV3
+597Z.,Combined Radiotherapy Nos,CTV3
+59Z..,External Radiotherapy Nos,CTV3
+5A...,(Radiotherapy - Internal) Or (Other Nuclear Therapy),CTV3
+5A1..,Internal Metabolic Radiotherapy,CTV3
+5A11.,Thyroid Gland Ablation - Irradiation,CTV3
+5A12.,Thyroid Tumour/Metastasis Irradiation,CTV3
+5A13.,Bone Marrow Suppression - Irradiation,CTV3
+5A14.,Polycythaemia Irradiation,CTV3
+5A15.,Bone Tumour/Metastasis Irradiation,CTV3
+5A16.,Radioactive Drug Therapy,CTV3
+5A17.,Combined Internal Radiotherapy,CTV3
+5A1Z.,Internal Metabolic Radiotherapy Nos,CTV3
+5A2..,Internal Radiotherapy - Unsealed Source,CTV3
+5A21.,Radiotherapy: Infuse Skull/Brain,CTV3
+5A22.,Radiotherapy: Infuse Head/Neck,CTV3
+5A23.,Radiotherapy: Infuse Pleural Cavity,CTV3
+5A24.,Radiotherapy: Infuse Peritoneal Cavity,CTV3
+5A25.,Radiotherapy: Endolymphatic Infusion,CTV3
+5A26.,Radiotherapy: Infuse Urinary Bladder,CTV3
+5A27.,Radiotherapy: Infuse Organ Cavity,CTV3
+5A28.,Radiotherapy: Infiltrate Tissue,CTV3
+5A2Z.,Internal Unsealed Radiotherapy Nos,CTV3
+5A3..,Internal Radiotherapy - Permanent Seeds,CTV3
+5A31.,Radiotherapy: Seeds Into Hypophysis,CTV3
+5A32.,Radiotherapy: Seeds Into Brain,CTV3
+5A33.,Radiotherapy: Seeds Into Cavity,CTV3
+5A3Z.,Radiotherapy: Permanent Seeds Nos,CTV3
+5A4..,Radiotherapy Implant: [Needles] Or [Therapy],CTV3
+5A41.,Radiotherapy: Temporary Brain Implant,CTV3
+5A42.,Radiotherapy: Temporary Head/Neck Implant,CTV3
+5A43.,Radiotherapy: Temporary Tongue Implant,CTV3
+5A44.,Radiotherapy: Temporary Thorax Implant,CTV3
+5A45.,Radiotherapy: Temporary Abdominal Implant,CTV3
+5A46.,Radiotherapy: Temporary Pelvic Implant,CTV3
+5A47.,Radiotherapy: Temporary Limb Implant,CTV3
+5A48.,Radiotherapy: Temporary Lymphatic Implant,CTV3
+5A4Z.,Radiotherapy: Temporary Implant Nos,CTV3
+5A5..,Preload Cavity Radiotherapy - Sealed,CTV3
+5A51.,Preload Radiotherapy - Orbit,CTV3
+5A52.,Preload Radiotherapy - Paranasal Sinus,CTV3
+5A53.,Preload Radiotherapy - Nose,CTV3
+5A54.,Preload Radiotherapy - Mouth,CTV3
+5A55.,Preload Radiotherapy - Ear,CTV3
+5A56.,Preload Radiotherapy - Upper Gastrointestinal Tract,CTV3
+5A57.,Preload Radiotherapy - Respiratory Organs,CTV3
+5A58.,Preload Radiotherapy - Female Genital,CTV3
+5A59.,Preload Radiotherapy - Urinary System,CTV3
+5A5A.,Preload Radiotherapy - Rectum,CTV3
+5A5B.,Preload Radioth.- Op Cavity,CTV3
+5A5Z.,Preload Cavity Radiotherapy Nos,CTV3
+5A6..,Afterloading Cavity Radiotherapy,CTV3
+5A61.,Afterload Radiotherapy - Head,CTV3
+5A62.,Afterload Radiotherapy - Upper Gastrointestinal Tract,CTV3
+5A63.,Afterload Radiotherapy - Respiratory System,CTV3
+5A64.,Afterload Radiotherapy - Female Genital,CTV3
+5A65.,Afterload Radiotherapy - Urinary,CTV3
+5A66.,Afterload Radiotherapy - Rectum,CTV3
+5A67.,Afterload Radioth.- Op Cavity,CTV3
+5A6Z.,Afterload Cavity Radiotherapy Nos,CTV3
+5A7..,Radiomimetic Chemotherapy,CTV3
+5A71.,Radiochemotherapy: Local Infiltration,CTV3
+5A72.,Radiochemotherapy: To Stop Spread,CTV3
+5A73.,Radiochemotherapy: Oral Route,CTV3
+5A74.,Radiochemotherapy: Iv Route,CTV3
+5A75.,Radiochemotherapy: For Immunosuppression,CTV3
+5A76.,Radiochemotherapy: Local Artery,CTV3
+5A77.,Radiochemotherapy: Into Cavity,CTV3
+5A7Z.,Radiochemotherapy Nos,CTV3
+5A8..,Other Radiotherapy Misc.,CTV3
+5A81.,Give Radiosensitising Drug,CTV3
+5A82.,Radiosensitising Measure,CTV3
+5A83.,Radioprotective Drug,CTV3
+5A8Z.,Other Radiotherapy Nos,CTV3
+5AZ..,Other Nuclear Therapy Nos,CTV3
+65NZ.,Prophylactic Chemotherapy Nos,CTV3
+70462,Intrathecal Injection Of Chemotherapeutic Agent,CTV3
+70522,Radiotherapy To Lesion Of Peripheral Nerve,CTV3
+71011,Implantation Of Radioactive Substance Into Pituitary Gland,CTV3
+72201,Radiotherapy To Lacrimal Gland,CTV3
+72444,Radiotherapy Of Corneal Lesion,CTV3
+72722,Radiotherapy To Lesion Of Retina,CTV3
+7D034,Implantation Of Radioactive Substance Into Vulva,CTV3
+7D154,Implantation Of Radioactive Substance Into Vagina,CTV3
+7E0C0,Introduction Of Radioactive Substance Into Uterine Cavity,CTV3
+7H2C0,Intraperitoneal Administration Of Radioactive Substance,CTV3
+7M0P.,Introduction Removable Radioactive Material Into Organ Noc,CTV3
+7M0P0,Introduction Of Radioactive Caesium Into Organ Noc,CTV3
+7M0P1,Introduction Of Iridium Wire Into Organ Noc,CTV3
+7M0P2,Introduction Of Radium Into Organ Noc,CTV3
+7M0Py,Introduction Removable Radioactive Material To Organ Noc Os,CTV3
+7M0Pz,Introduction Removable Radioactive Material To Organ Noc Nos,CTV3
+7M371,Radiotherapy Nec,CTV3
+863..,Phototherapy &/Or Radiation Therapy,CTV3
+863Z.,Radiation/Phototherapy Nos,CTV3
+8BA5.,Oral Chemotherapy (& Cytotoxic),CTV3
+8BAD0,Cancer Chemotherapy,CTV3
+8BAD1,Tb Chemotherapy,CTV3
+8H2G.,Admit Radiotherapy Emergency,CTV3
+8H3L.,Non-Urgent Radiotherapy Admission,CTV3
+8H67.,Referred For Radiotherapy,CTV3
+8HB5.,Combined Therapy Follow-Up,CTV3
+8HB7.,Chemotherapy Follow-Up,CTV3
+8J...,Radiotherapy Treatment Groups,CTV3
+8J0..,Brachytherapy,CTV3
+8J1..,Teletherapy,CTV3
+9N1yC,Seen In Radiotherapy Clinic,CTV3
+D2013,Aplastic Anaemia Due To Radiation,CTV3
+SL07.,Antineoplastic Antibiotic Poisoning,CTV3
+SL070,Cactinomycin Poisoning,CTV3
+SL073,Daunorubicin Poisoning,CTV3
+SL07z,Antineoplastic Antibiotic Poisoning Nos,CTV3
+TA32.,Overdose Of Radiation In Therapy,CTV3
+TB121,"Radiotherapy Procedure With Complication, Without Blame",CTV3
+TJ07.,Adverse Reaction To Antineoplastic Antibiotics,CTV3
+TJ070,Adverse Reaction To Actinomycin D,CTV3
+TJ071,Adverse Reaction To Bleomycin,CTV3
+TJ072,Adverse Reaction To Doxorubicin Hydrochloride,CTV3
+TJ073,Adverse Reaction To Mitomycin,CTV3
+TJ074,Adverse Reaction To Plicamycin,CTV3
+TJ07z,Adverse Reaction To Antineoplastic Antibiotics Nos,CTV3
+TJ310,Adverse Reaction To Busulfan,CTV3
+TJ311,Adverse Reaction To Carmustine,CTV3
+TJ312,Adverse Reaction To Chlorambucil,CTV3
+TJ313,Adverse Reaction To Cyclophosphamide,CTV3
+TJ314,Adverse Reaction To Estramustine Phosphate,CTV3
+TJ315,Adverse Reaction To Lomustine,CTV3
+TJ316,Adverse Reaction To Melphalan,CTV3
+TJ317,Adverse Reaction To Chlormethine Hydrochloride,CTV3
+TJ318,Adverse Reaction To Thiotepa,CTV3
+TJ319,Adverse Reaction To Treosulphan,CTV3
+TJ31A,Adverse Reaction To Cytarabine,CTV3
+TJ31B,Adverse Reaction To Fluorouracil,CTV3
+TJ31C,Adverse Reaction To Mercaptopurine,CTV3
+TJ31D,Adverse Reaction To Methotrexate,CTV3
+TJ31E,Adverse Reaction To Tioguanine,CTV3
+TJ31F,Adverse Reaction To Etoposide,CTV3
+TJ31G,Adverse Reaction To Vinblastine Sulphate,CTV3
+TJ31H,Adverse Reaction To Vincristine Sulphate,CTV3
+TJ31J,Adverse Reaction To Carboplatin,CTV3
+TJ31K,Adverse Reaction To Cisplatin,CTV3
+TJ31L,Adverse Reaction To Hydroxycarbamide,CTV3
+TJ31M,Adverse Reaction To Mitoxantrone,CTV3
+TJ31N,Adverse Reaction To Procarbazine,CTV3
+TJ31P,Adverse Reaction To Razoxane,CTV3
+TJ31z,Adverse Reaction To Antineoplastic/Immunosuppress Drugs Nos,CTV3
+U6031,[X]Antineoplast Antimetabs Caus Adverse Eff In Therap Use,CTV3
+U6032,[X]Antineoplast Natural Prod Caus Adverse Eff In Therap Use,CTV3
+U6033,[X]Other Antineoplast Drugs Caus Adverse Eff In Therap Use,CTV3
+U6132,[X]Overdose Of Radiation Given During Therapy,CTV3
+Ub0w0,Radiotherapy Procedures,CTV3
+Ub0w2,Superficial X-Ray Therapy,CTV3
+Ub0w4,Grenz Ray Therapy,CTV3
+Ub0w5,Orthovoltage X-Ray Therapy,CTV3
+Ub0w6,Megavoltage X-Ray Therapy,CTV3
+Ub0w7,Linear Accelerator X-Ray Therapy,CTV3
+Ub0w8,Betatron X-Ray Therapy,CTV3
+Ub0w9,Microtron X-Ray Therapy,CTV3
+Ub0wA,Van Der Graaff X-Ray Therapy,CTV3
+Ub0wB,Gamma Ray Teletherapy,CTV3
+Ub0wC,Caesium 137 Teletherapy,CTV3
+Ub0wD,Cobalt 60 Teletherapy,CTV3
+Ub0wE,Teletherapy With Dual Headed Cobalt Unit,CTV3
+Ub0wF,Stereotactic Cobalt Teletherapy,CTV3
+Ub0wG,Radium 226 Teletherapy,CTV3
+Ub0wH,Teletherapy With Radium Collar,CTV3
+Ub0wI,Electron Teletherapy,CTV3
+Ub0wJ,Linear Accelerator Electron Teletherapy,CTV3
+Ub0wK,Betatron Electron Teletherapy,CTV3
+Ub0wL,Microtron Electron Teletherapy,CTV3
+Ub0wM,Strontium 90 Electron Teletherapy,CTV3
+Ub0wN,Neutron Teletherapy,CTV3
+Ub0wO,Cyclotron Neutron Teletherapy,CTV3
+Ub0wP,Deuterium On Tritium Neutron Teletherapy,CTV3
+Ub0wQ,Hiletron Neutron Teletherapy,CTV3
+Ub0wR,Proton Teletherapy,CTV3
+Ub0wT,Caesium 137 Brachytherapy,CTV3
+Ub0wU,Caesium 137 Brachytherapy Manual Loading,CTV3
+Ub0wV,Caesium 137 Brachytherapy Manual Loading Heyman's Capsules,CTV3
+Ub0wW,Curietron Brachytherapy,CTV3
+Ub0wX,Cobalt 60 Brachytherapy,CTV3
+Ub0wY,Cobalt 60 Brachytherapy Manual Loading,CTV3
+Ub0wZ,Cathetron Brachytherapy,CTV3
+Ub0wa,Iridium 192 Brachytherapy,CTV3
+Ub0wb,Gammamed Brachytherapy,CTV3
+Ub0wc,Microselectron Brachytherapy,CTV3
+Ub0wd,Selectron Brachytherapy,CTV3
+Ub0we,Californium 252 Brachytherapy,CTV3
+Ub0wf,Gold 198 Brachytherapy,CTV3
+Ub0wg,Iodine 125 Brachytherapy,CTV3
+Ub0wh,Phosphorus 32 Brachytherapy,CTV3
+Ub0wi,Radium 226 Brachytherapy,CTV3
+Ub0wj,Radon 222 Brachytherapy,CTV3
+Ub0wk,Ruthenium 106 Brachytherapy,CTV3
+Ub0wl,Strontium 90 Brachytherapy,CTV3
+Ub0wm,Tantalum 182 Brachytherapy,CTV3
+Ub0wn,Yttrium 90 Brachytherapy,CTV3
+Ub0wo,Radionuclide Therapy,CTV3
+Ub0wp,Yttrium 90 Therapy,CTV3
+Ub0wq,Iodine 131 Therapy,CTV3
+Ub0wr,Phosphorus 32 Therapy,CTV3
+Ub0ws,Iodine 131 Meta-Iodobenzylguanidine Therapy,CTV3
+Ub0wt,Strontium 89 Therapy,CTV3
+Ub0wu,Gold 198 Therapy,CTV3
+Ub0wv,Radiotherapy Planning,CTV3
+Ub0ww,Radiotherapy Planning Using A Free Set Up,CTV3
+Ub0wx,Radiotherapy Planning Using A Simulator,CTV3
+Ub0wy,Radiotherapy Planning Using Simulator Fluoroscopy,CTV3
+Ub0wz,Radiotherapy Planning Using A Simulator X-Ray Film,CTV3
+Ub0x0,Radiotherapy Planning Using Diagnostic Radiology,CTV3
+Ub0x4,Radiotherapy Planning Using Computerised Tomography,CTV3
+Ub0x5,Radiotherapy Planning Using Magnetic Resonance Imaging,CTV3
+Ub0x6,Radiotherapy Planning Using Mould Room Preparation,CTV3
+Ub0x7,Making Of Beam Direction Shell For Radiotherapy,CTV3
+Ub0x8,Making Of Bite Block For Radiotherapy,CTV3
+Ub0x9,Making Of Bolus Block For Radiotherapy,CTV3
+Ub0xA,Making Of Compensator For Radiotherapy,CTV3
+Ub0xB,Making Of Cut-Out For Radiotherapy,CTV3
+Ub0xC,Making Of Docking Unit For Radiotherapy,CTV3
+Ub0xD,Making Of Template For Radiotherapy,CTV3
+Ub0xE,Making Of Shielding Block For Radiotherapy,CTV3
+Ub0xF,Making Of Surface Mould For Brachytherapy,CTV3
+Ub0xG,Radiotherapy Calculation,CTV3
+Ub0xH,Calculation Of Teletherapy,CTV3
+Ub0xI,Calculation Of Teletherapy Parameters,CTV3
+Ub0xJ,Outlining For Radiotherapy Dose Calculation,CTV3
+Ub0xK,Calculation Of Radiotherapy Isodose Distribution,CTV3
+Ub0xL,Calculation Of Radiotherapy Dose Corrections,CTV3
+Ub0xM,Calculation Of Radiotherapy Dose-Volume Histogram,CTV3
+Ub0xN,Calculation Of Brachytherapy,CTV3
+Ub0xO,Calculation Of Radionuclide Therapy,CTV3
+Ub1Pe,Pulsed Electromagnetic Energy Therapy,CTV3
+X00Te,Radiotherapy To Orbital Lesion,CTV3
+X00U8,Radiotherapy To Lesion Of Medial Canthus,CTV3
+X00UQ,Radiotherapy To Lesion Of Lateral Canthus,CTV3
+X00X9,Radiotherapy To Ciliary Body,CTV3
+X00Xi,Radiotherapy To Retina,CTV3
+X00Y8,Radiotherapy To Lesion Of Choroid,CTV3
+X20by,Bile Duct Endoluminal Radiotherapy,CTV3
+X71bL,Chemotherapy,CTV3
+XC0gO,Radioactive Iodine Therapy,CTV3
+XE0Jb,Intravenous Chemotherapy,CTV3
+XE0Jc,Intramuscular Chemotherapy,CTV3
+XE0Je,Subcutaneous Chemotherapy,CTV3
+XE0hv,Oral Chemotherapy,CTV3
+XE14D,Neutropenia Due To Irradiation,CTV3
+XE1Rx,Radioactive Drug Therapy (& I131),CTV3
+XE1Sk,Prophylactic Chemotherapy,CTV3
+XE2r3,Temporary Implant Radiotherapy,CTV3
+XE2rh,Other Nuclear Therapy,CTV3
+XS90X,Treatment Planning For Brachytherapy,CTV3
+Xa3yl,Cytotoxic Given Orally,CTV3
+Xa3yn,Cytotoxic Drug Therapy Nos,CTV3
+Xa4sx,Accidental Daunorubicin Poisoning,CTV3
+Xa4sy,Intentional Daunorubicin Poisoning,CTV3
+Xa4sz,Daunorubicin Poisoning Of Undetermined Intent,CTV3
+Xa7mv,Radiotherapy To Lesion Of Canthus,CTV3
+Xa8SI,Radiotherapy,CTV3
+Xa97L,Radiotherapy - Internal,CTV3
+XaC0F,Continuous Infusion Of Chemotherapy,CTV3
+XaC0G,Intramuscular Injection Of Methotrexate,CTV3
+XaC0H,Intravenous Injection Of Methotrexate,CTV3
+XaC0n,Diagnostic Intravenous Injection Of Camsilon,CTV3
+XaDn1,X-Ray Teletherapy,CTV3
+XaDn2,Radiolabelled Antibody Therapy,CTV3
+XaDok,Caesium 137 Brachytherapy Remote Afterloading,CTV3
+XaDol,Cobalt 60 Brachytherapy Remote Afterloading,CTV3
+XaDor,Iridium 192 Brachytherapy Remote Afterloading,CTV3
+XaDot,Heavy Ion Teletherapy,CTV3
+XaDp8,Radiotherapy Mould Room Procedure,CTV3
+XaDzO,Intramuscular Injection Of Betamethasone,CTV3
+XaECT,Electromagnetic Energy Therapy,CTV3
+XaFBN,Palliative Course Of Deep X-Ray Therapy,CTV3
+XaFBO,Preoperative Course Of Deep X-Ray Therapy,CTV3
+XaFBP,Postoperative Course Of Deep X-Ray Therapy,CTV3
+XaFz7,Treatment Planning For Teletherapy,CTV3
+XaI8k,Ambulatory Chemotherapy,CTV3
+XaIR9,Awaiting Radiotherapy,CTV3
+XaIky,Pre-Operative Chemotherapy,CTV3
+XaIkz,Post-Operartive Chemotherapy,CTV3
+XaIl6,High Dose Brachytherapy,CTV3
+XaImG,Iodine Seed Radiotherapy,CTV3
+XaIme,Combined Pre-Operative Chemotherapy And Radiotherapy,CTV3
+XaImf,Combined Post-Operative Chemotherapy And Radiotherapy,CTV3
+XaIpD,Selectron Therapy,CTV3
+XaIpE,Iridium Wire Therapy,CTV3
+XaIpe,Stereotactic Radiotherapy,CTV3
+XaJr8,Intramuscular Injection Of Methylprednisolone,CTV3
+XaKwV,Chemotherapy Started,CTV3
+XaL5K,Plaque Radiotherapy To Lesion Of Retina,CTV3
+XaLbh,Stereotactic Radiosurgery On Tissue Of Brain,CTV3
+XaLdq,Selective Internal Radiotherapy Microspheres Lesion Of Liver,CTV3
+XaLdr,Percutaneous Radiofrequency Ablation Of Lesion Of Liver,CTV3
+XaLuJ,External Beam Radiotherapy To Lesion Of Retina,CTV3
+XaLyT,Radioactive Seed Implantation Noc,CTV3
+XaLyX,Intro Radioactive Substance Org Interstit Brachytherapy Noc,CTV3
+XaLzs,Other Specified Radiotherapy Procedures,CTV3
+XaLzt,Radiotherapy Procedures Nos,CTV3
+XaLzu,Delivery Fraction Complex Radiotherapy Megavoltage Machine,CTV3
+XaLzv,Delivery Fraction Simple Radiotherapy Megavoltage Machine,CTV3
+XaLzw,Delivery Fraction Radiotherapy Superficial Orthovoltage Mach,CTV3
+XaM2B,Radiotherapy Delivery,CTV3
+XaM2C,Delivery Of A Fraction Of Total Body Irradiation (Tbi),CTV3
+XaM2E,Delivery Of A Fraction Of Intracavitary Radiotherapy,CTV3
+XaM2F,Delivery Of A Fraction Of Interstitial Radiotherapy,CTV3
+XaM2G,Other Specified Radiotherapy Delivery,CTV3
+XaM2H,Radiotherapy Delivery Nos,CTV3
+XaM2M,Rad Prep ([And/Or] Prep For Ext Beam Rad And/Or Brachythera),CTV3
+XaM2N,Preparation For Total Body Irradiation,CTV3
+XaM2O,Prep For Intracavitary Radiotherapy ([And/Or] Brachytherapy),CTV3
+XaM2P,Prep For Interstitial Radiotherapy ([And/Or] Brachytherapy),CTV3
+XaM2Q,Other Spec Rad Prep ([And/Or] Other Spec Prep Ext Beam Rad),CTV3
+XaM2R,Radiothp Prep Nos ([And/Or] Prep For Ext Beam Radiothp Nos),CTV3
+XaM2S,Radio Vol Definition ([And/Or] Prep Ex Beam Radio Or Brachy),CTV3
+XaM2T,Prep ([And/Or] Vol Def Radiotherapy Imag And Imrt Dosimetry),CTV3
+XaM2U,"Prep ([And/Or] Vol Def For Radioth With Imag, Dos Tech Supp)",CTV3
+XaM2V,Prep ([And/Or] Vol Def Mult Phases Complx Radioth With Dosim,CTV3
+XaM2W,Vol Def ([And/Or] Prep For Simpl Radioth With Imag Dosimtry),CTV3
+XaM2X,Vol Defin ([And/Or] Prep) For Simp Radio Imag And Simpl Calc,CTV3
+XaM2Y,"Prep ([And/Or] Vol De Sup Deep X-Ray, Ele Megav Rad Si Calc)",CTV3
+XaM2Z,Oth Spec Rad Vol Definition ([And/Or] Prep For Ext Beam Rad),CTV3
+XaM2a,Rad Vol Defin ([And/Or] Prep For Externl Beam Radiother) Nos,CTV3
+XaM49,Chemotherapy Delivery,CTV3
+XaM4A,Delivery Of Chemotherapy For Neoplasm,CTV3
+XaM4B,Del Comp Chemo Neo Inc Prolong Infusion Treat First Attend,CTV3
+XaM4C,Deliv Complex Parenteral Chemotherapy Neopl First Attendance,CTV3
+XaM4D,Deliver Simple Parenteral Chemother Neoplas First Attendance,CTV3
+XaM4E,Delivery Subsequent Element Cycle Chemotherapy For Neoplasm,CTV3
+XaM4F,Other Specified Delivery Of Chemotherapy For Neoplasm,CTV3
+XaM4G,Delivery Of Chemotherapy For Neoplasm Nos,CTV3
+XaM4H,Delivery Of Oral Chemotherapy For Neoplasm,CTV3
+XaM4I,Delivery Of Exclusively Oral Chemotherapy For Neoplasm,CTV3
+XaM4J,Other Specified Delivery Of Oral Chemotherapy For Neoplasm,CTV3
+XaM4L,Delivery Of Oral Chemotherapy For Neoplasm Nos,CTV3
+XaM4w,Percutaneous Radiofrequency Ablation Of Lesion Of Kidney,CTV3
+XaMAv,Endoscopic Radiofrequency Ablation Of Lesion Of Prostate,CTV3
+XaMB1,Transurethral Radiofrequency Needle Ablation Of Prostate,CTV3
+XaMOH,Seed Implantation Into Prostate,CTV3
+XaMlE,Percutaneous Radiofrequency Ablation Of Lesion Of Lung,CTV3
+XaMtr,Delivery Of A Fraction Of External Beam Radiotherapy Nec,CTV3
+XaMuE,Oral Delivery Of Radiotherapy For Thyroid Ablation,CTV3
+XaMv7,Radioactive Seed Implantation Into Prostate,CTV3
+XaNS5,Radiotherapy To Perineum,CTV3
+XaNS6,Radiotherapy To Abdomen,CTV3
+XaNS7,Radiotherapy To Neck,CTV3
+XaNS8,Radiotherapy To Chest Wall,CTV3
+XaNSA,Radiotherapy To Axilla,CTV3
+XaNSB,Radiotherapy To Breast,CTV3
+XaNSC,Radiotherapy To Head,CTV3
+XaNSD,Radiotherapy To Pelvis,CTV3
+XaNSR,Radiotherapy By Body Site,CTV3
+XaPt9,Percutaneous Radiofrequency Ablation Of Lesion Of Bone,CTV3
+XaPuI,Preparation For External Beam Radiotherapy,CTV3
+XaPuJ,Preparation For Intensity Modulated Radiation Therapy,CTV3
+XaPuL,Preparation For Hemi Body Irradiation,CTV3
+XaPuM,Preparation For Simp Radiotherapy With Imaging And Dosimetry,CTV3
+XaPuN,Prep For Simple Radioth With Imaging And Simple Calculation,CTV3
+XaPuO,Prepar For Superficial Radiotherapy With Simple Calculation,CTV3
+XaPuP,Preparation For Complex Conformal Radiotherapy,CTV3
+XaPuQ,Other Specified Preparation For External Beam Radiotherapy,CTV3
+XaPuR,Preparation For External Beam Radiotherapy Nos,CTV3
+XaPuS,Preparation For Brachytherapy,CTV3
+XaPuT,Preparation For Intraluminal Brachytherapy,CTV3
+XaPuU,Preparation For Intracavitary Brachytherapy,CTV3
+XaPuV,Preparation For Interstitial Brachytherapy,CTV3
+XaPuW,Other Specified Preparation For Brachytherapy,CTV3
+XaPuX,Preparation For Brachytherapy Nos,CTV3
+XaPve,Megavoltage Treatment For Complex Radiotherapy,CTV3
+XaPvf,Megavoltage Treatment For Simple Radiotherapy,CTV3
+XaPvg,Superficial Or Orthovoltage Treatment For Radiotherapy,CTV3
+XaPvh,Megavoltage Treatment For Adaptive Radiotherapy,CTV3
+XaPvi,Technical Support For Preparation For Radiotherapy,CTV3
+XaPvj,Other Specified Support For Preparation For Radiotherapy,CTV3
+XaPvk,Support For Preparation For Radiotherapy Nos,CTV3
+XaPvl,Support For Preparation For Radiotherapy,CTV3
+XaPvm,Intro Radioactive Substance Into Organ For Brachytherapy Noc,CTV3
+XaPvn,Intro Non-Remov Radioact Subst Into Organ For Brachyther Noc,CTV3
+XaPw8,Delivery Of A Fraction Of Intraluminal Brachytherapy,CTV3
+XaVwB,Cancer Chemotherapy Management Plan,CTV3
+XaZD3,Neoadjuvant Chemotherapy,CTV3
+XaZWZ,Electrochemotherapy,CTV3
+Xaaqq,Hypofractionated Srt Using Megavoltage Radiation,CTV3
+Xaaw6,High Cost Chemotherapy Drugs,CTV3
+Xaawm,Pulsed Dose Rate Brachytherapy,CTV3
+Y035e,Radiotherapy To Head,CTV3
+Y035f,Radiotherapy To Neck,CTV3
+Y036a,Radiotherapy To Breast,CTV3
+Y036b,Radiotherapy To Axilla,CTV3
+Y036c,Radiotherapy To Subclavia,CTV3
+Y036d,Radiotherapy To Chest Wall,CTV3
+Y036e,Radiotherapy To Pelvis,CTV3
+Y036f,Radiotherapy To Abdomen,CTV3
+Y037a,Radiotherapy To Perineum,CTV3
+Y037b,Radiotherapy To Bone,CTV3
+ZV073,[V]Other Prophylactic Chemotherapy,CTV3
+ZV580,[V]Radiotherapy Session,CTV3
+ZV581,[V]Maintenance Chemotherapy,CTV3
+ZV588,[V]Chemotherapy Session For Neoplasm,CTV3
+ZV661,[V]Convalescence After Radiotherapy,CTV3
+ZV672,[V]Chemotherapy Follow-Up,CTV3
+ZV678,[V]Follow-Up Examin After Chemotherapy For Malign Neoplasm,CTV3
+ZV679,[V]Follow-Up Exam Aft Combined Treatment For Malig Neoplasm,CTV3
+ZV6B1,[V]Follow-Up Exam After Chemotherapy For Other Conditions,CTV3
+ZVu0C,[X]Follow-Up Examinat After Radiother For Other Conditions,CTV3
+ZVu0D,[X]Follow-Up Examinat After Chemother For Other Conditions,CTV3
+ZVu3L,[X]Other Chemotherapy,CTV3
+Z081,Follow-Up Examination After Radiotherapy For Malignant Neoplasm,ICD-10
+Z082,Follow-Up Examination After Chemotherapy For Malignant Neoplasm,ICD-10
+Z087,Follow-Up Examination After Combined Treatment For Malignant Neoplasm,ICD-10
+Z091,Follow-Up Examination After Radiotherapy For Other Conditions,ICD-10
+Z092,Follow-Up Examination After Chemotherapy For Other Conditions,ICD-10
+Z541,Convalescence Following Radiotherapy,ICD-10
+Z542,Convalescence Following Chemotherapy,ICD-10
+Z547,Convalescence Following Combined Treatment,ICD-10
+T451,Poisoning: Antineoplastic And Immunosuppressive Drugs,ICD-10
+U86,Resistance To Antineoplastic Drugs,ICD-10
+Y431,Antineoplastic Antimetabolites,ICD-10
+Y432,Antineoplastic Natural Products,ICD-10
+Y433,Other Antineoplastic Drugs,ICD-10
+Z292,Other Prophylactic Chemotherapy,ICD-10
+Z510,Radiotherapy Session,ICD-10
+Z511,Chemotherapy Session For Neoplasm,ICD-10
+Z512,Other Chemotherapy,ICD-10
+B022,"Destruction Of Pituitary Gland,Implantation Of Radioactive Substance Into Pituitary Gland",OPCS-4
+C242,"Operations On Lacrimal Gland,Radiotherapy To Lacrimal Gland",OPCS-4
+C823,"Destruction Of Lesion Of Retina,External Beam Radiotherapy To Lesion Of Retina",OPCS-4
+J123,"Other Therapeutic Percutaneous Operations On Liver,Selective Internal Radiotherapy With Microspheres To Lesion",OPCS-4
+M706,"Other Operations On Outlet Of Male Bladder,Radioactive Seed Implantation Into Prostate",OPCS-4
+M712,"Other Operations On Prostate,Implantation Of Radioactive Substance Into Prostate",OPCS-4
+P064,"Extirpation Of Lesion Of Vulva,Implantation Of Radioactive Substance Into Vulva",OPCS-4
+P205,"Extirpation Of Lesion Of Vagina,Implantation Of Radioactive Substance Into Vagina",OPCS-4
+Q151,"Introduction Of Other Substance Into Uterine Cavity,Introduction Of Radioactive Substance Into Uterine Cavity",OPCS-4
+T133,"Introduction Of Substance Into Pleural Cavity,Introduction Of Cytotoxic Substance Into Pleural Cavity",OPCS-4
+T481,"Other Operations On Peritoneum,Introduction Of Radioactive Substance Into Peritoneal Cavity",OPCS-4
+T482,"Other Operations On Peritoneum,Introduction Of Cytotoxic Substance Into Peritoneal Cavity",OPCS-4
+X352,"Other Intravenous Injection,Intravenous Chemotherapy",OPCS-4
+X373,"Intramuscular Injection,Intramuscular Chemotherapy",OPCS-4
+X384,"Subcutaneous Injection,Subcutaneous Chemotherapy",OPCS-4
+X651,"Radiotherapy Delivery,Delivery Of A Fraction Of Total Body Irradiation",OPCS-4
+X652,"Radiotherapy Delivery,Delivery Of A Fraction Of Intracavitary Radiotherapy",OPCS-4
+X653,"Radiotherapy Delivery,Delivery Of A Fraction Of Interstitial Radiotherapy",OPCS-4
+X654,"Radiotherapy Delivery,Delivery Of A Fraction Of External Beam Radiotherapy Nec",OPCS-4
+X655,"Radiotherapy Delivery,Oral Delivery Of Radiotherapy For Thyroid Ablation",OPCS-4
+X656,"Radiotherapy Delivery,Delivery Of A Fraction Of Intraluminal Brachytherapy",OPCS-4
+X658,"Radiotherapy Delivery,Other Specified",OPCS-4
+X659,"Radiotherapy Delivery,Unspecified",OPCS-4
+X671,"Preparation For External Beam Radiotherapy,Preparation For Intensity Modulated Radiation Therapy",OPCS-4
+X672,"Preparation For External Beam Radiotherapy,Preparation For Total Body Irradiation",OPCS-4
+X673,"Preparation For External Beam Radiotherapy,Preparation For Hemi Body Irradiation",OPCS-4
+X674,"Preparation For External Beam Radiotherapy,Preparation For Simple Radiotherapy Imaging And Dosimetry",OPCS-4
+X675,"Preparation For External Beam Radiotherapy,Preparation For Simple Radioth Imaging Simple Calculation",OPCS-4
+X676,"Preparation For External Beam Radiotherapy,Preparation For Superficial Radiotherapy Simple Calculation",OPCS-4
+X677,"Preparation For External Beam Radiotherapy,Preparation For Complex Conformal Radiotherapy",OPCS-4
+X678,"Preparation For External Beam Radiotherapy,Other Specified",OPCS-4
+X679,"Preparation For External Beam Radiotherapy,Unspecified",OPCS-4
+X721,"Delivery Of Chemotherapy For Neoplasm,Del. Of Complex Chemo./Neoplasm/Prolonged Infusional Treat.",OPCS-4
+X722,"Delivery Of Chemotherapy For Neoplasm,Del. Of Complex Parental Chemo./Neoplasm First Attendance",OPCS-4
+X723,"Delivery Of Chemotherapy For Neoplasm,Del. Of Simple Parental Chemo./Neoplasm First Attendance",OPCS-4
+X724,"Delivery Of Chemotherapy For Neoplasm,Del. Of Subsequent Element Of Cycle Of Chemo. For Neoplasm",OPCS-4
+X728,"Delivery Of Chemotherapy For Neoplasm,Other Specified",OPCS-4
+X729,"Delivery Of Chemotherapy For Neoplasm,Unspecified",OPCS-4
+X731,"Delivery Of Oral Chemotherapy For Neoplasm,Delivery Of Exclusively Oral Chemotherapy For Neoplasm",OPCS-4
+X738,"Delivery Of Oral Chemotherapy For Neoplasm,Other Specified",OPCS-4
+X739,"Delivery Of Oral Chemotherapy For Neoplasm,Unspecified",OPCS-4
+Y351,"Introduction Of Removable Radioactive Material Into Org,Introduction Of Radioactive Caesium Into Organ Noc",OPCS-4
+Y352,"Introduction Of Removable Radioactive Material Into Org,Introduction Of Iridium Wire Into Organ Noc",OPCS-4
+Y353,"Introduction Of Removable Radioactive Material Into Org,Introduction Of Radium Into Organ Noc",OPCS-4
+Y354,"Introduction Of Removable Radioactive Material Into Org,Introduction Of Radioactive Substance Organ Brachytherap Noc",OPCS-4
+Y358,"Introduction Of Removable Radioactive Material Into Org,Other Specified",OPCS-4
+Y359,"Introduction Of Removable Radioactive Material Into Org,Unspecified",OPCS-4
+Y363,"Introduction Of Non-Removable Material Into Organ Noc,Radioactive Seed Implantation Noc",OPCS-4
+Y364,"Introduction Of Non-Removable Material Into Organ Noc,Introduction Non-Rem Radioact Substance Organ For Brach Noc",OPCS-4
+Y911,"External Beam Radiotherapy,Megavoltage Treatment For Complex Radiotherapy",OPCS-4
+Y912,"External Beam Radiotherapy,Megavoltage Treatment For Simple Radiotherapy",OPCS-4
+Y913,"External Beam Radiotherapy,Superficial Or Orthovoltage Treatment For Radiotherapy",OPCS-4
+Y914,"External Beam Radiotherapy,Megavoltage Treatment For Adaptive Radiotherapy",OPCS-4
+Y918,"External Beam Radiotherapy,Other Specified",OPCS-4
+Y919,"External Beam Radiotherapy,Unspecified",OPCS-4
+Y921,"Support For Preparation For Radiotherapy,Technical Support For Preparation For Radiotherapy",OPCS-4
+Y928,"Support For Preparation For Radiotherapy,Other Specified",OPCS-4
+Y929,"Support For Preparation For Radiotherapy,Unspecified",OPCS-4
+428416002,Radiotherapy To Neck (Procedure),SNOMED-CT
+228715004,Making Of Bite Block For Radiotherapy (Procedure),SNOMED-CT
+722480002,Chemotherapy Started (Situation),SNOMED-CT
+169357002,Radiotherapy: Infiltrate Tissue (Regime/Therapy),SNOMED-CT
+169361008,Radiotherapy: Seeds Into Brain (Regime/Therapy),SNOMED-CT
+292220002,Mitomycin Adverse Reaction (Disorder),SNOMED-CT
+584221000000105,Introduction Of Removable Radioactive Material Into Organ Noc (Procedure),SNOMED-CT
+46044009,Megavoltage Radiation Therapy (Procedure),SNOMED-CT
+292208005,Estramustine Adverse Reaction (Disorder),SNOMED-CT
+80347004,Teleradiotherapy Neutrons (Procedure),SNOMED-CT
+395074007,Selectron Therapy (Procedure),SNOMED-CT
+169402000,Radiochemotherapy: Local Artery (Regime/Therapy),SNOMED-CT
+169394006,Afterload Radiotherapy Of Oropharyngeal Cavity (Procedure),SNOMED-CT
+429685005,Radiotherapy By Body Site (Procedure),SNOMED-CT
+399042005,Chemotherapy Cycle (Procedure),SNOMED-CT
+236231000000101,Delivery Of A Fraction Of Intracavitary Radiotherapy (Procedure),SNOMED-CT
+379641000000109,Preparation For Brachytherapy (Procedure),SNOMED-CT
+228677009,Cesium 137 Brachytherapy (Regime/Therapy),SNOMED-CT
+169331000,Combined Radiotherapy (Procedure),SNOMED-CT
+228700000,Iodine 131 Meta-Iodobenzylguanidine Therapy (Regime/Therapy),SNOMED-CT
+292235001,Etoposide Adverse Reaction (Disorder),SNOMED-CT
+232681000000103,Chemotherapy Delivery (Procedure),SNOMED-CT
+231737005,Radiotherapy To Ciliary Body (Procedure),SNOMED-CT
+228696008,Yttrium 90 Brachytherapy (Regime/Therapy),SNOMED-CT
+312235007,Radiolabeled Antibody Therapy (Procedure),SNOMED-CT
+312248006,Heavy Ion Teletherapy (Procedure),SNOMED-CT
+428923005,Radiotherapy To Breast (Procedure),SNOMED-CT
+292204007,Cyclophosphamide Adverse Reaction (Disorder),SNOMED-CT
+229556008,Pulsed Electromagnetic Energy Therapy (Regime/Therapy),SNOMED-CT
+829591000000101,Neoadjuvant Chemotherapy (Procedure),SNOMED-CT
+228675001,Deuterium On Tritium Neutron Teletherapy (Procedure),SNOMED-CT
+228693000,Ruthenium 106 Brachytherapy (Regime/Therapy),SNOMED-CT
+395075008,Iridium Wire Therapy (Procedure),SNOMED-CT
+169347003,Combined Internal Radiotherapy (Regime/Therapy),SNOMED-CT
+26543004,Poisoning Caused By Daunorubicin (Disorder),SNOMED-CT
+442429002,Percutaneous Radiofrequency Ablation Of Lesion Of Bone (Procedure),SNOMED-CT
+228687008,Selectron Brachytherapy (Regime/Therapy),SNOMED-CT
+183469007,Radiotherapy Emergency Hospital Admission (Procedure),SNOMED-CT
+292252002,Vincristine Adverse Reaction (Disorder),SNOMED-CT
+380101000000100,Introduction Of Radioactive Substance Into Organ For Brachytherapy Noc (Procedure),SNOMED-CT
+228681009,Cobalt 60 Brachytherapy (Procedure),SNOMED-CT
+379601000000106,Preparation For Intensity Modulated Radiation Therapy (Procedure),SNOMED-CT
+379541000000105,Preparation For External Beam Radiotherapy (Procedure),SNOMED-CT
+228718002,Making Of Docking Unit For Radiotherapy (Procedure),SNOMED-CT
+228717007,Making Of Cut-Out For Radiotherapy (Procedure),SNOMED-CT
+235541004,Bile Duct Endoluminal Radiotherapy (Procedure),SNOMED-CT
+292203001,Chlorambucil Adverse Reaction (Disorder),SNOMED-CT
+169359004,Internal Radiotherapy - Permanent Seeds (Regime/Therapy),SNOMED-CT
+292217005,Dactinomycin Adverse Reaction (Disorder),SNOMED-CT
+379591000000100,Preparation For Hemi Body Irradiation (Procedure),SNOMED-CT
+292234002,Fluorouracil Adverse Reaction (Disorder),SNOMED-CT
+265760000,Intravenous Chemotherapy (Procedure),SNOMED-CT
+895121000000103,Hypofractionated Stereotactic Radiotherapy Using Megavoltage Radiation (Procedure),SNOMED-CT
+228689006,Gold 198 Brachytherapy (Regime/Therapy),SNOMED-CT
+380061000000102,Technical Support For Preparation For Radiotherapy (Procedure),SNOMED-CT
+191247005,Aplastic Anemia Caused By Radiation (Disorder),SNOMED-CT
+395096001,Stereotactic Radiotherapy (Procedure),SNOMED-CT
+171952002,Implantation Of Radioactive Substance Into Pituitary Gland (Procedure),SNOMED-CT
+185274003,Seen In Radiotherapy Clinic (Finding),SNOMED-CT
+77613002,Teleradiotherapy With Iodine-125 (Regime/Therapy),SNOMED-CT
+238051000000104,Delivery Of A Fraction Of Simple Radiotherapy On A Megavoltage Machine (Procedure),SNOMED-CT
+314604005,Palliative Course Of Deep X-Ray Therapy (Procedure),SNOMED-CT
+427118006,Endoscopic Radiofrequency Ablation Of Lesion Of Prostate (Procedure),SNOMED-CT
+228688003,Californium 252 Brachytherapy (Regime/Therapy),SNOMED-CT
+228705005,Radiotherapy Planning Using A Simulator (Procedure),SNOMED-CT
+228690002,Iodine 125 Brachytherapy (Regime/Therapy),SNOMED-CT
+53721003,Bolus Design And Fabrication (Procedure),SNOMED-CT
+169307005,Fast-Electron Therapy (Procedure),SNOMED-CT
+425767004,Implantation Of Radioactive Seed Into Prostate (Procedure),SNOMED-CT
+168519005,Purpose Of Radiotherapy (Procedure),SNOMED-CT
+379681000000101,Preparation For Intracavitary Brachytherapy (Procedure),SNOMED-CT
+169341002,Thyroid Gland Ablation - Irradiation (Regime/Therapy),SNOMED-CT
+113117004,Teleradiotherapy Particulate Radiation (Procedure),SNOMED-CT
+183649005,Combined Therapy Follow-Up (Procedure),SNOMED-CT
+228723002,Calculation Of Teletherapy (Procedure),SNOMED-CT
+313092005,Electromagnetic Energy Therapy (Regime/Therapy),SNOMED-CT
+169400008,Radiochemotherapy Via Intravenous Route (Procedure),SNOMED-CT
+228720004,Making Of Shielding Block For Radiotherapy (Procedure),SNOMED-CT
+428829005,Radiotherapy To Pelvis (Procedure),SNOMED-CT
+5304008,"Deep Radiation Therapy, 200-300 Kvp (Procedure)",SNOMED-CT
+169354009,Radiotherapy: Endolymphatic Infusion (Regime/Therapy),SNOMED-CT
+292207000,Melphalan Adverse Reaction (Disorder),SNOMED-CT
+384692006,Intracavitary Brachytherapy (Regime/Therapy),SNOMED-CT
+169291001,X-Ray Beam Therapy (Procedure),SNOMED-CT
+10611004,Teleradiotherapy Protons (Procedure),SNOMED-CT
+228698009,Iodine 131 Therapy (Regime/Therapy),SNOMED-CT
+228724008,Calculation Of Teletherapy Parameters (Procedure),SNOMED-CT
+380041000000103,Megavoltage Treatment For Complex Radiotherapy (Procedure),SNOMED-CT
+169345006,Bone Tumor/Metastasis Irradiation (Regime/Therapy),SNOMED-CT
+169342009,Thyroid Tumor/Metastasis Irradiation (Regime/Therapy),SNOMED-CT
+380021000000105,Megavoltage Treatment For Adaptive Radiotherapy (Procedure),SNOMED-CT
+24242005,Cobalt-60 Therapy (Procedure),SNOMED-CT
+292240009,Procarbazine Adverse Reaction (Disorder),SNOMED-CT
+33195004,Teleradiotherapy Procedure (Procedure),SNOMED-CT
+38104006,Teleradiotherapy By Linear Accelerator (Procedure),SNOMED-CT
+231711000000108,Radiotherapy Delivery (Procedure),SNOMED-CT
+413147004,Intramuscular Injection Of Methylprednisolone (Procedure),SNOMED-CT
+583351000000106,Introduction Of Radium Into Organ Noc (Procedure),SNOMED-CT
+231568007,Radiotherapy To Lesion Of Medial Canthus (Procedure),SNOMED-CT
+228714000,Making Of Beam Direction Shell For Radiotherapy (Procedure),SNOMED-CT
+426332009,External Beam Radiotherapy To Lesion Of Retina (Procedure),SNOMED-CT
+583341000000108,Introduction Of Iridium Wire Into Organ Noc (Procedure),SNOMED-CT
+309700001,Intravenous Injection Of Methotrexate (Procedure),SNOMED-CT
+238861000000108,Delivery Of Simple Parenteral Chemotherapy For Neoplasm At First Attendance (Procedure),SNOMED-CT
+231981000000103,Radioactive Seed Implantation Noc (Procedure),SNOMED-CT
+169321007,Gamma Ray And Intermediate Distance Curietherapy (Procedure),SNOMED-CT
+169356006,Radiotherapy: Infuse Organ Cavity (Regime/Therapy),SNOMED-CT
+228682002,Cobalt 60 Brachytherapy Manual Loading (Procedure),SNOMED-CT
+315601005,Ambulatory Chemotherapy (Regime/Therapy),SNOMED-CT
+427661008,Transurethral Radiofrequency Needle Ablation Of Prostate (Procedure),SNOMED-CT
+290674009,Daunorubicin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+228703003,Radiotherapy Planning (Procedure),SNOMED-CT
+292201004,Thiotepa Adverse Reaction (Disorder),SNOMED-CT
+228685000,Gammamed Brachytherapy (Regime/Therapy),SNOMED-CT
+169352008,Radiotherapy: Infuse Pleural Cavity (Regime/Therapy),SNOMED-CT
+169355005,Radiotherapy: Infuse Urinary Bladder (Regime/Therapy),SNOMED-CT
+176609003,Implantation Of Radioactive Substance Into Vulva (Procedure),SNOMED-CT
+228664000,Van Der Graaff X-Ray Therapy (Procedure),SNOMED-CT
+228666003,Teletherapy With Dual Headed Cobalt Unit (Procedure),SNOMED-CT
+292237009,Carboplatin Adverse Reaction (Disorder),SNOMED-CT
+228716003,Making Of Compensator For Radiotherapy (Procedure),SNOMED-CT
+228662001,Betatron X-Ray Therapy (Procedure),SNOMED-CT
+394918006,Iodine Seed Radiotherapy (Regime/Therapy),SNOMED-CT
+265761001,Intramuscular Chemotherapy (Procedure),SNOMED-CT
+228719005,Making Of Template For Radiotherapy (Procedure),SNOMED-CT
+898251000000109,Pulsed Dose Rate Brachytherapy (Procedure),SNOMED-CT
+380071000000109,Support For Preparation For Radiotherapy (Procedure),SNOMED-CT
+380091000000108,Introduction Of Non-Removable Radioactive Substance Into Organ For Brachytherapy Noc (Procedure),SNOMED-CT
+292221003,Plicamycin Adverse Reaction (Disorder),SNOMED-CT
+843671000000104,Electrochemotherapy (Procedure),SNOMED-CT
+169369005,Radiotherapy: Temporary Abdominal Implant (Regime/Therapy),SNOMED-CT
+292212004,Carmustine Adverse Reaction (Disorder),SNOMED-CT
+169350000,Radiotherapy: Infuse Skull/Brain (Regime/Therapy),SNOMED-CT
+183566003,Referred For Radiotherapy (Finding),SNOMED-CT
+394902000,High Dose Brachytherapy (Regime/Therapy),SNOMED-CT
+292238004,Cisplatin Adverse Reaction (Disorder),SNOMED-CT
+426987001,Percutaneous Radiofrequency Ablation Of Lesion Of Lung (Procedure),SNOMED-CT
+182975000,Tuberculosis Chemotherapy (Procedure),SNOMED-CT
+169365004,Radiotherapy: Temporary Brain Implant (Regime/Therapy),SNOMED-CT
+228722007,Radiotherapy Calculation (Procedure),SNOMED-CT
+235331000000103,Delivery Of Oral Chemotherapy For Neoplasm (Regime/Therapy),SNOMED-CT
+169403005,Radiochemotherapy: Into Cavity (Regime/Therapy),SNOMED-CT
+292196008,Antineoplastic Adverse Reaction (Disorder),SNOMED-CT
+292230006,Mercaptopurine Adverse Reaction (Disorder),SNOMED-CT
+379571000000104,Preparation For Simple Radiotherapy With Imaging And Simple Calculation (Procedure),SNOMED-CT
+63506005,Destruction Of Lesion Of Choroid By Radiation Therapy (Procedure),SNOMED-CT
+45643008,Teleradiotherapy Using Electrons (Procedure),SNOMED-CT
+290673003,Intentional Daunorubicin Poisoning (Event),SNOMED-CT
+312244008,Cobalt 60 Brachytherapy Remote Afterloading (Procedure),SNOMED-CT
+228694006,Strontium 90 Brachytherapy (Regime/Therapy),SNOMED-CT
+31394004,Light Therapy (Procedure),SNOMED-CT
+169396008,Radiomimetic Chemotherapy (Regime/Therapy),SNOMED-CT
+216958003,Overdose Of Radiation In Therapy (Event),SNOMED-CT
+292239007,Hydroxyurea Adverse Reaction (Disorder),SNOMED-CT
+53373004,"Superficial Teletherapy Procedure, Grenz Type (Procedure)",SNOMED-CT
+228721000,Making Of Surface Mold For Brachytherapy (Procedure),SNOMED-CT
+314605006,Preoperative Course Of Deep X-Ray Therapy (Procedure),SNOMED-CT
+292231005,Thioguanine Adverse Reaction (Disorder),SNOMED-CT
+394935005,Combined Post-Operative Chemotherapy And Radiotherapy (Procedure),SNOMED-CT
+309698005,Continuous Infusion Of Chemotherapy (Procedure),SNOMED-CT
+218326006,Adverse Reaction Caused By Antineoplastic Antibiotics (Disorder),SNOMED-CT
+228699001,Phosphorus 32 Therapy (Regime/Therapy),SNOMED-CT
+228691003,Phosphorus 32 Brachytherapy (Regime/Therapy),SNOMED-CT
+314606007,Postoperative Course Of Deep X-Ray Therapy (Procedure),SNOMED-CT
+292241008,Razoxane Adverse Reaction (Disorder),SNOMED-CT
+228674002,Cyclotron Neutron Teletherapy (Procedure),SNOMED-CT
+21372000,Radium Therapy (Regime/Therapy),SNOMED-CT
+169346007,Radioactive Drug Therapy (Regime/Therapy),SNOMED-CT
+238841000000107,Delivery Of Complex Chemotherapy For Neoplasm Including Prolonged Infusional Treatment At First Attendance (Procedure),SNOMED-CT
+183971003,Radiotherapy Treatment Groups (Procedure),SNOMED-CT
+169101002,Image: Field Control:radiother (Situation),SNOMED-CT
+232051000000102,Introduction Of Radioactive Substance Into Organ For Interstitial Brachytherapy Noc (Procedure),SNOMED-CT
+228668002,Teletherapy With Radium Collar (Regime/Therapy),SNOMED-CT
+228713006,Radiotherapy Planning Using Mold Room Preparation (Procedure),SNOMED-CT
+428412000,Radiotherapy To Head (Procedure),SNOMED-CT
+616781000000104,Introduction Of Radioactive Caesium Into Organ Noc (Procedure),SNOMED-CT
+429774000,Radiotherapy To Abdomen (Procedure),SNOMED-CT
+422181004,Antibiotic Prophylaxis (Procedure),SNOMED-CT
+228701001,Strontium 89 Therapy (Regime/Therapy),SNOMED-CT
+183372004,Convalescence After Radiotherapy (Finding),SNOMED-CT
+169372003,Radiotherapy: Temporary Lymphatic Implant (Regime/Therapy),SNOMED-CT
+169301006,High-Energy Beam Therapy (Procedure),SNOMED-CT
+169399001,Radiochemotherapy: Oral Route (Regime/Therapy),SNOMED-CT
+45747003,Poisoning Caused By Antineoplastic Antibiotic (Disorder),SNOMED-CT
+292223000,Mitozantrone Adverse Reaction (Disorder),SNOMED-CT
+292227004,Antimetabolite Adverse Reaction (Disorder),SNOMED-CT
+228707002,Radiotherapy Planning Using A Simulator X-Ray Film (Procedure),SNOMED-CT
+764677008,Selective Internal Radiotherapy Of Liver Using Yttrium (90-Y) Labeled Microspheres (Procedure),SNOMED-CT
+292224006,Doxorubicin Adverse Reaction (Disorder),SNOMED-CT
+231764006,Radiotherapy To Retina (Procedure),SNOMED-CT
+235391000000102,Delivery Of Chemotherapy For Neoplasm (Procedure),SNOMED-CT
+239071000000100,Delivery Of Subsequent Element Of Cycle Of Chemotherapy For Neoplasm (Procedure),SNOMED-CT
+428624002,Radiotherapy To Chest Wall (Procedure),SNOMED-CT
+379581000000102,Preparation For Simple Radiotherapy With Imaging And Dosimetry (Procedure),SNOMED-CT
+169398009,Radiochemotherapy: To Stop Spread (Regime/Therapy),SNOMED-CT
+52338008,Treatment Planning For Brachytherapy (Procedure),SNOMED-CT
+53438000,Radiation Therapy Procedure Or Service (Procedure),SNOMED-CT
+53523003,Poisoning Caused By Cactinomycin (Disorder),SNOMED-CT
+38443001,Vaginal Implantation Of Radium (Procedure),SNOMED-CT
+231585009,Radiotherapy To Lesion Of Lateral Canthus (Procedure),SNOMED-CT
+292199001,Busulfan Adverse Reaction (Disorder),SNOMED-CT
+169349000,Internal Radiotherapy - Unsealed Source (Regime/Therapy),SNOMED-CT
+292218000,Bleomycin Adverse Reaction (Disorder),SNOMED-CT
+169343004,Bone Marrow Suppression - Irradiation (Regime/Therapy),SNOMED-CT
+176860004,Introduction Of Radioactive Substance Into Uterine Cavity (Procedure),SNOMED-CT
+228708007,Radiotherapy Planning Using Diagnostic Radiology (Procedure),SNOMED-CT
+711613003,Administration Of Cytotoxic Agent Via Oral Route (Procedure),SNOMED-CT
+183503009,Non-Urgent Radiotherapy Admission (Procedure),SNOMED-CT
+178020005,Intraperitoneal Administration Of Radioactive Substance (Procedure),SNOMED-CT
+266719004,Oral Chemotherapy (Regime/Therapy),SNOMED-CT
+231544004,Radiotherapy To Orbital Lesion (Procedure),SNOMED-CT
+228725009,Outlining For Radiotherapy Dose Calculation (Procedure),SNOMED-CT
+268500004,Prophylactic Chemotherapy (Regime/Therapy),SNOMED-CT
+236441000000109,Delivery Of A Fraction Of Radiotherapy On A Superficial Or Orthovoltage Machine (Procedure),SNOMED-CT
+716872004,Antineoplastic Chemotherapy Regimen (Regime/Therapy),SNOMED-CT
+169340001,Internal Metabolic Radiotherapy (Regime/Therapy),SNOMED-CT
+172408001,Radiotherapy Of Corneal Lesion (Procedure),SNOMED-CT
+292213009,Lomustine Adverse Reaction (Disorder),SNOMED-CT
+426830009,Percutaneous Radiofrequency Ablation Of Lesion Of Liver (Procedure),SNOMED-CT
+228673008,Strontium 90 Electron Teletherapy (Procedure),SNOMED-CT
+394895009,Postoperative Chemotherapy (Procedure),SNOMED-CT
+290672008,Accidental Daunorubicin Poisoning (Event),SNOMED-CT
+367336001,Chemotherapy (Procedure),SNOMED-CT
+309699002,Intramuscular Injection Of Methotrexate (Procedure),SNOMED-CT
+284701000000103,Oral Delivery Of Radiotherapy For Thyroid Ablation (Procedure),SNOMED-CT
+169367007,Radiotherapy: Temporary Tongue Implant (Regime/Therapy),SNOMED-CT
+169407006,Radiosensitizing Measure (Procedure),SNOMED-CT
+228706006,Radiotherapy Planning Using Simulator Fluoroscopy (Procedure),SNOMED-CT
+4914002,Treatment Planning For Teletherapy (Procedure),SNOMED-CT
+379551000000108,Preparation For Complex Conformal Radiotherapy (Procedure),SNOMED-CT
+169409009,Radioprotective Drug (Procedure),SNOMED-CT
+390927002,Awaiting Radiotherapy (Situation),SNOMED-CT
+169362001,Radiotherapy: Seeds Into Cavity (Regime/Therapy),SNOMED-CT
+169371005,Radiotherapy: Temporary Limb Implant (Regime/Therapy),SNOMED-CT
+228667007,Stereotactic Cobalt Teletherapy (Procedure),SNOMED-CT
+292229001,Methotrexate Adverse Reaction (Disorder),SNOMED-CT
+228686004,Microselectron Brachytherapy (Regime/Therapy),SNOMED-CT
+300976007,Radiotherapy To Lesion Of Canthus (Procedure),SNOMED-CT
+169397004,Radiochemotherapy: Local Infiltration (Regime/Therapy),SNOMED-CT
+228702008,Gold 198 Therapy (Regime/Therapy),SNOMED-CT
+236251000000108,Preparation For Total Body Irradiation (Procedure),SNOMED-CT
+429579007,Radiotherapy To Axilla (Procedure),SNOMED-CT
+169360009,Radiotherapy: Seeds Into Hypophysis (Regime/Therapy),SNOMED-CT
+267540007,Neutropenia Caused By Irradiation (Disorder),SNOMED-CT
+24689001,"Computed Tomography Guidance For Treatment Planning, Teletherapy (Procedure)",SNOMED-CT
+169406002,Give Radiosensitizing Drug (Procedure),SNOMED-CT
+169351001,Radiotherapy: Infuse Head/Neck (Regime/Therapy),SNOMED-CT
+183651009,Chemotherapy Follow-Up (Regime/Therapy),SNOMED-CT
+228697004,Yttrium 90 Therapy (Regime/Therapy),SNOMED-CT
+271291003,Temporary Implant Radiotherapy (Regime/Therapy),SNOMED-CT
+394934009,Combined Pre-Operative Chemotherapy And Radiotherapy (Context-Dependent Category),SNOMED-CT
+429057009,Plaque Radiotherapy Of Lesion Of Retina (Procedure),SNOMED-CT
+169344005,Polycythemia Irradiation (Regime/Therapy),SNOMED-CT
+228729003,Calculation Of Brachytherapy (Procedure),SNOMED-CT
+169401007,Radiochemotherapy: For Immunosuppression (Regime/Therapy),SNOMED-CT
+379671000000103,Preparation For Interstitial Brachytherapy (Procedure),SNOMED-CT
+238831000000103,Delivery Of Exclusively Oral Chemotherapy For Neoplasm (Regime/Therapy),SNOMED-CT
+228726005,Calculation Of Radiotherapy Isodose Distribution (Procedure),SNOMED-CT
+399315003,Radionuclide Therapy (Procedure),SNOMED-CT
+238851000000105,Delivery Of Complex Parenteral Chemotherapy For Neoplasm At First Attendance (Procedure),SNOMED-CT
+228692005,Radon 222 Brachytherapy (Regime/Therapy),SNOMED-CT
+379561000000106,Preparation For Superficial Radiotherapy With Simple Calculation (Procedure),SNOMED-CT
+897661000000105,High Cost Chemotherapy Drugs (Procedure),SNOMED-CT
+228676000,Hiletron Neutron Teletherapy (Procedure),SNOMED-CT
+171809001,Radiotherapy To Lesion Of Peripheral Nerve (Procedure),SNOMED-CT
+228672003,Microtron Electron Teletherapy (Procedure),SNOMED-CT
+171765004,Intrathecal Injection Of Chemotherapeutic Agent (Procedure),SNOMED-CT
+38183002,Preparation Of Radiation Therapy Aid (Procedure),SNOMED-CT
+426697007,Percutaneous Radiofrequency Ablation Of Lesion Of Kidney (Procedure),SNOMED-CT
+394894008,Pre-Operative Chemotherapy (Procedure),SNOMED-CT
+312649009,Intramuscular Injection Of Betamethasone (Procedure),SNOMED-CT
+169370006,Radiotherapy: Temporary Pelvic Implant (Regime/Therapy),SNOMED-CT
+169366003,Radiotherapy: Temporary Head/Neck Implant (Regime/Therapy),SNOMED-CT
+292233008,Cytarabine Adverse Reaction (Disorder),SNOMED-CT
+228663006,Microtron X-Ray Therapy (Procedure),SNOMED-CT
+292200003,Treosulfan Adverse Reaction (Disorder),SNOMED-CT
+228730008,Calculation Of Radionuclide Therapy (Procedure),SNOMED-CT
+312243002,Cesium 137 Brachytherapy Remote Afterloading (Regime/Therapy),SNOMED-CT
+265762008,Subcutaneous Chemotherapy (Procedure),SNOMED-CT
+228704009,Radiotherapy Planning Using A Free Set Up (Procedure),SNOMED-CT
+108290001,Radiation Oncology And/Or Radiotherapy (Procedure),SNOMED-CT
+236221000000103,Delivery Of A Fraction Of Total Body Irradiation (Procedure),SNOMED-CT
+380031000000107,Megavoltage Treatment For Simple Radiotherapy (Procedure),SNOMED-CT
+1064281000000106,Cancer Chemotherapy Management Plan (Record Artifact),SNOMED-CT
+228695007,Tantalum 182 Brachytherapy (Regime/Therapy),SNOMED-CT
+292209002,Mustine Adverse Reaction (Disorder),SNOMED-CT
+429584001,Stereotactic Radiosurgery Of Brain Tissue (Procedure),SNOMED-CT
+228684001,Iridium 192 Brachytherapy (Regime/Therapy),SNOMED-CT
+309730009,Diagnostic Intravenous Injection Of Camsilon (Procedure),SNOMED-CT
+238041000000102,Delivery Of A Fraction Of Interstitial Radiotherapy (Procedure),SNOMED-CT
+172286002,Radiotherapy To Lacrimal Gland (Procedure),SNOMED-CT
+228727001,Calculation Of Radiotherapy Dose Corrections (Procedure),SNOMED-CT
+228671005,Linear Accelerator Electron Teletherapy (Procedure),SNOMED-CT
+62867004,Teleradiotherapy With Radioactive Cesium (Regime/Therapy),SNOMED-CT
+428831001,Radiotherapy To Perineum (Procedure),SNOMED-CT
+169353003,Radiotherapy: Infuse Peritoneal Cavity (Regime/Therapy),SNOMED-CT
+228728006,Calculation Of Radiotherapy Dose-Volume Histogram (Procedure),SNOMED-CT
+65952009,Gamma Ray Therapy (Procedure),SNOMED-CT
+292251009,Vinblastine Adverse Reaction (Disorder),SNOMED-CT
+169368002,Radiotherapy: Temporary Thorax Implant (Regime/Therapy),SNOMED-CT
+379691000000104,Preparation For Intraluminal Brachytherapy (Procedure),SNOMED-CT
+290652003,Accidental Aclarubicin Poisoning (Event),SNOMED-CT
+50917001,Preparation Of Radioactive Source (Procedure),SNOMED-CT
+862921000000106,Intravesical Electrochemotherapy (Procedure),SNOMED-CT
+431530008,Percutaneous Brachytherapy Of Hepatic Artery Using Fluoroscopic Guidance (Procedure),SNOMED-CT
+169327006,Radium Contact Therapy (Procedure),SNOMED-CT
+293231001,Cyproterone Acetate And Ethinylestradiol Adverse Reaction (Disorder),SNOMED-CT
+722491009,"Rituximab, Cyclophosphamide, Doxorubicin, Vincristine And Prednisone Chemotherapy Regimen (Regime/Therapy)",SNOMED-CT
+431399005,Brachytherapy Using Iodine (131-I) Ethiodized Oil (Procedure),SNOMED-CT
+304418001,Pulsed Electromagnetic Energy To Back (Regime/Therapy),SNOMED-CT
+292214003,Triazene Antineoplastic Adverse Reaction (Disorder),SNOMED-CT
+722472009,"Rituximab, Ifosfamide, Carboplatin And Etoposide Chemotherapy Regimen (Regime/Therapy)",SNOMED-CT
+428083009,Combined Photochemotherapy And Ultraviolet B Light Therapy To Skin (Procedure),SNOMED-CT
+290667004,Epirubicin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+290650006,Plicamycin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+169310003,Betatron Electron Therapy (Procedure),SNOMED-CT
+473237008,Stereotactic Radiosurgery For Acoustic Neuroma (Procedure),SNOMED-CT
+87390000,"Radiation Therapy, Central Axis Depth Dose Computation (Procedure)",SNOMED-CT
+38915000,Radionuclide Therapy For Gland Ablation (Regime/Therapy),SNOMED-CT
+442993000,Percutaneous Radiofrequency Ablation Of Lesion Of Liver Using Ultrasound Guidance (Procedure),SNOMED-CT
+428908000,Combined Photochemotherapy And Ultraviolet A Light Therapy To Skin (Procedure),SNOMED-CT
+821871000000102,Percutaneous Photodynamic Therapy Of Lesion Of Bile Duct Using Fluoroscopic Guidance (Procedure),SNOMED-CT
+306828004,Low Power Laser Therapy To Knee (Procedure),SNOMED-CT
+229591000,Theraktin Treatment (Procedure),SNOMED-CT
+444247007,Photodynamic Therapy Of Neovascular Membrane Of Choroid (Procedure),SNOMED-CT
+290655001,Aclarubicin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+290661003,Accidental Doxorubicin Poisoning (Event),SNOMED-CT
+228660009,Contact Therapy (Procedure),SNOMED-CT
+426234008,Ultraviolet B Light Therapy To Skin (Procedure),SNOMED-CT
+85257004,Destruction Of Chorioretinal Lesion By Radiation Therapy (Procedure),SNOMED-CT
+169317000,Neutron Capture Therapy (Procedure),SNOMED-CT
+290662005,Intentional Doxorubicin Poisoning (Event),SNOMED-CT
+441783000,Conformal Radiotherapy (Procedure),SNOMED-CT
+306821005,Low Power Laser Therapy To Elbow (Procedure),SNOMED-CT
+169336005,External Beam With Chemotherapy (Procedure),SNOMED-CT
+169298007,Intracavitary X-Ray Therapy (Procedure),SNOMED-CT
+169315008,Deuteron Therapy (Procedure),SNOMED-CT
+290645000,Mitomycin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+840981000000104,Interstitial Photodynamic Therapy Of Malignant Tumour Of Parotid Gland (Procedure),SNOMED-CT
+306826000,Low Power Laser Therapy To Abdomen (Procedure),SNOMED-CT
+169311004,Positron Therapy (Procedure),SNOMED-CT
+47668009,Intracavitary Radium Application (Regime/Therapy),SNOMED-CT
+169296006,Ultrahard X-Rays 400-2000 Kv (Procedure),SNOMED-CT
+169335009,External Beam - Surgery With Chemotherapy (Procedure),SNOMED-CT
+290693006,Accidental Pentostatin Poisoning (Event),SNOMED-CT
+290647008,Accidental Plicamycin Poisoning (Event),SNOMED-CT
+16560241000119104,Oral Radionuclide Therapy (Procedure),SNOMED-CT
+427561000119104,Intravenous Radionuclide Therapy Using Samarium Sm 153 Lexidronam (Procedure),SNOMED-CT
+426931009,Subacute Bacterial Endocarditis Prophylaxis (Procedure),SNOMED-CT
+26802008,"Radiation Therapy Isodose Plan, Arc Field (Procedure)",SNOMED-CT
+433150007,Radiolabeled Indium 111 Antibody Therapy (Procedure),SNOMED-CT
+182668004,Ultraviolet Lesion Destruction (Procedure),SNOMED-CT
+440069001,Rhinophototherapy Using Ultraviolet And Visible Light (Procedure),SNOMED-CT
+431667009,Intracoronary Brachytherapy Using Fluoroscopic Guidance (Procedure),SNOMED-CT
+35587007,"Supervision, Handling And Loading Of Radioelement (Procedure)",SNOMED-CT
+49097004,"Special Dosimetry, Thermoluminescent Dosimetry (Procedure)",SNOMED-CT
+169303009,Betatron Photon Therapy (Procedure),SNOMED-CT
+700356003,Radium 226 Brachytherapy (Procedure),SNOMED-CT
+31344000,"Radiation Therapy Treatment Planning, Patient Contour And Localization Of Internal Structures (Procedure)",SNOMED-CT
+10492003,Radionuclide Therapy For Glandular Suppression (Regime/Therapy),SNOMED-CT
+229593002,Mercury Vapor Lamp Treatment (Procedure),SNOMED-CT
+290666008,Intentional Epirubicin Poisoning (Event),SNOMED-CT
+306817003,Low Power Laser Therapy To Neck (Procedure),SNOMED-CT
+169332007,External Beam With Internal Radiotherapy (Procedure),SNOMED-CT
+50632006,Cyclotron Teleradiotherapy (Procedure),SNOMED-CT
+853301000000101,Stereotactic Focused Gamma Radiosurgery Of Trigeminal Nerve (Procedure),SNOMED-CT
+290636001,Cytotoxic Antibiotic Poisoning (Disorder),SNOMED-CT
+304421004,Pulsed Electromagnetic Energy To Hip (Regime/Therapy),SNOMED-CT
+290658004,Intentional Mitozantrone Poisoning (Event),SNOMED-CT
+306822003,Low Power Laser Therapy To Wrist (Procedure),SNOMED-CT
+169410004,Support Transfusion Therapy (Procedure),SNOMED-CT
+47191007,Poisoning Caused By Bleomycin (Disorder),SNOMED-CT
+32626001,Provision Of External Compensating Shield (Procedure),SNOMED-CT
+290663000,Doxorubicin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+431743005,Yttrium 90 Somatostatin Analog Therapy (Procedure),SNOMED-CT
+304416002,Pulsed Electromagnetic Energy To Wrist (Regime/Therapy),SNOMED-CT
+10226009,Disposal Of Radioactive Source (Procedure),SNOMED-CT
+448385000,Megavoltage Radiation Therapy Using Photons (Procedure),SNOMED-CT
+169295005,Deep X-Ray Therapy 150-400 Kv (Procedure),SNOMED-CT
+306827009,Low Power Laser Therapy To Hip (Procedure),SNOMED-CT
+306829007,Low Power Laser Therapy To Ankle (Procedure),SNOMED-CT
+447912004,Fractionated Dose Stereotactic Radiosurgery Using Linear Accelerator System (Procedure),SNOMED-CT
+589631000119102,Intravenous Radioimmunotherapy Using Monoclonal Antibodies (Procedure),SNOMED-CT
+9990009,Radiation Therapy Treatment Planning Service (Procedure),SNOMED-CT
+448137007,Brachytherapy Using Radioiodine (Procedure),SNOMED-CT
+275843000,Weil's Disease Prophylaxis (Procedure),SNOMED-CT
+406175001,Phototherapy: Sleep Regulation (Procedure),SNOMED-CT
+292225007,Epirubicin Adverse Reaction (Disorder),SNOMED-CT
+399124002,Unsealed Radionuclide Procedure (Procedure),SNOMED-CT
+169292008,Grenz Ray Therapy Up To 10 Kv (Procedure),SNOMED-CT
+306820006,Low Power Laser Therapy To Shoulder (Procedure),SNOMED-CT
+29722002,Photochemotherapy With Petrolatum And Ultraviolet B (Procedure),SNOMED-CT
+46733005,Provision Of Molds Or Casts For Immobilization (Procedure),SNOMED-CT
+293232008,Cyproterone Adverse Reaction (Disorder),SNOMED-CT
+169329009,Mold Technique Gamma/Beta (Procedure),SNOMED-CT
+169316009,Pi-Meson Therapy (Procedure),SNOMED-CT
+8502007,Radiation Physics Consultation With Therapeutic Radiologist (Procedure),SNOMED-CT
+219076007,Adverse Reaction Caused By Bacillus Calmette-Guerin Vaccine (Disorder),SNOMED-CT
+304415003,Pulsed Electromagnetic Energy To Elbow (Regime/Therapy),SNOMED-CT
+441799006,Intensity Modulated Radiation Therapy (Procedure),SNOMED-CT
+60478006,Local Actinotherapy (Procedure),SNOMED-CT
+115960007,Total Skin Electron Beam Therapy (Procedure),SNOMED-CT
+292247007,Trilostane Adverse Reaction (Disorder),SNOMED-CT
+428822001,Photodynamic Therapy Of Subretinal Lesion (Procedure),SNOMED-CT
+448467008,Interstitial Brachytherapy Using Cesium Needle (Procedure),SNOMED-CT
+446504008,Stereotactic Destruction Of Lesion Using Gamma Radiation (Procedure),SNOMED-CT
+59690005,Compensating Filter Design And Fabrication (Procedure),SNOMED-CT
+304414004,Pulsed Electromagnetic Energy To Shoulder (Regime/Therapy),SNOMED-CT
+51534007,Oral Chemotherapy For Malignant Neoplasm (Regime/Therapy),SNOMED-CT
+290668009,Idarubicin Poisoning (Disorder),SNOMED-CT
+700357007,Radium 223 Brachytherapy (Procedure),SNOMED-CT
+90982009,Wedge Filter Design And Fabrication (Procedure),SNOMED-CT
+80893007,Hyperthermia Generated By Intracavitary Probes (Procedure),SNOMED-CT
+292210007,Nitrosurea Adverse Reaction (Disorder),SNOMED-CT
+292244000,Fludarabine Adverse Reaction (Disorder),SNOMED-CT
+47479005,Total Body Irradiation (Procedure),SNOMED-CT
+43111005,Destruction Of Lesion Of Retina By Implantation Of Radiation Source (Procedure),SNOMED-CT
+292206009,Ifosfamide Adverse Reaction (Disorder),SNOMED-CT
+33356009,Betatron Teleradiotherapy (Procedure),SNOMED-CT
+449157000,Interstitial Brachytherapy Using Iridium Wire (Procedure),SNOMED-CT
+56636003,Isodose Computation For Teletherapy (Procedure),SNOMED-CT
+169333002,External Beam - Surgery With Preoperative Radiotherapy (Procedure),SNOMED-CT
+712746000,Total Body Electron Beam Therapy (Procedure),SNOMED-CT
+229587005,Ultraviolet A Therapy (Procedure),SNOMED-CT
+290692001,Pentostatin Poisoning (Disorder),SNOMED-CT
+292846009,Idoxuridine In Dimethylsulfoxide Adverse Reaction (Disorder),SNOMED-CT
+46467001,Photochemotherapy With Psoralens And Ultraviolet A (Procedure),SNOMED-CT
+290651005,Aclarubicin Poisoning (Disorder),SNOMED-CT
+290643007,Accidental Mitomycin Poisoning (Event),SNOMED-CT
+292205008,Ethoglucid Adverse Reaction (Disorder),SNOMED-CT
+290638000,Intentional Dactinomycin Poisoning (Event),SNOMED-CT
+292836007,Human Interferon Gamma-1b Adverse Reaction (Disorder),SNOMED-CT
+168521000,Radiotherapy For Hemopoietic Irradiation (Procedure),SNOMED-CT
+168528006,Palliative Course Of Radiotherapy (Procedure),SNOMED-CT
+304417006,Pulsed Electromagnetic Energy To Hand (Regime/Therapy),SNOMED-CT
+765813009,Intracavitary Brachytherapy Of Mouth (Procedure),SNOMED-CT
+168526005,Radiotherapy For Analgesia (Procedure),SNOMED-CT
+169293003,Superficial X-Ray Therapy 10-60 Kv (Procedure),SNOMED-CT
+385798007,Radiation Therapy Care (Regime/Therapy),SNOMED-CT
+363695005,Ultraviolet Light Therapy (Procedure),SNOMED-CT
+292243006,Paclitaxel Adverse Reaction (Disorder),SNOMED-CT
+292249005,Formestane Adverse Reaction (Disorder),SNOMED-CT
+290665007,Accidental Epirubicin Poisoning (Event),SNOMED-CT
+290664006,Epirubicin Poisoning (Disorder),SNOMED-CT
+16554781000119104,Intravenous Radionuclide Therapy Using Strontium 89 (Procedure),SNOMED-CT
+306824002,Low Power Laser Therapy To Back (Procedure),SNOMED-CT
+168527001,Radiotherapy For Inflammation (Procedure),SNOMED-CT
+168520004,Radiotherapy For Immunosuppression (Procedure),SNOMED-CT
+290648003,Intentional Plicamycin Poisoning (Event),SNOMED-CT
+9728002,"Special Dosimetry, Microdosimetry (Procedure)",SNOMED-CT
+169299004,Combined X-Ray Therapy (Procedure),SNOMED-CT
+714029009,Preoperative High Dose Brachytherapy (Procedure),SNOMED-CT
+290642002,Bleomycin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+1127003,Interstitial Radium Application (Regime/Therapy),SNOMED-CT
+290640005,Accidental Bleomycin Poisoning (Event),SNOMED-CT
+292228009,Mercuric Oxide Adverse Reaction (Disorder),SNOMED-CT
+229565001,Low Power Laser Therapy (Procedure),SNOMED-CT
+438629002,High Dose Rate Electronic Brachytherapy (Procedure),SNOMED-CT
+433224001,Radionuclide Rhenium 186 Hydroxyethylidene Diphosphonate Therapy (Procedure),SNOMED-CT
+78110003,Destruction Of Lesion Of Choroid By Implantation Of Radiation Source (Procedure),SNOMED-CT
+168525009,Postoperative Course Of Radiotherapy (Procedure),SNOMED-CT
+448288001,Targeted Radionuclide Therapy (Procedure),SNOMED-CT
+182655007,Local Heating - Infrared Irradiation (Regime/Therapy),SNOMED-CT
+169421008,Infrared Radiation Therapy (Regime/Therapy),SNOMED-CT
+64978007,Radionuclide Therapy For Hyperthyroidism (Regime/Therapy),SNOMED-CT
+169419003,Light Therapy For Inflammation (Procedure),SNOMED-CT
+292222005,Aclarubicin Adverse Reaction (Disorder),SNOMED-CT
+1051921000000109,Photodynamic Laser Therapy To Lesion Of Skin (Procedure),SNOMED-CT
+12566000,"Consultation In Computer Dosimetry And Isodose Chart, Teletherapy (Procedure)",SNOMED-CT
+290695004,Pentostatin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+432094005,Radiolabeled Iodine 131 Antibody Therapy (Procedure),SNOMED-CT
+680007,Radiation Physics Consultation (Procedure),SNOMED-CT
+304412000,Pulsed Electromagnetic Energy To Trunk (Regime/Therapy),SNOMED-CT
+58873006,Modified Goeckerman Regimen (Procedure),SNOMED-CT
+168523002,Preoperative Course Of Radiotherapy (Procedure),SNOMED-CT
+448608009,Intracavitary Brachytherapy Of Female Genital Tract (Procedure),SNOMED-CT
+35683002,Phototherapy Of Newborn (Procedure),SNOMED-CT
+726549007,Radioimmunoguided Surgery (Procedure),SNOMED-CT
+169302004,Linear Accelerator Photon Therapy (Procedure),SNOMED-CT
+292242001,Crisantaspase Adverse Reaction (Disorder),SNOMED-CT
+304419009,Pulsed Electromagnetic Energy To Pelvis (Regime/Therapy),SNOMED-CT
+406174002,Phototherapy: Mood Regulation (Procedure),SNOMED-CT
+451017006,Radiotherapy Planning Using Four Dimensional Computed Tomography (Procedure),SNOMED-CT
+448167001,Intraluminal Brachytherapy Of Rectum (Procedure),SNOMED-CT
+28563001,Poisoning Caused By Actinomycin (Disorder),SNOMED-CT
+1103661000000108,Lutetium (177-Lu) Labelled Somatostatin Analogue Therapy (Procedure),SNOMED-CT
+292216001,Cytotoxic Antibiotic Adverse Reaction (Disorder),SNOMED-CT
+113120007,Interstitial Brachytherapy (Regime/Therapy),SNOMED-CT
+287590002,Local Skin Ultraviolet Therapy (Procedure),SNOMED-CT
+306819000,Low Power Laser Therapy To Lower Limb (Procedure),SNOMED-CT
+293283008,Leuprorelin Adverse Reaction (Disorder),SNOMED-CT
+63771003,General Actinotherapy (Procedure),SNOMED-CT
+69497001,"Brachytherapy Isodose Calculation, Intermediate (Procedure)",SNOMED-CT
+445232009,Boost Radiation Therapy (Procedure),SNOMED-CT
+10075000,Photochemotherapy With Tar And Ultraviolet B (Procedure),SNOMED-CT
+115959002,Stereotactic Radiosurgery (Procedure),SNOMED-CT
+703423002,Combined Chemotherapy And Radiation Therapy (Procedure),SNOMED-CT
+399180008,Interstitial Radioactive Colloid Therapy (Procedure),SNOMED-CT
+426963003,Endoscopic Retrograde Photodynamic Laser Therapy Of Lesion Of Bile Duct (Procedure),SNOMED-CT
+290654002,Intentional Aclarubicin Poisoning (Event),SNOMED-CT
+450522005,Narrowband Ultraviolet B Phototherapy (Procedure),SNOMED-CT
+293281005,Triptorelin Adverse Reaction (Disorder),SNOMED-CT
+168524008,Radiotherapy - Intraoperative Control (Procedure),SNOMED-CT
+420529003,Radiotherapy Using Radioactive Plaque On Eye (Procedure),SNOMED-CT
+152198000,Brachytherapy (Procedure),SNOMED-CT
+304413005,Pulsed Electromagnetic Energy To Lower Limb (Regime/Therapy),SNOMED-CT
+449255003,Intraluminal Brachytherapy Of Tracheobronchial Tree (Procedure),SNOMED-CT
+449290006,Megavoltage Radiation Therapy Using Photons And Electrons (Procedure),SNOMED-CT
+169323005,Intermediate Distance Curietherapy (Procedure),SNOMED-CT
+74023000,Teleradiotherapy Of 1 To 25 Mega Electronvolt Protons (Procedure),SNOMED-CT
+293230000,Bicalutamide Adverse Reaction (Disorder),SNOMED-CT
+290637005,Accidental Dactinomycin Poisoning (Event),SNOMED-CT
+292236000,Amsacrine Adverse Reaction (Disorder),SNOMED-CT
+64134004,Stereotactic Focused Gamma Radiosurgery Of Cerebrum (Procedure),SNOMED-CT
+229588000,Ultraviolet B Therapy (Procedure),SNOMED-CT
+169312006,Combined Fast-Electron Therapy (Procedure),SNOMED-CT
+429223009,Percutaneous Photodynamic Therapy Of Lesion Of Bile Duct (Procedure),SNOMED-CT
+292835006,Interferons Adverse Reaction (Disorder),SNOMED-CT
+722470001,Phototherapy Of Neonate Using Ultraviolet Light (Procedure),SNOMED-CT
+292837003,Interferon-A-2a Adverse Reaction (Disorder),SNOMED-CT
+431588009,Radionuclide Iodine 131 Therapy For Thyrotoxicosis (Procedure),SNOMED-CT
+14473006,Surface Brachytherapy (Procedure),SNOMED-CT
+118641002,Three Dimensional Treatment Planning For Teleradiotherapy (Procedure),SNOMED-CT
+290670000,Intentional Idarubicin Poisoning (Event),SNOMED-CT
+425893002,Ultraviolet A Light Therapy To Skin (Procedure),SNOMED-CT
+448168006,Intracavitary Brachytherapy Of Nasopharynx (Procedure),SNOMED-CT
+290659007,Mitozantrone Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+448987004,Intraluminal Brachytherapy Of Biliary Tract (Procedure),SNOMED-CT
+170450005,Meningococcus Prophylaxis (Procedure),SNOMED-CT
+293229005,Flutamide Adverse Reaction (Disorder),SNOMED-CT
+439149000,Intermittent Phototherapy (Procedure),SNOMED-CT
+448461009,Stereotactic Radiation Therapy Using Megavoltage Radiation (Procedure),SNOMED-CT
+169305002,Combined Photon Therapy (Procedure),SNOMED-CT
+292197004,Alkylating Drug Adverse Reaction (Disorder),SNOMED-CT
+700496000,Postoperative Administration Of Antineoplastic Agent Into Peritoneal Cavity (Procedure),SNOMED-CT
+49963009,"Radiation Therapy Isodose Plan, Moving Strip Field (Procedure)",SNOMED-CT
+290660002,Doxorubicin Poisoning (Disorder),SNOMED-CT
+306818008,Low Power Laser Therapy To Trunk (Procedure),SNOMED-CT
+268502007,Leptospirosis Prophylaxis (Procedure),SNOMED-CT
+292202006,Nitrogen Mustard Derivative Adverse Reaction (Disorder),SNOMED-CT
+292253007,Vindesine Adverse Reaction (Disorder),SNOMED-CT
+699618001,Tuberculosis Prophylaxis (Procedure),SNOMED-CT
+90564003,Field Block Design And Fabrication (Procedure),SNOMED-CT
+292215002,Dacarbazine Adverse Reaction (Disorder),SNOMED-CT
+84755001,Radiation Therapy Treatment Management (Procedure),SNOMED-CT
+304411007,Pulsed Electromagnetic Energy To Neck (Regime/Therapy),SNOMED-CT
+64522003,Destruction Of Chorioretinal Lesion By Implantation Of Radiation Source (Procedure),SNOMED-CT
+257891001,Photodynamic Therapy (Procedure),SNOMED-CT
+61109003,Therapeutic Radiology Port Film Interpretation And Verification (Procedure),SNOMED-CT
+1092151000000100,Intranasal Phototherapy (Procedure),SNOMED-CT
+304424007,Pulsed Electromagnetic Energy To Foot (Regime/Therapy),SNOMED-CT
+290644001,Intentional Mitomycin Poisoning (Event),SNOMED-CT
+31632008,Stereotactic Focused Proton Beam On Cerebrum (Procedure),SNOMED-CT
+169324004,Combined Teletherapy And Intermediate Distance Curietherapy (Procedure),SNOMED-CT
+113115007,"Radiation Therapy Isodose Plan, Wedge Fields (Procedure)",SNOMED-CT
+290657009,Accidental Mitozantrone Poisoning (Event),SNOMED-CT
+32947004,"Radiation Therapy Isodose Plan, Isocentric (Procedure)",SNOMED-CT
+292838008,Interferon-A-2b Adverse Reaction (Disorder),SNOMED-CT
+384691004,Intraluminal Brachytherapy (Regime/Therapy),SNOMED-CT
+82350007,Photochemotherapy (Procedure),SNOMED-CT
+35437002,Consultation In Computer Dosimetry And Isodose Chart For Brachytherapy (Procedure),SNOMED-CT
+449155008,Intraluminal Brachytherapy Of Esophagus (Procedure),SNOMED-CT
+306825001,Low Power Laser Therapy To Pelvis (Procedure),SNOMED-CT
+304423001,Pulsed Electromagnetic Energy To Ankle (Regime/Therapy),SNOMED-CT
+1699009,Special Dosimetry (Procedure),SNOMED-CT
+429730002,Photodynamic Therapy Of Skin Of Whole Body (Procedure),SNOMED-CT
+290694000,Intentional Pentostatin Poisoning (Event),SNOMED-CT
+447704003,Single Dose Stereotactic Radiosurgery Using Linear Accelerator System (Procedure),SNOMED-CT
+290669001,Accidental Idarubicin Poisoning (Event),SNOMED-CT
+869901000000105,Retroorbital Radiotherapy (Procedure),SNOMED-CT
+428604001,Photodynamic Therapy Of Skin (Procedure),SNOMED-CT
+169297002,Short Distance X-Ray Therapy (Procedure),SNOMED-CT
+22638002,Photochemotherapy With Tar And Petrolatum (Procedure),SNOMED-CT
+447759004,Brachytherapy Of Breast (Procedure),SNOMED-CT
+229592007,Kromayer Treatment (Procedure),SNOMED-CT
+292190002,Aldesleukin Adverse Reaction (Disorder),SNOMED-CT
+168522007,Radiotherapy For Lymphatic Irradiation (Procedure),SNOMED-CT
+169319002,Combined Heavy Particle Therapy (Procedure),SNOMED-CT
+711299007,Radiotherapy To Thorax (Procedure),SNOMED-CT
+448552007,Interstitial Brachytherapy Using Gold Grain (Procedure),SNOMED-CT
+292232003,Pentostatin Adverse Reaction (Disorder),SNOMED-CT
+17876001,"Radiation Therapy Treatment Planning, Interpretation Of Special Testing Ordered By Radiation Therapist (Procedure)",SNOMED-CT
+84778007,Radiation Therapy Simulator Aided Field Setting (Procedure),SNOMED-CT
+16554931000119102,Intravenous Radionuclide Therapy Using Radium 223 Dichloride (Procedure),SNOMED-CT
+292245004,Aminoglutethimide Adverse Reaction (Disorder),SNOMED-CT
+473279002,Photodynamic Therapy Of Chorioretinal Lesion (Procedure),SNOMED-CT
+20117002,Poisoning Caused By Mitomycin (Disorder),SNOMED-CT
+169418006,Visible Light Therapy (Procedure),SNOMED-CT
+292226008,Idarubicin Adverse Reaction (Disorder),SNOMED-CT
+441858005,Adverse Reaction Caused By Trastuzumab Administered By Infusion (Disorder),SNOMED-CT
+69568002,Oral Radiation (Procedure),SNOMED-CT
+169322000,Gamma-Ray Telecurie Therapy (Procedure),SNOMED-CT
+292254001,Dimethyl Sulfoxide Adverse Reaction (Disorder),SNOMED-CT
+304422006,Pulsed Electromagnetic Energy To Knee (Regime/Therapy),SNOMED-CT
+169294009,Half-Deep Therapy 60-150 Kv (Procedure),SNOMED-CT
+290646004,Plicamycin Poisoning (Disorder),SNOMED-CT
+304409003,Pulsed Electromagnetic Energy To Upper Limb (Regime/Therapy),SNOMED-CT
+304410008,Pulsed Electromagnetic Energy To Face (Regime/Therapy),SNOMED-CT
+290639008,Dactinomycin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+290656000,Mitozantrone Poisoning (Disorder),SNOMED-CT
+84336003,"Radiation Therapy Isodose Plan, Rotation Field (Procedure)",SNOMED-CT
+428545002,Phototherapy Of Skin (Procedure),SNOMED-CT
+290641009,Intentional Bleomycin Poisoning (Event),SNOMED-CT
+57966002,"Radiation Therapy, Tissue And Geometric Inhomogeneity Correction (Procedure)",SNOMED-CT
+431778005,Brachytherapy Of Prostate Using Fluoroscopic Guidance (Procedure),SNOMED-CT
+290671001,Idarubicin Poisoning Of Undetermined Intent (Disorder),SNOMED-CT
+292839000,Interferon-A-N1 Adverse Reaction (Disorder),SNOMED-CT
+39646005,Hemibody Irradiation (Procedure),SNOMED-CT
+49569001,Consultation In Teletherapy (Procedure),SNOMED-CT
+169334008,External Beam - Surgery With Postoperative Radiotherapy (Procedure),SNOMED-CT
+304420003,Pulsed Electromagnetic Energy To Abdomen (Regime/Therapy),SNOMED-CT
+722482005,"Doxorubicin, Bleomycin, Vinblastine And Dacarbazine Chemotherapy Regimen (Regime/Therapy)",SNOMED-CT
+448294009,External Radiation Therapy Using Superficial Radiation (Procedure),SNOMED-CT
+292248002,Tamoxifen Adverse Reaction (Disorder),SNOMED-CT
+292246003,Estrogen Antagonist Adverse Reaction (Disorder),SNOMED-CT
+169318005,Fast Neutron Therapy (Procedure),SNOMED-CT
+1086741000000104,Epiretinal Brachytherapy (Procedure),SNOMED-CT
+292250005,Vinca Alkaloid Adverse Reaction (Disorder),SNOMED-CT
+169422001,Inflammatory Infrared Therapy (Regime/Therapy),SNOMED-CT
+169304003,Van Der Graaff Photon Therapy (Procedure),SNOMED-CT
+431200001,Radionuclide Iodine 131 Therapy To Thyroid (Procedure),SNOMED-CT
+306815006,Low Power Laser Therapy To Upper Limb (Procedure),SNOMED-CT
+306816007,Low Power Laser Therapy To Face (Procedure),SNOMED-CT
+169328001,Beta Source Contact Therapy (Procedure),SNOMED-CT
+804811000000103,Phototherapy Using 311 Nanometres Narrowband Ultraviolet B Lamp (Procedure),SNOMED-CT
+300041008,Penicillin Prophylaxis (Procedure),SNOMED-CT
+306823008,Low Power Laser Therapy To Hand (Procedure),SNOMED-CT
+427541000119103,Intravenous Radionuclide Therapy (Procedure),SNOMED-CT
+36679009,Vaginal Cone Irradiation (Procedure),SNOMED-CT
+169309008,Linear Accelerator Electrons (Procedure),SNOMED-CT
+15543008,Isodose Computation For Brachytherapy (Procedure),SNOMED-CT
+306830002,Low Power Laser Therapy To Foot (Procedure),SNOMED-CT
+65381004,Intra-Articular Radionuclide Therapy (Regime/Therapy),SNOMED-CT
+1092191000000108,Intraoral Low Power Laser Therapy (Procedure),SNOMED-CT
+229589008,Ultraviolet C Therapy (Procedure),SNOMED-CT
+293081004,Dapsone Adverse Reaction (Disorder),SNOMED-CT
+65263004,General Radiation Therapy Consultation And Report (Procedure),SNOMED-CT
+169314007,Proton Therapy (Procedure),SNOMED-CT
+118640001,Radioimmunotherapy (Procedure),SNOMED-CT
+292198009,Mitobronitol Adverse Reaction (Disorder),SNOMED-CT
+438816004,Radiolabeled Technetium 99m Antibody Therapy (Procedure),SNOMED-CT
+238811000000106,Delivery Of Oral Chemotherapy For Neoplasm Nos (Regime/Therapy),SNOMED-CT
+560611000000108,Radiation/Phototherapy Nos (Procedure),SNOMED-CT
+468111000000107,[X]Other Chemotherapy (Situation),SNOMED-CT
+222771000000107,Stereotactic Radiosurgery (Procedure),SNOMED-CT
+267661000000100,Delivery Of A Fraction Of Interstitial Radiotherapy,SNOMED-CT
+490271000000105,Preparation For Intensity Modulated Radiation Therapy,SNOMED-CT
+170449005,Antibiotic Cover - Surgery (Procedure),SNOMED-CT
+262671000000105,Transurethral Radiofrequency Needle Ablation Of Prostate,SNOMED-CT
+576601000000103,Other Nuclear Therapy Nos (Procedure),SNOMED-CT
+236241000000105,Radiotherapy Delivery Nos (Procedure),SNOMED-CT
+267981000000103,Delivery Of Exclusively Oral Chemotherapy For Neoplasm,SNOMED-CT
+282621000000108,Phototherapy To Skin (Procedure),SNOMED-CT
+916171000000104,Radiotherapy,SNOMED-CT
+250621000000102,Photodynamic Therapy,SNOMED-CT
+238091000000107,Volume Definition For Simple Radiotherapy With Imaging And Dosimetry (Procedure),SNOMED-CT
+267921000000104,Delivery Of Complex Parenteral Chemotherapy For Neoplasm At First Attendance,SNOMED-CT
+213881000000103,Chemotherapy Started,SNOMED-CT
+290651000000100,Photodynamic Therapy Of Skin,SNOMED-CT
+273601000000102,Photodynamic Therapy,SNOMED-CT
+267641000000101,Delivery Of A Fraction Of Total Body Irradiation (Tbi),SNOMED-CT
+268451000000102,Radiotherapy Procedures Nos,SNOMED-CT
+575551000000108,Infrared Therapy Nos (Procedure),SNOMED-CT
+490441000000100,Megavoltage Treatment For Complex Radiotherapy,SNOMED-CT
+231671000000107,Radiotherapy Volume Definition (Procedure),SNOMED-CT
+169384001,Preload Radiotherapy - Rectum (Regime/Therapy),SNOMED-CT
+267491000000109,Volume Definition For Radiotherapy With Imaging And Intensity-Modulated Radiation Therapy (Imrt) Dosimetry,SNOMED-CT
+379661000000105,Other Specified Preparation For Brachytherapy (Procedure),SNOMED-CT
+282671000000107,Ultraviolet B Light Therapy To Skin (Procedure),SNOMED-CT
+180521006,Introduction Of Radium Into Organ Noc (Procedure),SNOMED-CT
+490491000000105,Technical Support For Preparation For Radiotherapy,SNOMED-CT
+267911000000105,Delivery Of Complex Chemotherapy For Neoplasm Including Prolonged Infusional Treatment At First Attendance,SNOMED-CT
+490321000000104,Preparation For Superficial Radiotherapy With Simple Calculation,SNOMED-CT
+290681000000106,Photodynamic Therapy Of Skin Nos,SNOMED-CT
+2966007,Aplastic Anemia Secondary To Radiation (Disorder),SNOMED-CT
+238871000000101,Delivery Of Chemotherapy For Neoplasm Nos (Procedure),SNOMED-CT
+290731000000102,Combined Photochemotherapy And Ultraviolet B Light Therapy To Skin,SNOMED-CT
+268161000000105,Introduction Of Radioactive Substance Into Organ For Interstitial Brachytherapy Noc,SNOMED-CT
+550941000000105,Internal Metabolic Radiotherapy Nos (Procedure),SNOMED-CT
+268501000,Antibiotic Cover - Dentistry (Procedure),SNOMED-CT
+916781000000103,High Cost Chemotherapy Drugs,SNOMED-CT
+169390002,Afterload Radiotherapy - Respiratory System (Regime/Therapy),SNOMED-CT
+169393000,Afterload Radiotherapy - Rectum (Regime/Therapy),SNOMED-CT
+169385000,Preload Radiotherapy Of Oropharyngeal Cavity (Procedure),SNOMED-CT
+236461000000105,Delivery Of A Fraction Of Complex Radiotherapy On A Megavoltage Machine (Procedure),SNOMED-CT
+268431000000109,Delivery Of A Fraction Of Radiotherapy On A Superficial Or Orthovoltage Machine,SNOMED-CT
+198551000000104,Chemotherapy Started (Situation),SNOMED-CT
+490451000000102,Megavoltage Treatment For Simple Radiotherapy,SNOMED-CT
+677911000000104,Other Nuclear Therapy (Procedure),SNOMED-CT
+327451000000104,Radionuclide Iodine 131 Therapy For Thyrotoxicosis (Procedure),SNOMED-CT
+894551000000100,Electroporation Therapy,SNOMED-CT
+441515002,Delivery Of A Fraction Of Intraluminal Brachytherapy (Procedure),SNOMED-CT
+834441000000106,Neoadjuvant Chemotherapy,SNOMED-CT
+180518009,Introduction Of Removable Radioactive Material Into Organ Noc (Procedure),SNOMED-CT
+232261000000105,Other Specified Radiotherapy Procedures (Procedure),SNOMED-CT
+169380005,Preload Radiotherapy - Upper Gastrointestinal Tract (Regime/Therapy),SNOMED-CT
+290751000000109,Phototherapy To Skin Nos,SNOMED-CT
+583361000000109,Other Specified Introduction Of Removable Radioactive Material Into Organ Noc (Procedure),SNOMED-CT
+490291000000109,Preparation For Hemi Body Irradiation,SNOMED-CT
+305971000000102,Radiotherapy To Chest Wall (Procedure),SNOMED-CT
+169379007,Preload Radiotherapy - Ear (Regime/Therapy),SNOMED-CT
+490261000000103,Preparation For External Beam Radiotherapy,SNOMED-CT
+916771000000100,High Cost Chemotherapy Drugs,SNOMED-CT
+898261000000107,Pulsed Dose Rate Brachytherapy,SNOMED-CT
+489381000000105,Percutaneous Radiofrequency Ablation Of Lesion Of Bone,SNOMED-CT
+562641000000105,Other Radiotherapy Nos (Procedure),SNOMED-CT
+267581000000108,Preparation For Total Body Irradiation,SNOMED-CT
+698739008,Radionuclide Lutetium 177 Somatostatin Analog Therapy (Procedure),SNOMED-CT
+253331000000101,Stereotactic Radiosurgery On Tissue Of Brain,SNOMED-CT
+228678004,Cesium 137 Brachytherapy Manual Loading (Regime/Therapy),SNOMED-CT
+226221000000101,Plaque Radiotherapy To Lesion Of Retina (Procedure),SNOMED-CT
+169392005,Afterload Radiotherapy - Urinary (Regime/Therapy),SNOMED-CT
+169386004,Preload Cavity Radiotherapy Nos (Regime/Therapy),SNOMED-CT
+334311000000104,Yttrium 90 Somatostatin Analog Therapy (Procedure),SNOMED-CT
+327471000000108,Radionuclide Rhenium 186 Hydroxyethylidene Diphosphonate Therapy (Procedure),SNOMED-CT
+380161000000101,Other Specified Support For Preparation For Radiotherapy (Procedure),SNOMED-CT
+267541000000100,"Volume Definition For Superficial Or Deep X-Ray, Electron Or Megavoltage Radiotherapy With Simple Calculation",SNOMED-CT
+447957008,Selective Internal Radiation Using Yttrium (Procedure),SNOMED-CT
+1051341000000103,Radioimmunoguided Surgery (Procedure),SNOMED-CT
+169381009,Preload Radiotherapy - Respiratory Organs (Regime/Therapy),SNOMED-CT
+306041000000101,Radiotherapy To Pelvis (Procedure),SNOMED-CT
+244821000000108,Radioactive Seed Implantation Into Prostate (Procedure),SNOMED-CT
+69960004,Antineoplastic Chemotherapy Regimen (Regime/Therapy),SNOMED-CT
+282461000000103,Photodynamic Therapy Of Skin (Procedure),SNOMED-CT
+536181000000101,X-Ray Beam Therapy Nos (Procedure),SNOMED-CT
+305941000000108,Radiotherapy To Perineum (Procedure),SNOMED-CT
+267481000000107,Radiotherapy Volume Definition,SNOMED-CT
+182934007,Prophylactic Antibiotic Therapy (Procedure),SNOMED-CT
+857171000000101,Electrochemotherapy,SNOMED-CT
+169383007,Preload Radiotherapy - Urinary System (Regime/Therapy),SNOMED-CT
+267571000000106,Radiotherapy Preparation,SNOMED-CT
+348791000000100,Goeckerman Regime (Procedure),SNOMED-CT
+262061000000106,Percutaneous Radiofrequency Ablation Of Lesion Of Kidney,SNOMED-CT
+267901000000108,Delivery Of Chemotherapy For Neoplasm,SNOMED-CT
+282471000000105,Photodynamic Therapy Of Skin Of Whole Body (Procedure),SNOMED-CT
+223941000000105,Selective Internal Radiotherapy With Microspheres To Lesion Of Liver (Procedure),SNOMED-CT
+238061000000101,Other Specified Radiotherapy Delivery (Procedure),SNOMED-CT
+290711000000105,Ultraviolet B Light Therapy To Skin,SNOMED-CT
+490471000000106,Megavoltage Treatment For Adaptive Radiotherapy,SNOMED-CT
+916741000000106,Cancer Hormonal Treatment Drugs Band 1,SNOMED-CT
+536221000000106,Heavy Particle Therapy Nos (Procedure),SNOMED-CT
+710121000000106,Cancer Chemotherapy Management Plan,SNOMED-CT
+238101000000104,Volume Definition For Radiotherapy With Imaging And Intensity-Modulated Radiation Therapy Dosimetry (Procedure),SNOMED-CT
+262661000000103,Seed Implantation Into Prostate,SNOMED-CT
+291401000000106,Oral Delivery Of Radiotherapy For Thyroid Ablation,SNOMED-CT
+490331000000102,Preparation For Complex Conformal Radiotherapy,SNOMED-CT
+490421000000107,Introduction Of Radioactive Substance Into Organ For Brachytherapy Noc,SNOMED-CT
+289211000000109,Percutaneous Radiofrequency Ablation Of Lesion Of Lung,SNOMED-CT
+710111000000100,Cancer Chemotherapy Management Plan (Qualifier Value),SNOMED-CT
+169375001,Preload Radiotherapy - Orbit (Regime/Therapy),SNOMED-CT
+282711000000108,Phototherapy To Skin Nos (Procedure),SNOMED-CT
+223135008,[X]Bcg Vaccine Causing Adverse Effects In Therapeutic Use (Disorder),SNOMED-CT
+262651000000101,Endoscopic Radiofrequency Ablation Of Lesion Of Prostate,SNOMED-CT
+379621000000102,Other Specified Preparation For External Beam Radiotherapy (Procedure),SNOMED-CT
+268171000000103,Radioactive Seed Implantation Noc,SNOMED-CT
+469981000000107,[V]Maintenance Chemotherapy (Context-Dependent Category),SNOMED-CT
+223791000000103,Percutaneous Photodynamic Therapy Of Lesion Of Bile Duct (Procedure),SNOMED-CT
+254781000000103,Photodynamic Therapy To Subretinal Lesion,SNOMED-CT
+675231000000108,Cytotoxic Drug Therapy Nos (Procedure),SNOMED-CT
+379651000000107,Preparation For Brachytherapy Nos (Procedure),SNOMED-CT
+479871000000108,[X]Follow-Up Examination After Chemotherapy For Other Conditions (Situation),SNOMED-CT
+229791000000101,Transurethral Radiofrequency Needle Ablation Of Prostate (Procedure),SNOMED-CT
+321551000000106,Fluoroscopy Guided Intracoronary Brachytherapy (Procedure),SNOMED-CT
+453671000000106,[V]Follow-Up Examination After Chemotherapy For Other Conditions (Context-Dependent Category),SNOMED-CT
+267501000000103,"Volume Definition For Radiotherapy With Imaging, Dosimetry And Technical Support",SNOMED-CT
+267531000000109,Volume Definition For Simple Radiotherapy With Imaging And Simple Calculation,SNOMED-CT
+548741000000108,Antineoplastic Antibiotic Poisoning Nos (Disorder),SNOMED-CT
+228680005,Curietron Brachytherapy (Regime/Therapy),SNOMED-CT
+267521000000107,Volume Definition For Simple Radiotherapy With Imaging And Dosimetry,SNOMED-CT
+490391000000101,Preparation For Interstitial Brachytherapy,SNOMED-CT
+490481000000108,Support For Preparation For Radiotherapy,SNOMED-CT
+406311000000106,[X]Overdose Of Radiation Given During Therapy (Disorder),SNOMED-CT
+916891000000109,High Dose Brachytherapy,SNOMED-CT
+490311000000105,Preparation For Simple Radiotherapy With Imaging And Simple Calculation,SNOMED-CT
+316439001,[V]Convalescence After Radiotherapy (Situation),SNOMED-CT
+449438004,Selective Internal Radiation Using Iodine Radioisotope Labeled Ethiodized Oil (Procedure),SNOMED-CT
+282701000000106,Other Specified Phototherapy To Skin (Procedure),SNOMED-CT
+169382002,Preload Radiotherapy - Female Genital (Regime/Therapy),SNOMED-CT
+169391003,Afterload Radiotherapy - Female Genital (Regime/Therapy),SNOMED-CT
+305951000000106,Radiotherapy To Abdomen (Procedure),SNOMED-CT
+257971000000109,Selective Internal Radiotherapy With Microspheres To Lesion Of Liver,SNOMED-CT
+380411000000105,Delivery Of A Fraction Of Intraluminal Brachytherapy (Procedure),SNOMED-CT
+236331000000107,Volume Definition For Multiple Phases Of Complex Radiotherapy With Dosimetry (Procedure),SNOMED-CT
+66746006,Prescription Of Prophylactic Antibiotic (Procedure),SNOMED-CT
+267681000000109,Radiotherapy Delivery Nos,SNOMED-CT
+169374002,Preload Cavity Radiotherapy - Sealed (Regime/Therapy),SNOMED-CT
+490251000000101,Delivery Of A Fraction Of Intraluminal Brachytherapy,SNOMED-CT
+510091000000109,Photodynamic Therapy To Choroidal Neovascular Membrane,SNOMED-CT
+64819008,Intracavitary Radionuclide Therapy (Regime/Therapy),SNOMED-CT
+452971000000105,[V]Chemotherapy Follow-Up (Context-Dependent Category),SNOMED-CT
+223951000000108,Percutaneous Radiofrequency Ablation Of Lesion Of Liver (Procedure),SNOMED-CT
+228679007,Cesium 137 Brachytherapy Manual Loading With Heyman's Capsules (Regime/Therapy),SNOMED-CT
+232251000000107,Radiotherapy Procedures Nos (Procedure),SNOMED-CT
+536241000000104,Short Distance/Contact Radiotherapy Nos (Procedure),SNOMED-CT
+490361000000107,Preparation For Brachytherapy,SNOMED-CT
+267591000000105,Preparation For Intracavitary Radiotherapy,SNOMED-CT
+398511000000106,[V]Convalescence After Radiotherapy (Situation),SNOMED-CT
+29860002,Intravascular Radionuclide Therapy (Regime/Therapy),SNOMED-CT
+306201000000107,Radiotherapy By Body Site (Procedure),SNOMED-CT
+323151000000101,Radiolabelled Iodine 131 Antibody Therapy (Procedure),SNOMED-CT
+288106005,Cytotoxic Given Orally (Procedure),SNOMED-CT
+239091000000101,Other Specified Delivery Of Oral Chemotherapy For Neoplasm (Regime/Therapy),SNOMED-CT
+169326002,Short Distance And Contact Radiotherapy (Procedure),SNOMED-CT
+218327002,Adverse Reaction To Actinomycin D (Disorder),SNOMED-CT
+180520007,Introduction Of Iridium Wire Into Organ Noc (Procedure),SNOMED-CT
+257981000000106,Percutaneous Radiofrequency Ablation Of Lesion Of Liver,SNOMED-CT
+268401000000103,Radiotherapy Procedures,SNOMED-CT
+229601000000101,Endoscopic Radiofrequency Ablation Of Lesion Of Prostate (Procedure),SNOMED-CT
+562571000000100,Radiotherapy Purpose - Nos (Procedure),SNOMED-CT
+916751000000109,Cancer Supportive Drugs Band 1,SNOMED-CT
+916181000000102,Radionuclide Therapy,SNOMED-CT
+545141000000103,Prophylactic Chemotherapy Nos (Procedure),SNOMED-CT
+323171000000105,Radiolabelled Indium 111 Antibody Therapy (Procedure),SNOMED-CT
+226671000000104,Stereotactic Radiosurgery On Tissue Of Brain (Procedure),SNOMED-CT
+536211000000100,Fast-Electron Therapy Nos (Procedure),SNOMED-CT
+169388003,Afterload Radiotherapy - Head (Regime/Therapy),SNOMED-CT
+921401000000101,Preoperative High Dose Brachytherapy (Procedure),SNOMED-CT
+282481000000107,Other Specified Photodynamic Therapy Of Skin (Procedure),SNOMED-CT
+536191000000104,High-Energy Beam Therapy Nos (Procedure),SNOMED-CT
+280721000000103,Percutaneous Radiofrequency Ablation Of Lesion Of Lung (Procedure),SNOMED-CT
+231661000000100,Radiotherapy Preparation (Procedure),SNOMED-CT
+327551000000100,Fluoroscopy Guided Percutaneous Brachytherapy Of Hepatic Artery (Procedure),SNOMED-CT
+916731000000102,High Cost Chemotherapy Drugs,SNOMED-CT
+290721000000104,Combined Photochemotherapy And Ultraviolet A Light Therapy To Skin,SNOMED-CT
+238081000000105,"Volume Definition For Radiotherapy With Imaging, Dosimetry And Technical Support (Procedure)",SNOMED-CT
+490381000000103,Preparation For Intracavitary Brachytherapy,SNOMED-CT
+394900008,Administration Of Cancer Treatment (Procedure),SNOMED-CT
+490351000000109,Preparation For External Beam Radiotherapy Nos,SNOMED-CT
+490281000000107,Preparation For Total Body Irradiation,SNOMED-CT
+490411000000101,Preparation For Brachytherapy Nos,SNOMED-CT
+268421000000107,Delivery Of A Fraction Of Simple Radiotherapy On A Megavoltage Machine,SNOMED-CT
+254361000000108,Plaque Radiotherapy To Lesion Of Retina,SNOMED-CT
+267511000000101,Volume Definition For Multiple Phases Of Complex Radiotherapy With Dosimetry,SNOMED-CT
+169378004,Preload Radiotherapy - Mouth (Regime/Therapy),SNOMED-CT
+239081000000103,Other Specified Delivery Of Chemotherapy For Neoplasm (Procedure),SNOMED-CT
+533231000000101,Radiotherapy: Temporary Implant Nos (Procedure),SNOMED-CT
+238071000000108,Preparation For Interstitial Radiotherapy (Procedure),SNOMED-CT
+228841000000105,Percutaneous Radiofrequency Ablation Of Lesion Of Kidney (Procedure),SNOMED-CT
+213871000000100,Chemotherapy Started,SNOMED-CT
+180519001,Introduction Of Radioactive Cesium Into Organ Noc (Procedure),SNOMED-CT
+916791000000101,High Cost Chemotherapy Drugs,SNOMED-CT
+316718009,[X]Follow-Up Examination After Chemotherapy For Other Conditions (Situation),SNOMED-CT
+290701000000108,Ultraviolet A Light Therapy To Skin,SNOMED-CT
+562601000000107,Radiochemotherapy Nos (Procedure),SNOMED-CT
+916711000000105,High Cost Chemotherapy Drugs,SNOMED-CT
+916761000000107,High Cost Chemotherapy Drugs,SNOMED-CT
+306031000000105,Radiotherapy To Head (Procedure),SNOMED-CT
+916301000000109,Brachytherapy,SNOMED-CT
+258271000000104,Endoscopic Retrograde Photodynamic Laser Therapy Of Lesion Of Bile Duct,SNOMED-CT
+290381000000104,Radioactive Seed Implantation Into Prostate,SNOMED-CT
+403991000000108,"[X]Antigonadotrophins, Antiestrogens, Antiandrogens Causing Adverse Effects In Therapeutic Use, Not Elswhere Classified (Disorder)",SNOMED-CT
+428784009,Selective Internal Radiotherapy To Lesion Of Liver Using Microspheres (Procedure),SNOMED-CT
+182831000,Drug Therapy (Procedure),SNOMED-CT
+258291000000100,Percutaneous Photodynamic Therapy Of Lesion Of Bile Duct,SNOMED-CT
+285031000000107,Radioactive Seed Implantation Into Prostate (Procedure),SNOMED-CT
+267651000000103,Delivery Of A Fraction Of Intracavitary Radiotherapy,SNOMED-CT
+576591000000109,Other Radiotherapy Miscellaneous (Procedure),SNOMED-CT
+490431000000109,Introduction Of Non-Removable Radioactive Substance Into Organ For Brachytherapy Noc,SNOMED-CT
+169377009,Preload Radiotherapy - Nose (Regime/Therapy),SNOMED-CT
+230121000000105,External Beam Radiotherapy To Lesion Of Retina (Procedure),SNOMED-CT
+282661000000100,Ultraviolet A Light Therapy To Skin (Procedure),SNOMED-CT
+352951000000109,Radiolabelled Technetium 99m Antibody Therapy (Procedure),SNOMED-CT
+361261000000103,Intermittent Phototherapy (Procedure),SNOMED-CT
+306011000000102,Radiotherapy To Axilla (Procedure),SNOMED-CT
+533201000000107,External Radiotherapy Nos (Procedure),SNOMED-CT
+380051000000100,Superficial Or Orthovoltage Treatment For Radiotherapy (Procedure),SNOMED-CT
+236311000000104,"Volume Definition For Superficial Or Deep X-Ray, Electron Or Megavoltage Radiotherapy With Simple Calculation (Procedure)",SNOMED-CT
+169376000,Preload Radiotherapy - Paranasal Sinus (Regime/Therapy),SNOMED-CT
+268411000000101,Delivery Of A Fraction Of Complex Radiotherapy On A Megavoltage Machine,SNOMED-CT
+884151000000105,Radium 223 Therapy (Procedure),SNOMED-CT
+267971000000100,Delivery Of Oral Chemotherapy For Neoplasm,SNOMED-CT
+323161000000103,Iodine 131 Lipiodol Therapy (Procedure),SNOMED-CT
+282581000000108,Combined Photochemotherapy And Ultraviolet B Light Therapy To Skin (Procedure),SNOMED-CT
+475191000000101,[X]Bcg Vaccine Causing Adverse Effects In Therapeutic Use (Disorder),SNOMED-CT
+267601000000104,Preparation For Interstitial Radiotherapy,SNOMED-CT
+169387008,Afterloading Cavity Radiotherapy (Regime/Therapy),SNOMED-CT
+223771000000102,Endoscopic Retrograde Photodynamic Laser Therapy Of Lesion Of Bile Duct (Procedure),SNOMED-CT
+550971000000104,Preload Cavity Radiotherapy Nos (Procedure),SNOMED-CT
+536231000000108,Distant Gamma Therapy Nos (Procedure),SNOMED-CT
+254391000000102,External Beam Radiotherapy To Lesion Of Retina,SNOMED-CT
+312247001,Iridium 192 Brachytherapy Remote Afterloading (Regime/Therapy),SNOMED-CT
+533191000000105,Combined Radiotherapy Nos (Procedure),SNOMED-CT
+267931000000102,Delivery Of Simple Parenteral Chemotherapy For Neoplasm At First Attendance,SNOMED-CT
+690221000000109,Ultraviolet Therapy Nos (Procedure),SNOMED-CT
+378871000000108,Percutaneous Radiofrequency Ablation Of Lesion Of Bone (Procedure),SNOMED-CT
+228683007,Cathetron Brachytherapy (Regime/Therapy),SNOMED-CT
+916821000000106,High Cost Chemotherapy Drugs,SNOMED-CT
+507971000000108,Photodynamic Therapy To Choroidal Neovascular Membrane (Procedure),SNOMED-CT
+19278001,Bililite Therapy With Ultraviolet Light (Procedure),SNOMED-CT
+794511000000101,Radionuclide Lutetium 177 Somatostatin Analogue Therapy (Procedure),SNOMED-CT
+284461000000106,Delivery Of A Fraction Of External Beam Radiotherapy Nec (Procedure),SNOMED-CT
+533221000000103,Radiotherapy: Permanent Seeds Nos (Procedure),SNOMED-CT
+895131000000101,Hypofractionated Stereotactic Radiotherapy Using Megavoltage Radiation,SNOMED-CT
+306021000000108,Radiotherapy To Breast (Procedure),SNOMED-CT
+236261000000106,Preparation For Intracavitary Radiotherapy (Procedure),SNOMED-CT
+290691000000108,Phototherapy To Skin,SNOMED-CT
+803941000000109,Induction Chemotherapy (Procedure),SNOMED-CT
+327441000000102,Radionuclide Iodine 131 Thyroid Therapy (Procedure),SNOMED-CT
+379631000000100,Preparation For External Beam Radiotherapy Nos (Procedure),SNOMED-CT
+490301000000108,Preparation For Simple Radiotherapy With Imaging And Dosimetry,SNOMED-CT
+169389006,Afterload Radiotherapy - Upper Gastrointestinal Tract (Regime/Therapy),SNOMED-CT
+282491000000109,Photodynamic Therapy Of Skin Nos (Procedure),SNOMED-CT
+550951000000108,Internal Unsealed Radiotherapy Nos (Procedure),SNOMED-CT
+305961000000109,Radiotherapy To Neck (Procedure),SNOMED-CT
+236321000000105,Volume Definition For Simple Radiotherapy With Imaging And Simple Calculation (Procedure),SNOMED-CT
+267941000000106,Delivery Of Subsequent Element Of Cycle Of Chemotherapy For Neoplasm,SNOMED-CT
+267631000000105,Radiotherapy Delivery,SNOMED-CT
+576641000000100,Visible Light Therapy Nos (Procedure),SNOMED-CT
+380081000000106,Support For Preparation For Radiotherapy Nos (Procedure),SNOMED-CT
+258321000000105,Bile Duct Endoluminal Radiotherapy,SNOMED-CT
+226051000000101,Photodynamic Therapy To Subretinal Lesion (Procedure),SNOMED-CT
+290661000000102,Photodynamic Therapy Of Skin Of Whole Body,SNOMED-CT
+321611000000106,Fluoroscopy Guided Brachytherapy Of Prostate (Procedure),SNOMED-CT
+671071000000100,Adverse Reaction To Antineoplastic Antibiotics Nos (Disorder),SNOMED-CT
+223188002,[X]Overdose Of Radiation Given During Therapy (Disorder),SNOMED-CT
+882661000000108,Postoperative Intraperitoneal Chemotherapy (Procedure),SNOMED-CT
+282571000000106,Combined Photochemotherapy And Ultraviolet A Light Therapy To Skin (Procedure),SNOMED-CT
+490371000000100,Preparation For Intraluminal Brachytherapy,SNOMED-CT

@@ -1,0 +1,623 @@
+code,description,type
+14A2.,H/O: Hypertension,CTV3
+21261,Hypertension Resolved,CTV3
+2466.,O/E - Bp Reading Raised,CTV3
+2467.,O/E - Bp Reading Very High,CTV3
+662..,Cardiac Disease Monitoring (& [Hypertension]),CTV3
+6627.,Good Hypertension Control,CTV3
+6628.,Poor Hypertension Control,CTV3
+6629.,Hypertension:follow-Up Default,CTV3
+662F.,Hypertension Treatm. Started,CTV3
+662G.,Hypertensive Treatm.changed,CTV3
+662H.,Hypertension Treatm.stopped,CTV3
+662O.,On Treatment For Hypertension,CTV3
+662P.,Hypertension Monitoring,CTV3
+8HT5.,Referral To Hypertension Clinic,CTV3
+9N03.,Seen In Hypertension Clinic,CTV3
+9N1y2,Seen In Hypertension Clinic,CTV3
+9OI..,Hypertension Admin: [Monitoring] Or [Clinic],CTV3
+9OI1.,Attends Hypertension Monitoring,CTV3
+9OI3.,Hypertension Monitoring Offer Default,CTV3
+9OI4.,Hypertension Monitoring First Letter,CTV3
+9OI4.,Hypertension Monitoring First Letter,CTV3
+9OI5.,Hypertension Monitoring Second Letter,CTV3
+9OI5.,Hypertension Monitoring Second Letter,CTV3
+9OI6.,Hypertension Monitoring Third Letter,CTV3
+9OI6.,Hypertension Monitoring Third Letter,CTV3
+9OI7.,Hypertension Monitoring Verbal Invite,CTV3
+9OI7.,Hypertension Monitoring Verbal Invite,CTV3
+9OI8.,Hypertension Monitoring Telephone Invite,CTV3
+9OI8.,Hypertension Monitoring Telephone Invite,CTV3
+9OIA.,Hypertension Monitor (& Check Done),CTV3
+9OIZ.,Hypertens.monitoring Admin.nos,CTV3
+F4211,Hypertensive Retinopathy,CTV3
+G2...,Hypertensive Disease,CTV3
+G2...,Hypertensive Disease,CTV3
+G2...,Hypertensive Disease,CTV3
+G20..,High Blood Pressure (& [Essential Hypertension]),CTV3
+G20..,High Blood Pressure (& [Essential Hypertension]),CTV3
+G200.,Malignant Essential Hypertension,CTV3
+G200.,Malignant Essential Hypertension,CTV3
+G201.,Benign Essential Hypertension,CTV3
+G201.,Benign Essential Hypertension,CTV3
+G202.,Systolic Hypertension,CTV3
+G202.,Systolic Hypertension,CTV3
+G20z.,Hypertension Nos (& [Essential]),CTV3
+G20z.,Hypertension Nos (& [Essential]),CTV3
+G21..,Hypertensive Heart Disease,CTV3
+G21..,Hypertensive Heart Disease,CTV3
+G210.,Malignant Hypertensive Heart Disease,CTV3
+G210.,Malignant Hypertensive Heart Disease,CTV3
+G2100,Malignant Hypertensive Heart Disease Without Ccf,CTV3
+G2100,Malignant Hypertensive Heart Disease Without Ccf,CTV3
+G2101,Malignant Hypertensive Heart Disease With Ccf,CTV3
+G2101,Malignant Hypertensive Heart Disease With Ccf,CTV3
+G210z,Malignant Hypertensive Heart Disease Nos,CTV3
+G210z,Malignant Hypertensive Heart Disease Nos,CTV3
+G211.,Benign Hypertensive Heart Disease,CTV3
+G211.,Benign Hypertensive Heart Disease,CTV3
+G2110,Benign Hypertensive Heart Disease Without Ccf,CTV3
+G2110,Benign Hypertensive Heart Disease Without Ccf,CTV3
+G2111,Benign Hypertensive Heart Disease With Ccf,CTV3
+G2111,Benign Hypertensive Heart Disease With Ccf,CTV3
+G211z,Benign Hypertensive Heart Disease Nos,CTV3
+G211z,Benign Hypertensive Heart Disease Nos,CTV3
+G21z.,Hypertensive Heart Disease Nos,CTV3
+G21z.,Hypertensive Heart Disease Nos,CTV3
+G21z0,"Hypertensiv:[Cardiomeg][Heart Dis Nos, No Congest Card Fail]",CTV3
+G21z0,"Hypertensiv:[Cardiomeg][Heart Dis Nos, No Congest Card Fail]",CTV3
+G21z1,Hypertensive Heart Disease Nos With Ccf,CTV3
+G21z1,Hypertensive Heart Disease Nos With Ccf,CTV3
+G22..,Hypertensive Renal Disease (& [Nephrosclerosis]),CTV3
+G220.,Malignant Hypertensive Renal Disease,CTV3
+G221.,Benign Hypertensive Renal Disease,CTV3
+G222.,Hypertensive Renal Disease With Renal Failure,CTV3
+G22z.,(Renal Hypertension) Or (Hypertensive Renal Disease Nos),CTV3
+G23..,Hypertensive Heart And Renal Disease,CTV3
+G23..,Hypertensive Heart And Renal Disease,CTV3
+G230.,Malignant Hypertensive Heart And Renal Disease,CTV3
+G230.,Malignant Hypertensive Heart And Renal Disease,CTV3
+G231.,Benign Hypertensive Heart And Renal Disease,CTV3
+G231.,Benign Hypertensive Heart And Renal Disease,CTV3
+G232.,Hypertensive Heart&Renal Dis Wth (Congestive) Heart Failure,CTV3
+G232.,Hypertensive Heart&Renal Dis Wth (Congestive) Heart Failure,CTV3
+G233.,Hypertensive Heart And Renal Disease With Renal Failure,CTV3
+G233.,Hypertensive Heart And Renal Disease With Renal Failure,CTV3
+G234.,Hyperten Heart&Renal Dis+Both(Congestv)Heart And Renal Fail,CTV3
+G234.,Hyperten Heart&Renal Dis+Both(Congestv)Heart And Renal Fail,CTV3
+G23z.,Hypertensive Heart And Renal Disease Nos,CTV3
+G23z.,Hypertensive Heart And Renal Disease Nos,CTV3
+G24..,Secondary Hypertension,CTV3
+G24..,Secondary Hypertension,CTV3
+G240.,Malignant Secondary Hypertension,CTV3
+G240.,Malignant Secondary Hypertension,CTV3
+G2400,Secondary Malignant Renovascular Hypertension,CTV3
+G2400,Secondary Malignant Renovascular Hypertension,CTV3
+G240z,Secondary Malignant Hypertension Nos,CTV3
+G240z,Secondary Malignant Hypertension Nos,CTV3
+G241.,Secondary Benign Hypertension,CTV3
+G241.,Secondary Benign Hypertension,CTV3
+G2410,Secondary Benign Renovascular Hypertension,CTV3
+G2410,Secondary Benign Renovascular Hypertension,CTV3
+G241z,Secondary Benign Hypertension Nos,CTV3
+G241z,Secondary Benign Hypertension Nos,CTV3
+G244.,Hypertension Secondary To Endocrine Disorders,CTV3
+G244.,Hypertension Secondary To Endocrine Disorders,CTV3
+G24z.,Secondary Hypertension Nos,CTV3
+G24z.,Secondary Hypertension Nos,CTV3
+G24z0,Secondary Renovascular Hypertension Nos,CTV3
+G24z0,Secondary Renovascular Hypertension Nos,CTV3
+G24zz,Secondary Hypertension Nos,CTV3
+G24zz,Secondary Hypertension Nos,CTV3
+G2y..,Other Specified Hypertensive Disease,CTV3
+G2y..,Other Specified Hypertensive Disease,CTV3
+G2z..,Hypertensive Disease Nos,CTV3
+G2z..,Hypertensive Disease Nos,CTV3
+G672.,Hypertensive: [Encephalopathy] Or [Crisis],CTV3
+Gyu2.,[X]Hypertensive Diseases,CTV3
+Gyu2.,[X]Hypertensive Diseases,CTV3
+Gyu20,[X]Other Secondary Hypertension,CTV3
+Gyu20,[X]Other Secondary Hypertension,CTV3
+Gyu21,[X]Hypertension Secondary To Other Renal Disorders,CTV3
+Gyu21,[X]Hypertension Secondary To Other Renal Disorders,CTV3
+L122.,Other Pre-Existing Hypertension In Preg/Childbirth/Puerp,CTV3
+L122.,Other Pre-Existing Hypertension In Preg/Childbirth/Puerp,CTV3
+L1220,Other Pre-Existing Hypertension In Preg/Childb/Puerp Unspec,CTV3
+L1220,Other Pre-Existing Hypertension In Preg/Childb/Puerp Unspec,CTV3
+L1221,Other Pre-Existing Hypertension In Preg/Childb/Puerp - Deliv,CTV3
+L1221,Other Pre-Existing Hypertension In Preg/Childb/Puerp - Deliv,CTV3
+L1222,Oth Pre-Exist Hypert In Preg/Childb/Puerp -Del With P/N Comp,CTV3
+L1222,Oth Pre-Exist Hypert In Preg/Childb/Puerp -Del With P/N Comp,CTV3
+L1223,Other Pre-Exist Hypertension In Preg/Childb/Puerp-Not Deliv,CTV3
+L1223,Other Pre-Exist Hypertension In Preg/Childb/Puerp-Not Deliv,CTV3
+L1224,Other Pre-Exist Hypertension In Preg/Childb/Puerp + P/N Comp,CTV3
+L1224,Other Pre-Exist Hypertension In Preg/Childb/Puerp + P/N Comp,CTV3
+L122z,Other Pre-Existing Hypertension In Preg/Childb/Puerp Nos,CTV3
+L122z,Other Pre-Existing Hypertension In Preg/Childb/Puerp Nos,CTV3
+L127.,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension,CTV3
+L127.,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension,CTV3
+L127z,Pre-Eclampsia Or Eclampsia + Pre-Existing Hypertension Nos,CTV3
+L127z,Pre-Eclampsia Or Eclampsia + Pre-Existing Hypertension Nos,CTV3
+L128.,Pre-Exist Hypertension Compl Preg Childbirth And Puerperium,CTV3
+L128.,Pre-Exist Hypertension Compl Preg Childbirth And Puerperium,CTV3
+L1280,Pre-Exist Hyperten Heart Dis Compl Preg Childbth+Puerperium,CTV3
+L1281,Pre-Exist Hyperten Heart Renal Dis Comp Preg Chldbirth/Puerp,CTV3
+L1281,Pre-Exist Hyperten Heart Renal Dis Comp Preg Chldbirth/Puerp,CTV3
+L1282,Pre-Exist 2ndry Hypertens Comp Preg Childbth And Puerprum,CTV3
+L1282,Pre-Exist 2ndry Hypertens Comp Preg Childbth And Puerprum,CTV3
+XE0Ub,Hypertension,CTV3
+XE0Ub,Hypertension,CTV3
+XE0Ub,Hypertension,CTV3
+XE0Uc,Essential Hypertension,CTV3
+XE0Uc,Essential Hypertension,CTV3
+XE0Uc,Essential Hypertension,CTV3
+XE0Ud,Essential Hypertension Nos,CTV3
+XE0Ud,Essential Hypertension Nos,CTV3
+XE0Ud,Essential Hypertension Nos,CTV3
+XE0Ue,Hypertensive Heart Disease Nos Without Ccf,CTV3
+XE0Ue,Hypertensive Heart Disease Nos Without Ccf,CTV3
+XE0Ue,Hypertensive Heart Disease Nos Without Ccf,CTV3
+XE0Uf,Hypertensive Renal Disease,CTV3
+XE0Uf,Hypertensive Renal Disease,CTV3
+XE0VM,Hypertensive Encephalopathy,CTV3
+XE0VM,Hypertensive Encephalopathy,CTV3
+XE0W8,(Hypertensive Disease) Or (Hypertension),CTV3
+XE0W8,(Hypertensive Disease) Or (Hypertension),CTV3
+XE0xu,Pregnancy With Hypertension (& [Pre-Existing]),CTV3
+XE2NY,Hypertension Monitoring Admin.,CTV3
+XE2NY,Hypertension Monitoring Admin.,CTV3
+XE2NZ,Hypertension Monitoring Check Done,CTV3
+XE2NZ,Hypertension Monitoring Check Done,CTV3
+XM1Qp,Cardiomegaly - Hypertensive,CTV3
+XM1Qp,Cardiomegaly - Hypertensive,CTV3
+XM1Qp,Cardiomegaly - Hypertensive,CTV3
+XM1U2,Hypertension Clinic Admin.,CTV3
+XM1U2,Hypertension Clinic Admin.,CTV3
+XM1YA,Hypertension Monitoring,CTV3
+XSDSb,Diastolic Hypertension,CTV3
+XSDSb,Diastolic Hypertension,CTV3
+Xa0Cs,Labile Hypertension,CTV3
+Xa0Cs,Labile Hypertension,CTV3
+Xa0kX,Renovascular Hypertension,CTV3
+Xa0kX,Renovascular Hypertension,CTV3
+Xa0lt,Pre-Existing Hypertension Complicating Pregnancy,CTV3
+Xa0lt,Pre-Existing Hypertension Complicating Pregnancy,CTV3
+Xa3fQ,Malignant Hypertension,CTV3
+Xa3fQ,Malignant Hypertension,CTV3
+Xa8HD,On Treatment For Hypertension,CTV3
+XaBLq,Antihypertensive Therapy,CTV3
+XaBSX,Hypertension Screening Recall,CTV3
+XaBU4,Hypertension Monitoring Status,CTV3
+XaBU5,Hypertension Monitoring Call,CTV3
+XaIy8,Moderate Hypertension Control,CTV3
+XaIyD,Hypertension Six Month Review,CTV3
+XaIyE,Hypertension Annual Review,CTV3
+XaJ5h,Patient On Maximal Tolerated Antihypertensive Therapy,CTV3
+XaJ5h,Patient On Maximal Tolerated Antihypertensive Therapy,CTV3
+XaJYi,Hypertension Clinical Management Plan,CTV3
+XaM5f,High Cost Hypertension Drugs,CTV3
+XaM5n,Other Specified High Cost Hypertension Drugs,CTV3
+XaM5p,High Cost Hypertension Drugs Nos,CTV3
+XaXOi,Hypertension 9 Month Review,CTV3
+XaYZS,Hypertension Self-Management Plan Review,CTV3
+XaZWm,Stage 1 Hypertension (Nice - Nat Ins For Hth Clin Excl 2011),CTV3
+XaZWm,Stage 1 Hypertension (Nice - Nat Ins For Hth Clin Excl 2011),CTV3
+XaZWm,Stage 1 Hypertension (Nice - Nat Ins For Hth Clin Excl 2011),CTV3
+XaZWn,Severe Hypertension (Nat Inst For Health Clinical Ex 2011),CTV3
+XaZWn,Severe Hypertension (Nat Inst For Health Clinical Ex 2011),CTV3
+XaZWn,Severe Hypertension (Nat Inst For Health Clinical Ex 2011),CTV3
+XaZbT,Hypertension Resistant To Drug Therapy,CTV3
+XaZbT,Hypertension Resistant To Drug Therapy,CTV3
+XaZbz,Stage 2 Hypertension (Nice - Nat Ins For Hth Clin Excl 2011),CTV3
+XaZbz,Stage 2 Hypertension (Nice - Nat Ins For Hth Clin Excl 2011),CTV3
+XaZzo,Nocturnal Hypertension,CTV3
+XaZzo,Nocturnal Hypertension,CTV3
+Xab9L,Stage 1 Hyperten (Nice 2011) Without Evidnce End Organ Damge,CTV3
+Xab9L,Stage 1 Hyperten (Nice 2011) Without Evidnce End Organ Damge,CTV3
+Xab9M,Stage 1 Hyperten (Nice 2011) With Evidnce End Organ Damge,CTV3
+Xab9M,Stage 1 Hyperten (Nice 2011) With Evidnce End Organ Damge,CTV3
+Xafj3,Hypertension Monitoring Invitation Short Msg Service Txt Msg,CTV3
+Xafj4,Hypertension Mnitoring Short Msg Service Text Msg 1st Invitn,CTV3
+Xafj5,Hypertension Mnitoring Short Msg Service Text Msg 2nd Invitn,CTV3
+Xafj6,Hypertension Mnitoring Short Msg Service Text Msg 3rd Invitn,CTV3
+XagLb,Hypertension Monitoring Invitation Email,CTV3
+Y1328,Refractory Hypertension,CTV3
+I10,Essential (Primary) Hypertension,ICD10
+I11,Hypertensive Heart Disease,ICD10
+I110,Hypertensive Heart Disease With (Congestive) Heart Failure,ICD10
+I119,Hypertensive Heart Disease Without (Congestive) Heart Failure,ICD10
+I12,Hypertensive Renal Disease,ICD10
+I120,Hypertensive Renal Disease With Renal Failure,ICD10
+I129,Hypertensive Renal Disease Without Renal Failure,ICD10
+I13,Hypertensive Heart And Renal Disease,ICD10
+I130,Hypertensive Heart And Renal Disease With (Congestive) Heart Failure,ICD10
+I131,Hypertensive Heart And Renal Disease With Renal Failure,ICD10
+I132,Hypertensive Heart And Renal Disease With Both (Congestive) Heart Failure And Renal Failure,ICD10
+I139,"Hypertensive Heart And Renal Disease, Unspecified",ICD10
+I15,Secondary Hypertension,ICD10
+I150,Renovascular Hypertension,ICD10
+I151,Hypertension Secondary To Other Renal Disorders,ICD10
+I152,Hypertension Secondary To Endocrine Disorders,ICD10
+I158,Other Secondary Hypertension,ICD10
+I159,"Secondary Hypertension, Unspecified",ICD10
+I674,Hypertensive Encephalopathy,ICD10
+38481006,Hypertensive Renal Disease (Disorder),SNOMED-CT
+83105008,Malignant Hypertensive Heart Disease With Congestive Heart Failure (Disorder),SNOMED-CT
+48146000,Diastolic Hypertension (Disorder),SNOMED-CT
+199006004,"Pre-Existing Hypertensive Heart Disease Complicating Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+270440008,Hypertension Monitoring Check Done (Finding),SNOMED-CT
+697929007,Intermittent Hypertension (Disorder),SNOMED-CT
+185716009,Attends Hypertension Monitoring (Finding),SNOMED-CT
+66610008,Malignant Hypertensive Heart And Renal Disease (Disorder),SNOMED-CT
+308502002,Hypertension Monitoring Status (Finding),SNOMED-CT
+308427006,Hypertension Screening Recall (Procedure),SNOMED-CT
+163028000,On Examination - Blood Pressure Reading Very High (Finding),SNOMED-CT
+713641000000103,Hypertension Monitoring Administration (Record Artifact),SNOMED-CT
+736286003,Hypertension Clinical Management Plan (Record Artifact),SNOMED-CT
+268509003,Cardiac Disease Monitoring (Regime/Therapy),SNOMED-CT
+302192008,On Treatment For Hypertension (Regime/Therapy),SNOMED-CT
+220901000000101,High Cost Hypertension Drug Therapy - Opcs Classification Of Interventions And Procedures (Procedure),SNOMED-CT
+194767001,Benign Hypertensive Heart Disease With Congestive Cardiac Failure (Disorder),SNOMED-CT
+1201005,Benign Essential Hypertension (Disorder),SNOMED-CT
+38341003,"Hypertensive Disorder, Systemic Arterial (Disorder)",SNOMED-CT
+1066941000000104,Hypertension Monitoring Invitation Short Message Service Text Message (Procedure),SNOMED-CT
+401118009,Hypertension Annual Review (Procedure),SNOMED-CT
+198997005,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension (Disorder),SNOMED-CT
+73410007,Benign Secondary Renovascular Hypertension (Disorder),SNOMED-CT
+66052004,Benign Hypertensive Heart And Renal Disease (Disorder),SNOMED-CT
+199005000,"Pre-Existing Hypertension Complicating Pregnancy, Childbirth And Puerperium (Disorder)",SNOMED-CT
+1066961000000103,Hypertension Monitoring Short Message Service Text Message Second Invitation (Procedure),SNOMED-CT
+185723005,Hypertension Monitoring Telephone Invite (Procedure),SNOMED-CT
+161501007,History Of Hypertension (Situation),SNOMED-CT
+845891000000103,Hypertension Resistant To Drug Therapy (Disorder),SNOMED-CT
+194780003,Hypertensive Heart And Renal Disease With Renal Failure (Disorder),SNOMED-CT
+163027005,On Examination - Blood Pressure Reading Raised (Finding),SNOMED-CT
+194783001,Secondary Malignant Renovascular Hypertension (Disorder),SNOMED-CT
+86234004,Hypertensive Heart And Renal Disease (Disorder),SNOMED-CT
+275516004,Cardiomegaly - Hypertensive (Disorder),SNOMED-CT
+401117004,Moderate Hypertension Control (Finding),SNOMED-CT
+193003,Benign Hypertensive Renal Disease (Disorder),SNOMED-CT
+199007008,"Pre-Existing Hypertensive Heart And Renal Disease Complicating Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+162659009,Hypertension Resolved (Finding),SNOMED-CT
+308503007,Hypertension Monitoring Call (Procedure),SNOMED-CT
+1083101000000106,Hypertension Monitoring Invitation Email (Procedure),SNOMED-CT
+65443008,Malignant Hypertensive Renal Disease (Disorder),SNOMED-CT
+863191000000102,Nocturnal Hypertension (Disorder),SNOMED-CT
+275944005,Hypertension Monitoring (Regime/Therapy),SNOMED-CT
+185264001,Seen In Hypertension Clinic (Finding),SNOMED-CT
+183856001,Referral To Hypertension Clinic (Procedure),SNOMED-CT
+48194001,Pregnancy-Induced Hypertension (Disorder),SNOMED-CT
+908651000000101,Stage 1 Hypertension (National Institute For Health And Clinical Excellence 2011) With Evidence Of End Organ Damage (Disorder),SNOMED-CT
+31992008,Secondary Hypertension (Disorder),SNOMED-CT
+64715009,Hypertensive Heart Disease (Disorder),SNOMED-CT
+59621000,Essential Hypertension (Disorder),SNOMED-CT
+185718005,Hypertension Monitoring Offer Default (Finding),SNOMED-CT
+1066971000000105,Hypertension Monitoring Short Message Service Text Message Third Invitation (Procedure),SNOMED-CT
+36221001,Benign Hypertensive Heart Disease (Disorder),SNOMED-CT
+194788005,Hypertension Secondary To Endocrine Disorder (Disorder),SNOMED-CT
+846371000000103,Stage 2 Hypertension (National Institute For Health And Clinical Excellence 2011) (Disorder),SNOMED-CT
+401048005,Hypertension Six Month Review (Procedure),SNOMED-CT
+170579000,Hypertension:follow-Up Default (Finding),SNOMED-CT
+36315003,Malignant Hypertensive Heart Disease Without Congestive Heart Failure (Disorder),SNOMED-CT
+185721007,Hypertension Monitoring Third Letter (Procedure),SNOMED-CT
+810981000000107,Hypertension Self-Management Plan Review (Procedure),SNOMED-CT
+6962006,Hypertensive Retinopathy (Disorder),SNOMED-CT
+50490005,Hypertensive Encephalopathy (Disorder),SNOMED-CT
+908631000000108,Stage 1 Hypertension (National Institute For Health And Clinical Excellence 2011) Without Evidence Of End Organ Damage (Disorder),SNOMED-CT
+199008003,"Pre-Existing Secondary Hypertension Complicating Pregnancy, Childbirth And Puerperium (Disorder)",SNOMED-CT
+713661000000102,Hypertension Clinic Administration (Record Artifact),SNOMED-CT
+78975002,Malignant Essential Hypertension (Disorder),SNOMED-CT
+89242004,Malignant Secondary Hypertension (Disorder),SNOMED-CT
+170578008,Poor Hypertension Control (Finding),SNOMED-CT
+194779001,Hypertensive Heart And Renal Disease With (Congestive) Heart Failure (Disorder),SNOMED-CT
+170577003,Good Hypertension Control (Finding),SNOMED-CT
+123799005,Renovascular Hypertension (Disorder),SNOMED-CT
+194781004,Hypertensive Heart And Renal Disease With Both (Congestive) Heart Failure And Renal Failure (Disorder),SNOMED-CT
+843821000000102,Stage 1 Hypertension (National Institute For Health And Clinical Excellence 2011) (Disorder),SNOMED-CT
+185722000,Hypertension Monitoring Verbal Invite (Procedure),SNOMED-CT
+54225002,Malignant Hypertensive Heart Disease (Disorder),SNOMED-CT
+407567007,Patient On Maximal Tolerated Antihypertensive Therapy (Finding),SNOMED-CT
+170587004,Hypertensive Treatment Changed (Situation),SNOMED-CT
+86041002,Pre-Existing Hypertension In Obstetric Context (Disorder),SNOMED-CT
+185719002,Hypertension Monitoring First Letter (Procedure),SNOMED-CT
+170586008,Treatment For Hypertension Started (Situation),SNOMED-CT
+95691008,Arteriosclerotic Retinopathy (Disorder),SNOMED-CT
+194785008,Secondary Benign Hypertension (Disorder),SNOMED-CT
+70272006,Malignant Hypertension (Disorder),SNOMED-CT
+170588009,Treatment For Hypertension Stopped (Situation),SNOMED-CT
+56218007,Systolic Hypertension (Disorder),SNOMED-CT
+766211000000109,Hypertension 9 Month Review (Regime/Therapy),SNOMED-CT
+185720008,Hypertension Monitoring Second Letter (Procedure),SNOMED-CT
+308116003,Antihypertensive Therapy (Procedure),SNOMED-CT
+843841000000109,Severe Hypertension (National Institute For Health And Clinical Excellence 2011) (Disorder),SNOMED-CT
+1066951000000101,Hypertension Monitoring Short Message Service Text Message First Invitation (Procedure),SNOMED-CT
+698640000,Hypertension In The Puerperium With Pulmonary Edema (Disorder),SNOMED-CT
+96731000119100,Hypertensive Heart And Chronic Kidney Disease Stage 3 (Disorder),SNOMED-CT
+285831000119108,Malignant Hypertensive Chronic Kidney Disease (Disorder),SNOMED-CT
+371125006,Labile Essential Hypertension (Disorder),SNOMED-CT
+23717007,Benign Essential Hypertension Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+39018007,Renal Arterial Hypertension (Disorder),SNOMED-CT
+62240004,Benign Arteriolar Nephrosclerosis (Disorder),SNOMED-CT
+198954000,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium With Postnatal Complication (Disorder)",SNOMED-CT
+37618003,Chronic Hypertension Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+198951008,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Delivered (Disorder)",SNOMED-CT
+1474004,Hypertensive Heart And Renal Disease Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+726513006,History Of Hemolysis-Elevated Liver Enzymes-Low Platelet Count Syndrome (Situation),SNOMED-CT
+129151000119102,Chronic Kidney Disease Stage 4 Due To Hypertension (Disorder),SNOMED-CT
+198966006,Transient Hypertension Of Pregnancy - Delivered With Postnatal Complication (Disorder),SNOMED-CT
+851071000000108,Heart Failure Initial Assessment (Regime/Therapy),SNOMED-CT
+248411000000105,Atrial Fibrillation Annual Review (Regime/Therapy),SNOMED-CT
+153891000119101,End Stage Renal Disease On Dialysis Due To Hypertension On (Disorder),SNOMED-CT
+31407004,Pre-Existing Hypertension Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+198949009,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+29259002,Malignant Hypertension Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+390885007,Heart Failure Annual Review (Regime/Therapy),SNOMED-CT
+71874008,Benign Essential Hypertension Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+105651000119100,History Of Pre-Eclampsia (Situation),SNOMED-CT
+140111000119107,Hypertension In Chronic Kidney Disease Stage 4 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+428575007,Hypertension Secondary To Kidney Transplant (Disorder),SNOMED-CT
+40521000119100,Postpartum Pregnancy-Induced Hypertension (Disorder),SNOMED-CT
+23786008,Malignant Hypertension Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+96741000119109,Hypertensive Heart And Chronic Kidney Disease Stage 2 (Disorder),SNOMED-CT
+34694006,Pre-Existing Hypertension Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+10757441000119102,Pre-Existing Hypertensive Heart Disease In Mother Complicating Childbirth (Disorder),SNOMED-CT
+123800009,Goldblatt Hypertension (Disorder),SNOMED-CT
+49220004,Hypertensive Renal Failure (Disorder),SNOMED-CT
+81626002,Malignant Hypertension In Obstetric Context (Disorder),SNOMED-CT
+199003007,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension With Postnatal Complication (Disorder),SNOMED-CT
+712832005,Supine Hypertension (Disorder),SNOMED-CT
+284961000119106,Chronic Kidney Disease Due To Benign Hypertension (Disorder),SNOMED-CT
+698638005,Pregnancy Induced Hypertension With Pulmonary Edema (Disorder),SNOMED-CT
+762463000,Diastolic Hypertension Co-Occurrent With Systolic Hypertension (Disorder),SNOMED-CT
+198953006,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Not Delivered (Disorder)",SNOMED-CT
+709881001,History Of Gestational Hypertension (Situation),SNOMED-CT
+5501000119106,Postoperative Hypertension (Disorder),SNOMED-CT
+712487000,End Stage Renal Disease Due To Benign Hypertension (Disorder),SNOMED-CT
+96751000119106,Hypertensive Heart And Chronic Kidney Disease Stage 1 (Disorder),SNOMED-CT
+134377004,Atrial Fibrillation Monitoring (Regime/Therapy),SNOMED-CT
+74451002,Secondary Diastolic Hypertension (Disorder),SNOMED-CT
+697930002,Labile Hypertension Due To Being In A Clinical Environment (Disorder),SNOMED-CT
+237279007,Transient Hypertension Of Pregnancy (Disorder),SNOMED-CT
+77970009,Benign Hypertensive Heart Disease Without Congestive Heart Failure (Disorder),SNOMED-CT
+286371000119107,Malignant Hypertensive End Stage Renal Disease On Dialysis (Disorder),SNOMED-CT
+170571002,Initial Cardiac Assessment (Regime/Therapy),SNOMED-CT
+703310005,Autosomal Dominant Progressive Nephropathy With Hypertension (Disorder),SNOMED-CT
+134378009,Congestive Heart Failure Monitoring (Regime/Therapy),SNOMED-CT
+198967002,Transient Hypertension Of Pregnancy - Not Delivered (Disorder),SNOMED-CT
+26078007,Hypertension Secondary To Renal Disease Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+417206009,Cardiovascular Disease Monitoring (Regime/Therapy),SNOMED-CT
+104931000119100,Chronic Kidney Disease Due To Hypertension (Disorder),SNOMED-CT
+59720008,Sustained Diastolic Hypertension (Disorder),SNOMED-CT
+199000005,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension - Delivered With Postnatal Complication (Disorder),SNOMED-CT
+765182005,Pre-Eclampsia In Puerperium (Disorder),SNOMED-CT
+10562009,Malignant Hypertension Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+39727004,Hypertension Secondary To Renal Disease Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+140121000119100,Hypertension In Chronic Kidney Disease Stage 3 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+198965005,Transient Hypertension Of Pregnancy - Delivered (Disorder),SNOMED-CT
+15781000119107,Hypertensive Heart And Chronic Kidney Disease With Congestive Heart Failure (Disorder),SNOMED-CT
+67359005,Pre-Eclampsia Added To Pre-Existing Hypertension (Disorder),SNOMED-CT
+715280009,Telehealth Hypertension Monitoring (Regime/Therapy),SNOMED-CT
+59997006,Endocrine Hypertension (Disorder),SNOMED-CT
+473392002,Hypertensive Nephrosclerosis (Disorder),SNOMED-CT
+31881008,Cardiovascular Renal Disease (Disorder),SNOMED-CT
+284991000119104,Chronic Kidney Disease Stage 3 Due To Benign Hypertension (Disorder),SNOMED-CT
+198986005,Severe Pre-Eclampsia With Postnatal Complication (Disorder),SNOMED-CT
+199002002,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension - Not Delivered (Disorder),SNOMED-CT
+307632004,Non-Proteinuric Hypertension Of Pregnancy (Disorder),SNOMED-CT
+18416000,Essential Hypertension Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+16229371000119106,Labile Systemic Arterial Hypertension (Disorder),SNOMED-CT
+198942000,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+10752641000119102,Eclampsia With Pre-Existing Hypertension In Childbirth (Disorder),SNOMED-CT
+140101000119109,Hypertension In Chronic Kidney Disease Stage 5 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+161807003,History Of Severe Pre-Eclampsia (Situation),SNOMED-CT
+52698002,Transient Hypertension (Disorder),SNOMED-CT
+82771000119102,Hypertension Complicating Pregnancy (Disorder),SNOMED-CT
+288250001,Maternal Hypertension (Disorder),SNOMED-CT
+8762007,Chronic Hypertension In Obstetric Context (Disorder),SNOMED-CT
+19769006,High-Renin Essential Hypertension (Disorder),SNOMED-CT
+118781000119108,Pre-Existing Hypertensive Chronic Kidney Disease In Mother Complicating Pregnancy (Disorder),SNOMED-CT
+24042004,Chronic Hypertension Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+429198000,Exertional Hypertension (Disorder),SNOMED-CT
+284981000119102,Chronic Kidney Disease Stage 2 Due To Benign Hypertension (Disorder),SNOMED-CT
+398254007,Pre-Eclampsia (Disorder),SNOMED-CT
+40511000119107,Postpartum Pre-Existing Essential Hypertension (Disorder),SNOMED-CT
+48552006,Hypertension Secondary To Renal Disease Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+198984008,Severe Pre-Eclampsia - Delivered With Postnatal Complication (Disorder),SNOMED-CT
+10725009,Benign Hypertension (Disorder),SNOMED-CT
+111438007,Hypertension Secondary To Renal Disease In Obstetric Context (Disorder),SNOMED-CT
+285011000119108,Chronic Kidney Disease Stage 5 Due To Benign Hypertension (Disorder),SNOMED-CT
+198944004,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Delivered (Disorder)",SNOMED-CT
+132721000119104,Hypertensive Emergency (Disorder),SNOMED-CT
+720568003,Brachydactyly And Arterial Hypertension Syndrome (Disorder),SNOMED-CT
+117681000119102,Chronic Kidney Disease Stage 1 Due To Hypertension (Disorder),SNOMED-CT
+65402008,Pre-Existing Hypertension Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+96711000119105,Hypertensive Heart And Chronic Kidney Disease Stage 5 (Disorder),SNOMED-CT
+57684003,Parenchymal Renal Hypertension (Disorder),SNOMED-CT
+23130000,Paroxysmal Hypertension (Disorder),SNOMED-CT
+28119000,Renal Hypertension (Disorder),SNOMED-CT
+541000119105,"Hypertension Complicating Pregnancy, Childbirth And The Puerperium, Antepartum (Disorder)",SNOMED-CT
+285001000119105,Chronic Kidney Disease Stage 4 Due To Benign Hypertension (Disorder),SNOMED-CT
+46764007,Severe Pre-Eclampsia (Disorder),SNOMED-CT
+16147005,Arteriolar Nephritis (Disorder),SNOMED-CT
+367390009,Hypertension In The Obstetric Context (Disorder),SNOMED-CT
+698591006,Benign Hypertensive Renal Disease With Renal Failure (Disorder),SNOMED-CT
+170601008,Coronary Heart Disease Monitoring (Regime/Therapy),SNOMED-CT
+198985009,Severe Pre-Eclampsia - Not Delivered (Disorder),SNOMED-CT
+9901000,Essential Hypertension Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+8218002,Chronic Hypertension Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+417322008,Cardiovascular Disease Annual Review (Regime/Therapy),SNOMED-CT
+492611000000102,Cardiovascular Disease High Risk Review (Regime/Therapy),SNOMED-CT
+49102001,Hypertensive Heart And Renal Disease In Obstetric Context (Disorder),SNOMED-CT
+78808002,Essential Hypertension Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+706882009,Hypertensive Crisis (Disorder),SNOMED-CT
+140131000119102,Hypertension In Chronic Kidney Disease Stage 2 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+96701000119107,Hypertensive Heart And Chronic Kidney Disease On Dialysis (Disorder),SNOMED-CT
+153851000119106,Malignant Hypertensive Chronic Kidney Disease Stage 5 (Disorder),SNOMED-CT
+284971000119100,Chronic Kidney Disease Stage 1 Due To Benign Hypertension (Disorder),SNOMED-CT
+41114007,Mild Pre-Eclampsia (Disorder),SNOMED-CT
+8501000119104,Hypertensive Heart And Chronic Kidney Disease (Disorder),SNOMED-CT
+14973001,Renal Sclerosis With Hypertension (Disorder),SNOMED-CT
+170572009,Follow-Up Cardiac Assessment (Regime/Therapy),SNOMED-CT
+198945003,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Delivered With Postnatal Complication (Disorder)",SNOMED-CT
+845331000000109,Amiodarone Monitoring (Regime/Therapy),SNOMED-CT
+285881000119109,Malignant Hypertensive Chronic Kidney Disease Stage 4 (Disorder),SNOMED-CT
+129181000119109,Chronic Kidney Disease Stage 2 Due To Hypertension (Disorder),SNOMED-CT
+198983002,Severe Pre-Eclampsia - Delivered (Disorder),SNOMED-CT
+129161000119100,Chronic Kidney Disease Stage 5 Due To Hypertension (Disorder),SNOMED-CT
+247361000000100,Heart Failure 6 Month Review (Regime/Therapy),SNOMED-CT
+206596003,Neonatal Hypertension (Disorder),SNOMED-CT
+198999008,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension - Delivered (Disorder),SNOMED-CT
+169465000,Hypertension Caused By Oral Contraceptive Pill (Disorder),SNOMED-CT
+128001000119105,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+63287004,Benign Essential Hypertension In Obstetric Context (Disorder),SNOMED-CT
+10757481000119108,Pre-Existing Hypertensive Heart And Chronic Kidney Disease In Mother Complicating Pregnancy (Disorder),SNOMED-CT
+198947006,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium With Postnatal Complication (Disorder)",SNOMED-CT
+367821000119106,Hypertension Due To Compression Of Renal Parenchyma (Disorder),SNOMED-CT
+237282002,Impending Eclampsia (Disorder),SNOMED-CT
+198968007,Transient Hypertension Of Pregnancy With Postnatal Complication (Disorder),SNOMED-CT
+95605009,Hemolysis-Elevated Liver Enzymes-Low Platelet Count Syndrome (Disorder),SNOMED-CT
+170574005,Yearly Observation Of Borderline Hypertension (Regime/Therapy),SNOMED-CT
+49171007,Hypertensive Renal Disease Complicating And/Or Reason For Care During Childbirth (Disorder),SNOMED-CT
+46481004,Low-Renin Essential Hypertension (Disorder),SNOMED-CT
+170573004,Pre-Treatment Blood Pressure Reading (Regime/Therapy),SNOMED-CT
+57873008,Hypertensive Renal Disease Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+707265005,Aortic Aneurysm Monitoring (Regime/Therapy),SNOMED-CT
+198952001,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Delivered With Postnatal Complication (Disorder)",SNOMED-CT
+72022006,Essential Hypertension In Obstetric Context (Disorder),SNOMED-CT
+429457004,Systolic Essential Hypertension (Disorder),SNOMED-CT
+84094009,Rebound Hypertension (Disorder),SNOMED-CT
+65518004,Labile Diastolic Hypertension (Disorder),SNOMED-CT
+198941007,"Hypertension Complicating Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+10757401000119104,Pre-Existing Hypertensive Heart And Chronic Kidney Disease In Mother Complicating Childbirth (Disorder),SNOMED-CT
+194791005,Hypertension Caused By Drug (Disorder),SNOMED-CT
+443482000,Hypertensive Urgency (Disorder),SNOMED-CT
+96721000119103,Hypertensive Heart And Chronic Kidney Disease Stage 4 (Disorder),SNOMED-CT
+427889009,Hypertension Associated With Transplantation (Disorder),SNOMED-CT
+78544004,Chronic Hypertensive Uremia (Disorder),SNOMED-CT
+73030000,Hypertensive Renal Disease In Obstetric Context (Disorder),SNOMED-CT
+81363003,Malignant Arteriolar Nephrosclerosis (Disorder),SNOMED-CT
+66709007,Hypertensive Renal Disease Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+417287002,Cardiovascular Disease Interim Monitoring (Regime/Therapy),SNOMED-CT
+69909000,Eclampsia Added To Pre-Existing Hypertension (Disorder),SNOMED-CT
+285841000119104,Malignant Hypertensive End Stage Renal Disease (Disorder),SNOMED-CT
+395148004,Cardiac Event Recording (Regime/Therapy),SNOMED-CT
+285871000119106,Malignant Hypertensive Chronic Kidney Disease Stage 3 (Disorder),SNOMED-CT
+871681000000102,Heart Failure Monitoring (Regime/Therapy),SNOMED-CT
+111411000119103,End Stage Renal Disease Due To Hypertension (Disorder),SNOMED-CT
+35303009,Benign Essential Hypertension Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+127991000119101,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+285861000119100,Malignant Hypertensive Chronic Kidney Disease Stage 2 (Disorder),SNOMED-CT
+71421000119105,Hypertension In Chronic Kidney Disease Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+704667004,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis (Disorder),SNOMED-CT
+71701000119105,Hypertension In Chronic Kidney Disease Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+285851000119102,Malignant Hypertensive Chronic Kidney Disease Stage 1 (Disorder),SNOMED-CT
+170591009,Digoxin Monitoring (Regime/Therapy),SNOMED-CT
+397748008,Hypertension With Albuminuria (Disorder),SNOMED-CT
+22966008,Hypertensive Heart And Renal Disease Complicating And/Or Reason For Care During Pregnancy (Disorder),SNOMED-CT
+15394000,Toxemia Of Pregnancy (Disorder),SNOMED-CT
+237281009,Moderate Proteinuric Hypertension Of Pregnancy (Disorder),SNOMED-CT
+198946002,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Not Delivered (Disorder)",SNOMED-CT
+170590005,Cardiac Drug Monitoring (Regime/Therapy),SNOMED-CT
+766937004,Hypertension Due To Gain-Of-Function Mutation In Mineralocorticoid Receptor (Disorder),SNOMED-CT
+129171000119106,Chronic Kidney Disease Stage 3 Due To Hypertension (Disorder),SNOMED-CT
+221281000000109,High Cost Hypertension Drug Therapy Nos - Opcs Classification Of Interventions And Procedures (Procedure),SNOMED-CT
+843851000000107,Severe Hypertension,SNOMED-CT
+692801000000103,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium Nos (Disorder)",SNOMED-CT
+272821000000100,Primary Pulmonary Hypertension Drugs Band 4,SNOMED-CT
+221291000000106,Other Specified High Cost Hypertension Drug Therapy - Opcs Classification Of Interventions And Procedures (Procedure),SNOMED-CT
+492621000000108,At Risk Of Cardiovascular Disease Review,SNOMED-CT
+253041000000107,Heart Failure 6 Month Review,SNOMED-CT
+1051531000000104,"History Of Haemolysis, Elevated Liver Enzymes, Low Platelet Count Syndrome (Situation)",SNOMED-CT
+635071000000100,Mild Or Unspecified Pre-Eclampsia - Delivered (Disorder),SNOMED-CT
+478861000000109,"[X]Edema, Proteinuria And Hypertensive Disorders In Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+587111000000100,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension Unspecified (Disorder),SNOMED-CT
+247111000000104,Diastolic Hypertension (Disorder),SNOMED-CT
+648001000000103,Mild Or Unspecified Pre-Eclampsia Nos (Disorder),SNOMED-CT
+599281000000106,Hypertensive Heart And Renal Disease Nos (Disorder),SNOMED-CT
+684221000000101,Hypertensive Heart Disease Nos Without Congestive Cardiac Failure (Disorder),SNOMED-CT
+892411000000107,Pulmonary Arterial Hypertension Drugs Band 1,SNOMED-CT
+802941000000103,Aortic Aneurysm Monitoring (Regime/Therapy),SNOMED-CT
+1076211000000101,Arteriosclerotic Retinopathy (Disorder),SNOMED-CT
+845341000000100,Amiodarone Monitoring,SNOMED-CT
+695711000000100,Transient Hypertension Of Pregnancy Nos (Disorder),SNOMED-CT
+672551000000109,Mild Or Unspecified Pre-Eclampsia (Disorder),SNOMED-CT
+419571000000103,[X]Hypertension Secondary To Other Renal Disorders (Disorder),SNOMED-CT
+471521000000108,[X]Hypertensive Diseases (Disorder),SNOMED-CT
+606221000000105,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium Unspecified (Disorder)",SNOMED-CT
+272841000000107,High Cost Hypertension Drugs Nos,SNOMED-CT
+586581000000102,Secondary Benign Hypertension Nos (Disorder),SNOMED-CT
+599321000000103,Other Specified Hypertensive Disease (Disorder),SNOMED-CT
+272801000000109,Primary Pulmonary Hypertension Drugs Band 2,SNOMED-CT
+703671000000107,Pre-Eclampsia Nos (Disorder),SNOMED-CT
+492631000000105,At Risk Of Cardiovascular Disease Review,SNOMED-CT
+414391000000105,[X]Other Secondary Hypertension (Disorder),SNOMED-CT
+276789009,Labile Hypertension (Disorder),SNOMED-CT
+695701000000102,Transient Hypertension Of Pregnancy Unspecified (Disorder),SNOMED-CT
+191241000000108,Cardiovascular Disease Annual Review,SNOMED-CT
+565761000000106,Cardiac Disease Monitoring Nos (Regime/Therapy),SNOMED-CT
+599261000000102,Hypertensive Heart Disease Nos (Disorder),SNOMED-CT
+846381000000101,Stage 2 Hypertension (Nice - National Institute For Health And Clinical Excellence 2011),SNOMED-CT
+892431000000104,Pulmonary Arterial Hypertension Drugs Band 2,SNOMED-CT
+587121000000106,Pre-Eclampsia Or Eclampsia With Pre-Existing Hypertension Nos (Disorder),SNOMED-CT
+599341000000105,Hypertensive Disease Nos (Disorder),SNOMED-CT
+11721000000102,Hypertension Clinic Admin. (Administrative Concept),SNOMED-CT
+684211000000107,Essential Hypertension Nos (Disorder),SNOMED-CT
+713651000000100,Hypertension Monitoring Administration Nos (Record Artifact),SNOMED-CT
+187811000000103,Cardiovascular Disease Interim Monitoring,SNOMED-CT
+194766005,Benign Hypertensive Heart Disease Without Congestive Cardiac Failure (Disorder),SNOMED-CT
+187801000000100,Cardiovascular Disease Annual Review,SNOMED-CT
+77737007,Benign Hypertensive Heart Disease With Congestive Heart Failure (Disorder),SNOMED-CT
+645721000000102,Benign Hypertensive Heart Disease Nos (Disorder),SNOMED-CT
+948151000000100,Telehealth Hypertension Monitoring (Regime/Therapy),SNOMED-CT
+272781000000108,High Cost Hypertension Drugs,SNOMED-CT
+766221000000103,Hypertension 9 Month Review,SNOMED-CT
+599291000000108,Secondary Malignant Hypertension Nos (Disorder),SNOMED-CT
+674201000000103,Hypertension Of Pregnancy Nos (Disorder),SNOMED-CT
+832151000000107,Hypertension Self-Management Plan Review,SNOMED-CT
+292601000000100,Diastolic Hypertension,SNOMED-CT
+609021000000109,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Delivered With Postnatal Complication (Disorder)",SNOMED-CT
+635061000000107,Mild Or Unspecified Pre-Eclampsia Unspecified (Disorder),SNOMED-CT
+635101000000109,Severe Pre-Eclampsia Unspecified (Disorder),SNOMED-CT
+250411000000105,Heart Failure 6 Month Review,SNOMED-CT
+191231000000104,Cardiovascular Disease Monitoring,SNOMED-CT
+412779008,Hypertension Clinical Management Plan (Qualifier Value),SNOMED-CT
+167031000000101,Hypertension Resolved,SNOMED-CT
+883971000000102,History Of Pre-Eclampsia (Situation),SNOMED-CT
+609011000000103,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Delivered (Disorder)",SNOMED-CT
+250591000000100,Atrial Fibrillation Annual Review,SNOMED-CT
+845901000000102,Hypertension Resistant To Drug Therapy,SNOMED-CT
+802951000000100,Aortic Aneurysm Monitoring,SNOMED-CT
+908661000000103,Stage 1 Hypertension (Nice - National Institute For Health And Clinical Excellence 2011) With Evidence Of End Organ Damage,SNOMED-CT
+892451000000106,Pulmonary Arterial Hypertension Drugs Band 3,SNOMED-CT
+948161000000102,Telehealth Hypertension Monitoring,SNOMED-CT
+843831000000100,Stage 1 Hypertension,SNOMED-CT
+599311000000109,Secondary Renovascular Hypertension Nos (Disorder),SNOMED-CT
+272811000000106,Primary Pulmonary Hypertension Drugs Band 3,SNOMED-CT
+892471000000102,Pulmonary Arterial Hypertension Drugs Band 4,SNOMED-CT
+40555009,Toxemia (Disorder),SNOMED-CT
+187791000000104,Cardiovascular Disease Monitoring,SNOMED-CT
+308551004,Gestational Hypertension (Disorder),SNOMED-CT
+647991000000107,Mild Or Unspecified Pre-Eclampsia With Postnatal Complication (Disorder),SNOMED-CT
+698810000,Hypertensive Renal Disease With End Stage Renal Failure (Disorder),SNOMED-CT
+883981000000100,H/O: Pre-Eclampsia,SNOMED-CT
+606231000000107,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium - Not Delivered (Disorder)",SNOMED-CT
+627791000000106,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium With Postnatal Complication (Disorder)",SNOMED-CT
+3331000000104,Hypertension Monitoring Admin. (Administrative Concept),SNOMED-CT
+171791000000104,Hypertension Resolved,SNOMED-CT
+608991000000100,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium Unspecified (Disorder)",SNOMED-CT
+627801000000105,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium Nos (Disorder)",SNOMED-CT
+662181000000100,Hypertensive Renal Disease Nos (Disorder),SNOMED-CT
+635081000000103,Mild Or Unspecified Pre-Eclampsia - Delivered With Postnatal Complication (Disorder),SNOMED-CT
+908641000000104,Stage 1 Hypertension (Nice - National Institute For Health And Clinical Excellence 2011) Without Evidence Of End Organ Damage,SNOMED-CT
+272791000000105,Primary Pulmonary Hypertension Drugs Band 1,SNOMED-CT
+599271000000109,Hypertensive Heart Disease Nos With Congestive Cardiac Failure (Disorder),SNOMED-CT
+606201000000101,"Renal Hypertension Complicating Pregnancy, Childbirth And The Puerperium Nos (Disorder)",SNOMED-CT
+565741000000105,Cardiac Drug Monitoring Nos (Regime/Therapy),SNOMED-CT
+253221000000105,Atrial Fibrillation Annual Review,SNOMED-CT
+11511004,Hypertensive Heart And Renal Disease Complicating And/Or Reason For Care During Puerperium (Disorder),SNOMED-CT
+635091000000101,Mild Or Unspecified Pre-Eclampsia - Not Delivered (Disorder),SNOMED-CT
+544581000000102,Toxemia Nos (Disorder),SNOMED-CT
+606211000000104,"Other Pre-Existing Hypertension Complicating Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+194774006,Hypertensive Renal Disease With Renal Failure (Disorder),SNOMED-CT
+191251000000106,Cardiovascular Disease Interim Monitoring,SNOMED-CT
+692791000000102,"Benign Essential Hypertension Complicating Pregnancy, Childbirth And The Puerperium Unspecified (Disorder)",SNOMED-CT

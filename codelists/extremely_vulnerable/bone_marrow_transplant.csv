@@ -1,0 +1,103 @@
+code,description,type
+7K1Q.,Bone Marrow Transplant,CTV3
+7K1Q0,Autologous Bone Marrow Transplant,CTV3
+7K1Q1,Allograft Of Bone Marrow Nec,CTV3
+7K1Qy,Other Specified Graft Of Bone Marrow,CTV3
+7K1Qz,Graft Of Bone Marrow Nos,CTV3
+X20Bc,Marrow-Treated Bone Marrow Transplant,CTV3
+X20Bd,Syngeneic Bone Marrow Transplant,CTV3
+X20Be,T-Cell Depleted Allogeneic Bone Marrow Graft,CTV3
+X20Bf,Imperfect T-Cell Depleted Allogeneic Bone Marrow Graft,CTV3
+X20Bg,Allogeneic Related Bone Marrow Transplant,CTV3
+X20Bh,Allogeneic Unrelated Bone Marrow Transplant,CTV3
+X20Bi,Haemopoietic Stem Cell Transplant,CTV3
+X20Fz,Bone Marrow Transplant Disorder,CTV3
+X20G0,Bone Marrow Transplant Rejection,CTV3
+X20G1,Bone Marrow Transplant Failure,CTV3
+X20G3,Disease Relapse In Transplant Marrow,CTV3
+Xa0fK,Peripheral Blood Stem Cell Graft,CTV3
+Xa3wp,Injection Of Bone Marrow - Blood Cells,CTV3
+Xa8Ry,Allogeneic Bone Marrow Transplant,CTV3
+XaKK4,Acute Graft-Versus-Host Disease,CTV3
+XaKKM,Chronic Graft-Versus-Host Disease,CTV3
+XaM83,Allograft Of Bone Marrow From Sibling Donor,CTV3
+XaM84,Allograft Of Bone Marrow From Matched Unrelated Donor,CTV3
+XaM85,Allograft Of Bone Marrow From Haploidentical Donor,CTV3
+XaMuA,Autologous Peripheral Blood Stem Cell Transplant,CTV3
+XaMuB,Syngeneic Peripheral Blood Stem Cell Transplant,CTV3
+XaMuC,Allogeneic Peripheral Blood Stem Cell Transplant,CTV3
+XaPt6,Allograft Of Bone Marrow From Unmatched Unrelated Donor,CTV3
+T860,Bone-Marrow Transplant Rejection,ICD-10
+W341,"Graft Of Bone Marrow,Autograft Of Bone Marrow",OPCS-4
+W342,"Graft Of Bone Marrow,Allograft Of Bone Marrow Nec",OPCS-4
+W343,"Graft Of Bone Marrow,Allograft Of Bone Marrow From Sibling Donor",OPCS-4
+W344,"Graft Of Bone Marrow,Allograft Of Bone Marrow From Matched Unrelated Donor",OPCS-4
+W345,"Graft Of Bone Marrow,Allograft Of Bone Marrow From Haploidentical Donor",OPCS-4
+W346,"Graft Of Bone Marrow,Allograft Of Bone Marrow From Unmatched Unrelated Donor",OPCS-4
+W348,"Graft Of Bone Marrow,Other Specified",OPCS-4
+W349,"Graft Of Bone Marrow,Unspecified",OPCS-4
+W991,"Graft Of Cord Blood Stem Cells To Bone Marrow,Allograft Of Cord Blood Stem Cells To Bone Marrow",OPCS-4
+W998,"Graft Of Cord Blood Stem Cells To Bone Marrow,Other Specified",OPCS-4
+W999,"Graft Of Cord Blood Stem Cells To Bone Marrow,Unspecified",OPCS-4
+X334,"Other Blood Transfusion,Autologous Peripheral Blood Stem Cell Transplant",OPCS-4
+X335,"Other Blood Transfusion,Syngeneic Peripheral Blood Stem Cell Transplant",OPCS-4
+X336,"Other Blood Transfusion,Allogeneic Peripheral Blood Stem Cell Transplant",OPCS-4
+58390007,Allogeneic bone marrow transplantation (procedure),SNOMED-CT
+46280001,Autologous bone marrow transplant with purging (procedure),SNOMED-CT
+234332000,T-cell depleted allogeneic bone marrow graft (procedure),SNOMED-CT
+425983008,Autologous peripheral blood stem cell transplant (procedure),SNOMED-CT
+234336002,Hemopoietic stem cell transplant (procedure),SNOMED-CT
+402355000,Acute graft-versus-host disease (disorder),SNOMED-CT
+284681000000100,Syngeneic peripheral blood stem cell transplant (procedure),SNOMED-CT
+234520000,Bone marrow transplant failure (disorder),SNOMED-CT
+228311000000103,Allograft of bone marrow from haploidentical donor (procedure),SNOMED-CT
+180217003,Transfusion of bone marrow (procedure),SNOMED-CT
+234333005,Imperfect T-cell depleted allogeneic bone marrow graft (procedure),SNOMED-CT
+425843001,Allogeneic peripheral blood stem cell transplant (procedure),SNOMED-CT
+402356004,Chronic graft-versus-host disease (disorder),SNOMED-CT
+234334004,Allogeneic related bone marrow transplant (procedure),SNOMED-CT
+278257006,Peripheral blood stem cell graft (procedure),SNOMED-CT
+58776007,Autologous bone marrow transplant (procedure),SNOMED-CT
+23719005,Transplantation of bone marrow (procedure),SNOMED-CT
+234331007,Syngeneic bone marrow transplant (procedure),SNOMED-CT
+234519006,Bone marrow transplant rejection (disorder),SNOMED-CT
+234335003,Allogeneic unrelated bone marrow transplant (procedure),SNOMED-CT
+378841000000102,Allograft of bone marrow from unmatched unrelated donor (procedure),SNOMED-CT
+234522008,Disease relapse in transplant marrow (disorder),SNOMED-CT
+426425001,Allograft of bone marrow from sibling donor (procedure),SNOMED-CT
+427423003,Allograft of bone marrow from matched unrelated donor (procedure),SNOMED-CT
+431456004,Accelerated rejection of bone marrow transplant (disorder),SNOMED-CT
+425563003,Grafting of cord blood to bone marrow (procedure),SNOMED-CT
+402357008,Lichenoid chronic graft-versus-host disease (disorder),SNOMED-CT
+431862001,Acute rejection of bone marrow transplant (disorder),SNOMED-CT
+431953002,Chronic rejection of bone marrow transplant (disorder),SNOMED-CT
+698075004,Syngeneic peripheral blood stem cell transplantation (procedure),SNOMED-CT
+402358003,Sclerodermoid chronic graft-versus-host disease (disorder),SNOMED-CT
+121131000119109,Chronic graft versus host disease after transplantation of bone marrow (disorder),SNOMED-CT
+432782005,Hyperacute rejection of bone marrow transplant (disorder),SNOMED-CT
+176651000000105,Chronic graft-versus-host disease,SNOMED-CT
+266401000000104,Allograft of cord blood to bone marrow,SNOMED-CT
+628051000000104,Other specified graft of bone marrow (procedure),SNOMED-CT
+238541000000109,Other specified graft of cord blood to bone marrow (procedure),SNOMED-CT
+291301000000101,Allogeneic peripheral blood stem cell transplant,SNOMED-CT
+228301000000100,Allograft of bone marrow from matched unrelated donor (procedure),SNOMED-CT
+235521000000109,Graft of cord blood to bone marrow NOS (procedure),SNOMED-CT
+284671000000102,Autologous peripheral blood stem cell transplant (procedure),SNOMED-CT
+166981000000103,Chronic graft-versus-host disease (disorder),SNOMED-CT
+166951000000109,Acute graft-versus-host disease (disorder),SNOMED-CT
+489351000000104,Allograft of bone marrow from unmatched unrelated donor,SNOMED-CT
+228291000000104,Allograft of bone marrow from sibling donor (procedure),SNOMED-CT
+229381000000104,Graft of cord blood to bone marrow (procedure),SNOMED-CT
+291281000000102,Autologous peripheral blood stem cell transplant,SNOMED-CT
+633831000000109,Grafting of bone marrow NOS (procedure),SNOMED-CT
+176641000000107,Acute graft-versus-host disease,SNOMED-CT
+265581000000100,Allograft of bone marrow from matched unrelated donor,SNOMED-CT
+265571000000102,Allograft of bone marrow from sibling donor,SNOMED-CT
+284691000000103,Allogeneic peripheral blood stem cell transplant (procedure),SNOMED-CT
+235511000000103,Allograft of cord blood to bone marrow (procedure),SNOMED-CT
+628041000000102,Allograft of bone marrow NEC (procedure),SNOMED-CT
+266421000000108,Graft of cord blood to bone marrow NOS,SNOMED-CT
+266391000000102,Graft of cord blood to bone marrow,SNOMED-CT
+287989002,Injection of bone marrow - blood cells (procedure),SNOMED-CT
+291291000000100,Syngeneic peripheral blood stem cell transplant,SNOMED-CT
+265591000000103,Allograft of bone marrow from haploidentical donor,SNOMED-CT

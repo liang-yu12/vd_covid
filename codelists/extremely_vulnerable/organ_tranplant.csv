@@ -1,0 +1,504 @@
+code,description,type
+14S2.,H/O: Kidney Recipient,CTV3
+14S3.,H/O: Heart Recipient,CTV3
+14S8.,H/O: Liver Recipient,CTV3
+14S9.,H/O: Lung Recipient,CTV3
+7450.,Lung Transplant,CTV3
+7450y,Other Specified Transplantation Of Lung,CTV3
+7450z,Transplantation Of Lung Nos,CTV3
+7800.,Liver Transplant,CTV3
+78000,Orthotopic Liver Transplant,CTV3
+78001,Heterotopic Liver Transplant,CTV3
+78002,Replacement Of Previous Liver Transplant,CTV3
+7800y,Other Specified Transplantation Of Liver,CTV3
+7800z,Transplantation Of Liver Nos,CTV3
+7830.,Pancreatic Transplant,CTV3
+78300,Transplantation Of Pancreas And Duodenum,CTV3
+78301,Whole Organ Pancreatic Transplant,CTV3
+78302,Transplantation Of Tail Of Pancreas,CTV3
+78303,Islet Cell Transplant,CTV3
+78304,Renewal Of Transplanted Pancreatic Tissue,CTV3
+7830y,Other Specified Transplantation Of Pancreas,CTV3
+7830z,Transplantation Of Pancreas Nos,CTV3
+78312,Excision Of Transplanted Pancreas,CTV3
+78420,Spleen Transplant,CTV3
+7900.,Heart And Lung Transplant,CTV3
+79000,Allotransplant Of Heart And Lung,CTV3
+79001,Revision Of Transplantation Of Heart And Lung,CTV3
+7900y,Other Specified Transplantation Of Heart And Lung,CTV3
+7900z,Transplantation Of Heart And Lung Nos,CTV3
+7901.,Other Transplantation Of Heart,CTV3
+79010,Allotransplantation Of Heart Nec,CTV3
+79011,Xenotransplant Of Heart,CTV3
+79013,Heterotopic Allotransplant Of Heart,CTV3
+79015,Revision Of Transplantation Of Heart Nec,CTV3
+7901y,Other Specified Other Transplantation Of Heart,CTV3
+7901z,Other Transplantation Of Heart Nos,CTV3
+7B00.,Renal Transplant,CTV3
+7B000,Autotransplantation Of Kidney,CTV3
+7B001,Live Donor Renal Transplant,CTV3
+7B002,Cadaveric Renal Transplant,CTV3
+7B00y,Other Specified Transplantation Of Kidney,CTV3
+7B00z,Transplantation Of Kidney Nos,CTV3
+7B015,Transplant Nephrectomy (& For Rejection),CTV3
+8C31.,Transplant Immunosuppression,CTV3
+8HBB.,Transplant Follow-Up,CTV3
+K0B5.,Renal Tubulo-Interstitial Disorders In Transplant Rejection,CTV3
+SP08.,Transplanted Organ Complication,CTV3
+SP080,(Transpl Organ Fail) Or (Deterior Ren Func Aft Ren Transpl),CTV3
+SP081,Transplanted Organ Rejection,CTV3
+SP083,Kidney Transplant Failure And Rejection,CTV3
+SP084,Heart Transplant Failure And Rejection,CTV3
+SP085,Heart-Lung Transplant Failure And Rejection,CTV3
+SP086,Liver Transplant Failure And Rejection,CTV3
+SP08z,Transplanted Organ Complication Nos,CTV3
+TB000,"Heart Transplant With Complication, Without Blame",CTV3
+TB001,"Kidney Transplant With Complication, Without Blame",CTV3
+TB002,"Liver Transplant With Complication, Without Blame",CTV3
+X00s1,Single Lung Transplant,CTV3
+X00s2,Double Lung Transplant,CTV3
+X00s3,Double Lung Transplant As A Block,CTV3
+X00s4,Bilateral Sequential Single Lung Transplant,CTV3
+X200b,Accelerated Coronary Artery Disease In Transplanted Heart,CTV3
+X202u,Cardiac Transplant Disorder,CTV3
+X202v,Cardiac Transplant Rejection,CTV3
+X202w,Cardiac Transplant Failure,CTV3
+X307x,Liver Transplant Disorder,CTV3
+X307y,Liver Transplant Rejection,CTV3
+X307z,Liver Transplant Failure,CTV3
+X30D2,Xenograft Renal Transplant,CTV3
+X30MN,Renal Transplant Disorder,CTV3
+X30MO,Primary Non-Function Of Renal Transplant,CTV3
+X30MP,Renal Transplant Rejection,CTV3
+X30MQ,Hyperacute Rejection Of Renal Transplant,CTV3
+X30MR,Accelerated Rejection Of Renal Transplant,CTV3
+X30MS,Very Mild Acute Rejection Of Renal Transplant,CTV3
+X30MT,Acute Rejection Of Renal Transplant,CTV3
+X30MU,Acute Rejection Of Renal Transplant - Grade I,CTV3
+X30MV,Acute Rejection Of Renal Transplant - Grade Ii,CTV3
+X30MW,Acute Rejection Of Renal Transplant - Grade Iii,CTV3
+X30MX,Chronic Rejection Of Renal Transplant,CTV3
+X30MY,Chronic Rejection Of Renal Transplant - Grade 1,CTV3
+X30MZ,Chronic Rejection Of Renal Transplant - Grade Ii,CTV3
+X30Ma,Chronic Rejection Of Renal Transplant - Grade Iii,CTV3
+X30Mb,Acute-On-Chronic Rejection Of Renal Transplant,CTV3
+X30Mc,Failed Renal Transplant,CTV3
+X30Md,Perfusion Injury Of Renal Transplant,CTV3
+X30Me,De Novo Transplant Disease,CTV3
+X30Mf,De Novo Glomerulonephritis,CTV3
+X30Mg,Transplant Glomerulopathy,CTV3
+X30Mh,Transplant Glomerulopathy - Early Form,CTV3
+X30Mi,Transplant Glomerulopathy - Late Form,CTV3
+X30NE,Escape Of Urine From Transplanted Ureter,CTV3
+X30NN,Perirenal And Periureteric Post-Transplant Lymphocele,CTV3
+X78FE,Post-Transplant Neoplasia,CTV3
+X78FF,Post-Transplant Lymphoproliferative Disorder,CTV3
+XC0CV,Transplant,CTV3
+XE0Fv,Transplant Nephrectomy,CTV3
+XE1p5,Transplanted Organ Failure,CTV3
+XE1pM,[X]Failure & Rejection Of Other Transplanted Organ & Tissue,CTV3
+XM0Bl,Transplant Disorder,CTV3
+XSC3p,Complication Of Transplanted Lung,CTV3
+Xa0HK,Unexplained Episode Of Renal Transplant Dysfunction,CTV3
+Xa0HL,Pre-Existing Disease In Renal Transplant,CTV3
+Xa0Pz,Part Organ Pancreatic Transplant,CTV3
+Xa2h5,Excision Of Rejected Transplanted Kidney,CTV3
+Xa3kB,Thymus Transplantation,CTV3
+Xa3x6,Kidney Replacement,CTV3
+Xa9UX,Transplanted Ureter,CTV3
+XaDya,Lung Transplant Disorder,CTV3
+XaDyb,Lung Transplant Rejection,CTV3
+XaE9T,Donor Renal Transplantation,CTV3
+XaJJo,Transplantation Surgery,CTV3
+XaJJv,Cardiothoracic Transplantation,CTV3
+XaLcH,Single Lobe Lung Transplant,CTV3
+XaLda,Transplantation Of Ileum,CTV3
+XaLdb,Allotransplantation Of Ileum,CTV3
+XaLdc,Other Specified Transplantation Of Ileum,CTV3
+XaLdd,Transplantation Of Ileum Nos,CTV3
+XaLde,Transplantation Of Liver Cells,CTV3
+XaLdf,Orthotopic Transplantation Of Whole Liver,CTV3
+XaM1o,"Allotransplantation Of Kidney From Cadaver, Heart-Beating",CTV3
+XaM1p,"Allotransplantation Kidney From Cadaver, Heart Non-Beating",CTV3
+XaM4e,Interventions Associated With Transplantation Of Kidney,CTV3
+XaM4f,Os Interventions Associated With Transplantation Of Kidney,CTV3
+XaM4g,Interventions Associated With Transplantation Of Kidney Nos,CTV3
+XaM4j,"Post-Transplantation Of Kidney Examination, Live Donor",CTV3
+XaM4l,"Post-Transplantation Of Kidney Examination, Recipient",CTV3
+XaMKM,Allotransplantation Of Kidney From Cadaver Nec,CTV3
+XaMMe,Orthotopic Transplantation Of Liver Nec,CTV3
+XaMm9,Allotransplantation Of Thymus Gland,CTV3
+XaMmq,Other Specified Transplantation Of Thymus Gland,CTV3
+XaMms,Transplantation Of Thymus Gland Nos,CTV3
+XaYR1,Bronchiolitis Obliterans Syndrome After Lung Transplantation,CTV3
+XaZWa,Urological Complication Of Renal Transplant,CTV3
+XaZYx,Vascular Complication Of Renal Transplant,CTV3
+XaZe2,Rupture Of Artery Of Transplanted Kidney,CTV3
+XaZe3,Rupture Of Vein Of Transplanted Kidney,CTV3
+XaZe7,Stenosis Of Vein Of Transplanted Kidney,CTV3
+XaZkw,Aneurysm Of Vein Of Transplanted Kidney,CTV3
+XaZl0,Aneurysm Of Artery Of Transplanted Kidney,CTV3
+Xaa2O,Thrombosis Of Artery Of Transplanted Kidney,CTV3
+Xaa2Q,Thrombosis Of Vein Of Transplanted Kidney,CTV3
+Xaat5,Transplantation Of Stomach,CTV3
+Xaat6,Allotransplantation Of Stomach,CTV3
+Y1602,Kidney-Pancreas Transplant,CTV3
+ZV42.,[V]Transplanted Organ Or Tissue,CTV3
+ZV420,[V]Kidney Transplanted,CTV3
+ZV421,[V]Heart Transplanted,CTV3
+ZV422,[V]Heart Valve Transplanted,CTV3
+ZV423,[V]Skin Transplanted,CTV3
+ZV424,[V]Bone Transplanted,CTV3
+ZV425,[V]Cornea Transplanted,CTV3
+ZV426,[V]Lung Transplanted,CTV3
+ZV427,[V]Liver Transplanted,CTV3
+236582008,Acute-On-Chronic Rejection Of Renal Transplant (Disorder),SNOMED-CT
+847881000000107,Stenosis Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+44165003,Complication Of Transplanted Lung (Disorder),SNOMED-CT
+174426002,Heterotopic Liver Transplant (Procedure),SNOMED-CT
+236588007,Transplant Glomerulopathy - Early Form (Disorder),SNOMED-CT
+174693008,Transplantation Of Tail Of Pancreas (Procedure),SNOMED-CT
+236576005,Acute Rejection Of Renal Transplant - Grade Ii (Disorder),SNOMED-CT
+175902000,Cadaveric Renal Transplant (Procedure),SNOMED-CT
+236570004,Renal Transplant Rejection (Disorder),SNOMED-CT
+32477003,Heart-Lung Transplant With Recipient Cardiectomy-Pneumonectomy (Procedure),SNOMED-CT
+18027006,Transplantation Of Liver (Procedure),SNOMED-CT
+236579003,Chronic Rejection Of Renal Transplant - Grade 1 (Disorder),SNOMED-CT
+408471009,Cardiothoracic Transplantation (Qualifier Value),SNOMED-CT
+426356008,Orthotopic Transplantation Of Whole Liver (Procedure),SNOMED-CT
+429332008,Transplantation Of Single Lobe Of Lung (Procedure),SNOMED-CT
+213151004,Heart Transplant Failure And Rejection (Disorder),SNOMED-CT
+183023001,Transplant Immunosuppression (Procedure),SNOMED-CT
+236573002,Very Mild Acute Rejection Of Renal Transplant (Disorder),SNOMED-CT
+711413009,Allotransplantation Of Kidney From Non-Beating Heart Cadaver (Procedure),SNOMED-CT
+896561000000109,Transplantation Of Stomach (Procedure),SNOMED-CT
+174803001,Revision Of Transplantation Of Heart And Lung (Procedure),SNOMED-CT
+213148006,Transplanted Organ Rejection (Disorder),SNOMED-CT
+426463009,Allotransplantation Of Ileum (Procedure),SNOMED-CT
+174809002,Heterotopic Allotransplant Of Heart (Procedure),SNOMED-CT
+32413006,Transplantation Of Heart (Procedure),SNOMED-CT
+429496005,Examination Of Live Donor After Kidney Transplant (Procedure),SNOMED-CT
+847791000000101,Rupture Of Artery Of Transplanted Kidney (Disorder),SNOMED-CT
+236580000,Chronic Rejection Of Renal Transplant - Grade Ii (Disorder),SNOMED-CT
+853021000000108,Aneurysm Of Artery Of Transplanted Kidney (Disorder),SNOMED-CT
+852981000000100,Aneurysm Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+843691000000100,Urological Complication Of Renal Transplant (Disorder),SNOMED-CT
+197747000,Renal Tubulo-Interstitial Disorders In Transplant Rejection (Disorder),SNOMED-CT
+236589004,Transplant Glomerulopathy - Late Form (Disorder),SNOMED-CT
+711446003,Transplantation Of Kidney Regime (Regime/Therapy),SNOMED-CT
+62438007,Transplantation Of Pancreas (Procedure),SNOMED-CT
+284348003,Excision Of Rejected Transplanted Kidney (Procedure),SNOMED-CT
+429451003,Disorder Related To Renal Transplantation (Disorder),SNOMED-CT
+254289008,Post-Transplant Neoplasia (Disorder),SNOMED-CT
+864271000000105,Thrombosis Of Artery Of Transplanted Kidney (Disorder),SNOMED-CT
+232659001,Double Lung Transplant As A Block (Procedure),SNOMED-CT
+236585005,De Novo Transplant Disease (Disorder),SNOMED-CT
+425616008,Transplantation Of Ileum (Procedure),SNOMED-CT
+174802006,Allotransplant Of Heart And Lung (Procedure),SNOMED-CT
+174808005,Xenotransplant Of Heart (Procedure),SNOMED-CT
+233844002,Accelerated Coronary Artery Disease In Transplanted Heart (Disorder),SNOMED-CT
+128531006,Islet Cell Transplant (Procedure),SNOMED-CT
+254290004,Post-Transplant Lymphoproliferative Disorder (Disorder),SNOMED-CT
+236581001,Chronic Rejection Of Renal Transplant - Grade Iii (Disorder),SNOMED-CT
+174694002,Renewal Of Transplanted Pancreatic Tissue (Procedure),SNOMED-CT
+175901007,Live Donor Renal Transplant (Procedure),SNOMED-CT
+277010001,Unexplained Episode Of Renal Transplant Dysfunction (Disorder),SNOMED-CT
+174692003,Whole Organ Pancreatic Transplant (Procedure),SNOMED-CT
+161669001,History Of Bone Tissue Recipient (Situation),SNOMED-CT
+213152006,Heart-Lung Transplant Failure And Rejection (Disorder),SNOMED-CT
+303408002,Entire Transplanted Ureter (Body Structure),SNOMED-CT
+265550007,Transplant Nephrectomy (Procedure),SNOMED-CT
+236574008,Acute Rejection Of Renal Transplant (Disorder),SNOMED-CT
+277451006,Part Organ Pancreatic Transplant (Procedure),SNOMED-CT
+88039007,Transplant Of Lung (Procedure),SNOMED-CT
+236586006,De Novo Glomerulonephritis (Disorder),SNOMED-CT
+313030004,Donor Renal Transplantation (Procedure),SNOMED-CT
+161663000,History Of Being A Tissue Or Organ Recipient (Situation),SNOMED-CT
+161671001,History Of Liver Recipient (Situation),SNOMED-CT
+236578006,Chronic Rejection Of Renal Transplant (Disorder),SNOMED-CT
+161666008,History Of Heart Recipient (Situation),SNOMED-CT
+174425003,Orthotopic Liver Transplant (Procedure),SNOMED-CT
+232660006,Bilateral Sequential Single Lung Transplant (Procedure),SNOMED-CT
+236587002,Transplant Glomerulopathy (Disorder),SNOMED-CT
+236138007,Xenograft Renal Transplant (Procedure),SNOMED-CT
+236575009,Acute Rejection Of Renal Transplant - Grade I (Disorder),SNOMED-CT
+233933006,Cardiac Transplant Rejection (Disorder),SNOMED-CT
+161665007,History Of Renal Transplant (Situation),SNOMED-CT
+236577001,Acute Rejection Of Renal Transplant - Grade Iii (Disorder),SNOMED-CT
+232658009,Double Lung Transplant (Procedure),SNOMED-CT
+236610003,Escape Of Urine From Transplanted Ureter (Disorder),SNOMED-CT
+232657004,Single Lung Transplant (Procedure),SNOMED-CT
+847811000000100,Rupture Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+236583003,Failed Renal Transplant (Disorder),SNOMED-CT
+161672008,History Of Being Lung Transplant Recipient (Situation),SNOMED-CT
+864311000000105,Thrombosis Of Vein Of Transplanted Kidney (Disorder),SNOMED-CT
+263903005,Transplant (Qualifier Value),SNOMED-CT
+213150003,Kidney Transplant Failure And Rejection (Disorder),SNOMED-CT
+428198008,Transplantation Of Hepatocytes (Procedure),SNOMED-CT
+174691005,Transplantation Of Pancreas And Duodenum (Procedure),SNOMED-CT
+236584009,Perfusion Injury Of Renal Transplant (Disorder),SNOMED-CT
+174427006,Replacement Of Previous Liver Transplant (Procedure),SNOMED-CT
+269295009,Transplanted Organ Failure (Disorder),SNOMED-CT
+175899003,Autotransplantation Of Kidney (Procedure),SNOMED-CT
+213153001,Liver Transplant Failure And Rejection (Disorder),SNOMED-CT
+236569000,Primary Non-Function Of Renal Transplant (Disorder),SNOMED-CT
+737297006,Transplanted Liver Present (Finding),SNOMED-CT
+312603000,Lung Transplant Rejection (Disorder),SNOMED-CT
+174699007,Excision Of Transplanted Pancreas (Procedure),SNOMED-CT
+426984008,Allotransplantation Of Thymus Gland (Procedure),SNOMED-CT
+233934000,Cardiac Transplant Failure (Disorder),SNOMED-CT
+233932001,Cardiac Transplant Disorder (Disorder),SNOMED-CT
+277011002,Pre-Existing Disease In Renal Transplant (Disorder),SNOMED-CT
+235911006,Liver Transplant Rejection (Disorder),SNOMED-CT
+236571000,Hyperacute Rejection Of Renal Transplant (Disorder),SNOMED-CT
+61535006,Transplantation Of Spleen (Procedure),SNOMED-CT
+235912004,Liver Transplant Failure (Disorder),SNOMED-CT
+183655000,Transplant Follow-Up (Finding),SNOMED-CT
+287239002,Thymus Transplantation (Procedure),SNOMED-CT
+408477008,Transplantation Surgery (Qualifier Value),SNOMED-CT
+711411006,Allotransplantation Of Kidney From Beating Heart Cadaver (Procedure),SNOMED-CT
+844661000000109,Vascular Complication Of Renal Transplant (Disorder),SNOMED-CT
+70536003,Transplant Of Kidney (Procedure),SNOMED-CT
+805261000000101,Bronchiolitis Obliterans Syndrome After Lung Transplantation (Disorder),SNOMED-CT
+429054002,Disorder Related To Transplantation (Disorder),SNOMED-CT
+896581000000100,Allotransplantation Of Stomach (Procedure),SNOMED-CT
+236614007,Perirenal And Periureteric Post-Transplant Lymphocele (Disorder),SNOMED-CT
+235910007,Liver Transplant Disorder (Disorder),SNOMED-CT
+236572007,Accelerated Rejection Of Renal Transplant (Disorder),SNOMED-CT
+737299009,Transplanted Cornea Present (Finding),SNOMED-CT
+6471000179103,Transplantation Of Kidney And Pancreas (Procedure),SNOMED-CT
+345797001,Autotransplantation Of Pancreatic Tissue (Procedure),SNOMED-CT
+722956007,Early Post-Transplant Lymphoproliferative Disorder (Disorder),SNOMED-CT
+76077004,Total Pancreatectomy With Transplantation (Procedure),SNOMED-CT
+405768001,Autotransplantation Of Heart (Procedure),SNOMED-CT
+432843002,Acute Rejection Of Cardiac Transplant (Disorder),SNOMED-CT
+432772009,Hyperacute Rejection Of Liver Transplant (Disorder),SNOMED-CT
+432774005,Hyperacute Rejection Of Lung Transplant (Disorder),SNOMED-CT
+239101000000109,Pre-Transplantation Of Kidney Work-Up Of Live Donor (Regime/Therapy),SNOMED-CT
+431222008,Acute Rejection Of Liver Transplant (Disorder),SNOMED-CT
+432958009,Chronic Rejection Of Lung Transplant (Disorder),SNOMED-CT
+853761000000103,Living Donor Liver Transplantation (Procedure),SNOMED-CT
+843901000000103,Allogeneic Transplantation Of Pancreatic Islet Cells (Procedure),SNOMED-CT
+447981001,Allotransplantation Of Islets Of Langerhans (Procedure),SNOMED-CT
+431186002,Accelerated Rejection Of Cardiac Transplant (Disorder),SNOMED-CT
+431223003,Acute Rejection Of Lung Transplant (Disorder),SNOMED-CT
+432773004,Hyperacute Rejection Of Cardiac Transplant (Disorder),SNOMED-CT
+765479007,Allotransplantation Of Right Kidney (Procedure),SNOMED-CT
+233634002,Post-Lung Transplantation Bronchiectasis (Disorder),SNOMED-CT
+232973007,Allotransplant Of Heart (Procedure),SNOMED-CT
+431456004,Accelerated Rejection Of Bone Marrow Transplant (Disorder),SNOMED-CT
+431896008,Chronic Rejection Of Cardiac Transplant (Disorder),SNOMED-CT
+432782005,Hyperacute Rejection Of Bone Marrow Transplant (Disorder),SNOMED-CT
+71947008,Homotransplant Of Pancreas (Procedure),SNOMED-CT
+928341000000103,History Of Heart-Lung Transplant Recipient (Situation),SNOMED-CT
+431862001,Acute Rejection Of Bone Marrow Transplant (Disorder),SNOMED-CT
+33167004,Complication Of Transplanted Liver (Disorder),SNOMED-CT
+27280000,Liver Transplant With Recipient Hepatectomy (Procedure),SNOMED-CT
+234520000,Bone Marrow Transplant Failure (Disorder),SNOMED-CT
+238251000000109,Pre-Transplantation Of Kidney Work-Up Of Recipient (Regime/Therapy),SNOMED-CT
+232974001,Orthotopic Allotransplant Of Heart (Procedure),SNOMED-CT
+445964006,Monomorphic Posttransplant Lymphoproliferative Disorder (Disorder),SNOMED-CT
+67562009,Heterotransplant Of Pancreas (Procedure),SNOMED-CT
+47058000,Heart Transplant With Recipient Cardiectomy (Procedure),SNOMED-CT
+432908002,Chronic Rejection Of Liver Transplant (Disorder),SNOMED-CT
+844191000000106,Autologous Transplantation Of Pancreatic Islet Cells (Procedure),SNOMED-CT
+765478004,Allotransplantation Of Left Kidney (Procedure),SNOMED-CT
+234519006,Bone Marrow Transplant Rejection (Disorder),SNOMED-CT
+441754003,Percutaneous Transhepatic Transplantation Of Pancreatic Islet Cell Using Fluoroscopic Guidance (Procedure),SNOMED-CT
+431507002,Accelerated Rejection Of Lung Transplant (Disorder),SNOMED-CT
+28009009,Liver Transplant Without Recipient Hepatectomy (Procedure),SNOMED-CT
+431953002,Chronic Rejection Of Bone Marrow Transplant (Disorder),SNOMED-CT
+432777003,Accelerated Rejection Of Liver Transplant (Disorder),SNOMED-CT
+702777009,Liver Transplant Recipient (Finding),SNOMED-CT
+316062006,[V]Other Specified Transplanted Organ Or Tissue (Situation),SNOMED-CT
+834931000000108,Accelerated Rejection Of Renal Transplant,SNOMED-CT
+466831000000107,[V]Unspecified Transplanted Organ Or Tissue (Context-Dependent Category),SNOMED-CT
+830891000000109,Acute Rejection Of Renal Transplant - Grade Ii,SNOMED-CT
+262161000000107,"Post-Transplantation Of Kidney Examination, Live Donor",SNOMED-CT
+234761000000108,Allotransplantation Of Ileum (Procedure),SNOMED-CT
+316060003,[V]Lung Transplanted (Situation),SNOMED-CT
+916411000000102,Transplantation Of Stomach,SNOMED-CT
+316057005,[V]Skin Transplanted (Situation),SNOMED-CT
+262111000000105,Interventions Associated With Transplantation Of Kidney,SNOMED-CT
+429681000000105,[V]Transplanted Organ Or Tissue (Context-Dependent Category),SNOMED-CT
+288861000000104,Transplantation Of Thymus Gland Nos,SNOMED-CT
+234518003,Bone Marrow Transplant Disorder (Disorder),SNOMED-CT
+169761000000104,Heart And Lung Transplant,SNOMED-CT
+622431000000104,Other Specified Transplantation Of Kidney (Procedure),SNOMED-CT
+856711000000109,Chronic Rejection Of Renal Transplant - Grade Iii,SNOMED-CT
+856681000000105,Chronic Rejection Of Renal Transplant,SNOMED-CT
+288831000000109,Thymus Transplantation,SNOMED-CT
+830931000000104,Acute Rejection Of Renal Transplant,SNOMED-CT
+847801000000102,Rupture Of Artery Of Transplanted Kidney,SNOMED-CT
+366961000000102,Renal Transplant Recipient (Finding),SNOMED-CT
+48994000,Renal Homotransplantation With Unilateral Recipient Nephrectomy (Situation),SNOMED-CT
+856931000000103,Unexplained Episode Of Renal Transplant Dysfunction,SNOMED-CT
+316053009,[V]Transplanted Organ Or Tissue (Situation),SNOMED-CT
+127219007,Post-Transplantation Lymphoproliferative Syndrome (Disorder),SNOMED-CT
+555681000000104,Other Specified Transplantation Of Pancreas (Procedure),SNOMED-CT
+244811000000102,Allotransplantation Of Kidney From Cadaver Nec (Procedure),SNOMED-CT
+830901000000105,Acute Rejection Of Renal Transplant - Grade Iii,SNOMED-CT
+226941000000100,Transplantation Of Liver Cells (Procedure),SNOMED-CT
+807651000000109,Bronchiolitis Obliterans Syndrome After Lung Transplantation,SNOMED-CT
+226461000000108,Single Lobe Lung Transplant (Procedure),SNOMED-CT
+231691000000106,"Allotransplantation Of Kidney From Cadaver, Heart Non-Beating (Procedure)",SNOMED-CT
+916371000000101,Excision Of Rejected Transplanted Kidney,SNOMED-CT
+864281000000107,Thrombosis Of Artery Of Transplanted Kidney,SNOMED-CT
+857241000000102,Xenograft Renal Transplant,SNOMED-CT
+261981000000107,"Allotransplantation Of Kidney From Cadaver, Heart-Beating",SNOMED-CT
+586351000000102,Other Transplantation Of Heart (Procedure),SNOMED-CT
+427761000000102,[V]Skin Transplanted (Context-Dependent Category),SNOMED-CT
+226951000000102,Orthotopic Transplantation Of Whole Liver (Procedure),SNOMED-CT
+855271000000103,Very Mild Acute Rejection Of Renal Transplant,SNOMED-CT
+226931000000109,Transplantation Of Ileum (Procedure),SNOMED-CT
+288004005,Kidney Replacement (Disorder),SNOMED-CT
+847821000000106,Rupture Of Vein Of Transplanted Kidney,SNOMED-CT
+586331000000109,Revision Of Transplantation Of Heart Nec (Procedure),SNOMED-CT
+847891000000109,Stenosis Of Vein Of Transplanted Kidney,SNOMED-CT
+844671000000102,Vascular Complication Of Renal Transplant,SNOMED-CT
+238241000000106,Other Specified Interventions Associated With Transplantation Of Kidney (Regime/Therapy),SNOMED-CT
+431301000000106,[V]Other Specified Transplanted Organ Or Tissue (Context-Dependent Category),SNOMED-CT
+262131000000102,"Pre-Transplantation Of Kidney Work-Up, Recipient",SNOMED-CT
+255621000000109,Double Lung Transplant,SNOMED-CT
+228751000000100,Interventions Associated With Transplantation Of Kidney (Regime/Therapy),SNOMED-CT
+255641000000102,Single Lobe Lung Transplant,SNOMED-CT
+938271000000101,Dissection Of Transplant Artery,SNOMED-CT
+213146005,Complication Of Transplanted Organ (Disorder),SNOMED-CT
+550501000000102,Transplantation Of Lung Nos (Procedure),SNOMED-CT
+316059008,[V]Cornea Transplanted (Situation),SNOMED-CT
+281551000000105,Transplantation Of Thymus Gland Nos (Procedure),SNOMED-CT
+237191000000107,Other Specified Transplantation Of Ileum (Procedure),SNOMED-CT
+864321000000104,Thrombosis Of Vein Of Transplanted Kidney,SNOMED-CT
+231721000000102,"Allotransplantation Of Kidney From Cadaver, Heart-Beating (Procedure)",SNOMED-CT
+464381000000109,[V]Liver Transplanted (Context-Dependent Category),SNOMED-CT
+885861000000104,Liver Transplant Recipient (Finding),SNOMED-CT
+855231000000100,Aneurysm Of Vein Of Transplanted Kidney,SNOMED-CT
+316063001,[V]Unspecified Transplanted Organ Or Tissue (Situation),SNOMED-CT
+316068005,[V]Has Artificial Heart Valve (Situation),SNOMED-CT
+707891000000102,Complication Of Transplanted Lung,SNOMED-CT
+234771000000101,Transplantation Of Ileum Nos (Procedure),SNOMED-CT
+938441000000106,De Novo Glomerulonephritis,SNOMED-CT
+238821000000100,Post-Transplantation Of Kidney Examination Of Live Donor (Regime/Therapy),SNOMED-CT
+896571000000102,Transplantation Of Stomach,SNOMED-CT
+916391000000102,Transplantation Of Stomach,SNOMED-CT
+807951000000103,Cardiothoracic Transplantation,SNOMED-CT
+281531000000103,Other Specified Transplantation Of Thymus Gland (Procedure),SNOMED-CT
+938371000000106,De Novo Transplant Disease,SNOMED-CT
+856691000000107,Chronic Rejection Of Renal Transplant - Grade 1,SNOMED-CT
+562851000000107,Allotransplantation Of Heart Nec (Procedure),SNOMED-CT
+843701000000100,Urological Complication Of Renal Transplant,SNOMED-CT
+233331000000102,Orthotopic Transplantation Of Liver Nec (Procedure),SNOMED-CT
+830871000000105,Acute-On-Chronic Rejection Of Renal Transplant,SNOMED-CT
+316061004,[V]Liver Transplanted (Situation),SNOMED-CT
+853031000000105,Aneurysm Of Artery Of Transplanted Kidney,SNOMED-CT
+622441000000108,Transplantation Of Kidney Nos (Procedure),SNOMED-CT
+257811000000106,Transplantation Of Liver Cells,SNOMED-CT
+596001000000100,Other Transplantation Of Heart Nos (Procedure),SNOMED-CT
+552991000000104,Transplantation Of Pancreas Nos (Procedure),SNOMED-CT
+262141000000106,"Pre-Transplantation Of Kidney Work-Up, Live Donor",SNOMED-CT
+885891000000105,Cornea Transplant Recipient (Finding),SNOMED-CT
+916381000000104,Transplantation Of Stomach,SNOMED-CT
+261991000000109,"Allotransplantation Of Kidney From Cadaver, Heart Non-Beating",SNOMED-CT
+555141000000100,Other Specified Transplantation Of Lung (Procedure),SNOMED-CT
+595961000000105,Transplantation Of Liver Nos (Procedure),SNOMED-CT
+830881000000107,Acute Rejection Of Renal Transplant - Grade I,SNOMED-CT
+702773008,Cornea Transplant Recipient (Finding),SNOMED-CT
+377121000000100,Percutaneous Transhepatic Transplantation Of Pancreatic Islet Cell Using Fluoroscopic Guidance (Procedure),SNOMED-CT
+81443009,Complication Of Transplant (Disorder),SNOMED-CT
+526211000000102,Complication Of Transplanted Lung (Disorder),SNOMED-CT
+400271000000108,[V]Has Artificial Heart Valve (Context-Dependent Category),SNOMED-CT
+399241000000100,[V]Kidney Transplanted (Context-Dependent Category),SNOMED-CT
+399631000000107,[V]Heart Valve Transplanted (Context-Dependent Category),SNOMED-CT
+896591000000103,Allotransplantation Of Stomach,SNOMED-CT
+856701000000107,Chronic Rejection Of Renal Transplant - Grade Ii,SNOMED-CT
+595991000000104,Other Specified Other Transplantation Of Heart (Procedure),SNOMED-CT
+857311000000108,Renal Transplant Rejection,SNOMED-CT
+257171000000107,Allotransplantation Of Ileum,SNOMED-CT
+316055002,[V]Heart Transplanted (Situation),SNOMED-CT
+568721000000106,Other Specified Transplantation Of Heart And Lung (Procedure),SNOMED-CT
+312602005,Lung Transplant Disorder (Disorder),SNOMED-CT
+257161000000100,Transplantation Of Ileum,SNOMED-CT
+591031000000104,History Of - Tissue/Organ Recipient Nos (Situation),SNOMED-CT
+235291000000105,Interventions Associated With Transplantation Of Kidney Nos (Regime/Therapy),SNOMED-CT
+288841000000100,Allotransplantation Of Thymus Gland,SNOMED-CT
+586341000000100,Transplantation Of Heart And Lung Nos (Procedure),SNOMED-CT
+417051000000108,[X]Failure And Rejection Of Other Transplanted Organ And Tissue (Disorder),SNOMED-CT
+316054003,[V]Kidney Transplanted (Situation),SNOMED-CT
+281181000000107,Allotransplantation Of Thymus Gland (Procedure),SNOMED-CT
+916401000000104,Transplantation Of Stomach,SNOMED-CT
+255631000000106,Single Lung Transplant,SNOMED-CT
+538521000000107,Other Specified Transplantation Of Liver (Procedure),SNOMED-CT
+410751000000109,[V]Cornea Transplanted (Context-Dependent Category),SNOMED-CT
+808091000000109,Transplantation Surgery,SNOMED-CT
+316056001,[V]Heart Valve Transplanted (Situation),SNOMED-CT
+236568008,Renal Transplant Disorder (Disorder),SNOMED-CT
+257821000000100,Orthotopic Transplantation Of Whole Liver,SNOMED-CT
+707901000000101,Post-Transplant Lymphoproliferative Disorder,SNOMED-CT
+262181000000103,Interventions Associated With Transplantation Of Kidney Nos,SNOMED-CT
+257191000000106,Transplantation Of Ileum Nos,SNOMED-CT
+N165,N16.5 Renal Tubulo-Interstitial Disorders In Transplant Rejection,ICD-10
+T861,Kidney Transplant Failure And Rejection,ICD-10
+T862,Heart Transplant Failure And Rejection,ICD-10
+T863,Heart-Lung Transplant Failure And Rejection,ICD-10
+T864,Liver Transplant Failure And Rejection,ICD-10
+T868,Failure And Rejection Of Other Transplanted Organs And Tissues,ICD-10
+T869,Failure And Rejection Of Unspecified Transplanted Organ And Tissue,ICD-10
+Z940,Kidney Transplant Status,ICD-10
+Z941,Heart Transplant Status,ICD-10
+Z942,Lung Transplant Status,ICD-10
+Z943,Heart And Lungs Transplant Status,ICD-10
+Z944,Liver Transplant Status,ICD-10
+B171,"Transplantation Of Thymus Gland,Allotransplantation Of Thymus Gland",OPCS-4
+B178,"Transplantation Of Thymus Gland,Other Specified",OPCS-4
+B179,"Transplantation Of Thymus Gland,Unspecified",OPCS-4
+E531,"Transplantation Of Lung,Double Lung Transplant",OPCS-4
+E532,"Transplantation Of Lung,Single Lung Transplant",OPCS-4
+E533,"Transplantation Of Lung,Single Lobe Lung Transplant",OPCS-4
+E538,"Transplantation Of Lung,Other Specified",OPCS-4
+E539,"Transplantation Of Lung,Unspecified",OPCS-4
+G261,"Allotransplantation Of Stomach,Allotransplantation Of Stomach",OPCS-4
+G268,"Other Specified Transplantation Of Stomach,Other Specified Transplantation Of Stomach",OPCS-4
+G269,"Unspecified Transplantation Of Stomach,Unspecified Transplantation Of Stomach",OPCS-4
+G681,"Transplantation Of Ileum,Allotransplantation Of Ileum",OPCS-4
+G688,"Transplantation Of Ileum,Other Specified",OPCS-4
+G689,"Transplantation Of Ileum,Unspecified",OPCS-4
+J011,"Transplantation Of Liver,Orthotopic Transplantation Of Liver Nec",OPCS-4
+J012,"Transplantation Of Liver,Heterotopic Transplantation Of Liver",OPCS-4
+J013,"Transplantation Of Liver,Replacement Of Previous Liver Transplant",OPCS-4
+J014,"Transplantation Of Liver,Transplantation Of Liver Cells",OPCS-4
+J015,"Transplantation Of Liver,Orthotopic Transplantation Of Whole Liver",OPCS-4
+J018,"Transplantation Of Liver,Other Specified",OPCS-4
+J019,"Transplantation Of Liver,Unspecified",OPCS-4
+J541,"Transplantation Of Pancreas,Transplantation Of Pancreas And Duodenum",OPCS-4
+J542,"Transplantation Of Pancreas,Transplantation Of Whole Pancreas",OPCS-4
+J543,"Transplantation Of Pancreas,Transplantation Of Tail Of Pancreas",OPCS-4
+J544,"Transplantation Of Pancreas,Transplantation Of Islet Of Langerhans",OPCS-4
+J545,"Transplantation Of Pancreas,Renewal Of Transplanted Pancreatic Tissue",OPCS-4
+J548,"Transplantation Of Pancreas,Other Specified",OPCS-4
+J549,"Transplantation Of Pancreas,Unspecified",OPCS-4
+J553,"Total Excision Of Pancreas,Excision Of Transplanted Pancreas",OPCS-4
+J721,"Other Operations On Spleen,Transplantation Of Spleen",OPCS-4
+K011,"Transplantation Of Heart And Lung,Allotransplantation Of Heart And Lung",OPCS-4
+K012,"Transplantation Of Heart And Lung,Revision Of Transplantation Of Heart And Lung",OPCS-4
+K018,"Transplantation Of Heart And Lung,Other Specified",OPCS-4
+K019,"Transplantation Of Heart And Lung,Unspecified",OPCS-4
+K021,"Other Transplantation Of Heart,Allotransplantation Of Heart Nec",OPCS-4
+K022,"Other Transplantation Of Heart,Xenotransplantation Of Heart",OPCS-4
+K023,"Other Transplantation Of Heart,Implantation Of Prosthetic Heart",OPCS-4
+K024,"Other Transplantation Of Heart,Piggyback Transplantation Of Heart",OPCS-4
+K025,"Other Transplantation Of Heart,Revision Of Implantation Of Prosthetic Heart",OPCS-4
+K026,"Other Transplantation Of Heart,Revision Of Transplantation Of Heart Nec",OPCS-4
+K028,"Other Transplantation Of Heart,Other Specified",OPCS-4
+K029,"Other Transplantation Of Heart,Unspecified",OPCS-4
+M011,"Transplantation Of Kidney,Autotransplantation Of Kidney",OPCS-4
+M012,"Transplantation Of Kidney,Allotransplantation Of Kidney From Live Donor",OPCS-4
+M013,"Transplantation Of Kidney,Allotransplantation Of Kidney From Cadaver Nec",OPCS-4
+M014,"Transplantation Of Kidney,Allotransplantation Of Kidney From Cadaver Heart Beating",OPCS-4
+M015,"Transplantation Of Kidney,Allotransplantation Of Kidney From Cadaver Heart Non-Beating",OPCS-4
+M018,"Transplantation Of Kidney,Other Specified",OPCS-4
+M019,"Transplantation Of Kidney,Unspecified",OPCS-4
+M026,"Total Excision Of Kidney,Excision Of Rejected Transplanted Kidney",OPCS-4
+M084,"Other Open Operations On Kidney,Exploration Of Transplanted Kidney",OPCS-4
+M174,"Interventions Associated With Transplantation Of Kidney,Post-Transplantation Of Kidney Examination - Recipient",OPCS-4
+M178,"Interventions Associated With Transplantation Of Kidney,Other Specified",OPCS-4
+M179,"Interventions Associated With Transplantation Of Kidney,Unspecified",OPCS-4

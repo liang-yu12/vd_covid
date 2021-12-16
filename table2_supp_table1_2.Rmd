@@ -1,0 +1,316 @@
+---
+title: "Results table 2, summplementary table 1-2 and model checking"
+output:
+  word_document: default
+  html_notebook: default
+  html_document:
+    df_print: paged
+author: "Liang-Yu Lin"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+---
+
+**Load data and packages** 
+```{r include=FALSE}
+# Datasets
+source('main_dataset.R')
+
+# packages
+library(markdown)
+library(rmarkdown)
+library(arsenal)
+library(kableExtra)
+library(finalfit) 
+library(survival)
+library(survminer)
+library(epiDisplay)
+
+# Limit significant digits to 2, remove scientific notation
+options(digits = 2, scipen = 999)
+
+```
+
+# Table 1.
+**Table 1. The distribution of demographic characteristics by vitamin D status**
+
+```{r echo=FALSE}
+t1vd <- arsenal::tableby( vitd_s ~ sex + age_group + ethnic_c + bmi_group + drink_freq_c + drink_freq_c + drink_stat_c + smoke_stat + imd_bd_q + vitd_supp + vd_drug + bst+ regions + low_immune + chronic_disease, 
+                          data = bd_d,
+                          cat.stats = "countpct"
+                                )
+summary(t1vd, text = T) %>% 
+        kable(format = "pandoc",
+              caption = "Formatted table",
+              padding = 0,
+              label = "",
+              align = c("l","c"),
+              col_order = order
+        )
+
+```
+
+# Supplementary Table 1. 
+
+Supplementary table 1. The comparison of inclusion and exclusion participants
+
+```{r echo=FALSE}
+# Read the original data
+bd <- read_rds("V:/VOLUMEO/uk_biobank/1.work_data/ukb_study_2/datasets/complete_bd.rds")
+
+# compare
+include <- bd_d$f.eid %>% unlist()
+bd %<>% mutate(exclude=ifelse(f.eid %in% include,0,1))
+bd$exclude %<>% factor(labels = c("Included", "Excluded"))
+
+# as.factor
+bd_clinical_cov[,c("low_immune", "chronic_disease")] <- map(bd_clinical_cov[,c("low_immune", "chronic_disease")], as.factor)
+
+bd %<>% left_join(bd_clinical_cov, by = c("f.eid" = "f.eid"))
+
+bd %<>% mutate(vd_drug=ifelse(
+  f.eid %in% unlist(bd_vd_drug$f.eid), 1 , 0))
+bd$vd_drug<- bd$vd_drug %>% as.factor() %>% factor(labels = c("Not having vitamin D prescription","Had vitamin D prescription"))
+
+ts1_control <- tableby.control(test = F, total = F, numeric.stats = c("N", "sd"), cat.stats=c("Nmiss","countpct")
+)
+# Change the percentage into column percentage
+arsenal::tableby( exclude ~ sex + age_group + ethnic_c + bmi_group + drink_freq_c + drink_freq_c + drink_stat_c + smoke_stat + imd_bd_q + vitd_supp + vd_drug + regions + low_immune + chronic_disease, 
+                          data = bd,
+                          control = ts1_control
+                                ) %>% 
+summary(text = T) %>% 
+        kable(format = "pandoc",
+              caption = "Formatted table",
+              padding = 0,
+              label = "",
+              align = c("l","c"),
+              col_order = order
+        )
+
+```
+
+# Testing proportional hazard assumption for the primary exposure
+
+**Settings**
+1.Define risk set / survival object
+```{r include=FALSE}
+riskset <- bd_d %$% Surv(fu_time, event = c_infection)
+```
+Cox regression by vitamin D status:
+```{r include=FALSE}
+# crude analysis
+(cox_vd_s <- coxph(riskset ~ vitd_s, data = bd_d, id = f.eid))
+confint(cox_vd_s,level = 0.95) %>% exp()
+```
+
+## Log-log(time) plot
+
+### vitamin D status
+
+```{r echo=FALSE, fig.height=3, fig.width=4}
+# Use log log log(time) plot (crude)
+
+log_o1 <- ggsurvplot(
+  fit = survfit(riskset ~ bd_d$vitd_s), 
+  data = bd_d, 
+  fun = "cloglog", loglog =T,
+  conf.int = F,
+  xlim = c(1, 350),
+  main = "Log-Log Plots",
+  ggtheme = theme_bw(),
+  legend = c("bottom"),
+  legend.title = "Vitamin D status",
+  legend.labs= c("Deficiency","Insufficiency","Sufficiency")
+)
+
+log_o1$plot <- log_o1$plot + 
+  geom_vline(xintercept = 78, linetype = "dashed")+
+  annotate("text", x = 78, y=-10, label = "Primary school open (2020-06-01)", hjust = "right", size = 6)+
+  geom_vline(xintercept = 100, linetype = "dashed")+
+  annotate("text", x = 100, y=-7.5, label = "The first lockdown ease",hjust = 0.2, size = 6)+
+  annotate("text", x = 100, y=-8, label = "(2020-06-23)",hjust = 0.2, size = 6)+
+  geom_vline(xintercept = 169, linetype = "dashed")+
+  annotate("text", x = 169, y=-2.5, label = "Eat out help out ended", size = 6)+
+  annotate("text", x = 169, y=-3, label = "(2020-08-31)", size = 6)+
+  geom_vline(xintercept = 265, linetype = "dashed")+
+  annotate("text", x = 265, y=0, label = "The second lockdown ease", size = 6) +
+  annotate("text", x = 265, y=-0.5, label = "(2020-12-02)", size = 6)
+
+
+ggpubr::ggpar(log_o1, font.legend = list(size = 14, color = "black", face = "bold"))
+
+```
+
+**Interpretation: The proportional hazard assumption is violated.**
+
+### Hospitalization
+
+```{r include=FALSE}
+# survival objects: 
+# time-in:  2020-03-15
+# time-out: end_hos_all
+bd_d$fu_time_t3 <- (as.numeric(bd_d$end_hos_all)-as.numeric(start))
+
+riskset_hos <- bd_d  %$% Surv(fu_time_t3, event = hos_all)
+```
+
+```{r eval=FALSE, include=FALSE}
+cox_hos_crude <- coxph(riskset_hos ~ vitd_s, data = bd_d, id = f.eid)
+cox_hos_adj <- coxph(riskset_hos ~ vitd_s + sex + age_group +ethnic_c + bmi_group + drink_freq_c + imd_bd_q +  bst +regions + low_immune + chronic_disease, data =bd_d, id = f.eid)
+cox.zph(cox_hos_crude)
+cox.zph(cox_hos_adj)
+```
+
+Log log plot
+
+```{r echo=FALSE, fig.height=3, fig.width=4}
+# log log plot
+log_o2 <- ggsurvplot(
+  fit = survfit(riskset_hos ~ bd_d$vitd_s), 
+  data = bd_d, 
+  fun = "cloglog", loglog =T,
+  conf.int = F,
+  xlim = c(1, 350),
+  main = "Log-Log Plots",
+  ggtheme = theme_bw(),
+  legend = c("bottom"),
+  legend.title = "Vitamin D status",
+  legend.labs= c("Deficiency","Insufficiency","Sufficiency")
+)
+
+log_o2$plot <- log_o2$plot + 
+  geom_vline(xintercept = 78, linetype = "dashed")+
+  annotate("text", x = 78, y=-10, label = "Primary school open (2020-06-01)", hjust = "right", size = 6)+
+  geom_vline(xintercept = 100, linetype = "dashed")+
+  annotate("text", x = 100, y=-7.5, label = "The first lockdown ease",hjust = 0.2, size = 6)+
+  annotate("text", x = 100, y=-8, label = "(2020-06-23)",hjust = 0.2, size = 6)+
+  geom_vline(xintercept = 169, linetype = "dashed")+
+  annotate("text", x = 169, y=-2.5, label = "Eat out help out ended", size = 6)+
+  annotate("text", x = 169, y=-3, label = "(2020-08-31)", size = 6)+
+  geom_vline(xintercept = 265, linetype = "dashed")+
+  annotate("text", x = 265, y=0, label = "The second lockdown ease", size = 6) +
+  annotate("text", x = 265, y=-0.5, label = "(2020-12-02)", size = 6)
+
+
+ggpubr::ggpar(log_o2, font.legend = list(size = 14, color = "black", face = "bold"))
+```
+
+**Interpretation: The proportional hazard assumption is violated.**
+
+### Mortality
+
+```{r include=FALSE}
+# survival objects:
+# time-in: 2020-03-15
+# time-out: end_mor
+bd_d$fu_time_t4 <-(as.numeric(bd_d$end_mor_all) - as.numeric(start))
+riskset_mor <- bd_d %$% Surv(fu_time_t4, event =n_death_covid_all)
+
+```
+
+```{r eval=FALSE, include=FALSE}
+cox_mor_crude <- coxph(riskset_mor ~ vitd_s, data = bd_d, id = f.eid)
+cox_mor_adj <- coxph(riskset_mor ~ vitd_s + sex + age_group +ethnic_c + bmi_group + drink_freq_c + imd_bd_q +  bst +regions + low_immune + chronic_disease, data =bd_d, id = f.eid)
+cox.zph(cox_mor_crude)
+cox.zph(cox_mor_adj)
+```
+
+Log log plot
+
+```{r echo=FALSE, fig.height=3, fig.width=4}
+# log log plot
+log_o3 <- ggsurvplot(
+  fit = survfit(riskset_mor ~ bd_d$vitd_s), 
+  data = bd_d, 
+  fun = "cloglog", loglog =T,
+  conf.int = F,
+  xlim = c(1, 350),
+  main = "Log-Log Plots of mortality",
+  ggtheme = theme_bw(),
+  legend = c("bottom"),
+  legend.title = "Vitamin D status",
+  legend.labs= c("Deficiency","Insufficiency","Sufficiency")
+)
+
+log_o3$plot <- log_o3$plot + 
+  geom_vline(xintercept = 78, linetype = "dashed")+
+  annotate("text", x = 78, y=-10, label = "Primary school open (2020-06-01)", hjust = "right", size = 6)+
+  geom_vline(xintercept = 100, linetype = "dashed")+
+  annotate("text", x = 100, y=-7.5, label = "The first lockdown ease",hjust = 0.2, size = 6)+
+  annotate("text", x = 100, y=-8, label = "(2020-06-23)",hjust = 0.2, size = 6)+
+  geom_vline(xintercept = 169, linetype = "dashed")+
+  annotate("text", x = 169, y=-2.5, label = "Eat out help out ended", size = 6)+
+  annotate("text", x = 169, y=-3, label = "(2020-08-31)", size = 6)+
+  geom_vline(xintercept = 265, linetype = "dashed")+
+  annotate("text", x = 265, y=0, label = "The second lockdown ease", size = 6) +
+  annotate("text", x = 265, y=-0.5, label = "(2020-12-02)", size = 6)
+
+
+ggpubr::ggpar(log_o3, font.legend = list(size = 14, color = "black", face = "bold"))
+```
+
+**Interpretation: The proportional hazard assumption is violated.**
+
+# Supplementary table 2
+
+Test the association between BST and vitamin D status
+```{r echo=FALSE}
+# Dataset:use the complete dataset
+
+# 1. Data management: -----------------------------------------
+# a. Exclude people without vitamin D test
+bd_t <- bd %>% filter(vd_miss == 1)
+
+# b. Recode vitamin D into vd25 and vd50
+tab1(bd_t$vitd_s)
+
+bd_t <- bd_t %>% 
+        mutate(vd25=ifelse(vitd_s=="0_deficiency", 1, 0)) %>%  # vd25=deficiency
+        mutate(vd50= ifelse(vitd_s=="0_deficiency" | vitd_s=="1_insufficiency", 1,0)) 
+#vd50=insufficiency + deficiency
+
+
+# Date issue: recode the BST date 
+
+# Roughly recode the BST
+bd_t %<>% mutate(bst=case_when(
+        month(date_0) %in% c(4,5,6,7,8,9,10) ~ 1,
+        month(date_1) %in% c(4,5,6,7,8,9,10) ~ 1,
+        month(date_0) %in% c(11,12,1,2,3) ~ 0,
+        month(date_1) %in% c(11,12,1,2,3) ~ 0,
+))
+
+bd_t$bst %<>% as.factor()
+bd_t$bst %<>% factor(labels = c("Not_in_bst_months", "During_bst_months"))
+bd_t$bst %>% tab1
+# Not_in_bst_months    169058    37.6         37.6
+# During_bst_months    280880    62.4        100.0
+# Total              449938   100.0        100.0
+
+
+# 2. Statistical analysis ------
+
+# Crude logistic regression
+# vd25:
+# crude:
+vd25_crude <- glm(vd25 ~ bst, data = bd_t, family = "binomial")
+vd25_crude %>% logistic.display()
+# adjusted for covariates
+vd25_adj <- glm(vd25 ~ bst + age_c + regions + ethnic + bmi_group + 
+                        imd_bd_q + drink_freq_c + smoke_stat, 
+                data = bd_t, family = "binomial")
+vd25_adj %>% logistic.display() 
+
+
+# vd50
+# crude:
+vd50_crude <- glm(vd50 ~ bst, data = bd_t, family = "binomial")
+vd50_crude %>% logistic.display()
+
+# adjusted for covariates
+vd50_adj <- glm(vd50 ~ bst + age_c + regions + ethnic + bmi_group + 
+                        imd_bd_q + drink_freq_c + smoke_stat,
+                data = bd_t, family = "binomial")
+vd50_adj %>% logistic.display()
+
+```
+

@@ -1,0 +1,1849 @@
+code,description,type
+13B1.,Diabetic Diet,CTV3
+1434,H/O: Diabetes Mellitus,CTV3
+14P3.,H/O: Insulin Therapy,CTV3
+42W1.,Hb. A1c < 7% - Good Control,CTV3
+42W2.,Hb. A1c 7-10% - Borderline,CTV3
+42W3.,Hb. A1c > 10% - Bad Control,CTV3
+42WZ.,Hb. A1c - Diabetic Control Nos,CTV3
+42c0.,Hba1 Less Than 7% - Good Control,CTV3
+42c1.,Hba1 7-10% - Borderline Control,CTV3
+44V3.,Glucose Tol. Test Diabetic,CTV3
+66A3.,Diabetic On Diet Only,CTV3
+66A4.,Diabetic On Oral Treatment,CTV3
+66A5.,Diabetic On Insulin,CTV3
+66A6.,Last Hypoglycaemia Attack,CTV3
+66A8.,Has Seen Dietitian - Diabetes,CTV3
+66A9.,Understands Diet - Diabetes,CTV3
+66AA.,Injection Sites (& Diabetic),CTV3
+66AG.,Diabetic Drug Side Effects,CTV3
+66AH.,Diabetic Treatment Changed,CTV3
+66AH0,Conversion To Insulin,CTV3
+66AI.,Diabetic - Good Control,CTV3
+66AJ.,Diabetic - Poor Control (& Unstable),CTV3
+66AJ0,Chronic Hyperglycaemia,CTV3
+66AJ1,[Brittle] And/Or [Labile Diabetes],CTV3
+66AJ2,Loss Of Hypoglycaemic Warning,CTV3
+66AJ3,Recurrent Severe Hypos,CTV3
+66AJz,Diabetic - Poor Control Nos,CTV3
+66AK.,Diabetic - Cooperative Patient,CTV3
+66AL.,Diabetic-Uncooperative Patient,CTV3
+66AM.,Diabetic - Follow-Up Default,CTV3
+66AN.,Date Diabetic Treatment Start,CTV3
+66AP.,Diabetes: Practice Programme,CTV3
+66AQ.,Diabetes: Shared Care Programme,CTV3
+66AR.,Diabetes Management Plan Given,CTV3
+66AS.,Diabetic Annual Review,CTV3
+66AT.,Annual Diabetic Blood Test,CTV3
+7L100,Continuous Subcutaneous Infusion Of Insulin,CTV3
+8A12.,Diabetic Crisis Monitoring,CTV3
+8A13.,Diabetic Stabilisation,CTV3
+8CA41,Patient Advised About Diabetic Diet,CTV3
+8H2J.,Admit Diabetic Emergency,CTV3
+8H3O.,Non-Urgent Diabetic Admission,CTV3
+8H7C.,"Refer, Diabetic Liaison Nurse",CTV3
+8HKE.,Diabetology Domiciliary Visit Requested,CTV3
+8HLE.,Diabetology D.v. Done,CTV3
+8HME.,Listed For Diabetology Admissn,CTV3
+9NM0.,Attending Diabetes Clinic,CTV3
+9OL..,Diabetes Administration: [Monitoring] Or [Clinic],CTV3
+9OL1.,Attends Diabetes Monitoring,CTV3
+9OL2.,Refuses Diabetes Monitoring,CTV3
+9OL3.,Diabetes Monitoring Default,CTV3
+9OL4.,Diabetes Monitoring First Letter,CTV3
+9OL5.,Diabetes Monitoring Second Letter,CTV3
+9OL6.,Diabetes Monitoring Third Letter,CTV3
+9OL7.,Diabetes Monitoring Verbal Invite,CTV3
+9OL8.,Diabetes Monitoring Telephone Invite,CTV3
+9OL9.,Diabetes Monitoring Deleted,CTV3
+9OLA.,Diabetes Monitored (& Check Done),CTV3
+9OLZ.,Diabetes Monitoring Admin.nos,CTV3
+C10..,Diabetes Mellitus,CTV3
+C100.,Diabetes Mellitus With No Mention Of Complication,CTV3
+C1000,"Diabetes Mellit: [Juv Type, No Mention Compl] Or [Insul Dep]",CTV3
+C1001,"Diab Mell: [Adult Ons, No Ment Comp][Mat Onset][Non-Ins Dep]",CTV3
+C100z,Diabetes Mellitus Nos With No Mention Of Complication,CTV3
+C101.,Diabetic Ketoacidosis,CTV3
+C1010,Type 1 Diabetes Mellitus With Ketoacidosis,CTV3
+C1011,Type 2 Diabetes Mellitus With Ketoacidosis,CTV3
+C101y,Other Specified Diabetes Mellitus With Ketoacidosis,CTV3
+C101z,Diabetes Mellitus Nos With Ketoacidosis,CTV3
+C102.,Diabetes Mellitus With Hyperosmolar Coma,CTV3
+C1020,"Diabetes Mellitus, Juvenile Type, With Hyperosmolar Coma",CTV3
+C1021,"Diabetes Mellitus, Adult Onset, With Hyperosmolar Coma",CTV3
+C102z,Diabetes Mellitus Nos With Hyperosmolar Coma,CTV3
+C103.,Diabetes Mellitus With Ketoacidotic Coma,CTV3
+C1030,Type 1 Diabetes Mellitus With Ketoacidotic Coma,CTV3
+C1031,Type Ii Diabetes Mellitus With Ketoacidotic Coma,CTV3
+C103y,Other Specified Diabetes Mellitus With Coma,CTV3
+C103z,Diabetes Mellitus Nos With Ketoacidotic Coma,CTV3
+C104.,Diabetes Mellitus: [With Renal Manifestatn] Or [Nephropathy],CTV3
+C1040,"Diabetes Mellitus, Juvenile Type, With Renal Manifestation",CTV3
+C1041,"Diabetes Mellitus, Adult Onset, With Renal Manifestation",CTV3
+C104y,Other Specified Diabetes Mellitus With Renal Complications,CTV3
+C104z,Diabetes Mellitus With Nephropathy Nos,CTV3
+C105.,Diabetes Mellitus With Ophthalmic Manifestation,CTV3
+C1050,"Diabetes Mellitus, Juvenile Type, + Ophthalmic Manifestation",CTV3
+C1051,"Diabetes Mellitus, Adult Onset, + Ophthalmic Manifestation",CTV3
+C105y,Other Specified Diabetes Mellitus With Ophthalmic Complicatn,CTV3
+C105z,Diabetes Mellitus Nos With Ophthalmic Manifestation,CTV3
+C106.,Diab Mell + Neuro Manif: (& [Amyotroph][Neurop][Polyneurop]),CTV3
+C1060,"Diabetes Mellitus, Juvenile, + Neurological Manifestation",CTV3
+C1061,"Diabetes Mellitus, Adult Onset, + Neurological Manifestation",CTV3
+C106y,Other Specified Diabetes Mellitus With Neurological Comps,CTV3
+C106z,Diabetes Mellitus Nos With Neurological Manifestation,CTV3
+C107.,Diabetes Mellitus With: [Gangrene] Or [Periph Circul Disord],CTV3
+C1070,"Diabetes Mellitus, Juvenile +Peripheral Circulatory Disorder",CTV3
+C1071,"Diabetes Mellitus, Adult, + Peripheral Circulatory Disorder",CTV3
+C1072,"Diabetes Mellitus, Adult With Gangrene",CTV3
+C1073,Iddm With Peripheral Circulatory Disorder,CTV3
+C1074,Niddm With Peripheral Circulatory Disorder,CTV3
+C107y,Other Specified Diabetes Mellitus With Periph Circ Comps,CTV3
+C107z,Diabetes Mellitus Nos With Peripheral Circulatory Disorder,CTV3
+C1080,Type I Diabetes Mellitus With Renal Complications,CTV3
+C1081,Type I Diabetes Mellitus With Ophthalmic Complications,CTV3
+C1082,Type I Diabetes Mellitus With Neurological Complications,CTV3
+C1083,Type I Diabetes Mellitus With Multiple Complications,CTV3
+C1085,Type I Diabetes Mellitus With Ulcer,CTV3
+C1086,Type I Diabetes Mellitus With Gangrene,CTV3
+C1087,Type I Diabetes Mellitus With Retinopathy,CTV3
+C1088,Type I Diabetes Mellitus - Poor Control,CTV3
+C1089,Type I Diabetes Mellitus Maturity Onset,CTV3
+C108y,Other Specified Diabetes Mellitus With Multiple Comps,CTV3
+C108z,Unspecified Diabetes Mellitus With Multiple Complications,CTV3
+C109.,Type Ii Diabetes Mellitus,CTV3
+C1090,Type Ii Diabetes Mellitus With Renal Complications,CTV3
+C1091,Type Ii Diabetes Mellitus With Ophthalmic Complications,CTV3
+C1092,Type Ii Diabetes Mellitus With Neurological Complications,CTV3
+C1093,Type Ii Diabetes Mellitus With Multiple Complications,CTV3
+C1094,Type Ii Diabetes Mellitus With Ulcer,CTV3
+C1095,Type Ii Diabetes Mellitus With Gangrene,CTV3
+C1096,Type Ii Diabetes Mellitus With Retinopathy,CTV3
+C1097,Type Ii Diabetes Mellitus - Poor Control,CTV3
+C10y.,Diabetes Mellitus With Other Specified Manifestation,CTV3
+C10y0,"Diabetes Mellitus, Juvenile, + Other Specified Manifestation",CTV3
+C10y1,"Diabetes Mellitus, Adult, + Other Specified Manifestation",CTV3
+C10yy,Other Specified Diabetes Mellitus With Other Spec Comps,CTV3
+C10yz,Diabetes Mellitus Nos With Other Specified Manifestation,CTV3
+C10z.,Diabetes Mellitus With Unspecified Complication,CTV3
+C10z0,"Diabetes Mellitus, Juvenile Type, + Unspecified Complication",CTV3
+C10z1,"Diabetes Mellitus, Adult Onset, + Unspecified Complication",CTV3
+C10zy,Other Specified Diabetes Mellitus With Unspecified Comps,CTV3
+C10zz,Diabetes Mellitus Nos With Unspecified Complication,CTV3
+C110.,Coma: [Hypoglycaemic] Or [Insulin],CTV3
+C110z,Hypoglycaemic Coma Nos,CTV3
+Cyu20,[X]Other Specified Diabetes Mellitus,CTV3
+Cyu21,[X]Malnutrit-Relat Diabetes Mellitus With Other Spec Comps,CTV3
+Cyu22,[X]Malnutrit-Related Diabetes Mellitus With Unspec Complics,CTV3
+Cyu23,[X]Unspecified Diabetes Mellitus With Renal Complications,CTV3
+F1711,Diabetic Autonomic Neuropathy,CTV3
+F3450,Diabetic Mononeuritis Multiplex,CTV3
+F35z0,Diabetic Mononeuritis Nos,CTV3
+F372.,Diabetic Neuropathy &/Or Diabetic Polyneuropathy,CTV3
+F3720,Acute Painful Diabetic Neuropathy,CTV3
+F3721,Chronic Painful Diabetic Neuropathy,CTV3
+F3722,Asymptomatic Diabetic Neuropathy,CTV3
+F3813,(Myasth Syndr Due To Diab Amyotroph) Or (Diab Amyotroph),CTV3
+F3y0.,Diabetic Mononeuropathy,CTV3
+F420.,Diabetic Retinopathy,CTV3
+F4200,Background Diabetic Retinopathy,CTV3
+F4201,Proliferative Diabetic Retinopathy,CTV3
+F4202,Preproliferative Diabetic Retinopathy,CTV3
+F4203,Advanced Diabetic Maculopathy,CTV3
+F420z,Diabetic Retinopathy Nos,CTV3
+F4407,Diabetic Iritis,CTV3
+F4640,Diabetic Cataract,CTV3
+G73y0,Diabetic Peripheral Angiopathy,CTV3
+K01x1,Nephrotic Syndrome In Diabetes Mellitus,CTV3
+Kyu03,[X]Glomerular Disorders In Diabetes Mellitus,CTV3
+Lyu29,"[X]Pre-Existing Diabetes Mellitus, Unspecified",CTV3
+M0372,Cellulitis In Diabetic Foot,CTV3
+M2710,Ischaemic Ulcer Diabetic Foot,CTV3
+M2711,Neuropathic Diabetic Ulcer - Foot,CTV3
+M2712,Mixed Diabetic Ulcer - Foot,CTV3
+N0300,Diabetic Hand Syndrome,CTV3
+N0301,Diabetic Neuropathic Arthropathy,CTV3
+Q441.,Neonatal Diabetes Mellitus,CTV3
+R0542,[D]Gangrene Of Toe In Diabetic,CTV3
+R0543,[D]Widespread Diabetic Foot Gangrene,CTV3
+X00Ag,Diabetic Neuropathy,CTV3
+X00Ah,Diabetic Distal Sensorimotor Polyneuropathy,CTV3
+X00Ai,Diabetic Acute Painful Polyneuropathy,CTV3
+X00Aj,Diabetic Chronic Painful Polyneuropathy,CTV3
+X00Ak,Diabetic Asymmetric Polyneuropathy,CTV3
+X00Al,Diabetic Mononeuropathy,CTV3
+X00Am,Diabetic Truncal Radiculopathy,CTV3
+X00An,Diabetic Thoracic Radiculopathy,CTV3
+X00dF,Visually Threatening Diabetic Retinopathy,CTV3
+X00dG,Diabetic Maculopathy,CTV3
+X00dH,Proliferative Diabetic Retinopathy New Vessels On Disc,CTV3
+X00dI,Proliferative Diabet Retinop New Vessel Elsewhere Than Disc,CTV3
+X00dJ,Diabetic Traction Retinal Detachment,CTV3
+X30Kk,Diabetic Nephropathy,CTV3
+X30Kl,Microalbuminuric Diabetic Nephropathy,CTV3
+X30Km,Proteinuric Diabetic Nephropathy,CTV3
+X40J4,Type I Diabetes Mellitus,CTV3
+X40J5,Type Ii Diabetes Mellitus,CTV3
+X40J6,Insulin Treated Type 2 Diabetes Mellitus,CTV3
+X40JG,Genetic Syndromes Of Diabetes Mellitus,CTV3
+X40JI,Diabetes Mellitus Autosomal Dominant,CTV3
+X40JJ,Diabetes Mellitus Autosomal Dominant Type 2,CTV3
+X40JV,"Hypogonadism,Diab Mell,Alopec,Ment Retar Electro Abnorm",CTV3
+X40JW,"Megaloblastic Anaemia,Diab Mell And Sensorineural Deafness",CTV3
+X40JX,"Pineal Hyperplasia,Ins Res Diab Mell And Somatic Abnorm",CTV3
+X40JY,Insulin-Dependent Diabetes Mellitus Secretory Diarrhoea Synd,CTV3
+X40JZ,Diabetes-Deafness Syndrome Maternally Transmitted,CTV3
+X40Ja,Abnormal Metabolic State In Diabetes Mellitus,CTV3
+X40Jb,Diabetic Severe Hyperglycaemia,CTV3
+X40Jc,Poor Glycaemic Control,CTV3
+X40Je,Acute Hyperglycaemia,CTV3
+X40Jj,Pregnancy And Insulin-Dependent Diabetes Mellitus,CTV3
+X40Jk,Pregnancy And Non-Insulin-Dependent Diabetes Mellitus,CTV3
+X40Jo,Insulin Coma,CTV3
+X40Jq,Hypoglycaemic Event In Diabetes,CTV3
+X40Jr,Hypoglycaemic State In Diabetes,CTV3
+X40Js,Somogyi Phenomenon,CTV3
+X40Jt,Nocturnal Hypoglycaemia,CTV3
+X40KG,Insulin Resistance In Diabetes,CTV3
+X50E7,Insulin Lipohypertrophy,CTV3
+X50GO,Soft Tissue Complication Of Diabetes Mellitus,CTV3
+X50GP,Diabetic Dermopathy,CTV3
+X50GQ,Diabetic Bulla,CTV3
+X50GR,Diabetic Thick Skin Syndrome,CTV3
+X50GT,Diabetic Rubeosis,CTV3
+X74WS,Diabetic Monitoring Status,CTV3
+XE10E,"Diabetes Mellitus, Juvenile Type, No Mention Of Complication",CTV3
+XE10F,"Diabetes Mellitus, Adult Onset, No Mention Of Complication",CTV3
+XE10G,Diabetes Mellitus With Renal Manifestation,CTV3
+XE10H,Diabetes Mellitus With Neurological Manifestation,CTV3
+XE10I,Diabetes Mellitus With Peripheral Circulatory Disorder,CTV3
+XE10J,Hypoglycaemic Coma,CTV3
+XE128,Diabetes Mellitus (& [Ketoacidosis]),CTV3
+XE12A,Diabetes Mellitus: [Adult Onset] Or [Noninsulin Dependent],CTV3
+XE12C,Diabetes Mellitus: [Juvenile] Or [Insulin Dependent],CTV3
+XE12E,Diabetes + Nephropathy (& [Kimmelstiel-Wilson Syndrome]),CTV3
+XE12G,Diabetes + Eye Manifestation (& [Cataract] Or [Retinopathy]),CTV3
+XE12I,Diabetes + Neuropathy (& [Amyotrophy]),CTV3
+XE12K,Diabetes: [Peripheral Circulatory Disease] Or [Gangrene],CTV3
+XE12M,Diabetes With Other Complications,CTV3
+XE12Q,Hypoglycaemic Coma (& [Insulin]),CTV3
+XE15k,Diabetic Polyneuropathy,CTV3
+XE15n,Myasthenic Syndrome Due To Diabetic Amyotrophy,CTV3
+XE18r,(Secondary Cataract) Or (Diabetic Cataract),CTV3
+XE1T2,Diabetic Monitoring - Injection Sites,CTV3
+XE1T3,Diabetic - Poor Control,CTV3
+XE1V0,Diabetic Treatment Changed (& [Date]),CTV3
+XE1V2,Diabetic - Poor Control (& [Unstable]),CTV3
+XE24t,Hb. A1c - Diabetic Control,CTV3
+XE2Nd,Diabetes Monitoring Admin.,CTV3
+XE2Ne,Diabetes Monitoring Check Done,CTV3
+XM0cY,Diabetes Treatment Satisfaction Questionnaire,CTV3
+XM0cZ,Diabetes Wellbeing Questionnaire,CTV3
+XM0q4,Diabetic Coma,CTV3
+XM19i,[Edta]Diabetes Type I Associated With Renal Failure,CTV3
+XM19j,[Edta] Diabetes Type Ii Associated With Renal Failure,CTV3
+XM1Qx,Diabetes Mellitus With Gangrene,CTV3
+XM1Rs,Diabetes Clinic Administration,CTV3
+XM1Xk,Unstable Diabetes,CTV3
+XSETH,Maturity Onset Diabetes Mellitus In Young,CTV3
+XSETp,Diabetes Mellitus Due To Insulin Receptor Antibodies,CTV3
+Xa0lK,Diabetic (Femoral Mononeuropathy) & (Diabetic Amyotrophy),CTV3
+Xa1J5,Diabetic Foot,CTV3
+Xa2h7,Dietary Advice For Diabetes Mellitus,CTV3
+Xa2h9,Dietary Advice For Type I Diabetes,CTV3
+Xa2hA,Dietary Advice For Type Ii Diabetes,CTV3
+Xa3ee,Diabetes With Ketoacidosis - No Coma,CTV3
+Xa4g7,Unstable Type I Diabetes Mellitus,CTV3
+Xa9FG,Postpancreatectomy Hypoinsulinaemia,CTV3
+XaA6b,Perceived Control Of Insulin-Dependent Diabetes,CTV3
+XaBLf,O/E - Right Diabetic Foot At Risk,CTV3
+XaBLg,O/E - Left Diabetic Foot At Risk,CTV3
+XaBTC,Referral To Diabetic Liaison Nurse,CTV3
+XaBU8,Diabetes Monitoring Call,CTV3
+XaBU9,Diabetes Monitoring Status,CTV3
+XaBZQ,Subcutaneous Injection Of Insulin,CTV3
+XaBuj,Education Score - Diabetes,CTV3
+XaBul,Retinal Abnormality - Diabetes-Related,CTV3
+XaBun,Foot Abnormality - Diabetes-Related,CTV3
+XaBwj,H/O: Admission In Last Year For Diabetes Foot Problem,CTV3
+XaCES,Hba1 - Diabetic Control,CTV3
+XaCET,Hba1 Less Than 7% - Good Control,CTV3
+XaCEU,Hba1 7-10% - Borderline Control,CTV3
+XaCEV,Hba1 Greater Than 10% - Bad Control,CTV3
+XaCGh,Diabetes Monitoring Invitation,CTV3
+XaCJ2,Diabetic Hyperosmolar Non-Ketotic State,CTV3
+XaD2T,Advanced Diabetic Retinal Disease,CTV3
+XaE46,Referral To Diabetes Nurse,CTV3
+XaE4q,Attending Diabetes Clinic,CTV3
+XaE5T,Mild Non Proliferative Diabetic Retinopathy,CTV3
+XaE5U,Moderate Non Proliferative Diabetic Retinopathy,CTV3
+XaE5V,Severe Non Proliferative Diabetic Retinopathy,CTV3
+XaE5W,Proliferative Diabetic Retinopathy - Non High Risk,CTV3
+XaE5X,Proliferative Diabetic Retinopathy - High Risk,CTV3
+XaE5Y,Proliferative Diabetic Retinopathy - Quiescent,CTV3
+XaE5Z,Proliferative Diabetic Retinopathy - Iris Neovascularisation,CTV3
+XaE5a,Diabetic Vitreous Haemorrhage,CTV3
+XaE5c,Diabetic Macular Oedema,CTV3
+XaEHw,[V]Admitted For Conversion To Insulin,CTV3
+XaEHx,[V]Admitted For Commencement Of Insulin,CTV3
+XaEJQ,Seen In Diabetic Eye Clinic,CTV3
+XaELP,Type I Diabetes Mellitus Without Complication,CTV3
+XaELQ,Type Ii Diabetes Mellitus Without Complication,CTV3
+XaEVO,Diffuse Diabetic Maculopathy,CTV3
+XaEVP,Focal Diabetic Maculopathy,CTV3
+XaEVS,Ischaemic Diabetic Maculopathy,CTV3
+XaEVT,Mixed Diabetic Maculopathy,CTV3
+XaEgI,Diabetic On Insulin And Oral Treatment,CTV3
+XaEnn,Type I Diabetes Mellitus With Mononeuropathy,CTV3
+XaEno,Type I Diabetes Mellitus With Polyneuropathy,CTV3
+XaEnp,Type Ii Diabetes Mellitus With Mononeuropathy,CTV3
+XaEnq,Type Ii Diabetes Mellitus With Polyneuropathy,CTV3
+XaF04,Type I Diabetes Mellitus With Nephropathy,CTV3
+XaF05,Type Ii Diabetes Mellitus With Nephropathy,CTV3
+XaFWG,Type I Diabetes Mellitus With Hypoglycaemic Coma,CTV3
+XaFWI,Type Ii Diabetes Mellitus With Hypoglycaemic Coma,CTV3
+XaFm8,Type I Diabetes Mellitus With Diabetic Cataract,CTV3
+XaFmA,Type Ii Diabetes Mellitus With Diabetic Cataract,CTV3
+XaFmK,Type I Diabetes Mellitus With Peripheral Angiopathy,CTV3
+XaFmL,Type I Diabetes Mellitus With Arthropathy,CTV3
+XaFmM,Type I Diabetes Mellitus With Neuropathic Arthropathy,CTV3
+XaFn7,Type Ii Diabetes Mellitus With Peripheral Angiopathy,CTV3
+XaFn8,Type Ii Diabetes Mellitus With Arthropathy,CTV3
+XaFn9,Type Ii Diabetes Mellitus With Neuropathic Arthropathy,CTV3
+XaFsp,Diabetes Resolved,CTV3
+XaFvj,Diabetic Lipid Lowering Diet,CTV3
+XaFvk,Diabetic Weight Reducing Diet,CTV3
+XaFx7,Diab Mellit Insulin-Glucose Infus Acute Myocardial Infarct,CTV3
+XaIIe,Diabetes Care By Hospital Only,CTV3
+XaIIj,Diabetic Retinopathy Screening,CTV3
+XaIP5,Non Proliferative Diabetic Retinopathy,CTV3
+XaIPk,O/E - Diabetic Maculopathy Present Both Eyes,CTV3
+XaIQS,Refer To Diabetic Foot Screener,CTV3
+XaIW8,High Risk Non Proliferative Diabetic Retinopathy,CTV3
+XaIeH,O/E - Right Diabetic Foot At Low Risk,CTV3
+XaIeI,O/E - Right Diabetic Foot At High Risk,CTV3
+XaIeJ,O/E - Right Diabetic Foot - Ulcerated,CTV3
+XaIeK,O/E - Left Diabetic Foot - Ulcerated,CTV3
+XaIeL,O/E - Left Diabetic Foot At Low Risk,CTV3
+XaIeM,O/E - Left Diabetic Foot At High Risk,CTV3
+XaIeR,O/E - Left Diabetic Foot At Moderate Risk,CTV3
+XaIeS,O/E - Right Diabetic Foot At Moderate Risk,CTV3
+XaIeT,Diabetic Foot Risk Assessment,CTV3
+XaIeU,Diabetic Pre-Pregnancy Counselling,CTV3
+XaIeo,Diabetes: Shared Care In Pregnancy - Diabetol And Obstet,CTV3
+XaIfG,Type Ii Diabetes On Insulin,CTV3
+XaIfI,Type Ii Diabetes On Diet Only,CTV3
+XaIfM,Diabetes Medication Review,CTV3
+XaIok,Diabetic Monitoring Not Required,CTV3
+XaIrL,Diabetic Diet - Good Compliance,CTV3
+XaIrM,Diabetic Diet - Poor Compliance,CTV3
+XaIrf,Hyperosmolar Non-Ketotic State In Type Ii Diabetes Mellitus,CTV3
+XaIuE,Diabetic Foot Examination,CTV3
+XaIyt,Diabetic Peripheral Neuropathy Screening,CTV3
+XaIyu,Hypoglycaemic Attack Requiring 3rd Party Assistance,CTV3
+XaIyz,Diabetes Mellitus With Persistent Microalbuminuria,CTV3
+XaIz0,Diabetes Mellitus With Persistent Proteinuria,CTV3
+XaIzM,Type 1 Diabetes Mellitus With Persistent Proteinuria,CTV3
+XaIzN,Type 1 Diabetes Mellitus With Persistent Microalbuminuria,CTV3
+XaIzQ,Type Ii Diabetes Mellitus With Persistent Proteinuria,CTV3
+XaIzR,Type Ii Diabetes Mellitus With Persistent Microalbuminuria,CTV3
+XaJ4Q,Exception Reporting: Diabetes Quality Indicators,CTV3
+XaJ4h,Excepted From Diabetes Qual Indicators: Patient Unsuitable,CTV3
+XaJ4i,Excepted From Diabetes Quality Indicators: Informed Dissent,CTV3
+XaJ5j,Patient On Maximal Tolerated Therapy For Diabetes,CTV3
+XaJEN,Seen In Diabetic Foot Clinic,CTV3
+XaJLa,Diabetic Retinopathy 12 Month Review,CTV3
+XaJLb,Diabetic Retinopathy 6 Month Review,CTV3
+XaJO3,Under Care Of Diabetologist,CTV3
+XaJO4,Under Care Of Diabetes Specialist Nurse,CTV3
+XaJO9,Under Care Of Diabetic Foot Screener,CTV3
+XaJOD,Diabetic Retinopathy Screening Not Indicated,CTV3
+XaJOE,Diabetic Foot Examination Not Indicated,CTV3
+XaJOO,Patient Held Diabetic Record Issued,CTV3
+XaJOg,O/E - Right Eye Background Diabetic Retinopathy,CTV3
+XaJOh,O/E - Left Eye Background Diabetic Retinopathy,CTV3
+XaJOi,O/E - Right Eye Preproliferative Diabetic Retinopathy,CTV3
+XaJOj,O/E - Left Eye Preproliferative Diabetic Retinopathy,CTV3
+XaJOk,O/E - Right Eye Proliferative Diabetic Retinopathy,CTV3
+XaJOl,O/E - Left Eye Proliferative Diabetic Retinopathy,CTV3
+XaJOn,O/E - Right Eye Diabetic Maculopathy,CTV3
+XaJOo,O/E - Left Eye Diabetic Maculopathy,CTV3
+XaJQp,Type Ii Diabetes Mellitus With Exudative Maculopathy,CTV3
+XaJSr,Type 1 Diabetes Mellitus With Exudative Maculopathy,CTV3
+XaJUH,Insulin Autoimmune Syndrome,CTV3
+XaJYg,Diabetes Clinical Management Plan,CTV3
+XaJix,Diabetic Foot Examination Declined,CTV3
+XaJkQ,Diabetic Retinopathy Screening Refused,CTV3
+XaJlI,Pan Retinal Photocoagulation For Diabetes,CTV3
+XaKDG,O/E - Right Eye Stable Treated Prolif Diabetic Retinopathy,CTV3
+XaKDH,O/E - Left Eye Stable Treated Prolif Diabetic Retinopathy,CTV3
+XaKGs,Patient Diabetes Education Review,CTV3
+XaKGy,Referral To Diabetes Structured Education Programme,CTV3
+XaKH0,Attended Diabetes Structured Education Programme,CTV3
+XaKHD,Transition Of Diabetes Care Options Discussed,CTV3
+XaKHh,O/E - Right Chronic Diabetic Foot Ulcer,CTV3
+XaKHi,O/E - Left Chronic Diabetic Foot Ulcer,CTV3
+XaKOF,Patient Held Diabetic Record Declined,CTV3
+XaKSn,Diabetes Care Plan Agreed,CTV3
+XaKSp,Patient Offered Diabetes Structured Education Programme,CTV3
+XaKT5,Diabetic Patient Unsuitable For Digital Retinal Photography,CTV3
+XaKaW,Diabetic Retinopathy Screening Offered,CTV3
+XaKbu,Discharged From Care Of Diabetes Specialist Nurse,CTV3
+XaKcS,O/E - Sight Threatening Diabetic Retinopathy,CTV3
+XaKjW,Diabetic Monitoring - Injection Site Check Declined,CTV3
+XaKjX,Diabetic Monitoring - Injection Site Not Checked,CTV3
+XaKjY,Hypoglycaemic Warning Impaired,CTV3
+XaKjZ,Hypoglycaemic Warning Good,CTV3
+XaKtr,Insulin Therapy Declined,CTV3
+XaKvV,Insulin Needles Changed Daily,CTV3
+XaKvW,Insulin Needles Changed For Each Injection,CTV3
+XaKwQ,Diabetic 6 Month Review,CTV3
+XaKyW,Type 1 Diabetes Mellitus With Gastroparesis,CTV3
+XaKyX,Type Ii Diabetes Mellitus With Gastroparesis,CTV3
+XaKzO,Referral To Multidisciplinary Diabetic Clinic,CTV3
+XaL1R,Insulin Needles Changed Less Than Once A Day,CTV3
+XaL1S,Did Not Attend Diabetic Retinopathy Clinic,CTV3
+XaL2E,Diabetic Monitoring - Lower Risk Albumin Excretion,CTV3
+XaL2F,Diabetic Monitoring - Higher Risk Albumin Excretion,CTV3
+XaLMa,Referral To Diabetic Register,CTV3
+XaLMy,Patient Consent Given For Addition To Diabetic Register,CTV3
+XaLP3,Referral To Diabetic Eye Clinic,CTV3
+XaLSk,Diabetic - Adequate Control,CTV3
+XaLsL,Diabetic Digital Retinopathy Screening Offered,CTV3
+XaMFF,Referral For Diabetic Retinopathy Screening,CTV3
+XaMdq,Insulin Dose Changed,CTV3
+XaMhJ,Diabetes Type 1 Review,CTV3
+XaMhK,Diabetes Type Ii Review,CTV3
+XaMhQ,Referral To Community Diabetes Specialist Nurse,CTV3
+XaMzI,Cystic Fibrosis Related Diabetes Mellitus,CTV3
+XaN1z,Attend Diabetes Educ Self Manage Ongo New Diagn Struct Prog,CTV3
+XaNHW,Di Struc Educ Prog Co ([Di Struc Ed Prog Co] Sno Map Type),CTV3
+XaNT8,Attended Xpert Diabetes Structured Education Programme,CTV3
+XaNTA,Attended Dafne Diabetes Structured Education Programme,CTV3
+XaNTB,Dafne Diabetes Structured Education Programme Completed,CTV3
+XaNTC,Desmond Structured Programme Completed,CTV3
+XaNTD,Xpert Diabetes Structured Education Programme Completed,CTV3
+XaNTH,Diabetes Structured Education Programme Declined,CTV3
+XaNTQ,Referral To Dafne Diabetes Structured Education Programme,CTV3
+XaNTS,Referral To Desmond Diabetes Structured Programme,CTV3
+XaNTT,Referral To Xpert Diabetes Structured Education Programme,CTV3
+XaNTa,Did Not Attend Diabetes Structured Education Programme,CTV3
+XaNTd,Did Not Complete Diabetes Structured Education Programme,CTV3
+XaNTe,Did Not Complete Dafne Diabetes Structured Education Program,CTV3
+XaNTf,Did Not Complete Desmond Structured Programme,CTV3
+XaNTg,Did Not Complet Xpert Diabetes Structured Education Programm,CTV3
+XaNU1,Did Not Attend Dafne Diabetes Structured Education Programme,CTV3
+XaNU2,Did Not Attend Desmond Structured Programme,CTV3
+XaNU3,Did Not Attend Xpert Diabetes Structured Education Programme,CTV3
+XaON1,Referral To Diabetes Special Interest General Practitioner,CTV3
+XaOPt,Maternally Inherited Diabetes Mellitus,CTV3
+XaOPu,Latent Autoimmune Diabetes Mellitus In Adult,CTV3
+XaP4P,Referral To Children's Diabetes Nurse Specialist,CTV3
+XaP5E,Insulin Initiation Enhanced Services Administration,CTV3
+XaP63,Insulin Treatment Initiated,CTV3
+XaPQH,Diabetic Foot Screen,CTV3
+XaPaa,Eligible For Diabetic Retinopathy Screening,CTV3
+XaPab,Ineligible For Diabetic Retinopathy Screening,CTV3
+XaPac,Eligibility Temporarily Inactive For Diabetic Retinop Screen,CTV3
+XaPad,Eligibility Permanently Inactive For Diabetic Retinop Screen,CTV3
+XaPbv,Does Rotate Site Of Insulin Injection,CTV3
+XaPem,Diabetic Retinopathy Screening Administrative Status,CTV3
+XaPen,Impaired Vision Due To Diabetic Retinopathy,CTV3
+XaPjH,Excluded From Diabetic Retinopathy Screening As Moved Away,CTV3
+XaPjI,Excluded From Diabetic Retinopathy Screening As Deceased,CTV3
+XaPjJ,Excluded Diabetc Retinop Screen As Under Care Ophthalmolgist,CTV3
+XaPjK,Excluded From Diabetic Retinopathy Screening As Blind,CTV3
+XaPjL,Excluded From Diabetic Retinop Screen As No Longer Diabetic,CTV3
+XaPjM,Declined Diabetic Retinopathy Screening,CTV3
+XaPjN,Excluded Frm Diab Retinop Screen As No Currnt Contct Details,CTV3
+XaPjO,Excluded Frm Diabetic Retinopathy Screen As Terminal Illness,CTV3
+XaPjP,Excluded From Diabetic Retinopthy Screen As Learn Disability,CTV3
+XaPjQ,Excluded From Diabetic Retinopathy Screen Physical Disorder,CTV3
+XaPjR,Excluded From Diabetic Retinopathy Screening,CTV3
+XaPmW,Diabetic Femoral Mononeuropathy,CTV3
+XaPmX,Diabetic Amyotrophy,CTV3
+XaQGH,Discharged From Diabetes Shared Care Programme,CTV3
+XaQdT,Diabetes Self Management Plan,CTV3
+XaQjs,Unsuitable For Diabetes Year Of Care Programme,CTV3
+XaR8L,Education In Self Management Of Diabetes,CTV3
+XaRGt,Diabetic On Subcutaneous Treatment,CTV3
+XaX0F,Excepted From Diabetes Qual Indicators: Service Unavailable,CTV3
+XaX1n,Diabetes Monitor Invitation By Sms (Short Message Service),CTV3
+XaX3o,Diabetic Dietary Review,CTV3
+XaX3p,Type I Diabetic Dietary Review,CTV3
+XaX3q,Type Ii Diabetic Dietary Review,CTV3
+XaX3r,Diabetic Dietary Review Declined,CTV3
+XaX49,Referral To Type I Diabetes Structured Education Programme,CTV3
+XaX5D,Diabetes Structured Education Programme Completed,CTV3
+XaX6J,O/E - Right Diabetic Foot At Increased Risk,CTV3
+XaX6K,O/E - Left Diabetic Foot At Increased Risk,CTV3
+XaX8e,Advised ([?And/Or Advice ?And/Or Eductn]) Diabetes Driving,CTV3
+XaXH5,Diabetic Monitoring - Injection Sites Normal,CTV3
+XaXH6,Diabetic Monitoring - Injection Sites Abnormal,CTV3
+XaXHD,Did Not Attend Diabetes Foot Screening,CTV3
+XaXOw,Incretin Mimetic Dose Changed,CTV3
+XaXZB,H/O: Autosomal Dominant Diabetes Mellitus,CTV3
+XaXZR,H/O: Diabetes Mellitus Type 2,CTV3
+XaXZv,H/O: Diabetes Mellitus Type 1,CTV3
+XaXbW,Symptomatic Diabetic Peripheral Neuropathy,CTV3
+XaXfs,Diabetic Retinopathy Detected By National Screening Program,CTV3
+XaXgv,Diabetic Erectile Dysfunction Review,CTV3
+XaXhE,Diabetic Assessment Of Erectile Dysfunction,CTV3
+XaXkZ,Referral To Desmond Structured Programme Declined,CTV3
+XaXoT,No Evidence Of Diabetic Nephropathy,CTV3
+XaXv9,Diabetes Care Plan Declined,CTV3
+XaYWU,Referral To Diabetic Clinic,CTV3
+XaYZP,Diabetes Self-Management Plan Review,CTV3
+XaYaB,Referral To Community Diabetes Service,CTV3
+XaYbB,Diabetes Self-Management Plan Agreed,CTV3
+XaZCO,Provision Of Diabetes Clinical Summary,CTV3
+XaZKr,Insulin Administration Education,CTV3
+XaZMQ,Diabetes Quality Of Life Questionnaire,CTV3
+XaZNW,Referral To Community Diabetes Specialist Nurse Declined,CTV3
+XaZRZ,Referral To Community Diabetes Clinic,CTV3
+XaZS6,Date Insulin Pump Therapy Started,CTV3
+XaZig,Diabetes Clinical Pathway,CTV3
+XaZlw,Does Monitor Blood Glucose Level Before Driving,CTV3
+XaZpJ,Provision Of Written Information About Diabetes And Driving,CTV3
+XaZuQ,Referral To Dafne Diabetes Structured Educn Prog Declined,CTV3
+XaZw5,Diabetic Foot Screening Invitation,CTV3
+XaZw7,Diabetic Foot Screening Invitation First Letter,CTV3
+XaZw8,Diabetic Foot Screening Invitation Second Letter,CTV3
+XaZyM,Diabetic Foot Screening Invitation Third Letter,CTV3
+Xaa8r,Erectile Dysfunction Due To Diabetes Mellitus,CTV3
+XaaCR,In-House Diabetic Foot Screening,CTV3
+XaaCS,In-House Diabetic Foot Screening First Appointment,CTV3
+XaaCU,In-House Diabetic Foot Screening Follow-Up Appointment,CTV3
+XaaJJ,Conversion To Insulin In Secondary Care,CTV3
+XaaJK,Conversion To Insulin By Diabetes Specialist Nurse,CTV3
+XaaNP,Insulin Passport Not Checked,CTV3
+XaaaR,Education About Diabetes And Driving,CTV3
+XaadP,Diabetes Structured Education Programme Not Available,CTV3
+XaaeP,Non-Diabetic Hyperglycaemia,CTV3
+Xaag1,Diabetes Year Of Care Annual Review,CTV3
+Xaaq3,Hypoglycaemic Warning Absent,CTV3
+XabAX,Diabetes Distress Scale 17 Item,CTV3
+XabQM,Conversion To Non-Insulin Injectable Medication,CTV3
+XabZd,Diabetic Foot Care Education,CTV3
+Xabhn,Discharge From Secondary Care Diabetes Service,CTV3
+XabjM,Enquiry About Diabetic Erectile Dysfunction Declined,CTV3
+Xac0x,Diabetic Peripheral Neuropathic Pain,CTV3
+XacIu,Joint Consultn Pracse Nurse & Comm Diabetes Specialist Nurse,CTV3
+XacXh,Diabetic On Non-Insulin Injectable Medication,CTV3
+XacXr,Provision Of Diabetes Identity Card,CTV3
+XacY8,Has Diabetes Identity Card,CTV3
+XaccX,Diabetic Injection Administration Education,CTV3
+XaceC,Not Suitable For Desmond Programme,CTV3
+XacoB,Maturity Onset Diabetes Of The Young Type 5,CTV3
+XacsX,Diabetic On Oral Treatment And Glucagon-Like Peptide 1,CTV3
+XacsY,Diabetic On Insulin And Glucagon-Like Peptide 1,CTV3
+Xacu2,Recommendation Self-Refer For Diabetes Structured Education,CTV3
+Xad5D,Diabetic Carbohydrate Counting Diet,CTV3
+XaeBz,Under Care Of Hospital-Based Diabetes Specialist Nurse,CTV3
+XaeC0,Under Care Of Community-Based Diabetes Specialist Nurse,CTV3
+XaeWH,X-Pert First Steps Diabetes Self-Management Programme Complt,CTV3
+Xaes7,Hypoglycaemic Attack - Attendance By Ambulance Crew,CTV3
+Xaffg,Type 2 Diabetes Mellitus Risk Assessment Invitation,CTV3
+Xaffh,Type 2 Diabetes Mellitus Risk Assessment Inv First Letter,CTV3
+Xaffi,Type 2 Diabetes Mellitus Risk Assessment Inv Second Letter,CTV3
+Xaffj,Type 2 Diabetes Mellitus Risk Assessment Inv Third Letter,CTV3
+Xaffk,Type 2 Diabetes Mellitus Risk Assessment Verbal Invitation,CTV3
+Xaffl,Type 2 Diabetes Mellitus Risk Assessment Telephone Inv,CTV3
+Xaffm,Type 2 Diabetes Mellitus Risk Assessment Inv Sms Text Msg,CTV3
+Xafj0,Diabetes Monitoring Short Msg Service Text Msg 1st Invitaton,CTV3
+Xafj1,Diabetes Monitoring Short Msg Service Text Msg 2nd Invitaton,CTV3
+Xafj2,Diabetes Monitoring Short Msg Service Text Msg 3rd Invitaton,CTV3
+XafjT,Eating Disorder Co-Occurrent With Diabetes Mellitus Type 1,CTV3
+XagLc,Diabetes Monitoring Invitation Email,CTV3
+Xagk3,Skin Ulcer Associated With Diabetes Mellitus,CTV3
+Y0022,Age Diabetes Diagnosed,CTV3
+Y0502,No Diabetic Retinopathy,CTV3
+Y0505,Advanced Artificial Eye Disease,CTV3
+Y0c48,Diabetic Foot Examined Left,CTV3
+Y0c49,Diabetic Foot Examined Right,CTV3
+Y1f9a,Quality And Outcomes Framework Diabetes Mellitus Quality Indicator-Related Care Invitation (Procedure),CTV3
+Y204f,Remote Diabetes Structured Education And Support Programme Commenced,CTV3
+Y205a,Remote Diabetes Structured Education And Support Programme Completed,CTV3
+Y205b,Did Not Commence Remote Structured Diabetes Education And Support Programme,CTV3
+Y20bf,Change In Insulin Dose,CTV3
+Y9993,Unspecified Diabetes Mellitus,CTV3
+YX128,Attending Diabetes Satellite Clinic,CTV3
+314010006,Diffuse Exudative Maculopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+232021008,Proliferative Diabetic Retinopathy With New Vessels On Disc (Disorder),SNOMED-CT
+428274007,Dietary Education For Type Ii Diabetes Mellitus (Procedure),SNOMED-CT
+426705001,Diabetes Mellitus Co-Occurrent And Due To Cystic Fibrosis (Disorder),SNOMED-CT
+1065461000000102,Type 2 Diabetes Mellitus Risk Assessment Invitation First Letter (Procedure),SNOMED-CT
+190372001,Type I Diabetes Mellitus Maturity Onset (Disorder),SNOMED-CT
+857921000000103,Provision Of Written Information About Diabetes And Driving (Procedure),SNOMED-CT
+48951005,Bullosis Diabeticorum (Disorder),SNOMED-CT
+170778005,Annual Diabetic Blood Test (Regime/Therapy),SNOMED-CT
+1065471000000109,Type 2 Diabetes Mellitus Risk Assessment Invitation Second Letter (Procedure),SNOMED-CT
+198501000000100,Diabetic 6 Month Review (Regime/Therapy),SNOMED-CT
+1065481000000106,Type 2 Diabetes Mellitus Risk Assessment Invitation Third Letter (Procedure),SNOMED-CT
+394681008,On Examination - Left Diabetic Foot At Moderate Risk (Finding),SNOMED-CT
+367011000000100,Diabetic Foot Screen (Regime/Therapy),SNOMED-CT
+417467000,Discharged From Care Of Diabetes Specialist Nurse (Finding),SNOMED-CT
+923361000000106,Diabetic Foot Care Education (Procedure),SNOMED-CT
+421986006,Persistent Proteinuria Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+306531000000104,Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme Completed (Situation),SNOMED-CT
+73211009,Diabetes Mellitus (Disorder),SNOMED-CT
+719566006,Diabetic On Non-Insulin Injectable Medication (Finding),SNOMED-CT
+308755006,Subcutaneous Injection Of Insulin (Procedure),SNOMED-CT
+201961000000104,Referral To Diabetic Register (Procedure),SNOMED-CT
+422088007,Disorder Of Nervous System Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+415270003,Referral To Diabetes Structured Education Program (Procedure),SNOMED-CT
+894741000000107,Hypoglycaemic Warning Absent (Disorder),SNOMED-CT
+473209001,Diabetic Erectile Dysfunction Review (Regime/Therapy),SNOMED-CT
+422014003,Disorder Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+170761001,Diabetic Treatment Changed (Situation),SNOMED-CT
+46635009,Diabetes Mellitus Type 1 (Disorder),SNOMED-CT
+170760000,Diabetic Drug Side Effects (Finding),SNOMED-CT
+398140007,Somogyi Phenomenon (Disorder),SNOMED-CT
+860981000000106,Referral To Dose Adjustment For Normal Eating Diabetes Structured Education Programme Declined (Situation),SNOMED-CT
+193350004,Advanced Maculopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+407672007,Seen In Diabetic Foot Clinic (Finding),SNOMED-CT
+983451000000106,Diabetic Carbohydrate Counting Diet (Finding),SNOMED-CT
+700449008,Non-Diabetic Hyperglycemia (Disorder),SNOMED-CT
+182780004,Diabetic Crisis Monitoring (Regime/Therapy),SNOMED-CT
+944141000000108,Diabetic Peripheral Neuropathic Pain (Finding),SNOMED-CT
+421893009,Renal Disorder Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+394673007,On Examination - Right Diabetic Foot - Ulcerated (Finding),SNOMED-CT
+182781000,Diabetic Stabilization (Regime/Therapy),SNOMED-CT
+232020009,Disorder Of Macula Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+838731000000104,Referral To Community Diabetes Specialist Nurse Declined (Situation),SNOMED-CT
+185758007,Diabetes Monitoring Third Letter (Procedure),SNOMED-CT
+193141005,Mononeuritis Multiplex Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+237599002,Insulin Treated Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+408409007,On Examination - Right Eye Background Diabetic Retinopathy (Disorder),SNOMED-CT
+198481000000109,Insulin Needles Changed For Each Injection (Finding),SNOMED-CT
+887861000000105,Diabetes Year Of Care Annual Review (Regime/Therapy),SNOMED-CT
+312904009,Moderate Nonproliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+787061000000100,Diabetes Care Plan Declined (Situation),SNOMED-CT
+26298008,Diabetic Coma With Ketoacidosis (Disorder),SNOMED-CT
+313340009,Seen In Diabetic Eye Clinic (Finding),SNOMED-CT
+334711000000100,Referral To Diabetes Special Interest General Practitioner (Procedure),SNOMED-CT
+781161000000107,Referral To Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme Declined (Situation),SNOMED-CT
+1065511000000100,Type 2 Diabetes Mellitus Risk Assessment Invitation Short Message Service Text Message (Procedure),SNOMED-CT
+195302000,Gangrene Of Toe (Disorder),SNOMED-CT
+230579006,Thoracic Radiculopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+713705003,Polyneuropathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+441922002,Does Rotate Site Of Insulin Injection (Finding),SNOMED-CT
+870681000000109,In-House Diabetic Foot Screening (Procedure),SNOMED-CT
+199481000000100,Diabetic Monitoring - Lower Risk Albumin Excretion (Finding),SNOMED-CT
+315207000,Diabetic Lipid Lowering Diet (Finding),SNOMED-CT
+374661000000106,Excluded From Diabetic Retinopathy Screening As Under Care Of Ophthalmologist (Finding),SNOMED-CT
+190411003,Malnutrition-Related Diabetes Mellitus With Multiple Complications (Disorder),SNOMED-CT
+312908007,Proliferative Diabetic Retinopathy - Quiescent (Disorder),SNOMED-CT
+165681007,Hemoglobin A1c Greater Than 10% Indicating Poor Diabetic Control (Finding),SNOMED-CT
+170753006,Understands Diet - Diabetes (Finding),SNOMED-CT
+312907002,Proliferative Diabetic Retinopathy - High Risk (Disorder),SNOMED-CT
+201723002,Diabetic Hand Syndrome (Disorder),SNOMED-CT
+238983004,Diabetic Thick Skin Syndrome (Disorder),SNOMED-CT
+237622006,Poor Glycemic Control (Disorder),SNOMED-CT
+238894004,Insulin Lipohypertrophy (Disorder),SNOMED-CT
+237627000,Pregnancy And Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+374811000000108,Excluded From Diabetic Retinopathy Screening As Terminal Illness (Finding),SNOMED-CT
+385051000000106,Pre-Existing Diabetes Mellitus (Disorder),SNOMED-CT
+170745003,Diabetic On Diet Only (Finding),SNOMED-CT
+867891000000101,Erectile Dysfunction Due To Diabetes Mellitus (Disorder),SNOMED-CT
+775841000000109,Diabetic Retinopathy Detected By National Screening Programme (Disorder),SNOMED-CT
+190389009,Type Ii Diabetes Mellitus With Ulcer (Disorder),SNOMED-CT
+183781007,Listed For Diabetology Admission (Finding),SNOMED-CT
+717421000000100,Excepted From Diabetes Quality Indicators - Patient Unsuitable (Finding),SNOMED-CT
+414906009,On Examination - Right Chronic Diabetic Foot Ulcer (Finding),SNOMED-CT
+769244003,Disorder Of Right Macula Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+59276001,Proliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+1066931000000108,Diabetes Monitoring Short Message Service Text Message Third Invitation (Procedure),SNOMED-CT
+190331003,Type 2 Diabetes Mellitus With Hyperosmolar Coma (Disorder),SNOMED-CT
+421895002,Peripheral Vascular Disorder Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+373031000000105,Diabetic Retinopathy Screening Administrative Status (Finding),SNOMED-CT
+303059007,Postpancreatectomy Hypoinsulinemia (Disorder),SNOMED-CT
+408413000,On Examination - Right Eye Proliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+374631000000101,Excluded From Diabetic Retinopathy Screening As Deceased (Finding),SNOMED-CT
+420715001,Persistent Microalbuminuria Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+755491000000100,Diabetes Structured Education Programme Completed (Situation),SNOMED-CT
+198321000000100,Insulin Therapy Declined (Situation),SNOMED-CT
+193184006,Chronic Painful Diabetic Neuropathy (Disorder),SNOMED-CT
+230577008,Mononeuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+280137006,Diabetic Foot (Disorder),SNOMED-CT
+371871000000101,Eligibility Permanently Inactive For Diabetic Retinopathy Screening (Finding),SNOMED-CT
+420486006,Exudative Maculopathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+444073006,Type I Diabetes Mellitus Uncontrolled (Finding),SNOMED-CT
+314904008,Type Ii Diabetes Mellitus With Neuropathic Arthropathy (Disorder),SNOMED-CT
+420270002,Ketoacidosis In Type I Diabetes Mellitus (Disorder),SNOMED-CT
+170769004,Diabetic - Cooperative Patient (Finding),SNOMED-CT
+811981000000102,Diabetes Self-Management Plan Agreed (Finding),SNOMED-CT
+374901000000103,Excluded From Diabetic Retinopathy Screening (Finding),SNOMED-CT
+25093002,Disorder Of Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+344061000000104,Referral To Children's Diabetes Nurse Specialist (Procedure),SNOMED-CT
+878011000000108,Insulin Passport Not Checked (Situation),SNOMED-CT
+394684000,Diabetic Pre-Pregnancy Education (Procedure),SNOMED-CT
+314771006,Type I Diabetes Mellitus With Hypoglycemic Coma (Disorder),SNOMED-CT
+308106006,On Examination - Left Diabetic Foot At Risk (Disorder),SNOMED-CT
+11530004,Brittle Diabetes Mellitus (Finding),SNOMED-CT
+472969004,History Of Diabetes Mellitus Type 2 (Situation),SNOMED-CT
+306471000000103,Dose Adjustment For Normal Eating Diabetes Structured Education Programme Completed (Situation),SNOMED-CT
+273413007,Diabetes Wellbeing Questionnaire (Assessment Scale),SNOMED-CT
+193183000,Acute Painful Diabetic Neuropathy (Disorder),SNOMED-CT
+198471000000107,Insulin Needles Changed Daily (Finding),SNOMED-CT
+311366001,Kimmelstiel-Wilson Syndrome (Disorder),SNOMED-CT
+809391000000101,Referral To Diabetes Clinic (Procedure),SNOMED-CT
+494961000000102,Discharged From Diabetes Shared Care Programme (Finding),SNOMED-CT
+197605007,Nephrotic Syndrome Due To Diabetes Mellitus (Disorder),SNOMED-CT
+394683006,Diabetic Foot Risk Assessment (Procedure),SNOMED-CT
+773001000000103,Symptomatic Diabetic Peripheral Neuropathy (Disorder),SNOMED-CT
+185754009,Refuses Diabetes Monitoring (Situation),SNOMED-CT
+237616002,"Hypogonadism, Diabetes Mellitus, Alopecia, Mental Retardation And Electrocardiographic Abnormalities (Disorder)",SNOMED-CT
+127014009,Diabetic Peripheral Angiopathy (Disorder),SNOMED-CT
+395049009,Diabetic Monitoring Not Required (Finding),SNOMED-CT
+390890005,Refer To Diabetic Foot Screener (Procedure),SNOMED-CT
+237621004,Diabetic Severe Hyperglycemia (Disorder),SNOMED-CT
+754141000000100,Diabetic Dietary Review Declined (Situation),SNOMED-CT
+1065501000000102,Type 2 Diabetes Mellitus Risk Assessment Telephone Invitation (Procedure),SNOMED-CT
+185756006,Diabetes Monitoring First Letter (Procedure),SNOMED-CT
+198831000000108,Referral To Multidisciplinary Diabetic Clinic (Procedure),SNOMED-CT
+312912001,Macular Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+185760009,Diabetes Monitoring Telephone Invite (Procedure),SNOMED-CT
+204061000000100,Diabetic - Adequate Control (Finding),SNOMED-CT
+769245002,Disorder Of Left Macula Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+1067201000000106,Eating Disorder Co-Occurrent With Diabetes Mellitus Type 1 (Disorder),SNOMED-CT
+870741000000109,In-House Diabetic Foot Screening Follow-Up Appointment (Procedure),SNOMED-CT
+756381000000100,On Examination - Left Diabetic Foot At Increased Risk (Finding),SNOMED-CT
+909441000000109,Diabetes Distress Scale 17 Item (Assessment Scale),SNOMED-CT
+183722003,Diabetology Domiciliary Visit Requested (Finding),SNOMED-CT
+374871000000103,Excluded From Diabetic Retinopathy Screening As Physical Disorder (Finding),SNOMED-CT
+74627003,Diabetic Complication (Disorder),SNOMED-CT
+365845005,Hemoglobin A1c - Diabetic Control Finding (Finding),SNOMED-CT
+374601000000107,Excluded From Diabetic Retinopathy Screening As Moved Away (Finding),SNOMED-CT
+236499007,Microalbuminuric Diabetic Nephropathy (Disorder),SNOMED-CT
+199301000000100,Did Not Attend Diabetic Retinopathy Clinic (Finding),SNOMED-CT
+306701000000102,Referral To Dose Adjustment For Normal Eating Diabetes Structured Education Programme (Procedure),SNOMED-CT
+876381000000100,Conversion To Insulin By Diabetes Specialist Nurse (Regime/Therapy),SNOMED-CT
+306861000000107,Did Not Attend Diabetes Structured Education Programme (Finding),SNOMED-CT
+429094000,Dietary Education For Type I Diabetes Mellitus (Procedure),SNOMED-CT
+190368000,Type I Diabetes Mellitus With Ulcer (Disorder),SNOMED-CT
+190330002,Type 1 Diabetes Mellitus With Hyperosmolar Coma (Disorder),SNOMED-CT
+408394009,Under Care Of Diabetic Foot Screener (Finding),SNOMED-CT
+810961000000103,Diabetes Self-Management Plan Review (Procedure),SNOMED-CT
+238982009,Diabetic Dermopathy (Disorder),SNOMED-CT
+918891000000108,Conversion To Non-Insulin Injectable Medication (Situation),SNOMED-CT
+24481000000101,Type 2 Diabetes On Diet Only (Finding),SNOMED-CT
+735985000,Diabetes Self Management Plan (Record Artifact),SNOMED-CT
+754101000000103,Type I Diabetic Dietary Review (Regime/Therapy),SNOMED-CT
+310425007,Diabetes Monitoring Invitation (Procedure),SNOMED-CT
+420422005,Ketoacidosis In Diabetes Mellitus (Disorder),SNOMED-CT
+344641000000106,Insulin Initiation - Enhanced Services Administration (Procedure),SNOMED-CT
+703040004,Agreeing On Diabetes Care Plan (Procedure),SNOMED-CT
+421847006,Ketoacidotic Coma In Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+43959009,Cataract Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+310505005,Diabetic Hyperosmolar Non-Ketotic State (Disorder),SNOMED-CT
+398985007,Diabetic Monitoring - Injection Sites Normal (Finding),SNOMED-CT
+193349004,Preproliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+237619009,Diabetes-Deafness Syndrome Maternally Transmitted (Disorder),SNOMED-CT
+170772006,Date Diabetic Treatment Start (Regime/Therapy),SNOMED-CT
+414890007,On Examination - Left Chronic Diabetic Foot Ulcer (Finding),SNOMED-CT
+170777000,Diabetic Annual Review (Regime/Therapy),SNOMED-CT
+394676004,On Examination - Left Diabetic Foot At High Risk (Finding),SNOMED-CT
+195303005,Gangrene Of Foot (Disorder),SNOMED-CT
+111552007,Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+308505000,Diabetes Monitoring Call (Procedure),SNOMED-CT
+268519009,Diabetic - Poor Control (Finding),SNOMED-CT
+307021000000105,Did Not Complete Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme (Situation),SNOMED-CT
+885931000000100,Diabetes Structured Education Programme Not Available (Situation),SNOMED-CT
+1065491000000108,Type 2 Diabetes Mellitus Risk Assessment Verbal Invitation (Procedure),SNOMED-CT
+412752009,Diabetic Foot Examination Declined (Situation),SNOMED-CT
+314903002,Type Ii Diabetes Mellitus With Arthropathy (Disorder),SNOMED-CT
+829521000000104,Provision Of Diabetes Clinical Summary (Procedure),SNOMED-CT
+395204000,Hyperosmolar Non-Ketotic State In Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+421750000,Ketoacidosis In Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+609561005,Maturity-Onset Diabetes Of The Young (Disorder),SNOMED-CT
+170746002,Diabetic On Oral Treatment (Finding),SNOMED-CT
+408405001,Patient Held Diabetic Record Issued (Record Artifact),SNOMED-CT
+314011005,Focal Exudative Maculopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+25351000000101,Diabetic Diet - Good Compliance (Finding),SNOMED-CT
+75682002,Diabetes Mellitus Caused By Insulin Receptor Antibodies (Disorder),SNOMED-CT
+314014002,Ischemic Maculopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+390834004,Nonproliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+408412005,On Examination - Left Eye Preproliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+739681000,Disorder Of Eye Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+420789003,Retinopathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+306591000000103,Diabetes Structured Education Programme Declined (Situation),SNOMED-CT
+313436004,Type Ii Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+25361000000103,Diabetic Diet - Poor Compliance (Finding),SNOMED-CT
+862481000000103,Diabetic Foot Screening Invitation Third Letter (Procedure),SNOMED-CT
+420279001,Renal Disorder Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+268517006,Diabetic Monitoring - Injection Sites (Finding),SNOMED-CT
+312856000,Referral To Diabetes Nurse (Procedure),SNOMED-CT
+306401000000106,Attended Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme (Finding),SNOMED-CT
+700414001,Education About Diabetes And Driving (Procedure),SNOMED-CT
+232023006,Traction Retinal Detachment Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+413597006,Attended Diabetes Structured Education Program (Finding),SNOMED-CT
+345041000000101,Insulin Treatment Initiated (Finding),SNOMED-CT
+170748001,Last Hypoglycemia Attack (Finding),SNOMED-CT
+390854003,On Examination - Diabetic Maculopathy Present Both Eyes (Situation),SNOMED-CT
+819301000000105,Diabetes Monitoring Injection Site Check Declined (Situation),SNOMED-CT
+237623001,Acute Hyperglycemia (Disorder),SNOMED-CT
+306741000000104,Referral To Diabetes Education And Self Management For Ongoing And Newly Diagnosed Diabetes Structured Programme (Procedure),SNOMED-CT
+394682001,On Examination - Right Diabetic Foot At Moderate Risk (Finding),SNOMED-CT
+407569005,Patient On Maximal Tolerated Therapy For Diabetes (Finding),SNOMED-CT
+267604001,Myasthenic Syndrome Due To Diabetic Amyotrophy (Disorder),SNOMED-CT
+408396006,Diabetic Retinopathy Screening Not Indicated (Situation),SNOMED-CT
+609562003,"Maturity Onset Diabetes Of The Young, Type 1 (Disorder)",SNOMED-CT
+399871005,Visually Threatening Diabetic Retinopathy (Disorder),SNOMED-CT
+472972006,History Of Maturity Onset Diabetes Mellitus In Young (Situation),SNOMED-CT
+230576004,Asymmetric Polyneuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+232022001,Proliferative Diabetic Retinopathy With New Vessels Elsewhere Than On Disc (Disorder),SNOMED-CT
+415744000,Transition Of Diabetes Care Options Discussed (Situation),SNOMED-CT
+394672002,On Examination - Right Diabetic Foot At High Risk (Finding),SNOMED-CT
+420756003,Cataract Co-Occurrent And Due To Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+306501000000105,Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme Completed (Situation),SNOMED-CT
+527691000000107,Diabetic On Subcutaneous Treatment (Finding),SNOMED-CT
+420868002,Disorder Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+183751004,Diabetology Domiciliary Visit Done (Finding),SNOMED-CT
+408384004,Diabetic Retinopathy 12 Month Review (Finding),SNOMED-CT
+165680008,Hemoglobin A1c Between 7%-10% Indicating Borderline Diabetic Control (Finding),SNOMED-CT
+421920002,Cataract Co-Occurrent And Due To Diabetes Mellitus Type 1 (Disorder),SNOMED-CT
+267384006,Hypoglycemic Coma (Disorder),SNOMED-CT
+401191002,Diabetic Foot Examination (Regime/Therapy),SNOMED-CT
+307171000000108,Did Not Attend Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme (Finding),SNOMED-CT
+512561000000108,Unsuitable For Diabetes Year Of Care Programme (Finding),SNOMED-CT
+170765005,Chronic Hyperglycemia (Disorder),SNOMED-CT
+1024571000000100,Under Care Of Community-Based Diabetes Specialist Nurse (Finding),SNOMED-CT
+783901000000107,No Evidence Of Diabetic Nephropathy (Situation),SNOMED-CT
+408414006,On Examination - Left Eye Proliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+763782001,Provision Of Patient Held Diabetes Record Refused (Situation),SNOMED-CT
+422166005,Peripheral Circulatory Disorder Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+335621000000101,Maternally Inherited Diabetes Mellitus (Disorder),SNOMED-CT
+185759004,Diabetes Monitoring Verbal Invite (Procedure),SNOMED-CT
+5969009,Diabetes Mellitus Associated With Genetic Syndrome (Disorder),SNOMED-CT
+24451000000107,Diabetes: Shared Care In Pregnancy - Diabetologist And Obstetrician (Finding),SNOMED-CT
+180178009,Continuous Subcutaneous Infusion Of Insulin (Procedure),SNOMED-CT
+422126006,Hyperosmolar Coma Associated With Diabetes Mellitus (Disorder),SNOMED-CT
+408391001,Under Care Of Diabetologist (Finding),SNOMED-CT
+185761008,Diabetes Monitoring Deleted (Finding),SNOMED-CT
+851991000000108,Diabetes Quality Of Life Questionnaire Score (Observable Entity),SNOMED-CT
+230574001,Acute Painful Polyneuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+756391000000103,On Examination - Right Diabetic Foot At Increased Risk (Finding),SNOMED-CT
+126534007,Mixed Sensorimotor Polyneuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+609572000,"Maturity-Onset Diabetes Of The Young, Type 5 (Disorder)",SNOMED-CT
+170770003,Diabetic-Uncooperative Patient (Finding),SNOMED-CT
+720504004,Not Suitable For Diabetes Education And Self Management For Ongoing And Newly Diagnosed Program (Finding),SNOMED-CT
+422099009,Disorder Of Eye Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+414910007,On Examination - Right Eye Stable Treated Proliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+190388001,Type Ii Diabetes Mellitus With Multiple Complications (Disorder),SNOMED-CT
+421631007,Gangrene Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+33559001,Pineal Hyperplasia And Diabetes Mellitus Syndrome (Disorder),SNOMED-CT
+309593006,Education Score - Diabetes (Assessment Scale),SNOMED-CT
+977201000000107,Recommendation To Self-Refer For Diabetes Structured Education (Procedure),SNOMED-CT
+421075007,Ketoacidotic Coma In Type I Diabetes Mellitus (Disorder),SNOMED-CT
+956781000000107,Joint Consultation With Practice Nurse And Community Diabetes Specialist Nurse (Procedure),SNOMED-CT
+754461000000105,Referral To Type I Diabetes Structured Education Programme (Procedure),SNOMED-CT
+422034002,Retinopathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+719570003,Provision Of Diabetes Identity Card (Procedure),SNOMED-CT
+876361000000109,Conversion To Insulin In Secondary Care (Regime/Therapy),SNOMED-CT
+754121000000107,Type Ii Diabetic Dietary Review (Regime/Therapy),SNOMED-CT
+236500003,Proteinuric Diabetic Nephropathy (Disorder),SNOMED-CT
+134395001,Diabetic Retinopathy Screening (Procedure),SNOMED-CT
+31211000119101,Peripheral Angiopathy Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+361216007,Femoral Mononeuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+861531000000107,Diabetic Foot Screening Invitation First Letter (Procedure),SNOMED-CT
+306991000000107,Did Not Complete Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme (Situation),SNOMED-CT
+170771004,Diabetic - Follow-Up Default (Finding),SNOMED-CT
+238984005,Diabetic Rubeosis (Disorder),SNOMED-CT
+1066921000000106,Diabetes Monitoring Short Message Service Text Message Second Invitation (Procedure),SNOMED-CT
+311782002,Advanced Retinal Disease Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+312888008,Attending Diabetes Clinic (Finding),SNOMED-CT
+306771000000105,Referral To Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme (Procedure),SNOMED-CT
+371811000000106,Ineligible For Diabetic Retinopathy Screening (Finding),SNOMED-CT
+394671009,On Examination - Right Diabetic Foot At Low Risk (Finding),SNOMED-CT
+754081000000109,Diabetic Dietary Review (Regime/Therapy),SNOMED-CT
+24471000000103,Type 2 Diabetes On Insulin (Finding),SNOMED-CT
+237617006,"Megaloblastic Anemia, Thiamine-Responsive, With Diabetes Mellitus And Sensorineural Deafness (Disorder)",SNOMED-CT
+374721000000109,Excluded From Diabetic Retinopathy Screening As No Longer Diabetic (Finding),SNOMED-CT
+713703005,Gastroparesis Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+716911000000104,Exception Reporting - Diabetes Quality Indicators (Finding),SNOMED-CT
+429729007,Diabetic Education Completed (Situation),SNOMED-CT
+39058009,Lumbosacral Radiculoplexus Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+308105005,On Examination - Right Diabetic Foot At Risk (Disorder),SNOMED-CT
+719216001,Hypoglycemic Coma Co-Occurrent And Due To Diabetes Mellitus Type Ii (Disorder),SNOMED-CT
+279291000000109,Diabetes Type 1 Review (Regime/Therapy),SNOMED-CT
+237620003,Abnormal Metabolic State In Diabetes Mellitus (Disorder),SNOMED-CT
+248161000000101,Referral For Diabetic Retinopathy Screening (Procedure),SNOMED-CT
+270445003,Diabetes Monitoring Check Done (Finding),SNOMED-CT
+304752002,Perceived Control Of Insulin-Dependent Diabetes (Assessment Scale),SNOMED-CT
+976361000000100,Diabetic On Insulin And Glucagon-Like Peptide 1 Receptor Agonist (Finding),SNOMED-CT
+165679005,Hemoglobin A1c Less Than 7% Indicating Good Diabetic Control (Finding),SNOMED-CT
+861551000000100,Diabetic Foot Screening Invitation Second Letter (Procedure),SNOMED-CT
+170775008,Diabetes: Shared Care Program (Finding),SNOMED-CT
+170752001,Has Seen Dietitian - Diabetes (Finding),SNOMED-CT
+202151000000105,Patient Consent Given For Addition To Diabetic Register (Finding),SNOMED-CT
+422275004,Gangrene Associated With Diabetes Mellitus (Disorder),SNOMED-CT
+398871001,Diabetic Monitoring - Injection Sites Abnormal (Finding),SNOMED-CT
+762811000000109,Did Not Attend Diabetes Foot Screening (Finding),SNOMED-CT
+373041000000101,Impaired Vision Due To Diabetic Retinopathy (Finding),SNOMED-CT
+408411003,On Examination - Right Eye Preproliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+279321000000104,Diabetes Type 2 Review (Regime/Therapy),SNOMED-CT
+413180006,Pan Retinal Photocoagulation For Diabetes (Procedure),SNOMED-CT
+170774007,Diabetes: Practice Program (Finding),SNOMED-CT
+50620007,Autonomic Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+811391000000104,Referral To Community Diabetes Service (Procedure),SNOMED-CT
+1033281000000100,Expert Patient Education Versus Routine Treatment First Steps Diabetes Self-Management Programme Completed (Situation),SNOMED-CT
+312909004,Proliferative Diabetic Retinopathy - Iris Neovascularization (Disorder),SNOMED-CT
+315287002,Diabetes Mellitus Insulin-Glucose Infusion In Acute Myocardial Infarction (Procedure),SNOMED-CT
+841221000000102,Referral To Community Diabetes Clinic (Procedure),SNOMED-CT
+720724003,Has Diabetes Identity Card (Finding),SNOMED-CT
+713702000,Gastroparesis Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+713706002,Polyneuropathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+199291000000104,Insulin Needles Changed Less Than Once A Day (Finding),SNOMED-CT
+1103701000000102,Diabetic Retinopathy Screening Offered (Situation),SNOMED-CT
+698610002,Education About Self Management Of Diabetes (Procedure),SNOMED-CT
+417681008,Diabetic Patient Unsuitable For Digital Retinal Photography (Finding),SNOMED-CT
+193489006,Iritis Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+1065451000000100,Type 2 Diabetes Mellitus Risk Assessment Invitation (Procedure),SNOMED-CT
+312906006,Proliferative Diabetic Retinopathy - Non High Risk (Disorder),SNOMED-CT
+473208009,Assessment Of Diabetic Erectile Dysfunction (Procedure),SNOMED-CT
+230572002,Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+422183001,Skin Ulcer Associated With Diabetes Mellitus (Disorder),SNOMED-CT
+736284000,Diabetes Clinical Management Plan (Record Artifact),SNOMED-CT
+307141000000102,Did Not Attend Dose Adjustment For Normal Eating Diabetes Structured Education Programme (Finding),SNOMED-CT
+279521000000108,Referral To Community Diabetes Specialist Nurse (Procedure),SNOMED-CT
+705072004,Diabetes Monitoring Invitation By Short Message Service Text Messaging (Procedure),SNOMED-CT
+703972004,Insulin Dose Changed (Situation),SNOMED-CT
+314015001,Mixed Maculopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+166928007,Glucose Tolerance Test Indicates Diabetes Mellitus (Finding),SNOMED-CT
+713671000000109,Diabetes Monitoring Administration (Record Artifact),SNOMED-CT
+385793003,Insulin Administration Education (Procedure),SNOMED-CT
+273412002,Diabetes Treatment Satisfaction Questionnaire (Assessment Scale),SNOMED-CT
+750721000000102,Excepted From Diabetes Quality Indicators: Service Unavailable (Finding),SNOMED-CT
+201724008,Diabetic Neuropathic Arthropathy (Disorder),SNOMED-CT
+306961000000101,Did Not Complete Dose Adjustment For Normal Eating Diabetes Structured Education Programme (Situation),SNOMED-CT
+374691000000100,Excluded From Diabetic Retinopathy Screening As Blind (Finding),SNOMED-CT
+417677008,On Examination - Sight Threatening Diabetic Retinopathy (Disorder),SNOMED-CT
+385041000000108,Diabetes Mellitus With Multiple Complications (Disorder),SNOMED-CT
+44054006,Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+198121000000103,Hypoglycaemic Warning Impaired (Disorder),SNOMED-CT
+127013003,Disorder Of Kidney Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+269823000,Hemoglobin A1c - Diabetic Control Interpretation (Observable Entity),SNOMED-CT
+420662003,Coma Associated With Diabetes Mellitus (Disorder),SNOMED-CT
+408385003,Diabetic Retinopathy 6 Month Review (Finding),SNOMED-CT
+312903003,Mild Nonproliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+401082004,Hypoglycemic Attack Requiring Third Party Assistance (Finding),SNOMED-CT
+1066911000000100,Diabetes Monitoring Short Message Service Text Message First Invitation (Procedure),SNOMED-CT
+183506001,Non-Urgent Diabetic Admission (Procedure),SNOMED-CT
+819331000000104,Diabetes Monitoring Injection Site Not Checked (Situation),SNOMED-CT
+1046191000000101,Hypoglycaemic Attack - Attendance By Ambulance Crew (Finding),SNOMED-CT
+394725008,Diabetes Medication Review (Procedure),SNOMED-CT
+421779007,Exudative Maculopathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+199491000000103,Diabetic Monitoring - Higher Risk Albumin Excretion (Finding),SNOMED-CT
+374841000000109,Excluded From Diabetic Retinopathy Screening As Learning Disability (Finding),SNOMED-CT
+306441000000109,Attended Dose Adjustment For Normal Eating Diabetes Structured Education Programme (Finding),SNOMED-CT
+49817004,Neonatal Diabetes Mellitus (Disorder),SNOMED-CT
+841621000000104,Date Insulin Pump Therapy Started (Observable Entity),SNOMED-CT
+237632004,Hypoglycemic Event In Diabetes (Disorder),SNOMED-CT
+968061000000105,Diabetic Injection Administration Education (Procedure),SNOMED-CT
+420436000,Mononeuropathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+371781000000108,Eligible For Diabetic Retinopathy Screening (Finding),SNOMED-CT
+170762008,Conversion To Insulin (Regime/Therapy),SNOMED-CT
+312910009,Vitreous Hemorrhage Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+472970003,History Of Diabetes Mellitus Type 1 (Situation),SNOMED-CT
+1083111000000108,Diabetes Monitoring Invitation Email (Procedure),SNOMED-CT
+111556005,Diabetic Ketoacidosis Without Coma (Disorder),SNOMED-CT
+309426007,Diabetic Glomerulopathy (Disorder),SNOMED-CT
+243860001,Diabetic Monitoring Status (Finding),SNOMED-CT
+422228004,Multiple Complications Of Type I Diabetes Mellitus (Disorder),SNOMED-CT
+185753003,Attends Diabetes Monitoring (Finding),SNOMED-CT
+408539000,Insulin Autoimmune Syndrome (Disorder),SNOMED-CT
+198131000000101,Hypoglycaemic Warning Good (Disorder),SNOMED-CT
+870701000000106,In-House Diabetic Foot Screening First Appointment (Procedure),SNOMED-CT
+185755005,Diabetes Monitoring Default (Finding),SNOMED-CT
+413122001,Diabetic Retinopathy Screening Refused (Situation),SNOMED-CT
+420918009,Mononeuropathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+401081006,Diabetic Peripheral Neuropathy Screening (Regime/Therapy),SNOMED-CT
+237604008,"Maturity Onset Diabetes Of The Young, Type 2 (Disorder)",SNOMED-CT
+414894003,On Examination - Left Eye Stable Treated Proliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+408410002,On Examination - Left Eye Background Diabetic Retinopathy (Disorder),SNOMED-CT
+314194001,Diabetic On Insulin And Oral Treatment (Finding),SNOMED-CT
+408392008,Under Care Of Diabetes Specialist Nurse (Finding),SNOMED-CT
+247771000000108,Diabetic Digital Retinopathy Screening Offered (Finding),SNOMED-CT
+314902007,Type 2 Diabetes Mellitus With Peripheral Angiopathy (Disorder),SNOMED-CT
+161649006,History Of Insulin Therapy (Situation),SNOMED-CT
+313435000,Type I Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+853671000000101,Does Monitor Blood Glucose Level Before Driving (Finding),SNOMED-CT
+420514000,Persistent Proteinuria Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+314893005,Type I Diabetes Mellitus With Arthropathy (Disorder),SNOMED-CT
+202461000000102,Referral To Diabetic Eye Clinic (Procedure),SNOMED-CT
+713691000000108,Diabetes Clinic Administration (Record Artifact),SNOMED-CT
+237633009,Hypoglycemic State In Diabetes (Disorder),SNOMED-CT
+238981002,Disorder Of Soft Tissue Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+851501000000106,Diabetes Clinical Pathway (Regime/Therapy),SNOMED-CT
+201250006,Ischemic Ulcer Diabetic Foot (Disorder),SNOMED-CT
+927821000000100,Discharge From Secondary Care Diabetes Service (Procedure),SNOMED-CT
+237635002,Nocturnal Hypoglycemia (Disorder),SNOMED-CT
+170747006,Diabetic On Insulin (Finding),SNOMED-CT
+284350006,Diabetes Mellitus Diet Education (Procedure),SNOMED-CT
+308458007,Referral To Diabetic Liaison Nurse (Procedure),SNOMED-CT
+71771000119100,Diabetic Neuropathic Arthropathy Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+315051004,Diabetes Resolved (Finding),SNOMED-CT
+421326000,Neurological Disorder Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+401110002,Type 1 Diabetes Mellitus With Persistent Microalbuminuria (Disorder),SNOMED-CT
+839811000000106,Diabetic Retinopathy Screening Declined (Situation),SNOMED-CT
+421468001,Neurological Disorder Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+4855003,Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+408397002,Diabetic Foot Examination Not Indicated (Situation),SNOMED-CT
+170766006,Loss Of Hypoglycemic Warning (Disorder),SNOMED-CT
+201251005,Neuropathic Diabetic Ulcer - Foot (Disorder),SNOMED-CT
+230575000,Chronic Painful Polyneuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+312905005,Severe Nonproliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+374781000000105,Excluded From Diabetic Retinopathy Screening As No Current Contact Details (Finding),SNOMED-CT
+201252003,Mixed Diabetic Ulcer - Foot (Disorder),SNOMED-CT
+170763003,Diabetic - Good Control (Finding),SNOMED-CT
+1024551000000109,Under Care Of Hospital-Based Diabetes Specialist Nurse (Finding),SNOMED-CT
+443694000,Type Ii Diabetes Mellitus Uncontrolled (Finding),SNOMED-CT
+309635005,History Of Admission In Last Year For Diabetes Foot Problem (Situation),SNOMED-CT
+394675000,On Examination - Left Diabetic Foot At Low Risk (Finding),SNOMED-CT
+49455004,Polyneuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+306931000000106,Did Not Complete Diabetes Structured Education Programme (Situation),SNOMED-CT
+426875007,Latent Autoimmune Diabetes Mellitus In Adult (Disorder),SNOMED-CT
+766431000000100,Incretin Mimetic Dose Changed (Situation),SNOMED-CT
+315208005,Diabetic Weight Reducing Diet (Finding),SNOMED-CT
+170742000,Diabetic Monitoring (Regime/Therapy),SNOMED-CT
+185757002,Diabetes Monitoring Second Letter (Procedure),SNOMED-CT
+394674001,On Examination - Left Diabetic Foot - Ulcerated (Finding),SNOMED-CT
+976341000000101,Diabetic On Oral Treatment And Glucagon-Like Peptide 1 Receptor Agonist (Finding),SNOMED-CT
+290002008,Brittle Type I Diabetes Mellitus (Finding),SNOMED-CT
+183472000,Diabetic Emergency Hospital Admission (Procedure),SNOMED-CT
+111558006,Insulin Coma (Disorder),SNOMED-CT
+193185007,Asymptomatic Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+160670007,Diabetic Diet (Finding),SNOMED-CT
+307201000000109,Did Not Attend Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme (Finding),SNOMED-CT
+371841000000107,Eligibility Temporarily Inactive For Diabetic Retinopathy Screening (Finding),SNOMED-CT
+716031000000106,Excepted From Diabetes Quality Indicators - Informed Dissent (Finding),SNOMED-CT
+200687002,Cellulitis In Diabetic Foot (Disorder),SNOMED-CT
+276651000000107,Attended Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme (Finding),SNOMED-CT
+928851000000109,Enquiry About Diabetic Erectile Dysfunction Declined (Situation),SNOMED-CT
+861491000000107,Diabetic Foot Screening Invitation (Procedure),SNOMED-CT
+87481000119109,Heel And/Or Midfoot Ulcer Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+72021000119109,Diabetic Dermopathy Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+724067006,Permanent Neonatal Diabetes Mellitus With Cerebellar Agenesis Syndrome (Disorder),SNOMED-CT
+399863006,Very Severe Nonproliferative Retinopathy Without Macular Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+713704004,Gastroparesis Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+530558861000132096,Atypical Diabetes Mellitus (Disorder),SNOMED-CT
+427089005,Diabetes Mellitus Due To Cystic Fibrosis (Disorder),SNOMED-CT
+368581000119106,Neuropathy Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+90721000119101,Chronic Kidney Disease Stage 1 Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+771000119108,Chronic Kidney Disease Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+733072002,"Alaninuria, Microcephaly, Dwarfism, Enamel Hypoplasia, Diabetes Mellitus Syndrome (Disorder)",SNOMED-CT
+110141000119100,Ulcer Of Lower Limb Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+770323005,Retinal Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+104941000119109,Retinal Ischemia Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+421437000,Hypoglycemic Coma In Type I Diabetes Mellitus (Disorder),SNOMED-CT
+421256007,Ophthalmic Complication Of Malnutrition-Related Diabetes Mellitus (Disorder),SNOMED-CT
+90751000119109,Chronic Kidney Disease Stage 4 Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+770095003,Cranial Nerve Palsy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+445260006,Posttransplant Diabetes Mellitus (Disorder),SNOMED-CT
+1102351000000105,Ketosis-Prone Diabetes Mellitus (Disorder),SNOMED-CT
+609567009,Pre-Existing Type 2 Diabetes Mellitus In Pregnancy (Disorder),SNOMED-CT
+1571000119104,Mixed Hyperlipidemia Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+762489000,Acute Complication Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+72041000119103,Osteomyelitis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+609570008,"Maturity-Onset Diabetes Of The Young, Type 3 (Disorder)",SNOMED-CT
+72051000119101,Severe Malnutrition Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+87451000119102,Heel And/Or Midfoot Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+84371000119108,Hypoglycemia Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+445353002,Brittle Type Ii Diabetes Mellitus (Finding),SNOMED-CT
+368741000119105,Moderate Nonproliferative Retinopathy Co-Occurrent And Due To Secondary Diabetes Mellitus (Disorder),SNOMED-CT
+368601000119102,Hyperosmolar Coma Due To Secondary Diabetes Mellitus (Disorder),SNOMED-CT
+25412000,Diabetic Retinal Microaneurysm (Disorder),SNOMED-CT
+769217008,Macular Edema Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+770097006,Clinically Significant Macular Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+40791000119105,Postpartum Gestational Diabetes Mellitus (Disorder),SNOMED-CT
+111231000119109,Dyslipidemia With High Density Lipoprotein Below Reference Range And Triglyceride Above Reference Range Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+243421000119104,Proteinuria Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+16010871000119106,Gangrene Of Toe Of Right Foot (Disorder),SNOMED-CT
+82571000119107,Traction Retinal Detachment Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+71721000119101,Nephrotic Syndrome Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+10656271000119102,Skin Ulcer Of Toe Due To Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+712882000,Autonomic Neuropathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+40801000119106,Gestational Diabetes Mellitus Complicating Pregnancy (Disorder),SNOMED-CT
+190407009,Malnutrition-Related Diabetes Mellitus With Renal Complications (Disorder),SNOMED-CT
+46894009,"Gestational Diabetes Mellitus, Class A>2< (Disorder)",SNOMED-CT
+110996009,Armanni-Ebstein Kidney (Disorder),SNOMED-CT
+60951000119105,Blindness Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+90741000119107,Chronic Kidney Disease Stage 3 Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+8801005,Secondary Diabetes Mellitus (Disorder),SNOMED-CT
+31321000119102,Diabetes Mellitus Type 1 Without Retinopathy (Disorder),SNOMED-CT
+170743005,Initial Diabetic Assessment (Regime/Therapy),SNOMED-CT
+39181008,Radiculoplexus Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+97621000119107,Stasis Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+97341000119105,Proliferative Retinopathy With Retinal Edema Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+199228009,Diabetes Mellitus In The Puerperium - Baby Delivered During Previous Episode Of Care (Disorder),SNOMED-CT
+28032008,Insulin Dependent Diabetes Mellitus Type Ib (Disorder),SNOMED-CT
+87921000119104,Cranial Nerve Palsy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+16010831000119108,Gangrene Of Toe Of Bilateral Feet (Disorder),SNOMED-CT
+71421000119105,Hypertension In Chronic Kidney Disease Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+110171000119107,Ulcer Of Lower Extremity Due To Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+4783006,Maternal Diabetes Mellitus With Hypoglycemia Affecting Fetus Or Newborn (Disorder),SNOMED-CT
+90781000119102,Microalbuminuria Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+399864000,Macular Edema Not Clinically Significant Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+769218003,Macular Edema Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+237603002,Transitory Neonatal Diabetes Mellitus (Disorder),SNOMED-CT
+769185003,Moderate Nonproliferative Retinopathy Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+24203005,"Extreme Insulin Resistance With Acanthosis Nigricans, Hirsutism And Abnormal Insulin Receptors (Disorder)",SNOMED-CT
+770096002,Erectile Dysfunction Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+399870006,Non-High-Risk Proliferative Diabetic Retinopathy With No Macular Edema (Disorder),SNOMED-CT
+237652003,Insulin Resistance - Type B (Disorder),SNOMED-CT
+190447002,Steroid-Induced Diabetes (Disorder),SNOMED-CT
+96441000119101,Chronic Kidney Disease Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+709147009,Gingivitis Co-Occurrent With Diabetes Mellitus (Disorder),SNOMED-CT
+609569007,Diabetes Mellitus Due To Genetic Defect In Insulin Action (Disorder),SNOMED-CT
+170744004,Follow-Up Diabetic Assessment (Regime/Therapy),SNOMED-CT
+439051004,Dietary Education For Gestational Diabetes (Procedure),SNOMED-CT
+769184004,Mild Nonproliferative Retinopathy Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+609577006,"Maturity-Onset Diabetes Of The Young, Type 10 (Disorder)",SNOMED-CT
+10754881000119104,Diabetes Mellitus In Mother Complicating Childbirth (Disorder),SNOMED-CT
+609578001,"Maturity-Onset Diabetes Of The Young, Type 11 (Disorder)",SNOMED-CT
+190412005,Malnutrition-Related Diabetes Mellitus Without Complications (Disorder),SNOMED-CT
+87441000119104,Ankle Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+791000119109,Angina Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+368051000119109,Hyperglycemia Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+850581000000106,High Risk Of Diabetes Mellitus Annual Review (Regime/Therapy),SNOMED-CT
+230796005,Non-Diabetic Hypoglycemic Coma (Disorder),SNOMED-CT
+768792007,Cataract Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+724205009,Laminopathy Type Decaudain Vigouroux (Disorder),SNOMED-CT
+731000119105,Chronic Kidney Disease Stage 3 Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+82541000119100,Traction Retinal Detachment Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+140391000119101,Ulcer Of Toe Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+716362006,Gingival Disease Co-Occurrent With Diabetes Mellitus (Disorder),SNOMED-CT
+138891000119109,Moderate Nonproliferative Retinopathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+737212004,Diabetes Mellitus Caused By Chemical (Disorder),SNOMED-CT
+104951000119106,Diabetic Vitreous Hemorrhage Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+421365002,Peripheral Circulatory Disorder Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+75022004,"Gestational Diabetes Mellitus, Class A>1< (Disorder)",SNOMED-CT
+769188001,Severe Nonproliferative Retinopathy Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+421725003,Hypoglycemic Coma In Diabetes Mellitus (Disorder),SNOMED-CT
+768799003,Iritis Of Bilateral Eyes Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+368171000119104,Dermatitis Due To Drug Induced Diabetes Mellitus (Disorder),SNOMED-CT
+137941000119106,Hyperlipidemia Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+770098001,Cranial Nerve Palsy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+609565001,Permanent Neonatal Diabetes Mellitus (Disorder),SNOMED-CT
+51002006,Diabetes Mellitus Associated With Pancreatic Disease (Disorder),SNOMED-CT
+71791000119104,Peripheral Neuropathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+399862001,Proliferative Diabetic Retinopathy - High Risk With No Macular Edema (Disorder),SNOMED-CT
+609574004,"Maturity-Onset Diabetes Of The Young, Type 7 (Disorder)",SNOMED-CT
+190416008,Steroid-Induced Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+426907004,Small Vessel Disease Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+427027005,Lumbosacral Radiculoplexus Neuropathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+609573005,"Maturity-Onset Diabetes Of The Young, Type 6 (Disorder)",SNOMED-CT
+371087003,Diabetic Foot Ulcer (Disorder),SNOMED-CT
+735200002,Absence Of Lower Limb Due To Diabetes Mellitus (Disorder),SNOMED-CT
+91352004,Diabetes Mellitus Due To Structurally Abnormal Insulin (Disorder),SNOMED-CT
+609581006,"Diabetes Mellitus, Transient Neonatal 3 (Disorder)",SNOMED-CT
+1054231000000103,Referral To Community Diabetes Antenatal Clinic (Procedure),SNOMED-CT
+721000119107,Chronic Kidney Disease Stage 4 Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+368551000119104,Dyslipidemia Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+368591000119109,Cheiropathy Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+1531000119102,Diabetic Dermopathy Associated With Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+428007007,Erectile Dysfunction Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+140521000119107,Ischemic Foot Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+120711000119108,Hypoglycemic Unawareness In Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+741000119101,Chronic Kidney Disease Stage 2 Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+23045005,Insulin Dependent Diabetes Mellitus Type Ia (Disorder),SNOMED-CT
+399869005,High Risk Proliferative Diabetic Retinopathy Not Amenable To Photocoagulation (Disorder),SNOMED-CT
+1521000119100,Diabetic Foot Ulcer Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+140531000119105,Neuropathic Foot Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+399877009,Very Severe Nonproliferative Retinopathy With Clinically Significant Macular Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+720519003,"Atherosclerosis, Deafness, Diabetes, Epilepsy, Nephropathy Syndrome (Disorder)",SNOMED-CT
+190406000,Malnutrition-Related Diabetes Mellitus With Ketoacidosis (Disorder),SNOMED-CT
+111307005,Leprechaunism Syndrome (Disorder),SNOMED-CT
+427571000,Lumbosacral Radiculoplexus Neuropathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+698472009,Blood Glucose Monitoring (Regime/Therapy),SNOMED-CT
+127991000119101,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+734022008,Wolfram-Like Syndrome (Disorder),SNOMED-CT
+123763000,Houssay's Syndrome (Disorder),SNOMED-CT
+199231005,Pre-Existing Malnutrition-Related Diabetes Mellitus (Disorder),SNOMED-CT
+1501000119109,Proliferative Diabetic Retinopathy Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+109171000119104,Retinal Edema Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+735539005,Metabolic Acidosis Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+1025251000000107,National Health Service Diabetes Prevention Programme Completed (Situation),SNOMED-CT
+137931000119102,Hyperlipidemia Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+199230006,Pre-Existing Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+768794008,Cataract Of Bilateral Eyes Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+164881000119109,Foot Ulcer Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+399873008,Severe Nonproliferative Retinopathy Without Macular Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+112991000000101,Lipoatrophic Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+10661671000119102,Ulcer Of Right Foot Co-Occurrent And Due To Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+19378003,Pseudotabes Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+1491000119102,Diabetic Vitreous Hemorrhage Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+444074000,Type I Diabetes Mellitus Well Controlled (Finding),SNOMED-CT
+781000119106,Diabetic Neuropathic Arthropathy Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+769221001,Clinically Significant Macular Edema Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+703136005,Diabetes Mellitus In Remission (Disorder),SNOMED-CT
+18521000119106,Microalbuminuria Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+703137001,Type I Diabetes Mellitus In Remission (Disorder),SNOMED-CT
+768798006,Iritis Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+420825003,Gangrene Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+716020005,Diabetic Embryopathy (Disorder),SNOMED-CT
+399865004,Very Severe Proliferative Diabetic Retinopathy (Disorder),SNOMED-CT
+609579009,"Diabetes Mellitus, Transient Neonatal 1 (Disorder)",SNOMED-CT
+10656231000119100,Skin Ulcer Of Toe Due To Diabetes Mellitus Type 1 (Disorder),SNOMED-CT
+41911000119107,Glaucoma Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+16010791000119102,Gangrene Of Toe Of Left Foot (Disorder),SNOMED-CT
+609571007,"Maturity-Onset Diabetes Of The Young, Type 4 (Disorder)",SNOMED-CT
+39127005,Symmetric Proximal Motor Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+82581000119105,Rubeosis Iridis Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+276560009,Diabetes Mellitus In Neonate Small For Gestational Age (Disorder),SNOMED-CT
+170757007,Fundoscopy - Diabetic Check (Regime/Therapy),SNOMED-CT
+420996007,Coma Associated With Malnutrition-Related Diabetes Mellitus (Disorder),SNOMED-CT
+97331000119101,Macular Edema And Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+735537007,Hyperosmolar Hyperglycemic Coma Due To Diabetes Mellitus Without Ketoacidosis (Disorder),SNOMED-CT
+691000119103,Erectile Dysfunction Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+70694009,Diabetes Mellitus And Insipidus With Optic Atrophy And Deafness (Disorder),SNOMED-CT
+127011001,Sensory Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+102781000119107,Sensory Neuropathy Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+199227004,Diabetes Mellitus During Pregnancy - Baby Not Yet Delivered (Disorder),SNOMED-CT
+399866003,Diabetic Retinal Venous Beading (Disorder),SNOMED-CT
+140381000119104,Neuropathic Toe Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+408540003,Diabetes Mellitus Caused By Non-Steroid Drugs (Disorder),SNOMED-CT
+421966007,Non-Ketotic Non-Hyperosmolar Coma Associated With Diabetes Mellitus (Disorder),SNOMED-CT
+120731000119103,Hypoglycemia Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+79554005,Asymmetric Proximal Motor Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+28331000119107,Retinal Edema Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+441628001,Multiple Complications Due To Diabetes Mellitus (Disorder),SNOMED-CT
+768797001,Iritis Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+359611005,Diabetic Neuropathy With Neurologic Complication (Disorder),SNOMED-CT
+140101000119109,Hypertension In Chronic Kidney Disease Stage 5 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+38046004,Diffuse Type Diabetic Glomerulosclerosis (Disorder),SNOMED-CT
+399874002,Proliferative Diabetic Retinopathy - High Risk With Clinically Significant Macular Edema (Disorder),SNOMED-CT
+420683009,Neurological Disorder Associated With Malnutrition-Related Diabetes Mellitus (Disorder),SNOMED-CT
+119831000119106,Hypoglycemia Unawareness In Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+72061000119104,Osteomyelitis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+71701000119105,Hypertension In Chronic Kidney Disease Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+2751001,Fibrocalculous Pancreatic Diabetes (Disorder),SNOMED-CT
+105401000119101,Diabetes Mellitus Due To Pancreatic Injury (Disorder),SNOMED-CT
+427134009,Small Vessel Disease Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+816711000000104,Gestational Diabetes Mellitus Annual Review (Regime/Therapy),SNOMED-CT
+441656006,Hyperglycemic Crisis In Diabetes Mellitus (Disorder),SNOMED-CT
+81830002,Mononeuropathy Simplex Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+421305000,Persistent Microalbuminuria Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+769181007,Preproliferative Retinopathy Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+1097141000000101,Remote Diabetes Structured Education And Support Programme Completed (Situation),SNOMED-CT
+11687002,Gestational Diabetes Mellitus (Disorder),SNOMED-CT
+72141000119104,Chronic Ulcer Of Skin Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+769190000,Very Severe Nonproliferative Retinopathy Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+237600004,Malnutrition-Related Diabetes Mellitus - Fibrocalculous (Disorder),SNOMED-CT
+723074006,Renal Papillary Necrosis Due To Diabetes Mellitus (Disorder),SNOMED-CT
+190410002,Malnutrition-Related Diabetes Mellitus With Peripheral Circulatory Complications (Disorder),SNOMED-CT
+413183008,Diabetes Mellitus Caused By Non-Steroid Drugs Without Complication (Disorder),SNOMED-CT
+237613005,Hyperproinsulinemia (Disorder),SNOMED-CT
+199229001,Pre-Existing Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+199225007,Diabetes Mellitus During Pregnancy - Baby Delivered (Disorder),SNOMED-CT
+62260007,Pretibial Pigmental Patches In Diabetes (Disorder),SNOMED-CT
+42954008,Diabetes Mellitus Associated With Receptor Abnormality (Disorder),SNOMED-CT
+106281000119103,Pre-Existing Diabetes Mellitus In Mother Complicating Childbirth (Disorder),SNOMED-CT
+609564002,Pre-Existing Type 1 Diabetes Mellitus In Pregnancy (Disorder),SNOMED-CT
+703138006,Type Ii Diabetes Mellitus In Remission (Disorder),SNOMED-CT
+368721000119104,Nonproliferative Retinopathy Co-Occurrent And Due To Secondary Diabetes Mellitus (Disorder),SNOMED-CT
+10753491000119100,Gestational Diabetes Mellitus In Childbirth (Disorder),SNOMED-CT
+721088003,"Developmental Delay, Epilepsy, Neonatal Diabetes Syndrome (Disorder)",SNOMED-CT
+72031000119107,Severe Malnutrition Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+140111000119107,Hypertension In Chronic Kidney Disease Stage 4 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+609563008,Pre-Existing Diabetes Mellitus In Pregnancy (Disorder),SNOMED-CT
+103981000119101,Proliferative Diabetic Retinopathy Following Surgery (Disorder),SNOMED-CT
+60961000119107,Nonproliferative Retinopathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+201000119106,Disorder Associated With Well Controlled Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+164971000119101,Type 2 Diabetes Mellitus Controlled By Diet (Finding),SNOMED-CT
+428896009,Hyperosmolality Due To Uncontrolled Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+87471000119106,Ankle Ulcer Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+722454003,"Intellectual Disability, Craniofacial Dysmorphism, Hypogonadism, Diabetes Mellitus Syndrome (Disorder)",SNOMED-CT
+104961000119108,Retinal Ischemia Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+707221002,Diabetic Glomerulosclerosis (Disorder),SNOMED-CT
+713457002,Neovascular Glaucoma Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+63510008,Nodular Type Diabetic Glomerulosclerosis (Disorder),SNOMED-CT
+367261000119100,Hyperosmolarity Co-Occurrent And Due To Drug Induced Diabetes Mellitus (Disorder),SNOMED-CT
+712883005,Autonomic Neuropathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+128001000119105,Hypertension Concurrent And Due To End Stage Renal Disease On Dialysis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+367991000119101,Hyperglycemia Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+769222008,Clinically Significant Macular Edema Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+10660471000119108,Ulcer Of Left Foot Co-Occurrent And Due To Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+1481000119100,Diabetes Mellitus Type 2 Without Retinopathy (Disorder),SNOMED-CT
+427943001,Ophthalmoplegia Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+368711000119106,Mild Nonproliferative Retinopathy Co-Occurrent And Due To Secondary Diabetes Mellitus (Disorder),SNOMED-CT
+768793002,Cataract Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+609568004,Diabetes Mellitus Due To Genetic Defect In Beta Cell Function (Disorder),SNOMED-CT
+38205001,Diarrhea Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+126535008,Motor Polyneuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+127012008,Lipoatrophic Diabetes (Disorder),SNOMED-CT
+735538002,Lactic Acidosis Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+769191001,Very Severe Nonproliferative Retinopathy Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+609580007,"Diabetes Mellitus, Transient Neonatal 2 (Disorder)",SNOMED-CT
+60971000119101,Proliferative Retinopathy Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+237651005,Insulin Resistance - Type A (Disorder),SNOMED-CT
+71441000119104,Nephrotic Syndrome Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+9859006,Type 2 Diabetes Mellitus With Acanthosis Nigricans (Disorder),SNOMED-CT
+57886004,Protein-Deficient Diabetes Mellitus (Disorder),SNOMED-CT
+138911000119106,Mild Nonproliferative Retinopathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+472699005,Gestational Diabetes Mellitus Uncontrolled (Finding),SNOMED-CT
+399868002,Diabetic Intraretinal Microvascular Anomaly (Disorder),SNOMED-CT
+76751001,"Diabetes Mellitus In Mother Complicating Pregnancy, Childbirth And/Or Puerperium (Disorder)",SNOMED-CT
+310387003,Diabetic Intracapillary Glomerulosclerosis (Disorder),SNOMED-CT
+75524006,Malnutrition Related Diabetes Mellitus (Disorder),SNOMED-CT
+769186002,Moderate Nonproliferative Retinopathy Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+82551000119103,Rubeosis Iridis Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+770324004,Retinal Ischemia Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+704241002,Fetal Hypertrophic Cardiomyopathy Due To Maternal Diabetes Mellitus (Disorder),SNOMED-CT
+711000119100,Chronic Kidney Disease Stage 5 Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+102621000119101,Ulcer Of Skin Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+609575003,"Maturity-Onset Diabetes Of The Young, Type 8 (Disorder)",SNOMED-CT
+769220000,Macular Edema Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+444110003,Type Ii Diabetes Mellitus Well Controlled (Finding),SNOMED-CT
+199226008,Diabetes Mellitus In The Puerperium - Baby Delivered During Current Episode Of Care (Disorder),SNOMED-CT
+769182000,Preproliferative Retinopathy Of Left Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+419100001,Infection Of Foot Associated With Diabetes (Disorder),SNOMED-CT
+35777006,Diabetic Mononeuropathy Multiplex (Disorder),SNOMED-CT
+16011271000119104,Gangrene Of Left Foot (Disorder),SNOMED-CT
+359642000,Diabetes Mellitus Type 2 In Nonobese (Disorder),SNOMED-CT
+701000119103,Mixed Hyperlipidemia Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+609576002,"Maturity-Onset Diabetes Of The Young, Type 9 (Disorder)",SNOMED-CT
+399876000,Very Severe Nonproliferative Retinopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+90761000119106,Chronic Kidney Disease Stage 5 Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+724876003,Lesion Of Skin Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+16011231000119102,Gangrene Of Right Foot (Disorder),SNOMED-CT
+90791000119104,End Stage Renal Disease On Dialysis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+445170001,Macroalbuminuric Diabetic Nephropathy (Disorder),SNOMED-CT
+1511000119107,Diabetic Peripheral Neuropathy Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+110181000119105,Peripheral Sensory Neuropathy Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+721284006,Acidosis Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+140121000119100,Hypertension In Chronic Kidney Disease Stage 3 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+722206009,"Pancreatic Hypoplasia, Diabetes Mellitus, Congenital Heart Disease Syndrome (Disorder)",SNOMED-CT
+5368009,Drug-Induced Diabetes Mellitus (Disorder),SNOMED-CT
+140131000119102,Hypertension In Chronic Kidney Disease Stage 2 Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+1054241000000107,Referral To Hospital Diabetes Antenatal Clinic (Procedure),SNOMED-CT
+87491000119107,Forefoot Ulcer Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+609566000,Pregnancy And Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+138881000119106,Mild Nonproliferative Retinopathy Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+1551000119108,Nonproliferative Diabetic Retinopathy Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+721283000,Acidosis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+761000119102,Dyslipidemia Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+769219006,Macular Edema Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+60991000119100,Blindness Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+81531005,Diabetes Mellitus Type 2 In Obese (Disorder),SNOMED-CT
+237601000,Secondary Endocrine Diabetes Mellitus (Disorder),SNOMED-CT
+425455002,Diabetic Glomerulonephritis (Disorder),SNOMED-CT
+108781000119105,Neuropathic Ulcer Of Midfoot And/Or Heel Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+770094004,Cervical Radiculoplexus Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+90731000119103,Chronic Kidney Disease Stage 2 Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+82980005,Anemia Of Diabetes (Disorder),SNOMED-CT
+138921000119104,Moderate Nonproliferative Retinopathy Co-Occurrent And Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+237618001,Insulin-Dependent Diabetes Mellitus Secretory Diarrhea Syndrome (Disorder),SNOMED-CT
+368521000119107,Disorder Of Nerve Co-Occurrent And Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+769187006,Severe Nonproliferative Retinopathy Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+87461000119100,Forefoot Ulcer Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+399875001,Non-High-Risk Proliferative Diabetic Retinopathy With Clinically Significant Macular Edema (Disorder),SNOMED-CT
+199223000,"Diabetes Mellitus During Pregnancy, Childbirth And The Puerperium (Disorder)",SNOMED-CT
+157141000119108,Proteinuria Due To Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+724136006,Diabetic Mastopathy (Disorder),SNOMED-CT
+90771000119100,End Stage Renal Disease On Dialysis Due To Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+399872003,Severe Nonproliferative Retinopathy With Clinically Significant Macular Edema Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+424736006,Peripheral Neuropathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+769183005,Mild Nonproliferative Retinopathy Of Right Eye Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+59079001,Diabetes Mellitus Associated With Hormonal Etiology (Disorder),SNOMED-CT
+84361000119102,Insulin Reactive Hypoglycemia In Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+751000119104,Chronic Kidney Disease Stage 1 Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+401088000,Diabetes Mellitus With Persistent Proteinuria (Disorder),SNOMED-CT
+28453007,Maturity Onset Diabetes Mellitus In Young (Disorder),SNOMED-CT
+279531000000105,Referral To Community Diabetes Specialist Nurse,SNOMED-CT
+811401000000101,Referral To Community Diabetes Service,SNOMED-CT
+372041000000109,Does Rotate Site Of Insulin Injection (Finding),SNOMED-CT
+488181000000102,Impaired Vision Due To Diabetic Retinopathy,SNOMED-CT
+310311007,Hba1 7-10% - Borderline Control (Finding),SNOMED-CT
+408660003,Type Ii Diabetes Mellitus With Ketoacidosis (Disorder),SNOMED-CT
+376001000000105,Diabetic Femoral Mononeuropathy (Disorder),SNOMED-CT
+171871000000108,O/E - Right Eye Clinically Significant Macular Oedema,SNOMED-CT
+24927004,Diabetes With Ketoacidosis (Disorder),SNOMED-CT
+309597007,Foot Abnormality - Diabetes-Related (Finding),SNOMED-CT
+191951000000102,Patient Held Diabetic Record Declined,SNOMED-CT
+164491000000101,Diabetes Resolved,SNOMED-CT
+198671000000109,Type 2 Diabetes Mellitus With Gastroparesis (Disorder),SNOMED-CT
+372069003,Diabetes Mellitus With Complication (Disorder),SNOMED-CT
+314368001,Type I Diabetes Mellitus With Mononeuropathy (Disorder),SNOMED-CT
+1561000119105,Diabetic Peripheral Neuropathy Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+376191000000104,Diabetic Amyotrophy (Disorder),SNOMED-CT
+776361000000106,Diabetic Erectile Dysfunction Review,SNOMED-CT
+593701000000108,Other Specified Diabetes Mellitus With Ophthalmic Complications (Disorder),SNOMED-CT
+188101000000106,Diabetes Care Plan Agreed,SNOMED-CT
+200505002,"[X]Pre-Existing Diabetes Mellitus, Unspecified (Disorder)",SNOMED-CT
+267382005,Diabetes Mellitus With Neurological Manifestation (Disorder),SNOMED-CT
+762731000000107,Diabetic Monitoring - Injection Sites Normal (Finding),SNOMED-CT
+21858001,Diabetes With Renal Manifestations (Disorder),SNOMED-CT
+851511000000108,Diabetes Clinical Pathway,SNOMED-CT
+190345009,"Diabetes Mellitus, Juvenile Type, With Ophthalmic Manifestation (Disorder)",SNOMED-CT
+306411000000108,Attended Expert Patient Education Versus Routine Treatment Structured Diabetes Programme,SNOMED-CT
+374761000000101,Excluded From Screening - Declined - Diabetic Retinopathy Screening Administration,SNOMED-CT
+170851000000107,Family/Carer Attended Diabetes Structured Education Programme,SNOMED-CT
+1051111000000101,Pregnancy And Non-Insulin-Dependent Diabetes Mellitus,SNOMED-CT
+497731000000102,[D]Gangrene Of Toe In Diabetic (Situation),SNOMED-CT
+334731000000108,Referral To Diabetes Special Interest General Practitioner,SNOMED-CT
+292571000000107,Cystic Fibrosis Related Diabetes Mellitus,SNOMED-CT
+190351004,"Diabetes Mellitus, Adult Onset, With Neurological Manifestation (Disorder)",SNOMED-CT
+306611000000106,Diabetes Structured Education Programme Declined,SNOMED-CT
+401112005,Type 2 Diabetes Mellitus With Persistent Microalbuminuria (Disorder),SNOMED-CT
+374751000000104,Declined Diabetic Retinopathy Screening (Finding),SNOMED-CT
+207791000000100,Referral To Diabetic Register,SNOMED-CT
+371055001,Type I Diabetes Mellitus With Ketoacidosis (Disorder),SNOMED-CT
+190346005,"Diabetes Mellitus, Adult Onset, With Ophthalmic Manifestation (Disorder)",SNOMED-CT
+212021000000102,Referral To Diabetic Eye Clinic,SNOMED-CT
+521391000000106,Education In Self Management Of Diabetes (Procedure),SNOMED-CT
+424989000,Diabetic Gastroparesis Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+491121000000106,Eligible For Diabetic Retinopathy Screening,SNOMED-CT
+884071000000100,Education About Diabetes And Driving (Procedure),SNOMED-CT
+401087005,Diabetes Mellitus With Persistent Microalbuminuria (Disorder),SNOMED-CT
+300121000000105,Diabetes Mellitus Type I Diet Education (Procedure),SNOMED-CT
+170061000000103,Transition Of Diabetes Care Options Discussed,SNOMED-CT
+207931000000103,Patient Consent Given For Addition To Diabetic Register,SNOMED-CT
+314371009,Type Ii Diabetes Mellitus With Polyneuropathy (Disorder),SNOMED-CT
+374821000000102,Excluded From Screening - Terminal Illness - Diabetic Retinopathy Screening Administration,SNOMED-CT
+414601000000106,"[X]Pre-Existing Diabetes Mellitus, Unspecified",SNOMED-CT
+593671000000109,Diabetes Mellitus Nos With Hyperosmolar Coma (Disorder),SNOMED-CT
+619991000000106,Other Specified Diabetes Mellitus With Neurological Complications (Disorder),SNOMED-CT
+856321000000104,O/E - Left Diabetic Foot At Increased Risk,SNOMED-CT
+888181000000105,Diabetes Mellitus In Remission,SNOMED-CT
+491151000000101,Eligibility Permanently Inactive For Diabetic Retinopathy Screening,SNOMED-CT
+412777005,Diabetes Clinical Management Plan (Qualifier Value),SNOMED-CT
+754131000000109,Type 2 Diabetic Dietary Review,SNOMED-CT
+420491007,"Gestational Diabetes Mellitus, Class H (Disorder)",SNOMED-CT
+307011000000104,Did Not Complete Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme,SNOMED-CT
+966371000000102,Has Diabetes Identity Card (Finding),SNOMED-CT
+811991000000100,Diabetes Self-Management Plan Agreed,SNOMED-CT
+307001000000101,Did Not Complete Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme,SNOMED-CT
+884081000000103,Education About Diabetes And Driving,SNOMED-CT
+487301000000108,Ineligible For Diabetic Retinopathy Screening,SNOMED-CT
+170841000000109,Attended Diabetes Structured Education Programme,SNOMED-CT
+306521000000101,Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme Completed,SNOMED-CT
+752151000000105,Diabetes Monitoring Invitation By Short Message Service,SNOMED-CT
+720970003,Hypoglycemia Self Management Plan (Qualifier Value),SNOMED-CT
+71546005,"Gestational Diabetes Mellitus, Class B>1< (Disorder)",SNOMED-CT
+307211000000106,Did Not Attend Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme,SNOMED-CT
+713681000000106,Diabetes Monitoring Administration Nos (Record Artifact),SNOMED-CT
+512571000000101,Patient Unsuitable For Diabetes Year Of Care Programme,SNOMED-CT
+966161000000107,Provision Of Diabetes Identity Card (Procedure),SNOMED-CT
+837311000000107,Insulin Administration Education (Procedure),SNOMED-CT
+89841000000103,Exception Reporting: Diabetes Quality Indicators (Administrative Concept),SNOMED-CT
+215121000000106,Diabetic Monitoring - Lower Risk Albumin Excretion,SNOMED-CT
+167261000000100,O/E - Left Eye Stable Treated Proliferative Diabetic Retinopathy,SNOMED-CT
+374831000000100,Excluded From Screening - Terminal Illness - Diabetic Retinopathy Screening Administration,SNOMED-CT
+787071000000107,Diabetes Care Plan Declined,SNOMED-CT
+776571000000106,Diabetic Assessment Of Erectile Dysfunction (Procedure),SNOMED-CT
+624691000000109,Diabetes Mellitus Nos With Neurological Manifestation (Disorder),SNOMED-CT
+754111000000101,Type 1 Diabetic Dietary Review,SNOMED-CT
+111554008,"Rare Form Of Secondary Diabetes Mellitus, Due To Disorder Other Than Malnutrition, Protein Deficiency, Pancreatic Disease, Hormonal Disease, Drugs, Receptor Abnormality, Or Genetic Syndrome (Disorder)",SNOMED-CT
+338931000000104,Dietary Education For Gestational Diabetes (Procedure),SNOMED-CT
+894751000000105,Hypoglycaemic Warning Absent,SNOMED-CT
+593721000000104,Other Specified Diabetes Mellitus With Peripheral Circulatory Complications (Disorder),SNOMED-CT
+417317008,Diabetes Care Plan Agreed (Procedure),SNOMED-CT
+310309003,Hba1 - Diabetic Control Interpretation (Observable Entity),SNOMED-CT
+876391000000103,Conversion To Insulin By Diabetes Specialist Nurse,SNOMED-CT
+314892000,Type I Diabetes Mellitus With Peripheral Angiopathy (Disorder),SNOMED-CT
+23111000000103,Diabetes Clinic Administration (Administrative Concept),SNOMED-CT
+214811000000108,Did Not Attend Diabetic Retinopathy Clinic,SNOMED-CT
+267381003,Diabetes Mellitus With Renal Manifestation (Disorder),SNOMED-CT
+167371000000102,O/E - Left Chronic Diabetic Foot Ulcer,SNOMED-CT
+213611000000106,Insulin Needles Changed For Each Injection,SNOMED-CT
+510741000000102,Diabetes Self Management Plan (Qualifier Value),SNOMED-CT
+421389009,"Gestational Diabetes Mellitus, Class C (Disorder)",SNOMED-CT
+230573007,Diabetic Distal Sensorimotor Polyneuropathy (Disorder),SNOMED-CT
+306971000000108,Did Not Complete Dose Adjustment For Normal Eating Diabetes Structured Education Programme,SNOMED-CT
+314888007,Type Ii Diabetes Mellitus With Diabetic Cataract (Disorder),SNOMED-CT
+236367002,Renal Diabetes (Disorder),SNOMED-CT
+885941000000109,Diabetes Structured Education Programme Not Available,SNOMED-CT
+190365002,Type I Diabetes Mellitus With Neurological Complications (Disorder),SNOMED-CT
+401111003,Type 2 Diabetes Mellitus With Persistent Proteinuria (Disorder),SNOMED-CT
+870691000000106,In-House Diabetes Foot Screening,SNOMED-CT
+191341000000101,Diabetic Retinopathy Screening Offered,SNOMED-CT
+190364003,Type I Diabetes Mellitus With Ophthalmic Complications (Disorder),SNOMED-CT
+751431000000103,Insulin Dose Changed (Situation),SNOMED-CT
+861561000000102,Diabetic Foot Screening Second Letter,SNOMED-CT
+314369009,Type I Diabetes Mellitus With Polyneuropathy (Disorder),SNOMED-CT
+816721000000105,Gestational Diabetes Mellitus Annual Review,SNOMED-CT
+338031000000100,Latent Autoimmune Diabetes Mellitus In Adult,SNOMED-CT
+831021000000108,Provision Of Diabetes Clinical Summary,SNOMED-CT
+306871000000100,Did Not Attend Diabetes Structured Education Programme,SNOMED-CT
+861541000000103,Diabetic Foot Screening Invitation First Letter,SNOMED-CT
+34140002,Diabetic Gastroparesis (Disorder),SNOMED-CT
+1024581000000103,Under Care Of Community-Based Diabetes Specialist Nurse,SNOMED-CT
+888171000000108,Diabetes Mellitus In Remission (Disorder),SNOMED-CT
+191601000000107,Diabetes Care Plan Agreed,SNOMED-CT
+273911000000108,Referral For Diabetic Retinopathy Screening,SNOMED-CT
+856581000000109,Insulin Administration Education,SNOMED-CT
+307151000000104,Did Not Attend Dose Adjustment For Normal Eating Diabetes Structured Education Programme,SNOMED-CT
+374671000000104,Excluded From Screening - Under Ophthalmic Care - Diabetic Retinopathy Screening Administration,SNOMED-CT
+167361000000109,O/E - Right Chronic Diabetic Foot Ulcer,SNOMED-CT
+307191000000107,Did Not Attend Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme,SNOMED-CT
+593681000000106,Other Specified Diabetes Mellitus With Renal Complications (Disorder),SNOMED-CT
+198661000000102,Type 1 Diabetes Mellitus With Gastroparesis (Disorder),SNOMED-CT
+729981000000105,Renal Cysts And Diabetes Syndrome (Disorder),SNOMED-CT
+408416008,On Examination - Left Eye Diabetic Maculopathy (Disorder),SNOMED-CT
+286451000000100,Cystic Fibrosis Related Diabetes Mellitus (Disorder),SNOMED-CT
+374701000000100,Excluded From Screening - Blind - Screening Contraindicated - Diabetic Retinopathy Screening Administration,SNOMED-CT
+374641000000105,Excluded From Screening - Deceased - Diabetic Retinopathy Screening Administration,SNOMED-CT
+425691000000105,[X]Malnutrition-Related Diabetes Mellitus With Unspecified Complications (Disorder),SNOMED-CT
+276661000000105,Attended Desmond Diabetes Structured Education Programme,SNOMED-CT
+275522008,Diabetes Mellitus With Gangrene (Disorder),SNOMED-CT
+974131000000100,Maturity Onset Diabetes Of The Young Type 5 (Disorder),SNOMED-CT
+54181000,Diabetes-Nephrosis Syndrome (Disorder),SNOMED-CT
+630491000000104,Other Specified Diabetes Mellitus With Ketoacidosis (Disorder),SNOMED-CT
+306491000000104,Dose Adjustment For Normal Eating Structured Diabetes Education Programme Completed,SNOMED-CT
+359939009,Maternal Diabetes Mellitus (Disorder),SNOMED-CT
+408287009,Type 1 Diabetes Mellitus With Exudative Maculopathy (Disorder),SNOMED-CT
+771691000000102,History Of Diabetes Mellitus Type 2 (Situation),SNOMED-CT
+487331000000102,Impaired Vision Due To Diabetic Retinopathy,SNOMED-CT
+408415007,On Examination - Right Eye Diabetic Maculopathy (Disorder),SNOMED-CT
+990851000000102,Provision Of Diabetes Identity Card,SNOMED-CT
+983461000000109,Diabetic Carbohydrate Counting Diet,SNOMED-CT
+190369008,Type I Diabetes Mellitus With Gangrene (Disorder),SNOMED-CT
+578651000000101,Diabetic - Poor Control Nos (Finding),SNOMED-CT
+487321000000104,Eligibility Permanently Inactive For Diabetic Retinopathy Screening,SNOMED-CT
+374711000000103,Excluded From Screening - Blind - Screening Contraindicated - Diabetic Retinopathy Screening Administration,SNOMED-CT
+449851000000103,"[X]Pre-Existing Diabetes Mellitus, Unspecified (Disorder)",SNOMED-CT
+754091000000106,Diabetic Dietary Review,SNOMED-CT
+371056000,Type Ii Diabetes Mellitus With Complication (Disorder),SNOMED-CT
+190340004,"Diabetes Mellitus, Adult Onset, With Renal Manifestation (Disorder)",SNOMED-CT
+772031000000104,History Of Diabetes Mellitus Type 1 (Situation),SNOMED-CT
+990751000000105,Has Diabetes Identity Card,SNOMED-CT
+306711000000100,Referral To Dose Adjustment For Normal Eating Diabetes Structured Education Programme,SNOMED-CT
+306461000000105,Attended Dose Adjustment For Normal Eating Structured Diabetes Education Programme,SNOMED-CT
+190366001,Type I Diabetes Mellitus With Multiple Complications (Disorder),SNOMED-CT
+794591000000105,Blood Glucose Monitoring (Regime/Therapy),SNOMED-CT
+442541000000107,[X]Other Specified Diabetes Mellitus (Disorder),SNOMED-CT
+171881000000105,O/E - Left Eye Clinically Significant Macular Oedema,SNOMED-CT
+25907005,Diabetic Gangrene (Disorder),SNOMED-CT
+771521000000101,History Of Autosomal Dominant Diabetes Mellitus (Situation),SNOMED-CT
+212031000000100,Referral To Diabetic Eye Clinic,SNOMED-CT
+286912007,Diabetes With Ketoacidosis - No Coma (Disorder),SNOMED-CT
+855051000000102,Proteinuric Diabetic Nephropathy,SNOMED-CT
+1024561000000107,Under Care Of Hospital-Based Diabetes Specialist Nurse,SNOMED-CT
+89981000000104,Excepted From Diabetes Quality Indicators: Informed Dissent (Administrative Concept),SNOMED-CT
+888221000000100,Type Ii Diabetes Mellitus In Remission,SNOMED-CT
+909451000000107,Diabetes Distress Scale 17 Item,SNOMED-CT
+421164006,Hypoglycemic Coma In Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+487311000000105,Eligibility Temporarily Inactive For Diabetic Retinopathy Screening,SNOMED-CT
+186901000000105,O/E - Sight Threatening Diabetic Retinopathy,SNOMED-CT
+190326000,"Diabetes Mellitus, Adult Onset, With Ketoacidosis (Disorder)",SNOMED-CT
+207801000000101,Referral To Diabetic Register,SNOMED-CT
+990741000000107,Diabetic On Non-Insulin Injectable Medication,SNOMED-CT
+167251000000103,O/E - Right Eye Stable Treated Proliferative Diabetic Retinopathy,SNOMED-CT
+167271000000107,O/E - Right Eye Clinically Significant Macular Oedema,SNOMED-CT
+207191000000104,Referral To Multidisciplinary Diabetic Clinic,SNOMED-CT
+487291000000109,Eligible For Diabetic Retinopathy Screening,SNOMED-CT
+371086007,Diabetes Mellitus With Skin Ulcer (Disorder),SNOMED-CT
+33248009,Diabetes With Non-Ketotic Non-Hyperosmolar Coma (Disorder),SNOMED-CT
+466171000000103,[X]Malnutrition-Related Diabetes Mellitus With Unspecified Complications,SNOMED-CT
+306541000000108,Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme Completed,SNOMED-CT
+371801000000109,Eligible For Diabetic Retinopathy Screening,SNOMED-CT
+397201000000107,[X]Unspecified Diabetes Mellitus With Renal Complications (Disorder),SNOMED-CT
+417256004,Diabetic Retinopathy Screening Offered (Finding),SNOMED-CT
+344651000000109,Insulin Initiation - Enhanced Services Administration,SNOMED-CT
+306721000000106,Referral To Dose Adjustment For Normal Eating Diabetes Structured Education Programme,SNOMED-CT
+214801000000106,Insulin Needles Changed Less Than Once A Day,SNOMED-CT
+838741000000108,Referral To Community Diabetic Specialist Nurse Declined,SNOMED-CT
+190356009,"Diabetes Mellitus, Adult Onset, With Peripheral Circulatory Disorder (Disorder)",SNOMED-CT
+414908005,On Examination - Clinically Significant Macular Edema Of Right Eye (Disorder),SNOMED-CT
+190358005,Iddm With Peripheral Circulatory Disorder (Disorder),SNOMED-CT
+783911000000109,No Evidence Of Diabetic Nephropathy,SNOMED-CT
+307031000000107,Did Not Complete Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme,SNOMED-CT
+593691000000108,Diabetes Mellitus With Nephropathy Nos (Disorder),SNOMED-CT
+171961000000107,O/E - Right Chronic Diabetic Foot Ulcer,SNOMED-CT
+446641003,Renal Cysts And Diabetes Syndrome (Disorder),SNOMED-CT
+420738003,"Gestational Diabetes Mellitus, Class T (Disorder)",SNOMED-CT
+190370009,Type I Diabetes Mellitus With Retinopathy (Disorder),SNOMED-CT
+658111000000103,Diabetes Mellitus Nos With Unspecified Complication (Disorder),SNOMED-CT
+374801000000106,Excluded From Screening - No Current Contact Details - Diabetic Retinopathy Screening Administration,SNOMED-CT
+776581000000108,Diabetic Assessment Of Erectile Dysfunction,SNOMED-CT
+306941000000102,Did Not Complete Diabetes Structured Education Programme,SNOMED-CT
+750731000000100,Excepted From Diabetes Quality Indicators: Service Unavailable,SNOMED-CT
+167281000000109,O/E - Left Eye Clinically Significant Macular Oedema,SNOMED-CT
+421707005,Polyneuropathy Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+491141000000104,Eligibility Temporarily Inactive For Diabetic Retinopathy Screening,SNOMED-CT
+190325001,"Diabetes Mellitus, Juvenile Type, With Ketoacidosis (Disorder)",SNOMED-CT
+527701000000107,Diabetic On Subcutaneous Treatment,SNOMED-CT
+190408004,Malnutrition-Related Diabetes Mellitus With Ophthalmic Complications (Disorder),SNOMED-CT
+171851000000104,O/E - Right Eye Stable Treated Proliferative Diabetic Retinopathy,SNOMED-CT
+720703008,Hypoglycemia Clinical Management Plan (Qualifier Value),SNOMED-CT
+862491000000101,Diabetic Foot Screening Invitation Third Letter,SNOMED-CT
+279341000000106,Diabetes Type 2 Review,SNOMED-CT
+306481000000101,Dose Adjustment For Normal Eating Structured Diabetes Education Programme Completed,SNOMED-CT
+374891000000104,Excluded From Screening - Physical Disability - Diabetic Retinopathy Screening Administration,SNOMED-CT
+190409007,Malnutrition-Related Diabetes Mellitus With Neurological Complications (Disorder),SNOMED-CT
+454441000000100,[X]Malnutrition-Related Diabetes Mellitus With Other Specified Complications,SNOMED-CT
+551831000000104,Diabetes Mellitus Nos With Ketoacidotic Coma (Disorder),SNOMED-CT
+658071000000109,Diabetes Mellitus With Unspecified Complication (Disorder),SNOMED-CT
+944151000000106,Diabetic Peripheral Neuropathic Pain,SNOMED-CT
+190386002,Type Ii Diabetes Mellitus With Ophthalmic Complications (Disorder),SNOMED-CT
+190329007,Diabetes Mellitus With Hyperosmolar Coma (Disorder),SNOMED-CT
+887871000000103,Diabetes Year Of Care Annual Review,SNOMED-CT
+306451000000107,Attended Dose Adjustment For Normal Eating Structured Diabetes Education Programme,SNOMED-CT
+306781000000107,Referral To Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme,SNOMED-CT
+374621000000103,Excluded From Screening - Moved Away - Diabetic Retinopathy Screening Administration,SNOMED-CT
+374731000000106,Excluded From Screening - No Longer Categorised As Diabetic  - Diabetic Retinopathy Screening Administration,SNOMED-CT
+662471000000105,Diabetic Monitoring Nos (Regime/Therapy),SNOMED-CT
+310310008,Hba1 Less Than 7% - Good Control (Finding),SNOMED-CT
+886701000000103,Non-Diabetic Hyperglycaemia (Disorder),SNOMED-CT
+1025261000000105,National Health Service Diabetes Prevention Programme Completed,SNOMED-CT
+870751000000107,In-House Diabetic Foot Screening Follow-Up Appointment,SNOMED-CT
+891761000000105,Insulin Passport Not Checked,SNOMED-CT
+1025221000000102,National Health Service Diabetes Prevention Programme Not Completed,SNOMED-CT
+365846006,Hba1 - Diabetic Control Finding (Finding),SNOMED-CT
+300521000000104,Completed Diabetes Structured Education Programme,SNOMED-CT
+974141000000109,Maturity Onset Diabetes Of The Young Type 5,SNOMED-CT
+345051000000103,Initiation Of Insulin,SNOMED-CT
+170776009,Diabetes Management Plan Given (Regime/Therapy),SNOMED-CT
+587871000000104,Diabetic Mononeuritis Nos (Disorder),SNOMED-CT
+279541000000101,Referral To Community Diabetes Specialist Nurse,SNOMED-CT
+758621000000105,Advised About Diabetes And Driving (Situation),SNOMED-CT
+420414003,Multiple Complications Of Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+593661000000102,Diabetes Mellitus Nos With Ketoacidosis (Disorder),SNOMED-CT
+621661000000100,Hypoglycemic Coma Nos (Disorder),SNOMED-CT
+292911000000106,Attended Desmond Structured Programme (Finding),SNOMED-CT
+253201000000101,Diabetic Digital Retinopathy Screening Offered,SNOMED-CT
+213291000000100,Insulin Therapy Declined,SNOMED-CT
+408417004,Type 2 Diabetes Mellitus With Exudative Maculopathy (Disorder),SNOMED-CT
+521401000000109,Education For Self Management Of Diabetes,SNOMED-CT
+213601000000109,Insulin Needles Changed For Each Injection,SNOMED-CT
+754151000000102,Diabetic Dietary Review Declined,SNOMED-CT
+374611000000109,Excluded From Screening - Moved Away - Diabetic Retinopathy Screening Administration,SNOMED-CT
+491161000000103,Excluded From Diabetic Retinopathy Screening,SNOMED-CT
+374681000000102,Excluded From Screening - Under Ophthalmic Care - Diabetic Retinopathy Screening Administration,SNOMED-CT
+190357000,"Diabetes Mellitus, Adult With Gangrene (Disorder)",SNOMED-CT
+867901000000100,Erectile Dysfunction Due To Diabetes Mellitus,SNOMED-CT
+111557001,Diabetes With Coma (Disorder),SNOMED-CT
+207023003,[D]Widespread Diabetic Foot Gangrene (Situation),SNOMED-CT
+306761000000103,Referral To Diabetes Education And Self Management For Ongoing And Newly Diagnosed Diabetes Structured Programme,SNOMED-CT
+213581000000100,Insulin Needles Changed Daily,SNOMED-CT
+870711000000108,In-House Diabetic Foot Screening First Appointment,SNOMED-CT
+188281000000107,Discharged From Care Of Diabetes Specialist Nurse,SNOMED-CT
+306981000000105,Did Not Complete Dose Adjustment For Normal Eating Diabetes Structured Education Programme,SNOMED-CT
+275918005,Unstable Diabetes Mellitus (Disorder),SNOMED-CT
+724810001,Radiculoplexoneuropathy Due To Diabetes Mellitus (Disorder),SNOMED-CT
+832131000000100,Diabetes Self-Management Plan Review,SNOMED-CT
+698961000000108,Diabetes Mellitus - Unspecified Whether During Pregnancy Or The Puerperium (Disorder),SNOMED-CT
+857151000000105,"Diabetes Insipidus, Diabetes Mellitus, Optic Atrophy And Deafness",SNOMED-CT
+371791000000105,Eligible For Diabetic Retinopathy Screening,SNOMED-CT
+190387006,Type Ii Diabetes Mellitus With Neurological Complications (Disorder),SNOMED-CT
+267383000,Diabetes Mellitus With Peripheral Circulatory Disorder (Disorder),SNOMED-CT
+968451000000103,Not Suitable For Diabetes Education And Self Management For Ongoing And Newly Diagnosed Programme (Finding),SNOMED-CT
+279311000000105,Diabetes Type 1 Review,SNOMED-CT
+850591000000108,High Risk Of Diabetes Mellitus Annual Review,SNOMED-CT
+1050941000000108,Non-Diabetic Hyperglycaemia,SNOMED-CT
+374741000000102,Excluded From Screening - No Longer Categorised As Diabetic  - Diabetic Retinopathy Screening Administration,SNOMED-CT
+977211000000109,Recommendation To Self-Refer For Diabetes Structured Education,SNOMED-CT
+12811000119100,Complication Due To Diabetes Mellitus Type 2 (Disorder),SNOMED-CT
+113001000000102,Secondary Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+306951000000104,Did Not Complete Diabetes Structured Education Programme,SNOMED-CT
+237626009,Pregnancy And Insulin-Dependent Diabetes Mellitus (Disorder),SNOMED-CT
+374771000000108,Excluded From Screening - Declined - Diabetic Retinopathy Screening Administration,SNOMED-CT
+190333000,Diabetes Mellitus With Ketoacidotic Coma (Disorder),SNOMED-CT
+190350003,"Diabetes Mellitus, Juvenile Type, With Neurological Manifestation (Disorder)",SNOMED-CT
+215141000000104,Diabetic Monitoring - Higher Risk Albumin Excretion,SNOMED-CT
+213991000000107,Type 1 Diabetes Mellitus With Gastroparesis,SNOMED-CT
+174721000000100,Transition Of Diabetes Care Options Discussed,SNOMED-CT
+276081000000106,Insulin Dose Changed,SNOMED-CT
+276071000000109,Insulin Dose Changed (Regime/Therapy),SNOMED-CT
+213591000000103,Insulin Needles Changed Daily,SNOMED-CT
+190343002,Diabetes Mellitus With Ophthalmic Manifestation (Disorder),SNOMED-CT
+213281000000102,Insulin Therapy Declined,SNOMED-CT
+190335007,"Diabetes Mellitus, Adult Onset, With Ketoacidotic Coma (Disorder)",SNOMED-CT
+190385003,Type Ii Diabetes Mellitus With Renal Complications (Disorder),SNOMED-CT
+190405001,Malnutrition-Related Diabetes Mellitus With Coma (Disorder),SNOMED-CT
+720968007,Hyperglycemia Self Management Plan (Qualifier Value),SNOMED-CT
+183585000,"Refer, Diabetic Liaison Nurse (Procedure)",SNOMED-CT
+976371000000107,Diabetic On Insulin And Glucagon-Like Peptide 1,SNOMED-CT
+374651000000108,Excluded From Screening - Deceased - Diabetic Retinopathy Screening Administration,SNOMED-CT
+55692006,Diabetes With Hyperosmolar Coma (Disorder),SNOMED-CT
+367021000000106,Diabetic Foot Screen,SNOMED-CT
+214791000000107,Insulin Needles Changed Less Than Once A Day,SNOMED-CT
+190359002,Niddm With Peripheral Circulatory Disorder (Disorder),SNOMED-CT
+888201000000109,Type I Diabetes Mellitus In Remission,SNOMED-CT
+112981000000103,Type A Insulin Resistance Without Complication (Disorder),SNOMED-CT
+190391001,Type Ii Diabetes Mellitus With Retinopathy (Disorder),SNOMED-CT
+89971000000101,Excepted From Diabetes Quality Indicators: Patient Unsuitable (Administrative Concept),SNOMED-CT
+207181000000101,Referral To Multidisciplinary Diabetic Clinic,SNOMED-CT
+345061000000100,Initiation Of Insulin,SNOMED-CT
+214001000000102,Type 2 Diabetes Mellitus With Gastroparesis,SNOMED-CT
+890821000000102,Diabetic Monitoring,SNOMED-CT
+187901000000108,Diabetic Retinopathy Screening Offered,SNOMED-CT
+190341000000105,O/E - Sight Threatening Diabetic Retinopathy,SNOMED-CT
+371054002,Type I Diabetes Mellitus With Complication (Disorder),SNOMED-CT
+190392008,Type Ii Diabetes Mellitus - Poor Control (Disorder),SNOMED-CT
+171771000000103,Diabetes Resolved,SNOMED-CT
+781171000000100,Referral To Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Education Programme Declined,SNOMED-CT
+250571000000104,Diabetic Digital Retinopathy Screening Offered,SNOMED-CT
+215131000000108,Diabetic Monitoring - Higher Risk Albumin Excretion,SNOMED-CT
+207022008,[D]Gangrene Of Toe In Diabetic (Situation),SNOMED-CT
+422297002,Polyneuropathy Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+314370005,Type Ii Diabetes Mellitus With Mononeuropathy (Disorder),SNOMED-CT
+698360004,Diabetes Self Management Plan (Qualifier Value),SNOMED-CT
+421223006,"Gestational Diabetes Mellitus, Class F (Disorder)",SNOMED-CT
+762821000000103,Did Not Attend Diabetes Foot Screening,SNOMED-CT
+367031000000108,Diabetic Foot Screen,SNOMED-CT
+491131000000108,Ineligible For Diabetic Retinopathy Screening,SNOMED-CT
+918901000000109,Conversion To Non Insulin Injectable,SNOMED-CT
+990681000000107,Not Suitable For Desmond (Diabetes Education And Self Management For Ongoing And Newly Diagnosed) Programme,SNOMED-CT
+422155003,"Gestational Diabetes Mellitus, Class B (Disorder)",SNOMED-CT
+307161000000101,Did Not Attend Dose Adjustment For Normal Eating Diabetes Structured Education Programme,SNOMED-CT
+425442003,Diabetic Autonomic Neuropathy Associated With Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+214821000000102,Did Not Attend Diabetic Retinopathy Clinic,SNOMED-CT
+720702003,Hyperglycemia Clinical Management Plan (Qualifier Value),SNOMED-CT
+306511000000107,Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme Completed,SNOMED-CT
+923371000000104,Diabetes Foot Care Education,SNOMED-CT
+190339001,"Diabetes Mellitus, Juvenile Type, With Renal Manifestation (Disorder)",SNOMED-CT
+300501000000108,Diabetes Structured Education Programme Completed (Situation),SNOMED-CT
+250931000000108,Referral For Diabetic Retinopathy Screening,SNOMED-CT
+314772004,Type Ii Diabetes Mellitus With Hypoglycemic Coma (Disorder),SNOMED-CT
+314377008,Type I Diabetes Mellitus With Nephropathy (Disorder),SNOMED-CT
+335631000000104,Latent Autoimmune Diabetes Mellitus In Adult (Disorder),SNOMED-CT
+861501000000101,Diabetic Foot Screening Invitation,SNOMED-CT
+215111000000100,Diabetic Monitoring - Lower Risk Albumin Excretion,SNOMED-CT
+1025331000000106,Referred To National Health Service Prevention Programme,SNOMED-CT
+314378003,Type Ii Diabetes Mellitus With Nephropathy (Disorder),SNOMED-CT
+175511000000103,Family/Carer Attended Diabetes Structured Education Programme,SNOMED-CT
+334721000000106,Referral To Diabetes Special Interest General Practitioner,SNOMED-CT
+314894004,Type I Diabetes Mellitus With Neuropathic Arthropathy (Disorder),SNOMED-CT
+306421000000102,Attended Expert Patient Education Versus Routine Treatment Structured Diabetes Programme,SNOMED-CT
+928861000000107,Enquiry About Diabetic Erectile Dysfunction Declined,SNOMED-CT
+659291000000108,Diabetes With Other Complications (Disorder),SNOMED-CT
+762741000000103,Diabetic Monitoring - Injection Sites Abnormal (Finding),SNOMED-CT
+888211000000106,Type Ii Diabetes Mellitus In Remission (Disorder),SNOMED-CT
+171971000000100,O/E - Left Chronic Diabetic Foot Ulcer,SNOMED-CT
+198101000000107,Diabetic Monitoring - Injection Site Check Declined (Finding),SNOMED-CT
+752141000000107,Diabetes Monitoring Invitation By Short Message Service Text Messaging (Procedure),SNOMED-CT
+188931000000103,Diabetic Patient Unsuitable For Digital Retinal Photography,SNOMED-CT
+416135000,Patient Held Diabetic Record Declined (Finding),SNOMED-CT
+888191000000107,Type I Diabetes Mellitus In Remission (Disorder),SNOMED-CT
+279301000000108,Diabetes Type 1 Review,SNOMED-CT
+478671000000103,[X]Malnutrition-Related Diabetes Mellitus With Other Specified Complications (Disorder),SNOMED-CT
+759421000000101,Pre-Conception Advice For Diabetes Mellitus,SNOMED-CT
+122961000000101,Secondary Pancreatic Diabetes Mellitus Without Complication (Disorder),SNOMED-CT
+198111000000109,Diabetic Monitoring - Injection Site Not Checked (Finding),SNOMED-CT
+306751000000101,Referral To Diabetes Education And Self Management For Ongoing And Newly Diagnosed Diabetes Structured Programme,SNOMED-CT
+593731000000102,Diabetes Mellitus Nos With Peripheral Circulatory Disorder (Disorder),SNOMED-CT
+171861000000101,O/E - Left Eye Stable Treated Proliferative Diabetic Retinopathy,SNOMED-CT
+707351000000101,Discharged From Diabetes Shared Care Programme,SNOMED-CT
+593711000000105,Diabetes Mellitus Nos With Ophthalmic Manifestation (Disorder),SNOMED-CT
+3341000000108,Diabetes Monitoring Admin. (Administrative Concept),SNOMED-CT
+300511000000105,Completed Diabetes Structured Education Programme,SNOMED-CT
+207941000000107,Patient Consent Given For Addition To Diabetic Register,SNOMED-CT
+307041000000103,Did Not Complete Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme,SNOMED-CT
+374881000000101,Excluded From Screening - Physical Disability - Diabetic Retinopathy Screening Administration,SNOMED-CT
+965981000000106,Diabetic On Non-Insulin Injectable Medication (Finding),SNOMED-CT
+420989005,"Gestational Diabetes Mellitus, Class R (Disorder)",SNOMED-CT
+976351000000103,Diabetic On Oral Treatment And Glucagon-Like Peptide 1,SNOMED-CT
+190390000,Type Ii Diabetes Mellitus With Gangrene (Disorder),SNOMED-CT
+1033291000000103,X-Pert (Expert Patient Education Versus Routine Treatment) First Steps Diabetes Self-Management Programme Completed,SNOMED-CT
+170758002,Feet Examination (Regime/Therapy),SNOMED-CT
+359638003,Non-Insulin Dependent Diabetes Mellitus In Nonobese (Disorder),SNOMED-CT
+968071000000103,Diabetic Injection Administration Education,SNOMED-CT
+344661000000107,Insulin Initiation - Enhanced Services Administration,SNOMED-CT
+1051101000000103,Pregnancy And Insulin-Dependent Diabetes Mellitus,SNOMED-CT
+486761000000108,Impaired Vision Due To Diabetic Retinopathy,SNOMED-CT
+724997001,Lumbosacral Plexopathy Co-Occurrent And Due To Diabetes Mellitus (Disorder),SNOMED-CT
+704471000000107,Diabetes Care By Hospital Only (Finding),SNOMED-CT
+567641000000108,Haemoglobin A1c - Diabetic Control Nos (Observable Entity),SNOMED-CT
+620661000000106,Diabetic Retinopathy Nos (Disorder),SNOMED-CT
+1541000119106,Skin Ulcer Associated With Type Ii Diabetes Mellitus (Disorder),SNOMED-CT
+1090051000000100,Skin Ulcer Associated With Diabetes Mellitus (Disorder),SNOMED-CT
+213771000000105,Diabetic 6 Month Review,SNOMED-CT
+190355008,"Diabetes Mellitus, Juvenile Type, With Peripheral Circulatory Disorder (Disorder)",SNOMED-CT
+776351000000108,Diabetic Erectile Dysfunction Review (Regime/Therapy),SNOMED-CT
+314887002,Type I Diabetes Mellitus With Diabetic Cataract (Disorder),SNOMED-CT
+306791000000109,Referral To Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme,SNOMED-CT
+857931000000101,Provision Of Written Information About Diabetes And Driving,SNOMED-CT
+374791000000107,Excluded From Screening - No Current Contact Details - Diabetic Retinopathy Screening Administration,SNOMED-CT
+174961000000105,Referral To Diabetes Structured Education Programme,SNOMED-CT
+860991000000108,Referral To Dose Adjustment For Normal Eating Diabetes Structured Education Programme Declined,SNOMED-CT
+279331000000102,Diabetes Type 2 Review,SNOMED-CT
+374861000000105,Excluded From Screening - Learning Or Mental Disability - Diabetic Retinopathy Screening Administration,SNOMED-CT
+307221000000100,Did Not Attend Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme,SNOMED-CT
+927831000000103,Discharge From Diabetic Service,SNOMED-CT
+856331000000102,O/E - Right Diabetic Foot At Increased Risk,SNOMED-CT
+188451000000102,Patient Held Diabetic Record Declined,SNOMED-CT
+190334006,"Diabetes Mellitus, Juvenile Type, With Ketoacidotic Coma (Disorder)",SNOMED-CT
+170311000000102,Referral To Diabetes Structured Education Programme,SNOMED-CT
+190332005,Diabetes Mellitus Nos With Hyperosmolar Coma (Disorder),SNOMED-CT
+338041000000109,Maternally Inherited Diabetes Mellitus,SNOMED-CT
+374851000000107,Excluded From Screening - Learning Or Mental Disability - Diabetic Retinopathy Screening Administration,SNOMED-CT
+759411000000107,Pre-Conception Advice For Diabetes Mellitus (Procedure),SNOMED-CT
+192431000000107,Diabetic Patient Unsuitable For Digital Retinal Photography,SNOMED-CT
+190371008,Type I Diabetes Mellitus - Poor Control (Disorder),SNOMED-CT
+175501000000100,Attended Diabetes Structured Education Programme,SNOMED-CT
+190363009,Type I Diabetes Mellitus With Renal Complications (Disorder),SNOMED-CT
+307181000000105,Did Not Attend Diabetes Education And Self Management For Ongoing And Newly Diagnosed Structured Programme,SNOMED-CT
+306601000000109,Diabetes Structured Education Programme Declined,SNOMED-CT
+414892004,On Examination - Clinically Significant Macular Edema Of Left Eye (Disorder),SNOMED-CT
+956791000000109,Joint Consultation With Practice Nurse And Community Diabetes Specialist Nurse,SNOMED-CT
+276671000000103,Attended Desmond Diabetes Structured Education Programme,SNOMED-CT
+306551000000106,Expert Patient Education Versus Routine Treatment Diabetes Structured Education Programme Completed,SNOMED-CT
+1046201000000104,Hypoglycaemic Attack - Attendance By Ambulance Crew,SNOMED-CT
+423263001,Diabetic Autonomic Neuropathy Associated With Type 2 Diabetes Mellitus (Disorder),SNOMED-CT
+300131000000107,Diabetes Mellitus Type Ii Diet Education (Procedure),SNOMED-CT
+421443003,"Gestational Diabetes Mellitus, Class D (Disorder)",SNOMED-CT
+698971000000101,"Diabetes Mellitus During Pregnancy, Childbirth Or The Puerperium Nos (Disorder)",SNOMED-CT
+306881000000103,Did Not Attend Diabetes Structured Education Programme,SNOMED-CT
+425159004,Diabetic Gastroparesis Associated With Type 1 Diabetes Mellitus (Disorder),SNOMED-CT
+401109007,Type 1 Diabetes Mellitus With Persistent Proteinuria (Disorder),SNOMED-CT
+876371000000102,Conversion To Insulin In Secondary Care,SNOMED-CT
+213781000000107,Diabetic 6 Month Review,SNOMED-CT
+497741000000106,[D]Widespread Diabetic Foot Gangrene (Situation),SNOMED-CT
+276091000000108,Insulin Dose Changed,SNOMED-CT
+230578003,Diabetic Truncal Radiculopathy (Disorder),SNOMED-CT
+191781000000105,Discharged From Care Of Diabetes Specialist Nurse,SNOMED-CT
+310312000,Hba1 Greater Than 10% - Bad Control (Finding),SNOMED-CT
+841231000000100,Referral To Community Diabetes Specialist Clinic,SNOMED-CT
+421165007,Diabetic Oculopathy Associated With Type I Diabetes Mellitus (Disorder),SNOMED-CT
+E100,Insulin-Dependent Diabetes Mellitus With Coma,ICD-10
+E101,Insulin-Dependent Diabetes Mellitus With Ketoacidosis,ICD-10
+E102,Insulin-Dependent Diabetes Mellitus With Renal Complications,ICD-10
+E103,Insulin-Dependent Diabetes Mellitus With Ophthalmic Comps,ICD-10
+E104,Insulin-Dependent Diabetes Mellitus With Neurological Comps,ICD-10
+E105,Insulin-Dependent Diabetes Mellitus With Periph Circ Comps,ICD-10
+E106,Insulin-Dependent Diabetes Mellitus With Other Spec Comps,ICD-10
+E107,Insulin-Dependent Diabetes Mellitus With Multiple Comps,ICD-10
+E108,Insulin-Dependent Diabetes Mellitus With Unspec Comps,ICD-10
+E109,Insulin-Dependent Diabetes Mellitus Without Complications,ICD-10
+E110,Non-Insulin-Dependent Diabetes Mellitus With Coma,ICD-10
+E111,Non-Insulin-Dependent Diabetes Mellitus With Ketoacidosis,ICD-10
+E112,Non-Insulin-Dependent Diabetes Mellitus With Renal Comps,ICD-10
+E113,Non-Insulin-Dependent Diabetes Mellitus With Ophthalm Comps,ICD-10
+E114,Non-Insulin-Dependent Diabetes Mellitus With Neuro Comps,ICD-10
+E115,Non-Insulin-Depend Diabetes Mellitus With Periph Circ Comp,ICD-10
+E116,Non-Insulin-Depend Diabetes Mellitus With Other Spec Comp,ICD-10
+E117,Non-Insulin-Dependent Diabetes Mellitus With Multiple Comps,ICD-10
+E118,Non-Insulin-Dependent Diabetes Mellitus With Unspec Comps,ICD-10
+E119,Non-Insulin-Depend Diabetes Mellitus Without Complication,ICD-10
+E130,Other Specified Diabetes Mellitus With Coma,ICD-10
+E131,Other Specified Diabetes Mellitus With Ketoacidosis,ICD-10
+E132,Other Specified Diabetes Mellitus With Renal Complications,ICD-10
+E133,Other Specified Diabetes Mellitus With Ophthalmic Comps,ICD-10
+E134,Other Specified Diabetes Mellitus With Neurological Comps,ICD-10
+E135,Other Specified Diabetes Mellitus With Periph Circ Comps,ICD-10
+E136,Other Specified Diabetes Mellitus With Other Spec Comps,ICD-10
+E137,Other Specified Diabetes Mellitus With Multiple Comps,ICD-10
+E138,Other Specified Diabetes Mellitus With Unspecified Comps,ICD-10
+E139,Other Specified Diabetes Mellitus Without Complications,ICD-10
+E140,Unspecified Diabetes Mellitus With Coma,ICD-10
+E141,Unspecified Diabetes Mellitus With Ketoacidosis,ICD-10
+E142,Unspecified Diabetes Mellitus With Renal Complications,ICD-10
+E143,Unspecified Diabetes Mellitus With Ophthalmic Complications,ICD-10
+E144,Unspecified Diabetes Mellitus With Neurological Comps,ICD-10
+E145,Unspecified Diabetes Mellitus With Periph Circulatory Comps,ICD-10
+E146,Unspecified Diabetes Mellitus With Other Specified Comps,ICD-10
+E147,Unspecified Diabetes Mellitus With Multiple Complications,ICD-10
+E148,Unspecified Diabetes Mellitus With Unspecified Complications,ICD-10
+E149,Unspecified Diabetes Mellitus Without Complications,ICD-10
+G590,Diabetic Mononeuropathy,ICD-10
+G632,Diabetic Polyneuropathy,ICD-10
+H280,Diabetic Cataract,ICD-10
+H360,Diabetic Retinopathy,ICD-10
+M142,Diabetic Arthropathy,ICD-10
+N083,Glomerular Disorders In Diabetes Mellitus,ICD-10
+O240,"Pre-Existing Diabetes Mellitus, Insulin-Dependent",ICD-10
+O241,"Pre-Existing Diabetes Mellitus, Non-Insulin-Dependent",ICD-10
+O243,"Pre-Existing Diabetes Mellitus, Unspecified",ICD-10
