@@ -3,6 +3,7 @@
 ## Codes explanation: 
 
 This repo is the analytic codes for the results of the manuscript "The Association between Vitamin D Status and COVID-19 in England: a Cohort Study using UK Biobank." The results were generated from R notebooks using `finalfit` packages. 
+(The paths of datasets were not shown to ensure the data privacy.)
 
 ## File paths:
 
